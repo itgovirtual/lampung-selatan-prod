@@ -1,0 +1,60 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: id-ID\n"
+"X-Generator: Poedit 3.8\n"
+
+#. Node: node4 / User Data Copyright
+#. Node: node1 / User Data Copyright
+#. Node: node2 / User Data Copyright
+#. Node: node3 / User Data Copyright
+#. Node: node5 / User Data Copyright
+msgid "govirtual"
+msgstr ""
+
+#. Node: node4 / Point Hotspot: Point01 / Title
+#. Node: node2 / Point Hotspot: Point02 / Title
+#. Node: node3 / Point Hotspot: Point03 / Title
+#. Node: node5 / Point Hotspot: Point01 / Title
+msgid "Area Parkir"
+msgstr "منطقة وقوف السيارات"
+
+#. Node: node1 / Point Hotspot: Point01 / Title
+#. Node: node3 / Point Hotspot: Point01 / Title
+msgid "Area Workshop"
+msgstr "منطقة الورشة"
+
+#. Node: node1 / Point Hotspot: Point02 / Title
+msgid "UMKM Nabila"
+msgstr "مؤسسة نبيلة الصغيرة والمتوسطة"
+
+#. Node: node1 / Point Hotspot: Point03 / Title
+#. Node: node2 / Point Hotspot: Point01 / Title
+#. Node: node5 / Point Hotspot: Point02 / Title
+msgid "Area Toko"
+msgstr "منطقة المتجر"
+
+#. Node: node3 / Point Hotspot: Point02 / Title
+msgid "Souvenir"
+msgstr "تذكار"
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr ""
