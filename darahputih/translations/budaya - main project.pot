@@ -1,0 +1,229 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"X-Source-Language: id-ID"
+
+#. Node: node8 / User Data Author
+msgid "Govirtual"
+msgstr ""
+
+#. Node: node8 / User Data Date && Time
+msgid "2025:12:03 11:26:23"
+msgstr ""
+
+#. Node: node8 / User Data Copyright
+#. Node: node2 / User Data Copyright
+#. Node: node4 / User Data Copyright
+#. Node: node5 / User Data Copyright
+#. Node: node6 / User Data Copyright
+#. Node: node7 / User Data Copyright
+msgid "govirtual"
+msgstr ""
+
+#. Node: node8 / User Data Custom Node ID
+msgid "KeratuanDarahPutih"
+msgstr ""
+
+#. Node: node8 / Point Hotspot: Point01 / Title
+#. Node: node2 / Point Hotspot: Point01 / Title
+msgid "Pintu Masuk"
+msgstr ""
+
+#. Node: node8 / Point Hotspot: Point02 / Title
+msgid "360 Video Experience Tarian Tradisional"
+msgstr ""
+
+#. Node: node8 / Point Hotspot: Point04 / Title
+#. Node: node13 / Point Hotspot: Point03 / Title
+#. Node: node14 / Point Hotspot: Point04 / Title
+#. Node: node17 / Point Hotspot: Point01 / Title
+#. Node: node24 / Point Hotspot: Point01 / Title
+msgid "Keluar"
+msgstr ""
+
+#. Node: node2 / User Data Date && Time
+msgid "2025:12:03 11:26:14"
+msgstr ""
+
+#. Node: node3 / Point Hotspot: Point01 / Title
+msgid "Lamban Balak Keratuan Darah Putih"
+msgstr ""
+
+#. Node: node3 / Point Hotspot: Point02 / Title
+msgid "Masjid Agung Kalianda (Est. 15 Menit)"
+msgstr ""
+
+#. Node: node3 / Point Hotspot: Point02 / URL
+msgid "https://lampung-selatan.govirtual.id/religion/index.html#MasjidAgungKalianda"
+msgstr ""
+
+#. Node: node3 / Point Hotspot: Point03 / Title
+msgid "Menara Siger (Est. 30 Menit)"
+msgstr ""
+
+#. Node: node3 / Point Hotspot: Point03 / URL
+#. Node: node9 / Point Hotspot: Point04 / URL
+msgid "https://lampung-selatan.govirtual.id/infrastructure/index.html#MenaraSiger"
+msgstr ""
+
+#. Node: node3 / Point Hotspot: Point04 / Title
+msgid "PT Juang Jaya (Est. 1 Jam)"
+msgstr ""
+
+#. Node: node3 / Point Hotspot: Point04 / URL
+#. Node: node9 / Point Hotspot: Point05 / URL
+msgid "https://lampung-selatan.govirtual.id/agriculture/index.html#PeternakanJuangJaya"
+msgstr ""
+
+#. Node: node4 / User Data Date && Time
+msgid "2025:12:03 11:25:13"
+msgstr ""
+
+#. Node: node4 / Point Hotspot: Point01 / Title
+#. Node: node5 / Point Hotspot: Point01 / Title
+#. Node: node7 / Point Hotspot: Point02 / Title
+msgid "Silsilah Keturunan"
+msgstr ""
+
+#. Node: node5 / User Data Date && Time
+msgid "2025:12:03 11:26:26"
+msgstr ""
+
+#. Node: node5 / Point Hotspot: Point02 / Title
+msgid "Pakaian Adat"
+msgstr ""
+
+#. Node: node6 / User Data Date && Time
+msgid "2025:12:03 11:24:41"
+msgstr ""
+
+#. Node: node6 / Point Hotspot: Point01 / Title
+#. Node: node7 / Point Hotspot: Point03 / Title
+msgid "Kerajinan Topeng"
+msgstr ""
+
+#. Node: node6 / Point Hotspot: Point02 / Title
+msgid "Dekorasi Adat"
+msgstr ""
+
+#. Node: node6 / Point Hotspot: Point03 / Title
+msgid "Area Belakang"
+msgstr ""
+
+#. Node: node7 / User Data Date && Time
+msgid "2025:12:03 11:24:36"
+msgstr ""
+
+#. Node: node7 / Point Hotspot: Point01 / Title
+msgid "Pintu Keluar"
+msgstr ""
+
+#. Node: node9 / User Data Date && Time
+msgid "2025:12:06 12:38:09"
+msgstr ""
+
+#. Node: node9 / Point Hotspot: Point01 / Title
+#. Node: node10 / Point Hotspot: Point01 / Title
+#. Node: node10 / Point Hotspot: Point03 / Title
+#. Node: node11 / Point Hotspot: Point01 / Title
+#. Node: node12 / Point Hotspot: Point01 / Title
+#. Node: node14 / Point Hotspot: Point01 / Title
+#. Node: node15 / Point Hotspot: Point01 / Title
+#. Node: node20 / Point Hotspot: Point01 / Title
+#. Node: node25 / Point Hotspot: Point01 / Title
+msgid "Lamban Balak Marga Legun"
+msgstr ""
+
+#. Node: node9 / Point Hotspot: Point02 / Title
+#. Node: node13 / Point Hotspot: Point01 / Title
+#. Node: node13 / Point Hotspot: Point02 / Title
+#. Node: node14 / Point Hotspot: Point03 / Title
+#. Node: node21 / Point Hotspot: Point01 / Title
+#. Node: node21 / Point Hotspot: Point02 / Title
+#. Node: node22 / Point Hotspot: Point01 / Title
+#. Node: node22 / Point Hotspot: Point02 / Title
+#. Node: node23 / Point Hotspot: Point01 / Title
+#. Node: node23 / Point Hotspot: Point02 / Title
+#. Node: node24 / Point Hotspot: Point02 / Title
+#. Node: node24 / Point Hotspot: Point03 / Title
+#. Node: node25 / Point Hotspot: Point02 / Title
+msgid "Galeri"
+msgstr ""
+
+#. Node: node9 / Point Hotspot: Point03 / Title
+msgid "Pelabuhan Bakauheni (Est. 50 Menit)"
+msgstr ""
+
+#. Node: node9 / Point Hotspot: Point03 / URL
+msgid "https://lampung-selatan.govirtual.id/infrastructure/index.html#Bakauheni"
+msgstr ""
+
+#. Node: node9 / Point Hotspot: Point04 / Title
+msgid "Menara Siger (Est. 50 Menit)"
+msgstr ""
+
+#. Node: node9 / Point Hotspot: Point05 / Title
+msgid "Peternakan Juang Jaya (Est. 50 Menit)"
+msgstr ""
+
+#. Node: node9 / Point Hotspot: Point06 / Title
+msgid "Bandara Internasional Radin Inten II (Est. 50 Menit)"
+msgstr ""
+
+#. Node: node9 / Point Hotspot: Point06 / URL
+msgid "https://lampung-selatan.govirtual.id/infrastructure/index.html#BandarUdara"
+msgstr ""
+
+#. Node: node10 / Point Hotspot: Point02 / Title
+msgid "Lapangan"
+msgstr ""
+
+#. Node: node10 / Point Hotspot: Point04 / Title
+#. Node: node17 / Point Hotspot: Point02 / Title
+#. Node: node18 / Point Hotspot: Point01 / Title
+msgid "Rumah Adat"
+msgstr ""
+
+#. Node: node11 / User Data Date && Time
+msgid "1/22/2021 4:47 PM"
+msgstr ""
+
+#. Node: node12 / User Data Date && Time
+msgid "1/22/2021 4:06 PM"
+msgstr ""
+
+#. Node: node13 / User Data Date && Time
+msgid "1/22/2021 5:07 PM"
+msgstr ""
+
+#. Node: node14 / User Data Date && Time
+msgid "1/22/2021 4:40 PM"
+msgstr ""
+
+#. Node: node14 / Point Hotspot: Point02 / Title
+msgid "Halaman Belakang"
+msgstr ""
+
+#. Node: node15 / User Data Date && Time
+#. Node: node19 / User Data Date && Time
+#. Node: node21 / User Data Date && Time
+#. Node: node25 / User Data Date && Time
+msgid "11/5/2025 5:32 PM"
+msgstr ""
+
+#. Node: node20 / User Data Custom Node ID
+msgid "BandarMargaLegun"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr ""
+
