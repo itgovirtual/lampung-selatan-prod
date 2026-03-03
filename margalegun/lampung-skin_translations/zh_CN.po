@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#. Skin Element Text: Assistant Text / Text
+msgid "More\n"
+msgstr "更多的\n"
+
+#. Skin Element: Button Kategori / Set Value Action (Target Element: Iframe) / Text
+#. Skin Element: Button Kategori Mobile / Set Value Action (Target Element: Iframe) / Text
+msgid ""
+"<iframe src=\"../webview/kategori-id.html\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/kategori-zh.html\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element Text: Enable Audio? / Text
+msgid "Enable Audio?"
+msgstr ""
+
+#. Skin Element: Icon + Discover / Set Value Action (Target Element: Iframe) / Text
+#. Skin Element: Jelajah / Set Value Action (Target Element: Iframe) / Text
+msgid ""
+"<iframe src=\"../webview/discover.html?disc=13&lang=id\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/discover.html?disc=13&lang=zh\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: Icon + Info / Set Value Action (Target Element: Iframe) / Text
+#. Skin Element: Informasi / Set Value Action (Target Element: Iframe) / Text
+msgid ""
+"<iframe src=\"../webview/informasi.html?info=3&lang=id\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/informasi.html?info=3&lang=zh\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: Icon + Menu / Set Value Action (Target Element: Iframe) / Text
+msgid ""
+"<iframe src=\"../webview/menu.php?menu=30&lang=id\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/menu.php?menu=30&lang=zh\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: Icon + Public / Set Value Action (Target Element: Iframe) / Text
+msgid ""
+"<iframe src=\"../webview/publicservice.php?lang=id\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/publicservice.php?lang=zh\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element Text: Informasi-text / Text
+#, fuzzy
+#| msgid "Informasi"
+msgid "Informasi\n"
+msgstr "信息"
+
+#. Skin Element Text: Jelajah-text / Text
+#. Skin Element Text: Text Discover / Text
+msgid "Jelajah"
+msgstr "发现"
+
+#. Skin Element: Menu / Set Value Action (Target Element: Iframe) / Text
+msgid ""
+"<iframe src=\"../webview/menu.php?menu=76&lang=id\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/menu.php?menu=76&lang=zh\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element Text: Menu Tezt / Text
+#. Skin Element Text: Text Menu / Text
+msgid "Menu"
+msgstr "菜单"
+
+#. Skin Element Text: NO / Text
+msgid "NO"
+msgstr ""
+
+#. Skin Element Text: Shop-text / Text
+msgid "Shop"
+msgstr "店铺"
+
+#. Skin Element Text: Text 2 / Text
+msgid "X"
+msgstr ""
+
+#. Skin Element Text: Text Info / Text
+msgid "Informasi"
+msgstr "信息"
+
+#. Skin Element Text: Text Public / Text
+msgid "Layanan Publik"
+msgstr "公共服务"
+
+#. Skin Element Text: YES / Text
+msgid "YES"
+msgstr ""
+
+#. Skin Element External: ht_node_custom_image / URL
+msgid "_custom"
+msgstr ""
+
+#. Skin Element Text: popup-chatbot / Text
+msgid ""
+"  <iframe\n"
+"    src=\"https://www.chatbase.co/chatbot-iframe/ld0-XDhWz-2tI29Pd2JeU\"\n"
+"    width=\"100%\"\n"
+"    style=\"height: 100%; min-height: 100%;\"\n"
+"    frameborder=\"0\"\n"
+"></iframe>"
+msgstr ""
+
+#. Skin Element Button: skip-button_1 / Alternate Text
+msgid "Skip"
+msgstr ""
+
+#. Skin Element Text: title-txt / Text
+msgid "Lamban Balak<br>Bandar Marga Legun"
+msgstr ""
+
+#. Skin Element Text: txt-chatbot / Text
+msgid "Chatbot"
+msgstr "聊天机器人"
+
+#. Skin Element Text: txt-welcome / Text
+msgid ""
+"Selamat datang di Rumah Adat Lamban Balak Bandar Marga Legun, simbol budaya "
+"Pepadun di Bandar Lampung! Rasakan pesona tradisi Lampung melalui arsitektur "
+"panggung megah, siger pusaka, dan ornamen khas. Destinasi ini menawarkan tur "
+"edukatif, workshop kain tapis, dan demo ritual begawi untuk pengalaman "
+"budaya yang mendalam. Terletak di Teluk Betung Barat, mudah diakses dari "
+"pusat kota, tempat ini cocok untuk pecinta sejarah dan budaya. Dengan "
+"pelayanan ramah dan fasilitas lengkap, nikmati perjalanan penuh makna yang "
+"menghidupkan warisan Lampung. \n"
+"Ayo, jelajahi kekayaan budaya di sini!"
+msgstr ""
+"欢迎来到 班达玛尔加雷贡大屋 (Lamban Balak Bandar Marga Legun) 传统民居，这是"
+"班达楠榜市 (Bandar Lampung) 佩帕杜恩 (Pepadun) 文化的象征！通过其宏伟的高脚台"
+"式建筑、传家宝 siger 冠饰和特色装饰品，感受楠榜传统的魅力。该目的地位于西德鲁"
+"克贝通 (West Teluk Betung)，从市中心交通便利，提供教育旅游、tapis 布艺工坊以"
+"及 begawi 仪式的演示，让您获得沉浸式的文化体验。凭借友好的服务和完善的设施，"
+"这个地方非常适合历史和文化爱好者，承诺带来一次弘扬楠榜遗产的有意义的旅程。来"
+"吧，探索这里的文化财富！"
+
+#~ msgid ""
+#~ "<iframe id=\"url_iframe\"\n"
+#~ "    src=\"../webview/kategori-id.html\"\n"
+#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~ "border:0; pointer-events:auto; opacity:1;\"\n"
+#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~ "  </iframe>"
+#~ msgstr ""
+#~ "<iframe id=\"url_iframe\"\n"
+#~ "    src=\"../webview/kategori-zh.html\"\n"
+#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~ "border:0; pointer-events:auto; opacity:1;\"\n"
+#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~ "  </iframe>"
+
+#~ msgid ""
+#~ "<iframe id=\"url_iframe\"\n"
+#~ "    src=\"../webview/informasi.html?info=8&lang=id\"\n"
+#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~ "border:0; pointer-events:auto; opacity:1;\"\n"
+#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~ "  </iframe>"
+#~ msgstr ""
+#~ "<iframe id=\"url_iframe\"\n"
+#~ "    src=\"../webview/informasi.html?info=8&lang=zh\"\n"
+#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~ "border:0; pointer-events:auto; opacity:1;\"\n"
+#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~ "  </iframe>"
+
+#~ msgid ""
+#~ "<iframe id=\"url_iframe\"\n"
+#~ "    src=\"../webview/informasi.html?info=3&lang=id\"\n"
+#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~ "border:0; pointer-events:auto; opacity:1;\"\n"
+#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~ "  </iframe>"
+#~ msgstr ""
+#~ "<iframe id=\"url_iframe\"\n"
+#~ "    src=\"../webview/informasi.html?info=3&lang=zh\"\n"
+#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~ "border:0; pointer-events:auto; opacity:1;\"\n"
+#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~ "  </iframe>"
+
+#~ msgid ""
+#~ "Selamat datang di Lamban Balak Keratuan Darah Putih, jantung budaya "
+#~ "Saibatin di Lampung Selatan! Rasakan keagungan tradisi Lampung melalui "
+#~ "rumah adat panggung yang bersejarah, dihiasi siger pusaka dan ornamen "
+#~ "khas. Destinasi ini mengajak Anda menyelami kekayaan budaya melalui tur "
+#~ "edukatif, workshop kain tapis, dan ritual adat seperti Nyambai Bujenong. "
+#~ "Terletak di Desa Kuripan, hanya 20 menit dari Kalianda, tempat ini "
+#~ "menawarkan pengalaman autentik untuk pecinta sejarah dan budaya. Nikmati "
+#~ "pelayanan ramah dan fasilitas lengkap untuk perjalanan penuh makna. "
+#~ "Sambut petualangan budaya yang tak terlupakan di Lampung!"
+#~ msgstr ""
+#~ "欢迎来到 达拉普提王室大屋 (Lamban Balak Keratuan Darah Putih)，这是楠榜南"
+#~ "部萨拜廷 (Saibatin) 文化的中心！通过这座历史悠久的高脚传统民居，感受楠榜传"
+#~ "统的庄严，它装饰着传家宝 siger 冠饰和独特的装饰品。该目的地位于库里潘村 "
+#~ "(Kuripan Village)，距离加里安达 (Kalianda) 仅 20 分钟路程，邀请您通过教育"
+#~ "旅游、tapis 布艺工坊以及 Nyambai Bujenong 等传统仪式，深入探索丰富的本地遗"
+#~ "产。这里提供给历史和文化爱好者真实的体验，拥有友好的服务和完善的设施，请准"
+#~ "备好在楠榜迎接一次难忘的文化探险！"
+
+#~ msgid "KATEGORI"
+#~ msgstr "类别"
+
+#~ msgid "Kegiatan"
+#~ msgstr "活动"
+
+#~ msgid "Sejarah"
+#~ msgstr "历史"
+
+#~ msgid "Berita"
+#~ msgstr "消息"
+
+#~ msgid "Tentang Kami"
+#~ msgstr "关于我们"
+
+#~ msgid "Event"
+#~ msgstr "甚至"
+
+#~ msgid "News"
+#~ msgstr "消息"

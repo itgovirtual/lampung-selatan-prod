@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#. Skin Element Text: Text 2 / Text
+msgid "X"
+msgstr ""
+
+#. Skin Element: button-category / Set Value Action (Target Element: popup_url) / Text
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/kategori-id.html\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/kategori-en.html\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element External: ht_node_custom_image / URL
+msgid "_custom"
+msgstr ""
+
+#. Skin Element Text: popup-chatbot / Text
+msgid ""
+"  <iframe\n"
+"    src=\"https://www.chatbase.co/chatbot-iframe/ld0-XDhWz-2tI29Pd2JeU\"\n"
+"    width=\"100%\"\n"
+"    style=\"height: 100%; min-height: 100%;\"\n"
+"    frameborder=\"0\"\n"
+"></iframe>"
+msgstr ""
+
+#. Skin Element: public-service lamban balak / Set Value Action (Target Element: popup_url-informasi) / Text
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=8&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=8&lang=en\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element: public-service lamban legun / Set Value Action (Target Element: popup_url-informasi) / Text
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=3&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../informasi.html?info=3&lang=en\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element Button: skip - bandar_legun / Alternate Text
+#. Skin Element Button: skip - lamban_balak / Alternate Text
+msgid "Skip"
+msgstr ""
+
+#. Skin Element Text: title-balak-txt / Text
+msgid "Lamban Balak<br>Keratuan Darah Putih"
+msgstr ""
+
+#. Skin Element Text: title-kalianda-txt / Text
+msgid "Lamban Balak<br>Bandar Marga Legun"
+msgstr ""
+
+#. Skin Element Text: txt- balak / Text
+msgid ""
+"Selamat datang di Lamban Balak Keratuan Darah Putih, jantung budaya Saibatin "
+"di Lampung Selatan! Rasakan keagungan tradisi Lampung melalui rumah adat "
+"panggung yang bersejarah, dihiasi siger pusaka dan ornamen khas. Destinasi "
+"ini mengajak Anda menyelami kekayaan budaya melalui tur edukatif, workshop "
+"kain tapis, dan ritual adat seperti Nyambai Bujenong. Terletak di Desa "
+"Kuripan, hanya 20 menit dari Kalianda, tempat ini menawarkan pengalaman "
+"autentik untuk pecinta sejarah dan budaya. Nikmati pelayanan ramah dan "
+"fasilitas lengkap untuk perjalanan penuh makna. Sambut petualangan budaya "
+"yang tak terlupakan di Lampung!"
+msgstr ""
+"Welcome to Lamban Balak Keratuan Darah Putih, the cultural heart of the "
+"Saibatin people in South Lampung! Experience the majesty of Lampung "
+"tradition through this historic raised-floor traditional house, adorned with "
+"the ancestral siger crown and distinctive ornaments. Located in Kuripan "
+"Village, just 20 minutes from Kalianda, this destination invites you to "
+"delve into rich local heritage through educational tours, tapis cloth "
+"workshops, and traditional rituals like Nyambai Bujenong. Offering authentic "
+"experiences for history and culture enthusiasts, with friendly service and "
+"complete facilities, prepare for an unforgettable cultural adventure in "
+"Lampung."
+
+#. Skin Element Text: txt- kalianda / Text
+msgid ""
+"Selamat datang di Rumah Adat Lamban Balak Bandar Marga Legun, simbol budaya "
+"Pepadun di Bandar Lampung! Rasakan pesona tradisi Lampung melalui arsitektur "
+"panggung megah, siger pusaka, dan ornamen khas. Destinasi ini menawarkan tur "
+"edukatif, workshop kain tapis, dan demo ritual begawi untuk pengalaman "
+"budaya yang mendalam. Terletak di Teluk Betung Barat, mudah diakses dari "
+"pusat kota, tempat ini cocok untuk pecinta sejarah dan budaya. Dengan "
+"pelayanan ramah dan fasilitas lengkap, nikmati perjalanan penuh makna yang "
+"menghidupkan warisan Lampung. \n"
+"Ayo, jelajahi kekayaan budaya di sini!"
+msgstr ""
+"Welcome to Lamban Balak Bandar Marga Legun Traditional House, a symbol of "
+"the Pepadun culture in Bandar Lampung! Experience the charm of Lampung "
+"tradition through its magnificent raised-floor architecture, ancestral siger "
+"crown, and distinctive ornaments. Located in West Teluk Betung and easily "
+"accessible from the city center, this destination offers educational tours, "
+"tapis cloth workshops, and begawi ritual demonstrations for a deeply "
+"immersive cultural experience. With friendly service and complete "
+"facilities, this site is perfect for history and culture enthusiasts, "
+"promising a meaningful journey that brings Lampung's heritage to life. Come, "
+"explore the cultural richness here!"
+
+#. Skin Element Text: txt-category / Text
+msgid "KATEGORI"
+msgstr "CATEGORY"
+
+#. Skin Element Text: txt-chatbot / Text
+msgid "Chatbot"
+msgstr ""
+
+#. Skin Element Text: txt-discover lamban balak / Text
+msgid "Kegiatan"
+msgstr "Event"
+
+#. Skin Element Text: txt-discover lamban legun / Text
+msgid "Sejarah"
+msgstr "History"
+
+#. Skin Element Text: txt-gallery lamban balak / Text
+#. Skin Element Text: txt-gallery legun / Text
+msgid "Informasi"
+msgstr "Information"
+
+#. Skin Element Text: txt-lamban balak / Text
+#. Skin Element Text: txt-lamban legun / Text
+msgid "Berita"
+msgstr "News"
+
+#. Skin Element Text: txt-menu lamban balak / Text
+#. Skin Element Text: txt-menu lamban legun / Text
+msgid "Tentang Kami"
+msgstr "About Us"
+
+#, fuzzy
+#~| msgid "Even"
+#~ msgid "Event"
+#~ msgstr "Event"
