@@ -1,0 +1,293 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: id-ID\n"
+"X-Generator: Poedit 3.8\n"
+
+#. Node: node178 / User Data Title
+#. Node: node221 / User Data Title
+msgid "default"
+msgstr ""
+
+#. Node: node178 / User Data Date && Time
+#. Node: node220 / User Data Date && Time
+msgid "10/14/2025 12:58 PM"
+msgstr ""
+
+#. Node: node178 / User Data Custom Node ID
+msgid "PantaiSebesi"
+msgstr ""
+
+#. Node: node178 / Point Hotspot: Point01 / Title
+#. Node: node178 / Point Hotspot: Point05 / Title
+#. Node: node183 / Point Hotspot: Point02 / Title
+#. Node: node194 / Point Hotspot: Point02 / Title
+#. Node: node195 / Point Hotspot: Point02 / Title
+#. Node: node199 / Point Hotspot: Point01 / Title
+#. Node: node203 / Point Hotspot: Point02 / Title
+#. Node: node204 / Point Hotspot: Point01 / Title
+#. Node: node205 / Point Hotspot: Point01 / Title
+#. Node: node206 / Point Hotspot: Point01 / Title
+#. Node: node207 / Point Hotspot: Point01 / Title
+#. Node: node208 / Point Hotspot: Point02 / Title
+#. Node: node209 / Point Hotspot: Point01 / Title
+msgid "Dermaga"
+msgstr "码头"
+
+#. Node: node178 / Point Hotspot: Point02 / Title
+#. Node: node194 / Point Hotspot: Point01 / Title
+#. Node: node195 / Point Hotspot: Point01 / Title
+#. Node: node198 / Point Hotspot: Point03 / Title
+#. Node: node202 / Point Hotspot: Point03 / Title
+#. Node: node205 / Point Hotspot: Point028 / Title
+#. Node: node208 / Point Hotspot: Point01 / Title
+#. Node: node209 / Point Hotspot: Point02 / Title
+msgid "Penginapan Krakatau"
+msgstr "喀拉喀托旅馆"
+
+#. Node: node178 / Point Hotspot: Point03 / Title
+#. Node: node184 / Point Hotspot: Point01 / Title
+#. Node: node184 / Point Hotspot: Point02 / Title
+#. Node: node185 / Point Hotspot: Point01 / Title
+#. Node: node186 / Point Hotspot: Point01 / Title
+#. Node: node187 / Point Hotspot: Point02 / Title
+msgid "Pohon Mangrove"
+msgstr "红树林"
+
+#. Node: node178 / Point Hotspot: Point04 / Title
+#. Node: node187 / Point Hotspot: Point01 / Title
+#. Node: node188 / Point Hotspot: Point04 / Title
+#. Node: node189 / Point Hotspot: Point01 / Title
+#. Node: node190 / Point Hotspot: Point03 / Title
+#. Node: node191 / Point Hotspot: Point01 / Title
+#. Node: node191 / Point Hotspot: Point02 / Title
+#. Node: node192 / Point Hotspot: Point01 / Title
+#. Node: node192 / Point Hotspot: Point02 / Title
+#. Node: node193 / Point Hotspot: Point01 / Title
+#. Node: node220 / Point Hotspot: Point01 / Title
+msgid "Penginapan Putri Puan"
+msgstr "普特里普安旅馆"
+
+#. Node: node178 / Point Hotspot: Point08 / Title
+#. Node: node220 / Point Hotspot: Point04 / Title
+#. Node: node220 / Point Hotspot: Point07 / Title
+msgid "Drone Pulau Sebesi"
+msgstr "塞贝西岛无人机"
+
+#. Node: node178 / Point Hotspot: Point09 / Title
+#. Node: node221 / Point Hotspot: Point01 / Title
+msgid "Drone Pulau Sebesi Sore"
+msgstr "塞贝西岛无人机下午"
+
+#. Node: node179 / User Data Author
+#. Node: node180 / User Data Author
+#. Node: node181 / User Data Author
+#. Node: node182 / User Data Author
+#. Node: node184 / User Data Author
+#. Node: node185 / User Data Author
+#. Node: node186 / User Data Author
+#. Node: node187 / User Data Author
+#. Node: node188 / User Data Author
+#. Node: node189 / User Data Author
+#. Node: node190 / User Data Author
+#. Node: node191 / User Data Author
+#. Node: node192 / User Data Author
+#. Node: node193 / User Data Author
+msgid "Govirtual"
+msgstr ""
+
+#. Node: node179 / User Data Date && Time
+msgid "2/28/2021 7:53 PM"
+msgstr ""
+
+#. Node: node179 / User Data Copyright
+#. Node: node180 / User Data Copyright
+#. Node: node181 / User Data Copyright
+#. Node: node182 / User Data Copyright
+#. Node: node184 / User Data Copyright
+#. Node: node185 / User Data Copyright
+#. Node: node186 / User Data Copyright
+#. Node: node187 / User Data Copyright
+#. Node: node188 / User Data Copyright
+#. Node: node189 / User Data Copyright
+#. Node: node190 / User Data Copyright
+#. Node: node191 / User Data Copyright
+#. Node: node192 / User Data Copyright
+#. Node: node193 / User Data Copyright
+msgid "govirtual"
+msgstr ""
+
+#. Node: node179 / Point Hotspot: Point02 / Title
+#. Node: node180 / Point Hotspot: Point01 / Title
+#. Node: node181 / Point Hotspot: Point02 / Title
+msgid "Dermaga Sebesi"
+msgstr "塞贝西码头"
+
+#. Node: node180 / User Data Date && Time
+msgid "2/28/2021 7:50 PM"
+msgstr ""
+
+#. Node: node180 / Point Hotspot: Point02 / Title
+#. Node: node181 / Point Hotspot: Point01 / Title
+#. Node: node182 / Point Hotspot: Point02 / Title
+#. Node: node183 / Point Hotspot: Point01 / Title
+#. Node: node192 / Point Hotspot: Point03 / Title
+#. Node: node203 / Point Hotspot: Point02-1 / Title
+#. Node: node204 / Point Hotspot: Point02 / Title
+#. Node: node205 / Point Hotspot: Point02 / Title
+#. Node: node206 / Point Hotspot: Point02 / Title
+#. Node: node221 / Point Hotspot: Point08 / Title
+msgid "Arah Keluar"
+msgstr "出口方向"
+
+#. Node: node181 / User Data Date && Time
+msgid "2/28/2021 6:56 PM"
+msgstr ""
+
+#. Node: node182 / User Data Date && Time
+msgid "2/28/2021 6:54 PM"
+msgstr ""
+
+#. Node: node182 / Point Hotspot: Point01 / Title
+#. Node: node188 / Point Hotspot: Point01 / Title
+msgid "Pantai Sebesi"
+msgstr "塞贝西海滩"
+
+#. Node: node183 / User Data Date && Time
+msgid "3/10/2021 5:50 PM"
+msgstr ""
+
+#. Node: node184 / User Data Date && Time
+msgid "1/12/2021 12:07 AM"
+msgstr ""
+
+#. Node: node185 / User Data Date && Time
+msgid "1/12/2021 12:13 AM"
+msgstr ""
+
+#. Node: node186 / User Data Date && Time
+msgid "1/12/2021 12:10 AM"
+msgstr ""
+
+#. Node: node186 / User Data Custom Node ID
+msgid "Mangrove"
+msgstr ""
+
+#. Node: node187 / User Data Date && Time
+msgid "1/12/2021 12:04 AM"
+msgstr ""
+
+#. Node: node188 / User Data Date && Time
+msgid "1/12/2021 12:00 AM"
+msgstr ""
+
+#. Node: node189 / User Data Date && Time
+msgid "1/12/2021 12:32 AM"
+msgstr ""
+
+#. Node: node190 / User Data Date && Time
+msgid "1/12/2021 12:21 AM"
+msgstr ""
+
+#. Node: node190 / Point Hotspot: Point01 / Title
+msgid "PLTD Pulau Sebesi"
+msgstr "塞贝西岛PLTD"
+
+#. Node: node191 / User Data Date && Time
+msgid "1/11/2021 11:54 PM"
+msgstr ""
+
+#. Node: node192 / User Data Date && Time
+msgid "1/11/2021 11:57 PM"
+msgstr ""
+
+#. Node: node192 / User Data Custom Node ID
+msgid "VillaPuan"
+msgstr ""
+
+#. Node: node193 / User Data Date && Time
+msgid "1/11/2021 11:51 PM"
+msgstr ""
+
+#. Node: node194 / Point Hotspot: Point03 / Title
+msgid "Mushola"
+msgstr "祈祷室"
+
+#. Node: node195 / Point Hotspot: Point03 / Title
+#. Node: node199 / Point Hotspot: Point02 / Title
+#. Node: node200 / Point Hotspot: Point01 / Title
+msgid "Balai Pertemuan"
+msgstr "礼堂"
+
+#. Node: node196 / Point Hotspot: Point02 / Title
+#. Node: node197 / Point Hotspot: Point03 / Title
+#. Node: node201 / Point Hotspot: Point01 / Title
+msgid "Keluar"
+msgstr "出去"
+
+#. Node: node198 / Point Hotspot: Point02 / Title
+msgid "Toilet Umum"
+msgstr "公共厕所"
+
+#. Node: node200 / Point Hotspot: Point02 / Title
+#. Node: node202 / Point Hotspot: Point01 / Title
+msgid "Musholla"
+msgstr "伊斯兰祈祷室"
+
+#. Node: node201 / Point Hotspot: Point02 / Title
+msgid "Kamar Tidur"
+msgstr "卧室"
+
+#. Node: node201 / Point Hotspot: Point03 / Title
+msgid "Toilet"
+msgstr "洗手间"
+
+#. Node: node202 / Point Hotspot: Point02 / Title
+msgid "Pintu Gerbang"
+msgstr "门"
+
+#. Node: node203 / Point Hotspot: Point01 / Title
+msgid "Area Parkir"
+msgstr "停车场"
+
+#. Node: node220 / User Data Title
+msgid "Pulau Sebesi Drone Main"
+msgstr ""
+
+#. Node: node220 / User Data Custom Node ID
+msgid "PulauSebesiDrone"
+msgstr ""
+
+#. Node: node220 / Point Hotspot: Point02 / Title
+#. Node: node221 / Point Hotspot: Point07 / Title
+msgid "Pelabuhan"
+msgstr "港口"
+
+#. Node: node221 / User Data Date && Time
+msgid "11/30/2025 6:12 PM"
+msgstr ""
+
+#. Node: node221 / Point Hotspot: Point06 / Title
+msgid "Drone Pulau Sebesi Siang"
+msgstr "铁岛日光无人机"
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr ""
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr ""
