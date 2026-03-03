@@ -1,0 +1,820 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#. Skin Element: Discover / Set Value Action (Target Element: popup_url-discover-pulausebesi) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe id=\"url_iframe\"\n"
+#| "    src=\"../webview/discover.html?disc=3&lang=id\"\n"
+#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#| "pointer-events:auto; opacity:1;\"\n"
+#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#| "  </iframe>"
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/discover.html?disc=3&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/discover.html?disc=3&lang=ar\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element: Discover gnk / Set Value Action (Target Element: popup_url-discover-gnkrakatau) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe id=\"url_iframe\"\n"
+#| "    src=\"../webview/discover.html?disc=8&lang=id\"\n"
+#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#| "pointer-events:auto; opacity:1;\"\n"
+#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#| "  </iframe>"
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/discover.html?disc=8&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/discover.html?disc=8&lang=ar\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element: Discover krakatau / Set Value Action (Target Element: popup_url-discover-gnkrakatau) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe id=\"url_iframe\"\n"
+#| "    src=\"../webview/discover.html?disc=8&lang=id\"\n"
+#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#| "pointer-events:auto; opacity:1;\"\n"
+#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#| "  </iframe>"
+msgid ""
+"<iframe id=\"url_iframe\" src=\"../webview/discover.html?disc=8&lang=id\" "
+"style=\"position:absolute; inset:0; width:100%; height:100%; border:0; pointer-"
+"events:auto; opacity:1;\"scrolling=\"auto\" allow=\"autoplay; fullscreen; "
+"clipboard-write\"></iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/discover.html?disc=8&lang=ar\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element: Discover pantai minang rua / Set Value Action (Target Element: popup_url-discover-pantaiminangrua) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe id=\"url_iframe\"\n"
+#| "    src=\"../webview/discover.html?disc=2&lang=id\"\n"
+#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#| "pointer-events:auto; opacity:1;\"\n"
+#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#| "  </iframe>"
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/discover.html?disc=2&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/discover.html?disc=2&lang=ar\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element: Discover pulauumang / Set Value Action (Target Element: popup_url-discover-pulauumang) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe id=\"url_iframe\"\n"
+#| "    src=\"../webview/discover.html?disc=4&lang=id\"\n"
+#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#| "pointer-events:auto; opacity:1;\"\n"
+#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#| "  </iframe>"
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/discover.html?disc=4&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/discover.html?disc=4&lang=ar\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element: Discover rajabasa / Set Value Action (Target Element: popup_url-discover-gunung rajabasa) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe id=\"url_iframe\"\n"
+#| "    src=\"../webview/discover.html?disc=13&lang=id\"\n"
+#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#| "pointer-events:auto; opacity:1;\"\n"
+#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#| "  </iframe>"
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/discover.html?disc=13&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/discover.html?disc=13&lang=ar\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element: Discover riobybeach / Set Value Action (Target Element: popup_url-discover-riobybeach) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe id=\"url_iframe\"\n"
+#| "    src=\"../webview/discover.html?disc=5&lang=id\"\n"
+#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#| "pointer-events:auto; opacity:1;\"\n"
+#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#| "  </iframe>"
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/discover.html?disc=5&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/discover.html?disc=5&lang=ar\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element: Discover waykalam / Set Value Action (Target Element: popup_url-discover-waykalam) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe id=\"url_iframe\"\n"
+#| "    src=\"../webview/discover.html?disc=12&lang=id\"\n"
+#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#| "pointer-events:auto; opacity:1;\"\n"
+#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#| "  </iframe>"
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/discover.html?disc=12&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/discover.html?disc=12&lang=ar\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element: Informasi / Set Value Action (Target Element: popup_url-informasi-pulausebesi) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe id=\"url_iframe\"\n"
+#| "    src=\"../webview/informasi.html?info=5&lang=id\"\n"
+#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#| "pointer-events:auto; opacity:1;\"\n"
+#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#| "  </iframe>"
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=5&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=5&lang=ar\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element: Informasi - pulausebuku / Set Value Action (Target Element: popup_url-informasi-pulausebuku) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe id=\"url_iframe\"\n"
+#| "    src=\"../webview/informasi.html?info=6&lang=id\"\n"
+#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#| "pointer-events:auto; opacity:1;\"\n"
+#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#| "  </iframe>"
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=6&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=6&lang=ar\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element: Informasi gnk / Set Value Action (Target Element: popup_url-informasi-gunung krakatau) / Text
+#. Skin Element: Informasi krakatau / Set Value Action (Target Element: popup_url-informasi-anak krakatau) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe id=\"url_iframe\"\n"
+#| "    src=\"../webview/informasi.html?info=56&lang=id\"\n"
+#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#| "pointer-events:auto; opacity:1;\"\n"
+#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#| "  </iframe>"
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=56&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=56&lang=ar\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element: Informasi mengkudu / Set Value Action (Target Element: popup_url-informasi-pulau mengkudu) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe id=\"url_iframe\"\n"
+#| "    src=\"../webview/informasi.html?info=58&lang=id\"\n"
+#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#| "pointer-events:auto; opacity:1;\"\n"
+#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#| "  </iframe>"
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=58&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=58&lang=ar\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element: Informasi pantai minang rua / Set Value Action (Target Element: popup_url-informasi-pantaiminangrua) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe id=\"url_iframe\"\n"
+#| "    src=\"../webview/informasi.html?info=2&lang=id\"\n"
+#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#| "pointer-events:auto; opacity:1;\"\n"
+#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#| "  </iframe>"
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=2&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=2&lang=ar\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element: Informasi pulauumang / Set Value Action (Target Element: popup_url-informasi-pulauumang) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe id=\"url_iframe\"\n"
+#| "    src=\"../webview/informasi.html?info=7&lang=id\"\n"
+#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#| "pointer-events:auto; opacity:1;\"\n"
+#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#| "  </iframe>"
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=7&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=7&lang=ar\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element: Informasi rajabasa / Set Value Action (Target Element: popup_url-informasi-gunung rajabasa) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe id=\"url_iframe\"\n"
+#| "    src=\"../webview/informasi.html?info=57&lang=id\"\n"
+#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#| "pointer-events:auto; opacity:1;\"\n"
+#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#| "  </iframe>"
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=57&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=57&lang=ar\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element: Informasi riobybeach / Set Value Action (Target Element: popup_url-informasi-riobybeach) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe id=\"url_iframe\"\n"
+#| "    src=\"../webview/informasi.html?info=10&lang=id\"\n"
+#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#| "pointer-events:auto; opacity:1;\"\n"
+#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#| "  </iframe>"
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=10&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=10&lang=ar\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element: Informasi waykalam / Set Value Action (Target Element: popup_url-informasi-waykalam) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe id=\"url_iframe\"\n"
+#| "    src=\"../webview/informasi.html?info=61&lang=id\"\n"
+#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#| "pointer-events:auto; opacity:1;\"\n"
+#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#| "  </iframe>"
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=61&lang=id\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/informasi.html?info=61&lang=ar\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element Text: Text 2 / Text
+msgid "X"
+msgstr ""
+
+#. Skin Element Button: ar-active / Alternate Text
+#. Skin Element Button: ar-flag / Alternate Text
+#. Skin Element Button: cn-active / Alternate Text
+#. Skin Element Button: cn-flag / Alternate Text
+#. Skin Element Button: en-active / Alternate Text
+#. Skin Element Button: en-flag / Alternate Text
+#. Skin Element Button: id-active / Alternate Text
+#. Skin Element Button: id-flag / Alternate Text
+#. Skin Element Button: nl-active / Alternate Text
+#. Skin Element Button: nl-flag / Alternate Text
+msgid "Indonesia"
+msgstr ""
+
+#. Skin Element: button-category / Set Value Action (Target Element: popup_url) / Text
+msgid ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/kategori-id.html\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+msgstr ""
+"<iframe id=\"url_iframe\"\n"
+"    src=\"../webview/kategori-ar.html\"\n"
+"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+"pointer-events:auto; opacity:1;\"\n"
+"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+"  </iframe>"
+
+#. Skin Element External: ht_node_custom_image / URL
+msgid "_custom"
+msgstr ""
+
+#. Skin Element Text: popup-chatbot / Text
+msgid ""
+"  <iframe\n"
+"    src=\"https://www.chatbase.co/chatbot-iframe/ld0-XDhWz-2tI29Pd2JeU\"\n"
+"    width=\"100%\"\n"
+"    style=\"height: 100%; min-height: 100%;\"\n"
+"    frameborder=\"0\"\n"
+"></iframe>"
+msgstr ""
+
+#. Skin Element Button: skip -  krakatau / Alternate Text
+#. Skin Element Button: skip -  krakatau anak / Alternate Text
+#. Skin Element Button: skip - air terjun way kalam / Alternate Text
+#. Skin Element Button: skip - gunung rajabasa / Alternate Text
+#. Skin Element Button: skip - minang rua / Alternate Text
+#. Skin Element Button: skip - pantai rio / Alternate Text
+#. Skin Element Button: skip - pulau sebesi / Alternate Text
+#. Skin Element Button: skip - pulau sebuku / Alternate Text
+#. Skin Element Button: skip - pulau umang / Alternate Text
+#. Skin Element Button: skip -gunung mengkudu / Alternate Text
+msgid "Skip"
+msgstr ""
+
+#. Skin Element Text: title-ibu-krakatau-txt / Text
+msgid "Gunung<br>Krakatau"
+msgstr ""
+
+#. Skin Element Text: title-krakatau-txt / Text
+msgid "Anak <br>Krakatau"
+msgstr ""
+
+#. Skin Element Text: title-pantaiminangroa-txt / Text
+msgid "Pantai <br>Minang Rua"
+msgstr ""
+
+#. Skin Element Text: title-pulaumengkudu-txt / Text
+msgid "Pulau<br>Mengkudu"
+msgstr ""
+
+#. Skin Element Text: title-pulausebesi-txt / Text
+msgid "Pulau <br>Sebesi"
+msgstr ""
+
+#. Skin Element Text: title-pulausebuku-txt / Text
+msgid "Pulau<br>Sebuku"
+msgstr ""
+
+#. Skin Element Text: title-pulauumang-txt / Text
+msgid "Pulau<br>Umang-umang"
+msgstr ""
+
+#. Skin Element Text: title-rajabasa-txt / Text
+msgid "Gunung<br>Rajabasa"
+msgstr ""
+
+#. Skin Element Text: title-riobybeach-txt / Text
+msgid "Rio By The Beach"
+msgstr ""
+
+#. Skin Element Text: title-waykalam-txt / Text
+msgid "Air Terjun<br>Way Kalam"
+msgstr ""
+
+#. Skin Element Text: txt- pulau anak krakatau / Text
+msgid ""
+"Selamat datang di kawasan Gunung Anak Krakatau, salah satu gunung api paling "
+"aktif dan ikonik di Indonesia yang berada di perairan Selat Sunda. Anak "
+"Krakatau merupakan hasil aktivitas vulkanik lanjutan dari letusan dahsyat "
+"Gunung Krakatau tahun 1883, dan mulai muncul ke permukaan pada tahun 1927. "
+"Hingga kini, Anak Krakatau terus tumbuh dan menjadi laboratorium alam yang "
+"sangat penting bagi penelitian geologi, vulkanologi, dan ekosistem pesisir. "
+"Kawasan ini memiliki keanekaragaman hayati yang unik, mulai dari vegetasi "
+"pionir hingga kehidupan laut yang kaya. Selain memiliki nilai ilmiah tinggi, "
+"Anak Krakatau juga menjadi destinasi wisata alam dan edukasi yang menarik bagi "
+"wisatawan lokal maupun mancanegara. Kami mengundang Anda untuk menyaksikan "
+"secara langsung keajaiban alam, dinamika bumi, serta proses terbentuknya "
+"kehidupan baru di salah satu fenomena geologi paling menakjubkan di dunia."
+msgstr ""
+
+#. Skin Element Text: txt- pulau sebesi / Text
+msgid ""
+"Selamat datang di Pulau Sebesi, surga petualangan di Selat Sunda, Lampung "
+"Selatan! Pulau berpenghuni ini menawarkan trekking ke Gunung Sebesi,\n"
+"snorkeling di terumbu karang yang memukau, dan pemandangan Krakatau yang epik. "
+"Berjarak 1,5 jam perahu dari Kalianda, Sebesi menyuguhkan\n"
+" pengalaman alam autentik dengan keramahan warga lokal. Nikmati homestay "
+"sederhana, kuliner ikan segar, dan petualangan seru seperti memancing\n"
+" atau menjelajah pantai sepanjang 19 km. Cocok untuk pecinta alam dan "
+"petualang sejati, Pulau Sebesi siap menciptakan kenangan liburan yang tak\n"
+" terlupakan. Ayo, mulai petualangan Anda sekarang!"
+msgstr ""
+"مرحباً بكم في جزيرة سيبسي (Pulau Sebesi)، جنة المغامرات في مضيق سوندا، لامبونج "
+"الجنوبية! تقدم هذه الجزيرة المأهولة بالسكان فرصة لتسلق جبل سيبسي، والغطس "
+"السطحي في الشعاب المرجانية الخلابة، ومشاهد ملحمية لبركان كراكاتاو. تقع سيبسي "
+"على بعد ساعة ونصف فقط بالقارب من كالياندا، وتوفر تجربة طبيعية أصيلة مصحوبة "
+"بكرم ضيافة السكان المحليين. استمتعوا بالإقامة في منازل بسيطة، وتذوقوا أطباق "
+"السمك الطازجة، وخوضوا مغامرات ممتعة مثل صيد الأسماك أو استكشاف الشاطئ الذي "
+"يمتد لمسافة 19 كم. إن جزيرة سيبسي مثالية لمحبي الطبيعة والمغامرين الحقيقيين، "
+"وهي جاهزة لخلق ذكريات عطلة لا تُنسى. هيا، ابدأوا مغامرتكم الآن!"
+
+#. Skin Element Text: txt-360video-pulausebuku / Text
+#. Skin Element Text: txt-menu gnk / Text
+#. Skin Element Text: txt-menu krakatau / Text
+#. Skin Element Text: txt-menu mengkudu / Text
+#. Skin Element Text: txt-menu pulauumang / Text
+#. Skin Element Text: txt-menu waykalam / Text
+msgid "360 Video"
+msgstr "فيديوهات 360"
+
+#. Skin Element Text: txt-air gunung rajabasa / Text
+msgid ""
+"Selamat datang di kaki Gunung Rajabasa, permata alam yang menjadi kebanggaan "
+"Kabupaten Lampung Selatan. Gunung berapi yang tidak aktif ini berdiri kokoh "
+"dengan bentuk kerucut yang indah, menjadikannya penanda geografis yang megah "
+"di tepi Selat Sunda. Kawasan ini menawarkan hutan hujan tropis yang asri, kaya "
+"akan biodiversitas sebagai habitat beragam flora dan fauna endemik. Bagi para "
+"pendaki dan pecinta alam, Rajabasa menyajikan jalur menantang dengan bonus "
+"pemandangan laut yang spektakuler dari puncaknya. Kami mengundang Anda untuk "
+"menikmati ketenangan dan pesona alam Rajabasa sambil menjaga kelestarian "
+"lingkungan yang otentik ini."
+msgstr ""
+"مرحباً بكم في سفوح جبل راجاباسا (Gunung Rajabasa)، الجوهرة الطبيعية ومفخرة "
+"مقاطعة لامبونج الجنوبية. يقف هذا البركان غير النشط شامخاً بشكله المخروطي "
+"الجميل، مما يجعله معلماً جغرافياً مهيباً على حافة مضيق سوندا. توفر هذه المنطقة "
+"غابات مطيرة استوائية نقية، غنية بالتنوع البيولوجي، وتعتبر موطناً لمجموعة متنوعة "
+"من النباتات والحيوانات المستوطنة. بالنسبة للمتسلقين ومحبي الطبيعة، يقدم "
+"راجاباسا مسارات تتسم بالتحدي مع ميزة إضافية تتمثل في المناظر البحرية الخلابة "
+"من قمته. ندعوكم للاستمتاع بالهدوء والسحر الطبيعي لراجاباسا مع الحفاظ على هذه "
+"البيئة الأصيلة."
+
+#. Skin Element Text: txt-air terjun way kalam / Text
+msgid ""
+"Selamat datang di Air Terjun Way Kalam, sebuah permata tersembunyi yang "
+"menawarkan kesegaran alam di kaki Gunung Rajabasa, Lampung Selatan. Air terjun "
+"bertingkat ini menyuguhkan aliran air yang jernih dan deras, dikelilingi oleh "
+"rimbunnya pepohonan hijau yang menyejukkan. Suara gemuruh air dan udara yang "
+"sejuk menciptakan suasana damai, sangat cocok untuk melepaskan penat dari "
+"kesibukan sehari-hari. Pengunjung dapat menikmati segarnya kolam alami di "
+"bawahnya untuk berenang atau sekadar bersantai menikmati keindahan panorama "
+"alam. Kami mengundang Anda untuk menjelajahi keasrian Way Kalam; pastikan "
+"untuk selalu menjaga kebersihan dan kelestarian lokasi wisata yang indah ini."
+msgstr ""
+"مرحباً بكم في شلال واي كلام (Air Terjun Way Kalam)، وهو جوهرة مخفية تقدم انتعاش "
+"الطبيعة عند سفوح جبل راجاباسا، في لامبونج الجنوبية. يعرض هذا الشلال المتدرج "
+"تياراً مائياً صافياً وقوياً، محاطاً بالأشجار الخضراء الوارفة التي تبعث على "
+"الانتعاش. يخلق صوت هدير المياه والهواء البارد أجواءً هادئة، مما يجعله مثالياً "
+"للتخلص من تعب وضغوط الحياة اليومية. يمكن للزوار الاستمتاع بالبركة الطبيعية "
+"المنعشة الموجودة أسفله للسباحة، أو مجرد الاسترخاء والتمتع بجمال المشهد "
+"الطبيعي. ندعوكم لاستكشاف جمال واي كلام البكر؛ واحرصوا دائماً على الحفاظ على "
+"نظافة واستدامة هذا الموقع السياحي الجميل."
+
+#. Skin Element Text: txt-anak-krakatau / Text
+msgid ""
+"Selamat datang di kawasan Gunung Krakatau, sebuah ikon legendaris yang menjadi "
+"kebanggaan pariwisata Provinsi Lampung dan dunia. Terletak gagah di Selat "
+"Sunda, situs ini menyimpan sejarah letusan kolosal tahun 1883 yang pernah "
+"mengguncang bumi dan mengubah iklim global. Kini, Anda dapat menyaksikan "
+"langsung keajaiban Anak Krakatau yang terus bertumbuh sebagai simbol "
+"regenerasi alam yang menakjubkan. Selain menyuguhkan panorama vulkanik yang "
+"dramatis, kawasan cagar alam ini juga menawarkan kekayaan biodiversitas bawah "
+"laut yang memanjakan mata. Mari nikmati petualangan tak terlupakan di warisan "
+"geologi ini dengan tetap mengutamakan keselamatan dan kelestarian alam."
+msgstr ""
+"مرحباً بكم في منطقة بركان كراكاتاو (Gunung Krakatau)، وهي رمز أسطوري يمثل فخراً "
+"للسياحة في مقاطعة لامبونج والعالم. يقع هذا الموقع بشموخ في مضيق سوندا، ويحمل "
+"في طياته تاريخ الانفجار الهائل الذي وقع عام 1883 والذي هز الأرض وغيَّر المناخ "
+"العالمي. واليوم، يمكنكم مشاهدة المعجزة المتمثلة في أناك كراكاتاو (Anak "
+"Krakatau) وهو ينمو باستمرار كرمز مذهل لتجديد الطبيعة. وإلى جانب تقديمه لمشهد "
+"بانورامي بركاني دراماتيكي، فإن هذه المنطقة المحمية الطبيعية توفر أيضاً ثراءً في "
+"التنوع البيولوجي تحت الماء الذي يبهج العين. تعالوا واستمتعوا بمغامرة لا تُنسى "
+"في هذا التراث الجيولوجي مع الاستمرار في إعطاء الأولوية للسلامة والحفاظ على "
+"الطبيعة."
+
+#. Skin Element Text: txt-category / Text
+msgid "KATEGORI"
+msgstr "فئة"
+
+#. Skin Element Text: txt-chatbot / Text
+msgid "Chatbot"
+msgstr "روبوت الدردشة"
+
+#. Skin Element Text: txt-contact-pulausebuku / Text
+msgid "Hubungi Kami"
+msgstr "اتصل بنا"
+
+#. Skin Element Text: txt-discover / Text
+#. Skin Element Text: txt-discover pulauumang / Text
+#. Skin Element Text: txt-information gnk / Text
+#. Skin Element Text: txt-information krakatau / Text
+#. Skin Element Text: txt-information mengkudu / Text
+#. Skin Element Text: txt-information pantai minang rua / Text
+#. Skin Element Text: txt-information rajabasa / Text
+#. Skin Element Text: txt-information waykalam / Text
+#. Skin Element Text: txt-menu riobybeach / Text
+msgid "Tentang Kami"
+msgstr "معلومات عنا"
+
+#. Skin Element Text: txt-discover gnk / Text
+#. Skin Element Text: txt-discover krakatau / Text
+#. Skin Element Text: txt-discover mengkudu / Text
+#. Skin Element Text: txt-discover rajabasa / Text
+#. Skin Element Text: txt-discover waykalam / Text
+#. Skin Element Text: txt-information / Text
+#. Skin Element Text: txt-information pulauumang / Text
+#. Skin Element Text: txt-information riobybeach / Text
+msgid "Discover"
+msgstr "يكتشف"
+
+#. Skin Element Text: txt-discover pantai minang rua / Text
+msgid "Jelajahi"
+msgstr "استكشف"
+
+#. Skin Element Text: txt-discover riobybeach / Text
+msgid "Event"
+msgstr "حدث"
+
+#. Skin Element Text: txt-gallery / Text
+#. Skin Element Text: txt-gallery gnk / Text
+#. Skin Element Text: txt-gallery krakatau / Text
+#. Skin Element Text: txt-gallery mengkudu / Text
+#. Skin Element Text: txt-gallery pantai minang rua / Text
+#. Skin Element Text: txt-gallery pulauumang / Text
+#. Skin Element Text: txt-gallery rajabasa / Text
+#. Skin Element Text: txt-gallery riobybeach / Text
+#. Skin Element Text: txt-gallery waykalam / Text
+#. Skin Element Text: txt-gallery-pulausebuku / Text
+msgid "Informasi"
+msgstr "معلومة"
+
+#. Skin Element Text: txt-information sebuku / Text
+#. Skin Element Text: txt-menu / Text
+#. Skin Element Text: txt-menu pantai minang rua / Text
+msgid "Paket Tour"
+msgstr "باقة سياحية"
+
+#. Skin Element Text: txt-pantaiminangrua / Text
+msgid ""
+"Selamat datang di Pantai Minang Rua, surga tersembunyi di Bakauheni, Lampung "
+"Selatan! Nikmati hamparan pasir putih sepanjang 10 km yang lembut, ombak "
+"tenang Selat Sunda, dan panorama alam yang memukau. Destinasi ini sempurna "
+"untuk liburan keluarga, relaksasi, atau petualangan seru seperti snorkeling "
+"dan berfoto di spot Instagramable. Dikelola dengan apik oleh Pokdarwis "
+"setempat, Pantai Minang Rua menawarkan fasilitas lengkap untuk kenyamanan "
+"Anda. Hanya 15 menit dari Pelabuhan Bakauheni, jadikan pantai ini pilihan "
+"utama untuk menciptakan kenangan tak terlupakan bersama orang tersayang. "
+"Selamat menikmati keindahan alam Lampung!"
+msgstr ""
+"مرحباً بكم في شاطئ مينانج روا (Pantai Minang Rua)، الجنة المخفية في باكاويهيني، "
+"لامبونج الجنوبية! استمتعوا بشريط رمل أبيض ناعم يمتد لمسافة 10 كيلومترات، "
+"وأمواج مضيق سوندا الهادئة، والمشاهد الطبيعية الآسرة. هذه الوجهة مثالية "
+"للإجازات العائلية، والاسترخاء، أو للمغامرات الممتعة مثل الغطس السطحي والتصوير "
+"في الأماكن المناسبة لـ \"إنستغرام\". يُدار الشاطئ بعناية من قِبل مجموعة الوعي "
+"السياحي المحلية، ويوفر مرافق كاملة لراحتكم، وبما أنه يقع على بُعد 15 دقيقة فقط "
+"من ميناء باكاويهيني، اجعلوه خياركم الأول لخلق ذكريات لا تُنسى مع أحبائكم، "
+"واستمتعوا بجمال طبيعة لامبونج!"
+
+#. Skin Element Text: txt-pendakian rajabasa / Text
+msgid "Jalur Pendakian"
+msgstr "مسار التتبع"
+
+#. Skin Element Text: txt-pulau sebuku / Text
+#, fuzzy
+#| msgid ""
+#| "Selamat datang di Pulau Sebeku, permata tak berpenghuni di Lampung Selatan! "
+#| "Nikmati keindahan laut jernih, terumbu karang yang kaya,\n"
+#| " dan panorama eksotis yang sempurna untuk fotografi drone. Hanya 20 menit "
+#| "perahu dari Pulau Sebesi, destinasi ini menawarkan snorkeling \n"
+#| "dengan hiu jinak, piknik pantai, dan ketenangan alam liar. Cocok untuk "
+#| "petualang dan konten kreator, Pulau Sebeku menghadirkan pengalaman \n"
+#| "eksklusif di Selat Sunda. Dengan fasilitas dasar dan akses mudah, pulau ini "
+#| "siap memanjakan Anda dengan keindahan bawah \n"
+#| "laut dan suasana tenang. Ayo, ciptakan momen tak terlupakan di sini!"
+msgid ""
+"Selamat datang di Pulau Sebeku, permata tak berpenghuni di Lampung Selatan! "
+"Nikmati keindahan laut jernih, terumbu karang yang kaya, dan panorama eksotis "
+"yang sempurna untuk fotografi drone. Hanya 20 menit perahu dari Pulau Sebesi, "
+"destinasi ini menawarkan snorkeling dengan hiu jinak, piknik pantai, dan "
+"ketenangan alam liar. Cocok untuk petualang dan konten kreator, Pulau Sebeku "
+"menghadirkan pengalaman eksklusif di Selat Sunda. Dengan fasilitas dasar dan "
+"akses mudah, pulau ini siap memanjakan Anda dengan keindahan bawah laut dan "
+"suasana tenang. Ayo, ciptakan momen tak terlupakan di sini!"
+msgstr ""
+"مرحباً بكم في جزيرة سيبكو (Pulau Sebeku)، وهي جوهرة غير مأهولة بالسكان تقع في "
+"لامبونج الجنوبية! استمتعوا بجمال المياه الصافية، والشعاب المرجانية الغنية، "
+"والمشاهد البانورامية الغريبة المثالية للتصوير بالطائرات بدون طيار. تقع الجزيرة "
+"على بعد 20 دقيقة فقط بالقارب من جزيرة سيبسي، وتقدم هذه الوجهة تجارب حصرية مثل "
+"الغطس السطحي مع أسماك القرش الأليفة، والنزهات الشاطئية، وهدوء الحياة البرية. "
+"تُعد جزيرة سيبكو مناسبة للمغامرين وصناع المحتوى، حيث توفر تجربة فريدة في مضيق "
+"سوندا، وهي جاهزة لتدليلكم بجمالها تحت الماء وأجواءها الهادئة بفضل مرافقها "
+"الأساسية وسهولة الوصول إليها. هيا، اصنعوا لحظات لا تُنسى هنا!"
+
+#. Skin Element Text: txt-pulau umang umang / Text
+msgid ""
+"Selamat datang di Pulau Umang-umang, oase kecil di Lampung Selatan! Pulau tak "
+"berpenghuni ini menawarkan pasir putih, \n"
+"air jernih, dan pemandangan Krakatau yang memukau. Hanya 20 menit perahu dari "
+"Pulau Sebesi, destinasi ini sempurna untuk \n"
+"snorkeling, piknik romantis, atau menikmati sunset spektakuler. Dengan suasana "
+"tenang dan alam yang masih alami, Pulau\n"
+" Umang-umang cocok untuk pelarian dari hiruk-pikuk kota. Fasilitas sederhana "
+"dan akses mudah menjadikan pulau ini pilihan \n"
+"ideal untuk liburan intim atau petualangan ringan. Ayo, rasakan ketenangan dan "
+"keindahan alam di Pulau Umang-umang sekarang!"
+msgstr ""
+"مرحباً بكم في جزيرة أمَنج-أمَنج (Pulau Umang-umang)، وهي واحة صغيرة في لامبونج "
+"الجنوبية! تقدم هذه الجزيرة غير المأهولة رمالاً بيضاء، ومياهاً صافية، ومشاهداً "
+"آسرة لبركان كراكاتاو. تقع الجزيرة على بعد 20 دقيقة فقط بالقارب من جزيرة سيبسي، "
+"وهي وجهة مثالية للغطس السطحي، أو نزهة رومانسية، أو الاستمتاع بغروب الشمس "
+"المذهل. بأجواءها الهادئة وطبيعتها البكر، تُعد جزيرة أمَنج-أمَنج مناسبة تماماً "
+"للهروب من صخب المدينة. كما أن مرافقها البسيطة وسهولة الوصول إليها تجعلها خياراً "
+"مثالياً لقضاء عطلة حميمية أو مغامرة خفيفة. هيا، اشعروا بالهدوء وجمال الطبيعة في "
+"جزيرة أمَنج-أمَنج الآن!"
+
+#. Skin Element Text: txt-pulaumengkudu / Text
+msgid ""
+"Selamat datang di Pulau Mengkudu, sebuah destinasi pantai tersembunyi yang "
+"mempesona di Kabupaten Lampung Selatan. Daya tarik utamanya adalah fenomena "
+"alam \"jembatan pasir\" unik yang muncul saat air laut surut, memungkinkan "
+"Anda berjalan kaki dari pulau ke daratan seberang. Dikelilingi oleh air laut "
+"yang jernih kehijauan dan pasir putih yang lembut, Mengkudu adalah surga ideal "
+"untuk berenang dan bersantai. Jangan lewatkan kesempatan mengabadikan momen di "
+"atas jembatan pasir yang seolah membelah lautan, menciptakan latar foto yang "
+"sangat spektakuler. Kami mengundang Anda untuk menikmati keindahan alami Pulau "
+"Mengkudu yang masih terjaga ini dengan penuh kegembiraan dan tanggung jawab."
+msgstr ""
+"مرحباً بكم في جزيرة منجكودو (Pulau Mengkudu)، وهي وجهة شاطئية مخفية وساحرة في "
+"مقاطعة لامبونج الجنوبية. إن عامل الجذب الرئيسي فيها هو الظاهرة الطبيعية "
+"الفريدة \"لجسر الرمال\" الذي يظهر عند انحسار مياه البحر، مما يتيح لك السير على "
+"الأقدام من الجزيرة إلى اليابسة المقابلة. تحيط بالجزيرة مياه البحر الصافية "
+"المائلة للخضرة والرمال البيضاء الناعمة، مما يجعلها جنة مثالية للسباحة "
+"والاسترخاء. لا تفوتوا فرصة تخليد اللحظات فوق جسر الرمال الذي يبدو وكأنه يقسم "
+"المحيط، مما يخلق خلفية صور مذهلة للغاية. ندعوكم للاستمتاع بالجمال الطبيعي "
+"البكر لجزيرة منجكودو بفرح ومسؤولية كاملة."
+
+#. Skin Element Text: txt-riobythebeach / Text
+msgid ""
+"Selamat datang di Pantai Rio by the Beach, destinasi wisata alam terbaru di "
+"Lampung Selatan yang memukau!  Dibuka pada April 2024 oleh fotografer kenamaan "
+"Rio Motret, pantai ini menghadirkan hamparan pasir putih lembut, ombak tenang, "
+"dan sunset spektakuler menghadap Krakatau. Hanya 1 jam dari Bandar Lampung, "
+"nikmati konsep back to nature dengan fasilitas eco-friendly seperti gazebo "
+"bambu, bean bag, dan food court seafood segar. Cocok untuk  liburan keluarga, "
+"pasangan, atau healing solo. Rasakan ketenangan, spot foto Instagramable, dan "
+"live music mingguan.\n"
+" Jadikan Rio by the Beach pilihan utama untuk petualangan pantai yang autentik "
+"dan berkesan!"
+msgstr ""
+"مرحباً بكم في شاطئ ريو باي ذا بيتش (Rio by the Beach)، أحدث وجهة سياحية طبيعية "
+"آسرة في لامبونج الجنوبية! افتُتح هذا الشاطئ في أبريل 2024 على يد المصور الشهير "
+"ريو موتريه (Rio Motret)، ويقدم شريطاً من الرمال البيضاء الناعمة، وأمواجاً هادئة، "
+"ومناظر خلابة لغروب الشمس مقابل بركان كراكاتاو. يقع الشاطئ على بُعد ساعة واحدة "
+"فقط من بندر لامبونج، ويتيح لكم الاستمتاع بمفهوم \"العودة إلى الطبيعة\" مع "
+"مرافق صديقة للبيئة مثل أكشاك الخيزران (bamboo gazebos)، ومقاعد الـ \"بين باج\" "
+"(bean bags)، وقاعة طعام للمأكولات البحرية الطازجة. إنه مثالي لقضاء إجازة "
+"عائلية، أو رحلة لشخصين، أو للتعافي المنفرد، حيث يمكنكم الشعور بالهدوء، "
+"والاستمتاع بأماكن التصوير المناسبة لـ \"إنستغرام\"، والموسيقى الحية الأسبوعية. "
+"اجعلوا \"ريو باي ذا بيتش\" خياركم الأساسي لمغامرة شاطئية أصيلة لا تُنسى!"
+
+#~ msgid "About Us"
+#~ msgstr "معلومات عنا"
+
+#~ msgid "Fasilitas"
+#~ msgstr "منشأة"
