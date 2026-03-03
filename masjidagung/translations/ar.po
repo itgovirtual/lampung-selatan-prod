@@ -1,0 +1,385 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Source-Language: id-ID\n"
+"X-Generator: Poedit 3.8\n"
+
+#. Node: node31 / User Data Title
+msgid "default (first)"
+msgstr ""
+
+#. Node: node31 / User Data Date && Time
+msgid "12/4/2025 11:50 AM"
+msgstr ""
+
+#. Node: node31 / Point Hotspot: Point01 / Title
+#. Node: node29 / Point Hotspot: Point05 / Title
+msgid "Miniatur Ka`Bah"
+msgstr "مجسّم الكعبة"
+
+#. Node: node31 / Point Hotspot: Point02 / Title
+#. Node: node29 / Point Hotspot: Point06 / Title
+#. Node: node8 / Point Hotspot: Point01 / Title
+#. Node: node11 / Point Hotspot: Point01 / Title
+#. Node: node11 / Point Hotspot: Point02 / Title
+#. Node: node13 / Point Hotspot: Point01 / Title
+#. Node: node19 / Point Hotspot: Point02 / Title
+#. Node: node25 / Point Hotspot: Point03 / Title
+#. Node: node28 / Point Hotspot: Point05 / Title
+msgid "Masjid Agung Kalianda"
+msgstr "المسجد الكبير كالياندا"
+
+#. Node: node31 / Point Hotspot: Point03 / Title
+#. Node: node29 / Point Hotspot: Point01 / Title
+#. Node: node29 / Point Hotspot: Point02 / Title
+#. Node: node12 / Point Hotspot: Point05 / Title
+#. Node: node28 / Point Hotspot: Point01 / Title
+#. Node: node28 / Point Hotspot: Point02 / Title
+#. Node: node30 / Point Hotspot: Point01 / Title
+#. Node: node30 / Point Hotspot: Point02 / Title
+msgid "Drone"
+msgstr "الطائرة بدون طيار"
+
+#. Node: node29 / User Data Title
+msgid "default"
+msgstr ""
+
+#. Node: node29 / User Data Date && Time
+msgid "02/12/2025 9:31"
+msgstr ""
+
+#. Node: node29 / User Data Custom Node ID
+msgid "MasjidAgungKalianda"
+msgstr "المسجد الكبير كالياندا"
+
+#. Node: node29 / Point Hotspot: Point04 / Title
+#. Node: node28 / Point Hotspot: Point04 / Title
+#. Node: node30 / Point Hotspot: Point04 / Title
+msgid "Lamban Balak Keratuan Darah Putih (Est.15 Menit)"
+msgstr "لامبان بالاك كيراتوان داراه بوتيه (حوالي 15 دقيقة)"
+
+#. Node: node29 / Point Hotspot: Point04 / URL
+msgid "https://lampung-selatan.govirtual.id/culture/index.html#"
+msgstr ""
+
+#. Node: node2 / User Data Date && Time
+msgid "11/03/2021 17:36"
+msgstr ""
+
+#. Node: node2 / Point Hotspot: Point01 / Title
+#. Node: node6 / Point Hotspot: Point01 / Title
+msgid "Pintu Keluar"
+msgstr "مخرج"
+
+#. Node: node3 / User Data Date && Time
+msgid "11/03/2021 17:18"
+msgstr ""
+
+#. Node: node3 / User Data Custom Node ID
+msgid "ReplikaKabah"
+msgstr ""
+
+#. Node: node3 / Point Hotspot: Point01 / Title
+#. Node: node4 / Point Hotspot: Point04 / Title
+#. Node: node8 / Point Hotspot: Point02 / Title
+#. Node: node9 / Point Hotspot: Point01 / Title
+#. Node: node10 / Point Hotspot: Point03 / Title
+#. Node: node11 / Point Hotspot: Point03 / Title
+msgid "Pintu Masuk Samping"
+msgstr "مدخل جانبي"
+
+#. Node: node4 / User Data Date && Time
+msgid "11/03/2021 17:11"
+msgstr ""
+
+#. Node: node4 / Point Hotspot: Point01 / Title
+msgid "Pintu Masuk Depan"
+msgstr "المدخل الأمامي"
+
+#. Node: node4 / Point Hotspot: Point02 / Title
+msgid "Miniatur Ka'bah"
+msgstr "مجسّم الكعبة"
+
+#. Node: node4 / Point Hotspot: Point03 / Title
+#. Node: node10 / Point Hotspot: Point02 / Title
+#. Node: node12 / Point Hotspot: Point04 / Title
+#. Node: node13 / Point Hotspot: Point02 / Title
+#. Node: node14 / Point Hotspot: Point01 / Title
+#. Node: node16 / Point Hotspot: Point03 / Title
+#. Node: node17 / Point Hotspot: Point03 / Title
+#. Node: node19 / Point Hotspot: Point03 / Title
+#. Node: node19 / Point Hotspot: Point04 / Title
+#. Node: node22 / Point Hotspot: Point01 / Title
+#. Node: node25 / Point Hotspot: Point02 / Title
+msgid "Area Parkir"
+msgstr "منطقة مواقف السيارات"
+
+#. Node: node5 / User Data Date && Time
+msgid "11/03/2021 17:01"
+msgstr ""
+
+#. Node: node5 / Point Hotspot: Point01 / Title
+msgid "Pintu Keluar Depan"
+msgstr "المخرج الأمامي"
+
+#. Node: node5 / Point Hotspot: Point02 / Title
+#. Node: node5 / Point Hotspot: Point03 / Title
+msgid "Pintu Keluar Samping"
+msgstr "المخرج الجانبي"
+
+#. Node: node6 / User Data Date && Time
+msgid "11/03/2021 17:03"
+msgstr ""
+
+#. Node: node7 / User Data Date && Time
+msgid "11/03/2021 16:49"
+msgstr ""
+
+#. Node: node7 / Point Hotspot: Point01 / Title
+#. Node: node11 / Point Hotspot: Point04 / Title
+#. Node: node12 / Point Hotspot: Point03 / Title
+msgid "Pintu Masuk"
+msgstr "مدخل"
+
+#. Node: node7 / Point Hotspot: Point02 / Title
+#. Node: node10 / Point Hotspot: Point01 / Title
+msgid "Area Wudhu Masjid"
+msgstr "منطقة الوضوء في المسجد"
+
+#. Node: node8 / User Data Date && Time
+msgid "11/03/2021 16:53"
+msgstr ""
+
+#. Node: node9 / User Data Date && Time
+msgid "11/03/2021 16:57"
+msgstr ""
+
+#. Node: node9 / Point Hotspot: Point03 / Title
+msgid "Miniatur Ka'Bah"
+msgstr "مجسّم الكعبة"
+
+#. Node: node10 / User Data Date && Time
+msgid "11/03/2021 16:55"
+msgstr ""
+
+#. Node: node11 / User Data Date && Time
+msgid "11/03/2021 16:46"
+msgstr ""
+
+#. Node: node11 / Point Hotspot: Point05 / Title
+msgid "Pintu Masuk Area Wanita"
+msgstr "مدخل منطقة النساء"
+
+#. Node: node12 / User Data Author
+#. Node: node13 / User Data Author
+#. Node: node14 / User Data Author
+#. Node: node15 / User Data Author
+#. Node: node16 / User Data Author
+#. Node: node17 / User Data Author
+#. Node: node18 / User Data Author
+#. Node: node19 / User Data Author
+#. Node: node20 / User Data Author
+#. Node: node21 / User Data Author
+#. Node: node22 / User Data Author
+#. Node: node23 / User Data Author
+#. Node: node24 / User Data Author
+#. Node: node25 / User Data Author
+#. Node: node26 / User Data Author
+#. Node: node27 / User Data Author
+msgid "Govirtual"
+msgstr ""
+
+#. Node: node12 / User Data Date && Time
+msgid "01/03/2021 20:20"
+msgstr ""
+
+#. Node: node12 / User Data Copyright
+#. Node: node13 / User Data Copyright
+#. Node: node14 / User Data Copyright
+#. Node: node15 / User Data Copyright
+#. Node: node16 / User Data Copyright
+#. Node: node17 / User Data Copyright
+#. Node: node18 / User Data Copyright
+#. Node: node19 / User Data Copyright
+#. Node: node20 / User Data Copyright
+#. Node: node21 / User Data Copyright
+#. Node: node22 / User Data Copyright
+#. Node: node23 / User Data Copyright
+#. Node: node24 / User Data Copyright
+#. Node: node25 / User Data Copyright
+#. Node: node26 / User Data Copyright
+#. Node: node27 / User Data Copyright
+msgid "govirtual"
+msgstr ""
+
+#. Node: node12 / Point Hotspot: Point01 / Title
+#. Node: node16 / Point Hotspot: Point02 / Title
+#. Node: node18 / Point Hotspot: Point03 / Title
+#. Node: node20 / Point Hotspot: Point02 / Title
+#. Node: node24 / Point Hotspot: Point03 / Title
+msgid "Taman Masjid Agung Kalianda"
+msgstr "حديقة المسجد الكبير كالياندا"
+
+#. Node: node12 / Point Hotspot: Point02 / Title
+#. Node: node25 / Point Hotspot: Point01 / Title
+msgid "Gerbang Keluar"
+msgstr "بوابة الخروج"
+
+#. Node: node13 / User Data Date && Time
+msgid "01/03/2021 19:46"
+msgstr ""
+
+#. Node: node13 / Point Hotspot: Point03 / Title
+#. Node: node14 / Point Hotspot: Point02 / Title
+#. Node: node15 / Point Hotspot: Point01 / Title
+msgid "Halaman Terbuka Masjid Agung Kalianda"
+msgstr "الساحة المفتوحة للمسجد الكبير كالياندا"
+
+#. Node: node13 / Point Hotspot: Point04 / Title
+msgid "Pintu Masuk Menara"
+msgstr "مدخل المئذنة"
+
+#. Node: node14 / User Data Date && Time
+msgid "01/03/2021 19:44"
+msgstr ""
+
+#. Node: node15 / User Data Date && Time
+msgid "01/03/2021 19:42"
+msgstr ""
+
+#. Node: node16 / User Data Date && Time
+msgid "01/03/2021 19:36"
+msgstr ""
+
+#. Node: node16 / Point Hotspot: Point01 / Title
+#. Node: node17 / Point Hotspot: Point01 / Title
+#. Node: node17 / Point Hotspot: Point02 / Title
+#. Node: node18 / Point Hotspot: Point01 / Title
+#. Node: node18 / Point Hotspot: Point02 / Title
+#. Node: node19 / Point Hotspot: Point01 / Title
+#. Node: node20 / Point Hotspot: Point03 / Title
+#. Node: node21 / Point Hotspot: Point02 / Title
+msgid "Taman Anak Batin"
+msgstr "حديقة أطفال باتين"
+
+#. Node: node17 / User Data Date && Time
+msgid "01/03/2021 19:33"
+msgstr ""
+
+#. Node: node17 / User Data Custom Node ID
+msgid "TamanAnakBatin"
+msgstr "حديقة أطفال باتين"
+
+#. Node: node18 / User Data Date && Time
+msgid "01/03/2021 19:30"
+msgstr ""
+
+#. Node: node19 / User Data Date && Time
+msgid "01/03/2021 19:27"
+msgstr ""
+
+#. Node: node20 / User Data Date && Time
+msgid "01/03/2021 19:25"
+msgstr ""
+
+#. Node: node20 / Point Hotspot: Point01 / Title
+#. Node: node22 / Point Hotspot: Point03 / Title
+msgid "TK Masjid Agung Kalianda"
+msgstr "روضة أطفال المسجد الكبير كالياندا"
+
+#. Node: node21 / User Data Date && Time
+msgid "01/03/2021 19:19"
+msgstr ""
+
+#. Node: node21 / User Data Custom Node ID
+msgid "TkKalianda"
+msgstr ""
+
+#. Node: node21 / Point Hotspot: Point01 / Title
+#. Node: node22 / Point Hotspot: Point02 / Title
+#. Node: node23 / Point Hotspot: Point01 / Title
+#. Node: node24 / Point Hotspot: Point02 / Title
+msgid "Area UMKM"
+msgstr "منطقة المشاريع الصغيرة والمتوسطة (UMKM)"
+
+#. Node: node22 / User Data Date && Time
+msgid "01/03/2021 19:16"
+msgstr ""
+
+#. Node: node23 / User Data Date && Time
+msgid "01/03/2021 19:14"
+msgstr ""
+
+#. Node: node23 / Point Hotspot: Point02 / Title
+msgid "Kantor Baznas Masjid Agung Kalianda"
+msgstr "مكتب بازناس المسجد الكبير كالياندا"
+
+#. Node: node24 / User Data Date && Time
+msgid "01/03/2021 19:09"
+msgstr ""
+
+#. Node: node24 / Point Hotspot: Point01 / Title
+#. Node: node26 / Point Hotspot: Point01 / Title
+msgid "Gerbang Masuk"
+msgstr "بوابة الدخول"
+
+#. Node: node25 / User Data Date && Time
+msgid "01/03/2021 19:05"
+msgstr ""
+
+#. Node: node26 / User Data Date && Time
+msgid "01/03/2021 19:03"
+msgstr ""
+
+#. Node: node27 / User Data Date && Time
+msgid "01/03/2021 18:49"
+msgstr ""
+
+#. Node: node27 / Point Hotspot: Point01 / Title
+msgid "Keluar"
+msgstr "خروج"
+
+#. Node: node28 / User Data Title
+msgid "default 2nd"
+msgstr ""
+
+#. Node: node28 / User Data Date && Time
+msgid "02/12/2025 9:27"
+msgstr ""
+
+#. Node: node28 / Point Hotspot: Point03 / Title
+msgid "Pantai Kedu (Est. 8 Menit)"
+msgstr "شاطئ كيدو (حوالي 8 دقائق)"
+
+#. Node: node30 / User Data Title
+msgid "default 3rd"
+msgstr ""
+
+#. Node: node30 / User Data Date && Time
+msgid "02/12/2025 9:22"
+msgstr ""
+
+#. Node: node30 / Point Hotspot: Point03 / Title
+msgid "Pantai Mengkudu (Est. 45 Menit)"
+msgstr "شاطئ مينغكودو (المدة التقديرية: ٤٥ دقيقة)"
+
+#. Context Menu Default Entry
+msgid "Enter VR"
+msgstr "الدخول إلى الواقع الافتراضي"
+
+#. Context Menu Default Entry
+msgid "Enter Fullscreen"
+msgstr "وضع ملء الشاشة"
+
+#. Context Menu Default Entry
+msgid "Exit Fullscreen"
+msgstr "الخروج من ملء الشاشة"
