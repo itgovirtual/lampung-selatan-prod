@@ -1,0 +1,146 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"X-Source-Language: id"
+
+#. Skin Element Text: Text 2 / Text
+msgid "X"
+msgstr ""
+
+#. Skin Element Button: ar-active / Alternate Text
+#. Skin Element Button: ar-flag / Alternate Text
+#. Skin Element Button: cn-active / Alternate Text
+#. Skin Element Button: cn-flag / Alternate Text
+#. Skin Element Button: en-active / Alternate Text
+#. Skin Element Button: en-flag / Alternate Text
+#. Skin Element Button: id-active / Alternate Text
+#. Skin Element Button: id-flag / Alternate Text
+#. Skin Element Button: nld-active / Alternate Text
+#. Skin Element Button: nld-flag / Alternate Text
+msgid "Indonesia"
+msgstr ""
+
+#. Skin Element: button-category / Set Value Action (Target Element: popup_url) / Text
+msgid "<iframe id=\"url_iframe\"\n    src=\"../webview/kategori-id.html\"\n    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; pointer-events:auto; opacity:1;\"\n    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n  </iframe>"
+msgstr ""
+
+#. Skin Element: discover Budidaya Perikanan Air / Set Value Action (Target Element: popup_url-discover) / Text
+#. Skin Element: discover PT Maju Tambak Sumur / Set Value Action (Target Element: popup_url-informasi) / Text
+msgid "<iframe id=\"url_iframe\"\n    src=\"../webview/discover.html?disc=14&lang=id\"\n    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; pointer-events:auto; opacity:1;\"\n    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n  </iframe>"
+msgstr ""
+
+#. Skin Element External: ht_node_custom_image / URL
+#. Skin Element External: ht_node_custom_image_1 / URL
+#. Skin Element External: ht_node_custom_image_2 / URL
+msgid "_custom"
+msgstr ""
+
+#. Skin Element Text: popup-chatbot / Text
+msgid "  <iframe\n    src=\"https://www.chatbase.co/chatbot-iframe/ld0-XDhWz-2tI29Pd2JeU\"\n    width=\"100%\"\n    style=\"height: 100%; min-height: 100%;\"\n    frameborder=\"0\"\n></iframe>"
+msgstr ""
+
+#. Skin Element: public-service Budidaya Perikanan Air / Set Value Action (Target Element: popup_url-informasi) / Text
+#. Skin Element: public-service PT Maju Tambak Sumur / Set Value Action (Target Element: popup_url-informasi) / Text
+msgid "<iframe id=\"url_iframe\"\n    src=\"../webview/informasi.html?info=62&lang=id\"\n    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; pointer-events:auto; opacity:1;\"\n    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n  </iframe>"
+msgstr ""
+
+#. Skin Element: public-service juang jaya / Set Value Action (Target Element: popup_url-informasi) / Text
+msgid "<iframe id=\"url_iframe\"\n    src=\"../webview/informasi.html?info=9&lang=id\"\n    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; pointer-events:auto; opacity:1;\"\n    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n  </iframe>"
+msgstr ""
+
+#. Skin Element: public-service pertanian / Set Value Action (Target Element: popup_url-informasi) / Text
+msgid "<iframe id=\"url_iframe\"\n    src=\"../webview/informasi.html?info=11&lang=id\"\n    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; pointer-events:auto; opacity:1;\"\n    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n  </iframe>"
+msgstr ""
+
+#. Skin Element Button: skip -  pertanian / Alternate Text
+#. Skin Element Button: skip - PT Maju Tambak Sumur / Alternate Text
+#. Skin Element Button: skip -gunung juang jaya / Alternate Text
+msgid "Skip"
+msgstr ""
+
+#. Skin Element Text: title-Budidaya Perikanan air-txt / Text
+msgid "Budidaya Perikanan <br> Air Tawar"
+msgstr ""
+
+#. Skin Element Text: title-Budidaya Perikanan air-txt / Logic Block Text
+msgid "Budidaya <br> Perikanan <br> Air Tawar"
+msgstr ""
+
+#. Skin Element Text: title-PT Maju Tambak Sumur-txt / Text
+msgid "PT Maju Tambak Sumur"
+msgstr ""
+
+#. Skin Element Text: title-PT Maju Tambak Sumur-txt / Logic Block Text
+msgid "PT Maju <br> Tambak <br> Sumur"
+msgstr ""
+
+#. Skin Element Text: title-pertanian-txt / Text
+msgid "Trimomukti Pertanian"
+msgstr ""
+
+#. Skin Element Text: title-pertanian-txt / Logic Block Text
+msgid "Trimomukti <br> Pertanian"
+msgstr ""
+
+#. Skin Element Text: title-peternakan-txt / Text
+msgid "PT Juang Jaya Peternakan"
+msgstr ""
+
+#. Skin Element Text: title-peternakan-txt / Logic Block Text
+msgid "PT Juang <br> Jaya <br> Peternakan"
+msgstr ""
+
+#. Skin Element Text: txt- Kampung Nelayan Ketapang / Text
+msgid "Selamat datang di Kampung Nelayan Ketapang, pusat kehidupan maritim yang ramai dan otentik di Kabupaten Lampung Selatan. Desa ini menjadi saksi aktivitas melaut sehari-hari, di mana perahu-perahu tradisional berjejer rapi menghadap perairan Selat Sunda. Ketapang terkenal sebagai tempat pelelangan ikan (TPI) yang menyediakan hasil laut segar terbaik. Pengunjung dapat merasakan suasana pasar yang dinamis, berinteraksi dengan nelayan lokal, dan membeli tangkapan segar untuk dibawa pulang. Nikmati pesona budaya bahari sambil mendukung keberlanjutan mata masyarakat pesisir."
+msgstr ""
+
+#. Skin Element Text: txt- pertanian trimomukti / Text
+msgid "Selamat datang di Kawasan Pertanian Trimomukti, pusat inovasi smart farming di Lampung Selatan Kawasan seluas 1.019 hektare di Desa Trimomukti, Kecamatan Candipuro, ini menjadi pilot project pertanian modern berbasis teknologi dari Kementerian Pertanian. Saksikan transformasi lahan menjadi zona produksi padi dan jagung berkelanjutan, lengkap dengan irigasi canggik, jalan usaha tani, dan listrik pendukung. Cocok untuk edukasi keluarga, pelajar, atau pecinta agribisnis. Nikmati tur demonstrasi, workshop petani,  dan pemandangan hijau subur. Dukung ketahanan pangan nasik dengan kunjungan Anda, rasakan sinergi alam dan teknologi di jantung Lampung!"
+msgstr ""
+
+#. Skin Element Text: txt- peternakan juang jaya / Text
+msgid "Selamat datang di Perternakan Juang Jaya, pusat peternakan sapi modern di Lampung Selatan!proses penggemukan sapi yang inovatif dan pelajari kontribusi kami untuk ketahanan pangan nasional. Berlokasi di Sidomulyo, hanya 1 jam dari Bandar Lampung, destinasi ini menawarkan tur edukatif untuk keluarga dan pelajar. Dengan fasilitas modern dan pelayanan ramah, nikmati pengalaman belajar tentang peternakan berkelanjutan. Cocok untuk yang ingin tahu lebih dalam tentang industri peternakan, Perternakan Juang Jaya siap memberikan wawasan baru. Ayo, jelajahi dunia peternakan dan dukung produk lokal bersama kami!"
+msgstr ""
+
+#. Skin Element Text: txt-category / Text
+msgid "KATEGORI"
+msgstr ""
+
+#. Skin Element Text: txt-chatbot / Text
+msgid "Chatbot"
+msgstr ""
+
+#. Skin Element Text: txt-discover Budidaya Perikanan Air / Text
+#. Skin Element Text: txt-discover PT Maju Tambak Sumur / Text
+msgid "Jelajahi"
+msgstr ""
+
+#. Skin Element Text: txt-discover juang jaya / Text
+#. Skin Element Text: txt-information pertanian / Text
+#. Skin Element Text: txt-menu Budidaya Perikanan Air / Text
+#. Skin Element Text: txt-menu PT Maju Tambak Sumur / Text
+msgid "Berita"
+msgstr ""
+
+#. Skin Element Text: txt-discover pertanian / Text
+msgid "Sejarah"
+msgstr ""
+
+#. Skin Element Text: txt-gallery Budidaya Perikanan Air / Text
+#. Skin Element Text: txt-gallery PT Maju Tambak Sumur / Text
+#. Skin Element Text: txt-gallery juang jaya / Text
+#. Skin Element Text: txt-gallery pertanian / Text
+msgid "Informasi"
+msgstr ""
+
+#. Skin Element Text: txt-information Budidaya Perikanan Air / Text
+#. Skin Element Text: txt-information PT Maju Tambak Sumur / Text
+#. Skin Element Text: txt-menu juang jaya / Text
+#. Skin Element Text: txt-menu pertanian / Text
+msgid "Tentang Kami"
+msgstr ""
+
+#. Skin Element Text: txt-information juang jaya / Text
+msgid "Fasilitas"
+msgstr ""
+

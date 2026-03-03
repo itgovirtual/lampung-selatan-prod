@@ -1,0 +1,392 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#. Skin Element Text: Assistant Text / Text
+msgid "More\n"
+msgstr ""
+
+#. Skin Element: Button Kategori / Set Value Action (Target Element: Iframe) / Text
+#. Skin Element: Button Kategori Mobile / Set Value Action (Target Element: Iframe) / Text
+msgid ""
+"<iframe src=\"../webview/kategori-id.html\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+msgstr ""
+
+#. Skin Element Text: Enable Audio? / Text
+msgid "Enable Audio?"
+msgstr ""
+
+#. Skin Element: Icon + Discover / Set Value Action (Target Element: Iframe) / Text
+#. Skin Element: Jelajah / Set Value Action (Target Element: Iframe) / Text
+msgid ""
+"<iframe src=\"../webview/discover.html?disc=3&lang=id\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+msgstr ""
+
+#. Skin Element: Icon + Info / Set Value Action (Target Element: Iframe) / Text
+#. Skin Element: Informasi / Set Value Action (Target Element: Iframe) / Text
+msgid ""
+"<iframe src=\"../webview/informasi.html?info=9&lang=id\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+msgstr ""
+
+#. Skin Element: Icon + Menu / Set Value Action (Target Element: Iframe) / Text
+msgid ""
+"<iframe src=\"../webview/menu.php?menu=30&lang=id\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+msgstr ""
+
+#. Skin Element: Icon + Public / Set Value Action (Target Element: Iframe) / Text
+msgid ""
+"<iframe src=\"../webview/publicservice.php?lang=id\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+msgstr ""
+
+#. Skin Element Text: Informasi-text / Text
+#, fuzzy
+#| msgid "Informasi"
+msgid "Informasi\n"
+msgstr "Information"
+
+#. Skin Element Text: Jelajah-text / Text
+#. Skin Element Text: Text Discover / Text
+#, fuzzy
+#| msgid "Jelajahi"
+msgid "Jelajah"
+msgstr "Discover"
+
+#. Skin Element: Menu / Set Value Action (Target Element: Iframe) / Text
+msgid ""
+"<iframe src=\"../webview/menu.php?menu=76&lang=id\"\n"
+"width=\"100%\";\n"
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+"frameborder=\"0\"></iframe>"
+msgstr ""
+
+#. Skin Element Text: Menu Tezt / Text
+#. Skin Element Text: Text Menu / Text
+msgid "Menu"
+msgstr ""
+
+#. Skin Element Text: NO / Text
+msgid "NO"
+msgstr ""
+
+#. Skin Element Text: Shop-text / Text
+msgid "Shop"
+msgstr ""
+
+#. Skin Element Text: Text 2 / Text
+msgid "X"
+msgstr ""
+
+#. Skin Element Text: Text Info / Text
+msgid "Informasi"
+msgstr "Information"
+
+#. Skin Element Text: Text Public / Text
+msgid "Layanan Publik"
+msgstr ""
+
+#. Skin Element Text: YES / Text
+msgid "YES"
+msgstr ""
+
+#. Skin Element External: ht_node_custom_image / URL
+msgid "_custom"
+msgstr ""
+
+#. Skin Element Text: popup-chatbot / Text
+msgid ""
+"  <iframe\n"
+"    src=\"https://www.chatbase.co/chatbot-iframe/ld0-XDhWz-2tI29Pd2JeU\"\n"
+"    width=\"100%\"\n"
+"    style=\"height: 100%; min-height: 100%;\"\n"
+"    frameborder=\"0\"\n"
+"></iframe>"
+msgstr ""
+
+#. Skin Element Button: skip-button_1 / Alternate Text
+msgid "Skip"
+msgstr "Skip"
+
+#. Skin Element Text: title-txt / Text
+msgid "PT Juang Jaya Peternakan"
+msgstr "Juang Jaya Livestock Company"
+
+#. Skin Element Text: txt-chatbot / Text
+msgid "Chatbot"
+msgstr "Chatbot"
+
+#. Skin Element Text: txt-welcome / Text
+#, fuzzy
+#| msgid ""
+#| "Selamat datang di Perternakan Juang Jaya, pusat peternakan sapi modern di "
+#| "Lampung Selatan! Saksikan proses penggemukan sapi yang inovatif dan "
+#| "pelajari kontribusi kami untuk ketahanan pangan nasional. Berlokasi di "
+#| "Sidomulyo, hanya 1 jam dari Bandar Lampung, destinasi ini menawarkan tur "
+#| "edukatif untuk keluarga dan pelajar. Dengan fasilitas modern dan "
+#| "pelayanan ramah, nikmati pengalaman belajar tentang peternakan "
+#| "berkelanjutan. Cocok untuk yang ingin tahu lebih dalam tentang industri "
+#| "peternakan, Perternakan Juang Jaya siap memberikan wawasan baru. Ayo, "
+#| "jelajahi dunia peternakan dan dukung produk lokal bersama kami!"
+msgid ""
+"Selamat datang di Perternakan Juang Jaya, pusat peternakan sapi modern di "
+"Lampung Selatan!proses penggemukan sapi yang inovatif dan pelajari "
+"kontribusi kami untuk ketahanan pangan nasional. Berlokasi di Sidomulyo, "
+"hanya 1 jam dari Bandar Lampung, destinasi ini menawarkan tur edukatif untuk "
+"keluarga dan pelajar. Dengan fasilitas modern dan pelayanan ramah, nikmati "
+"pengalaman belajar tentang peternakan berkelanjutan. Cocok untuk yang ingin "
+"tahu lebih dalam tentang industri peternakan, Perternakan Juang Jaya siap "
+"memberikan wawasan baru. Ayo, jelajahi dunia peternakan dan dukung produk "
+"lokal bersama kami!"
+msgstr ""
+"Welcome to Juang Jaya Farm, a modern cattle farming center in South Lampung! "
+"Witness our innovative cattle fattening process and learn about our "
+"contribution to national food security. Located in Sidomulyo, just an hour "
+"from Bandar Lampung, this destination offers educational tours for families "
+"and students. With modern facilities and friendly service, enjoy a learning "
+"experience about sustainable farming. Perfect for those curious about the "
+"livestock industry, Juang Jaya Farm is ready to provide new insights. Come "
+"explore the world of livestock farming and support local products with us!"
+
+#, fuzzy
+#~| msgid ""
+#~| "<iframe id=\"url_iframe\"\n"
+#~| "    src=\"https://lampung-selatan.govirtual.id/webview/kategori-"
+#~| "id.html\"\n"
+#~| "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~| "border:0; pointer-events:auto; opacity:1;\"\n"
+#~| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~| "  </iframe>"
+#~ msgid ""
+#~ "<iframe id=\"url_iframe\"\n"
+#~ "    src=\"../webview/kategori-id.html\"\n"
+#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~ "border:0; pointer-events:auto; opacity:1;\"\n"
+#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~ "  </iframe>"
+#~ msgstr ""
+#~ "<iframe id=\"url_iframe\"\n"
+#~ "    src=\"https://lampung-selatan.govirtual.id/webview/kategori-"
+#~ "en.html\"\n"
+#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~ "border:0; pointer-events:auto; opacity:1;\"\n"
+#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~ "  </iframe>"
+
+#, fuzzy
+#~| msgid ""
+#~| "<iframe id=\"url_iframe\"\n"
+#~| "    src=\"https://lampung-selatan.govirtual.id/webview/discover.html?"
+#~| "disc=14&lang=id\"\n"
+#~| "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~| "border:0; pointer-events:auto; opacity:1;\"\n"
+#~| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~| "  </iframe>"
+#~ msgid ""
+#~ "<iframe id=\"url_iframe\"\n"
+#~ "    src=\"../webview/discover.html?disc=14&lang=id\"\n"
+#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~ "border:0; pointer-events:auto; opacity:1;\"\n"
+#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~ "  </iframe>"
+#~ msgstr ""
+#~ "<iframe id=\"url_iframe\"\n"
+#~ "    src=\"https://lampung-selatan.govirtual.id/webview/discover.html?"
+#~ "disc=14&lang=en\"\n"
+#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~ "border:0; pointer-events:auto; opacity:1;\"\n"
+#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~ "  </iframe>"
+
+#, fuzzy
+#~| msgid ""
+#~| "<iframe id=\"url_iframe\"\n"
+#~| "    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
+#~| "info=62&lang=id\"\n"
+#~| "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~| "border:0; pointer-events:auto; opacity:1;\"\n"
+#~| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~| "  </iframe>"
+#~ msgid ""
+#~ "<iframe id=\"url_iframe\"\n"
+#~ "    src=\"../webview/informasi.html?info=62&lang=id\"\n"
+#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~ "border:0; pointer-events:auto; opacity:1;\"\n"
+#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~ "  </iframe>"
+#~ msgstr ""
+#~ "<iframe id=\"url_iframe\"\n"
+#~ "    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
+#~ "info=62&lang=en\"\n"
+#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~ "border:0; pointer-events:auto; opacity:1;\"\n"
+#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~ "  </iframe>"
+
+#, fuzzy
+#~| msgid ""
+#~| "<iframe id=\"url_iframe\"\n"
+#~| "    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
+#~| "info=9&lang=id\"\n"
+#~| "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~| "border:0; pointer-events:auto; opacity:1;\"\n"
+#~| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~| "  </iframe>"
+#~ msgid ""
+#~ "<iframe id=\"url_iframe\"\n"
+#~ "    src=\"../webview/informasi.html?info=9&lang=id\"\n"
+#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~ "border:0; pointer-events:auto; opacity:1;\"\n"
+#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~ "  </iframe>"
+#~ msgstr ""
+#~ "<iframe id=\"url_iframe\"\n"
+#~ "    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
+#~ "info=9&lang=en\"\n"
+#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~ "border:0; pointer-events:auto; opacity:1;\"\n"
+#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~ "  </iframe>"
+
+#, fuzzy
+#~| msgid ""
+#~| "<iframe id=\"url_iframe\"\n"
+#~| "    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
+#~| "info=11&lang=id\"\n"
+#~| "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~| "border:0; pointer-events:auto; opacity:1;\"\n"
+#~| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~| "  </iframe>"
+#~ msgid ""
+#~ "<iframe id=\"url_iframe\"\n"
+#~ "    src=\"../webview/informasi.html?info=11&lang=id\"\n"
+#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~ "border:0; pointer-events:auto; opacity:1;\"\n"
+#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~ "  </iframe>"
+#~ msgstr ""
+#~ "<iframe id=\"url_iframe\"\n"
+#~ "    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
+#~ "info=11&lang=en\"\n"
+#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
+#~ "border:0; pointer-events:auto; opacity:1;\"\n"
+#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
+#~ "  </iframe>"
+
+#~ msgid "Budidaya Perikanan <br> Air Tawar"
+#~ msgstr "Freshwater Fisheries <br> Aquaculture"
+
+#~ msgid "Budidaya <br> Perikanan <br> Air Tawar"
+#~ msgstr "Aquaculture <br> Fisheries <br> Freshwater"
+
+#~ msgid "PT Maju Tambak Sumur"
+#~ msgstr "PT Maju <br> Tambak Sumur"
+
+#~ msgid "PT Maju <br> Tambak <br> Sumur"
+#~ msgstr "Maju <br> Tambak <br> Sumur Company"
+
+#~ msgid "Trimomukti Pertanian"
+#~ msgstr "Trimomukti Agriculture"
+
+#~ msgid "Trimomukti <br> Pertanian"
+#~ msgstr "Trimomukti <br> Agriculture"
+
+#~ msgid "PT Juang <br> Jaya <br> Peternakan"
+#~ msgstr "Juang <br> Jaya <br> Livestock Company"
+
+#, fuzzy
+#~| msgid ""
+#~| "Selamat datang di Kampung Nelayan Ketapang, sebuah pusat kehidupan "
+#~| "maritim yang ramai dan otentik di Kabupaten Lampung Selatan. Desa ini "
+#~| "menjadi saksi aktivitas melaut sehari-hari, di mana perahu-perahu "
+#~| "tradisional berjejer rapi di tepian pantai menghadap perairan Selat "
+#~| "Sunda. Ketapang sangat terkenal sebagai tempat pelelangan ikan (TPI), "
+#~| "menyediakan hasil laut segar terbaik, mulai dari ikan hingga udang. "
+#~| "Pengunjung dapat merasakan langsung suasana pasar yang dinamis, "
+#~| "berinteraksi dengan nelayan lokal, dan membeli tangkapan segar untuk "
+#~| "dibawa pulang. Kami mengundang Anda untuk menikmati pesona budaya bahari "
+#~| "yang khas ini sambil mendukung keberlanjutan mata pencaharian masyarakat "
+#~| "pesisir."
+#~ msgid ""
+#~ "Selamat datang di Kampung Nelayan Ketapang, pusat kehidupan maritim yang "
+#~ "ramai dan otentik di Kabupaten Lampung Selatan. Desa ini menjadi saksi "
+#~ "aktivitas melaut sehari-hari, di mana perahu-perahu tradisional berjejer "
+#~ "rapi menghadap perairan Selat Sunda. Ketapang terkenal sebagai tempat "
+#~ "pelelangan ikan (TPI) yang menyediakan hasil laut segar terbaik. "
+#~ "Pengunjung dapat merasakan suasana pasar yang dinamis, berinteraksi "
+#~ "dengan nelayan lokal, dan membeli tangkapan segar untuk dibawa pulang. "
+#~ "Nikmati pesona budaya bahari sambil mendukung keberlanjutan mata "
+#~ "masyarakat pesisir."
+#~ msgstr ""
+#~ "Welcome to Ketapang Fishing Village, a bustling and authentic center of "
+#~ "maritime life in South Lampung Regency. This village is a witness to "
+#~ "daily fishing activities, where traditional boats line up neatly along "
+#~ "the shore overlooking the Sunda Strait. Ketapang is renowned as a fish "
+#~ "auction site (TPI), providing the finest fresh seafood, from fish to "
+#~ "shrimp. Visitors can experience the vibrant market atmosphere, interact "
+#~ "with local fishermen, and purchase fresh catches to take home. We invite "
+#~ "you to experience the charm of this unique maritime culture while "
+#~ "supporting the sustainable livelihoods of coastal communities."
+
+#~ msgid ""
+#~ "Selamat datang di Kawasan Pertanian Trimomukti, pusat inovasi smart "
+#~ "farming di Lampung Selatan Kawasan seluas 1.019 hektare di Desa "
+#~ "Trimomukti, Kecamatan Candipuro, ini menjadi pilot project pertanian "
+#~ "modern berbasis teknologi dari Kementerian Pertanian. Saksikan "
+#~ "transformasi lahan menjadi zona produksi padi dan jagung berkelanjutan, "
+#~ "lengkap dengan irigasi canggik, jalan usaha tani, dan listrik pendukung. "
+#~ "Cocok untuk edukasi keluarga, pelajar, atau pecinta agribisnis. Nikmati "
+#~ "tur demonstrasi, workshop petani,  dan pemandangan hijau subur. Dukung "
+#~ "ketahanan pangan nasik dengan kunjungan Anda, rasakan sinergi alam dan "
+#~ "teknologi di jantung Lampung!"
+#~ msgstr ""
+#~ "Welcome to the Trimomukti Agricultural Area, a smart farming innovation "
+#~ "center in South Lampung. This 1,019-hectare area in Trimomukti Village, "
+#~ "Candipuro District, is a pilot project for modern, technology-based "
+#~ "agriculture from the Ministry of Agriculture. Witness the transformation "
+#~ "of land into a sustainable rice and corn production zone, complete with "
+#~ "sophisticated irrigation, farm roads, and supporting electricity. "
+#~ "Suitable for family education, students, or agribusiness enthusiasts. "
+#~ "Enjoy demonstration tours, farmer workshops, and lush green scenery. "
+#~ "Support rice food security with your visit, experience the synergy of "
+#~ "nature and technology in the heart of Lampung!"
+
+#~ msgid "KATEGORI"
+#~ msgstr "CATEGORY"
+
+#~ msgid "Berita"
+#~ msgstr "News"
+
+#~ msgid "Sejarah"
+#~ msgstr "History"
+
+#~ msgid "Tentang Kami"
+#~ msgstr "About Us"
+
+#~ msgid "Fasilitas"
+#~ msgstr "Facility"
+
+#~ msgid "Hubungi Kami"
+#~ msgstr "Contact Us"
