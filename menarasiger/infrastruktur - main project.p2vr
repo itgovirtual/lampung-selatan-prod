@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <start>node26</start>
     <panorama>
@@ -167,7 +167,7 @@
           <title>Pulau Umang-umang (Est. 2 jam)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lampung-selatan.govirtual.id/tourism2/index.html#PulauUmangUmang</url>
+          <url>https://lampung-selatan.govirtual.id/pulauumang</url>
           <skinid>hotspot-link-other_link</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -181,8 +181,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-153.55</pan>
-            <tilt>8.38</tilt>
+            <pan>-146.54</pan>
+            <tilt>7.95</tilt>
             <fov>9</fov>
           </position>
           <next>
@@ -196,7 +196,7 @@
           <title>Lamban Balak Bandar Marga Legun (Est. 50 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lampung-selatan.govirtual.id/culture/index.html#BandarMargaLegun</url>
+          <url>https://lampung-selatan.govirtual.id/margalegun</url>
           <skinid>hotspot-link-other_link</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -210,8 +210,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-208.26</pan>
-            <tilt>8.14</tilt>
+            <pan>-209.21</pan>
+            <tilt>7.34</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -225,7 +225,7 @@
           <title>Peternakan Juang Jaya (Est. 45 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lampung-selatan.govirtual.id/agriculture/index.html#PeternakanJuangJaya</url>
+          <url>https://lampung-selatan.govirtual.id/agriculture/ptjuangjaya</url>
           <skinid>hotspot-link-other_link</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -239,8 +239,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-178.48</pan>
-            <tilt>9.39</tilt>
+            <pan>-179.77</pan>
+            <tilt>8.49</tilt>
             <fov>9</fov>
           </position>
           <next>
@@ -254,7 +254,7 @@
           <title>Trimomukti Agrikultur (1 Jam 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lampung-selatan.govirtual.id/agriculture/index.html#PertanianTrimomukti</url>
+          <url>https://lampung-selatan.govirtual.id/trimomukti</url>
           <skinid>hotspot-link-other_link</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2636,18 +2636,18 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>-75.25</start>
+          <start>-81.64</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>13.33</start>
+          <start>6.85</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
           <max>126</max>
-          <start>130</start>
+          <start>139.75</start>
           <minunit>pixels</minunit>
           <maxfovstereographic>330</maxfovstereographic>
           <maxfovfisheye>360</maxfovfisheye>
@@ -2661,7 +2661,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2025-12-10T23:36:44</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-03-03T14:54:08</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -3370,7 +3370,7 @@
         <hideaboutbox>1</hideaboutbox>
         <dblclickfullscreen>1</dblclickfullscreen>
         <invertwheel>1</invertwheel>
-        <leveltilesize>1024</leveltilesize>
+        <leveltilesize>512</leveltilesize>
         <windowwidth>1920</windowwidth>
         <windowheight>1080</windowheight>
         <projectionscontext>0</projectionscontext>
