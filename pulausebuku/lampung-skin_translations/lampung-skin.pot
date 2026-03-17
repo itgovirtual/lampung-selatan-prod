@@ -1,7 +1,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"X-Source-Language: id-ID"
+"X-Source-Language: id"
 
 #. Skin Element Text: Assistant Text / Text
 msgid "More\n"
@@ -13,7 +13,7 @@ msgid "<iframe src=\"../webview/kategori-id.html\"\nwidth=\"100%\";\nstyle=\"hei
 msgstr ""
 
 #. Skin Element Text: Enable Audio? / Text
-msgid "Enable Audio?"
+msgid "Aktifkan Audio?"
 msgstr ""
 
 #. Skin Element: Icon + Discover / Set Value Action (Target Element: Iframe) / Text
@@ -53,7 +53,7 @@ msgid "Menu"
 msgstr ""
 
 #. Skin Element Text: NO / Text
-msgid "NO"
+msgid "Tidak"
 msgstr ""
 
 #. Skin Element Text: Shop-text / Text
@@ -73,7 +73,7 @@ msgid "Layanan Publik"
 msgstr ""
 
 #. Skin Element Text: YES / Text
-msgid "YES"
+msgid "Ya"
 msgstr ""
 
 #. Skin Element External: ht_node_custom_image / URL

@@ -2803,13 +2803,13 @@
         <anchor/>
       </floorplangrid>
       <usenodealtitude>0</usenodealtitude>
-      <language>id-ID</language>
+      <language>id</language>
       <translatehotspotmedia>1</translatehotspotmedia>
       <translatepinnedmedia>1</translatepinnedmedia>
       <translationspath>translations</translationspath>
       <fovmode>horizontal</fovmode>
       <translationsavailable>
-        <value id="Project">id-ID</value>
+        <value id="Project">id</value>
         <value id="ar.po">ar</value>
         <value id="en.po">en</value>
         <value id="nl.po">nl</value>

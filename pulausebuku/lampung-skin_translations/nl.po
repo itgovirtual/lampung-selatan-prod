@@ -13,7 +13,7 @@ msgstr ""
 
 #. Skin Element Text: Assistant Text / Text
 msgid "More\n"
-msgstr ""
+msgstr "Meer\n"
 
 #. Skin Element: Button Kategori / Set Value Action (Target Element: Iframe) / Text
 #. Skin Element: Button Kategori Mobile / Set Value Action (Target Element: Iframe) / Text
@@ -29,8 +29,8 @@ msgstr ""
 "frameborder=\"0\"></iframe>"
 
 #. Skin Element Text: Enable Audio? / Text
-msgid "Enable Audio?"
-msgstr ""
+msgid "Aktifkan Audio?"
+msgstr "Audio Inschakelen?"
 
 #. Skin Element: Icon + Discover / Set Value Action (Target Element: Iframe) / Text
 #. Skin Element: Jelajah / Set Value Action (Target Element: Iframe) / Text
@@ -111,8 +111,8 @@ msgid "Menu"
 msgstr "Menu"
 
 #. Skin Element Text: NO / Text
-msgid "NO"
-msgstr ""
+msgid "Tidak"
+msgstr "Nee"
 
 #. Skin Element Text: Shop-text / Text
 msgid "Shop"
@@ -131,7 +131,7 @@ msgid "Layanan Publik"
 msgstr "Openbare dienst"
 
 #. Skin Element Text: YES / Text
-msgid "YES"
+msgid "Ya"
 msgstr ""
 
 #. Skin Element External: ht_node_custom_image / URL
@@ -181,6 +181,15 @@ msgstr ""
 "ervaring in de Straat Soenda. Met basisvoorzieningen en gemakkelijke toegang "
 "is dit eiland klaar om u te verwennen met onderwaterpracht en een serene "
 "sfeer. Kom langs en creëer hier onvergetelijke momenten!"
+
+#~ msgid "Enable Audio?"
+#~ msgstr "Audio Inschakelen?"
+
+#~ msgid "NO"
+#~ msgstr "Nee"
+
+#~ msgid "YES"
+#~ msgstr "Ja"
 
 #~ msgid ""
 #~ "<iframe id=\"url_iframe\"\n"

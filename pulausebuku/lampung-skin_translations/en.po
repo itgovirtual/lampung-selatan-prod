@@ -29,8 +29,8 @@ msgstr ""
 "frameborder=\"0\"></iframe>"
 
 #. Skin Element Text: Enable Audio? / Text
-msgid "Enable Audio?"
-msgstr ""
+msgid "Aktifkan Audio?"
+msgstr "Enable Audio?"
 
 #. Skin Element: Icon + Discover / Set Value Action (Target Element: Iframe) / Text
 #. Skin Element: Jelajah / Set Value Action (Target Element: Iframe) / Text
@@ -113,8 +113,8 @@ msgid "Menu"
 msgstr ""
 
 #. Skin Element Text: NO / Text
-msgid "NO"
-msgstr ""
+msgid "Tidak"
+msgstr "No"
 
 #. Skin Element Text: Shop-text / Text
 msgid "Shop"
@@ -133,8 +133,8 @@ msgid "Layanan Publik"
 msgstr "Public Service"
 
 #. Skin Element Text: YES / Text
-msgid "YES"
-msgstr ""
+msgid "Ya"
+msgstr "Yes"
 
 #. Skin Element External: ht_node_custom_image / URL
 msgid "_custom"
