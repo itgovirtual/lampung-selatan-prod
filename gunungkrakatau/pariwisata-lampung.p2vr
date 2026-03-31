@@ -4571,8 +4571,8 @@
           <enabled>1</enabled>
           <filename>C:/xampp/htdocs/output/lampung/gunungkrakatau/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -4605,12 +4605,13 @@
         <leveltileformat>1</leveltileformat>
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
         <cubefilename>images/$n_o.webp</cubefilename>
-        <smoothhsmovement>0</smoothhsmovement>
+        <smoothhsmovement>1</smoothhsmovement>
         <projectionscontext>0</projectionscontext>
         <quality>50</quality>
         <leveltilesize>512</leveltilesize>
         <windowwidth>1920</windowwidth>
         <windowheight>1080</windowheight>
+        <previewresolution>8</previewresolution>
       </htmlcss>
     </output>
     <streetview/>
