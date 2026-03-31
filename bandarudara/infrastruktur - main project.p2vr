@@ -4641,8 +4641,8 @@
           <enabled>1</enabled>
           <filename>C:/xampp/htdocs/output/lampung/bandarudara/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -4675,11 +4675,12 @@
         <hideaboutbox>1</hideaboutbox>
         <dblclickfullscreen>1</dblclickfullscreen>
         <invertwheel>1</invertwheel>
-        <leveltilesize>1024</leveltilesize>
+        <leveltilesize>512</leveltilesize>
         <windowwidth>1920</windowwidth>
         <windowheight>1080</windowheight>
         <projectionscontext>0</projectionscontext>
-        <sensitivity>13</sensitivity>
+        <sensitivity>8</sensitivity>
+        <previewresolution>8</previewresolution>
       </htmlcss>
       <placeidcache>{"entries":[]}</placeidcache>
     </output>
