@@ -255,8 +255,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-18.61</pan>
-            <tilt>9.5</tilt>
+            <pan>-18.67</pan>
+            <tilt>8.8</tilt>
             <fov>8</fov>
           </position>
           <next>
@@ -284,8 +284,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-316.92</pan>
-            <tilt>9.41</tilt>
+            <pan>-312.36</pan>
+            <tilt>8.26</tilt>
             <fov>8</fov>
           </position>
           <next>
@@ -313,8 +313,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-331.44</pan>
-            <tilt>9.02</tilt>
+            <pan>-331.3</pan>
+            <tilt>8.38</tilt>
             <fov>8</fov>
           </position>
           <next>
@@ -2201,8 +2201,8 @@
           <enabled>1</enabled>
           <filename>C:/xampp/htdocs/output/lampung/bakauheni/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -2235,11 +2235,12 @@
         <hideaboutbox>1</hideaboutbox>
         <dblclickfullscreen>1</dblclickfullscreen>
         <invertwheel>1</invertwheel>
-        <leveltilesize>1024</leveltilesize>
+        <leveltilesize>512</leveltilesize>
         <windowwidth>1920</windowwidth>
         <windowheight>1080</windowheight>
         <projectionscontext>0</projectionscontext>
-        <sensitivity>13</sensitivity>
+        <sensitivity>8</sensitivity>
+        <previewresolution>8</previewresolution>
       </htmlcss>
       <placeidcache>{"entries":[]}</placeidcache>
     </output>
