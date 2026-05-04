@@ -2025,8 +2025,8 @@
           <enabled>1</enabled>
           <filename>C:/xampp/htdocs/output/lampung/margalegun/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -2060,7 +2060,9 @@
         <dblclickfullscreen>1</dblclickfullscreen>
         <quality>50</quality>
         <leveltilesize>512</leveltilesize>
-        <sensitivity>13</sensitivity>
+        <sensitivity>8</sensitivity>
+        <smoothhsmovement>1</smoothhsmovement>
+        <previewresolution>8</previewresolution>
       </htmlcss>
     </output>
     <streetview/>
