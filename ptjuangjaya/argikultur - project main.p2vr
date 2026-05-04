@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <start>node58</start>
     <panorama>
@@ -2438,8 +2438,8 @@
           <enabled>1</enabled>
           <filename>C:/xampp/htdocs/output/lampung/ptjuangjaya/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -2482,9 +2482,10 @@
         <quality>50</quality>
         <leveltilesize>512</leveltilesize>
         <projectionscontext>0</projectionscontext>
-        <sensitivity>13</sensitivity>
+        <sensitivity>8</sensitivity>
         <windowwidth>1920</windowwidth>
         <windowheight>1020</windowheight>
+        <smoothhsmovement>1</smoothhsmovement>
       </htmlcss>
       <placeidcache>{"entries":[]}</placeidcache>
     </output>
