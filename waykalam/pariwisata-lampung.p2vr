@@ -1862,7 +1862,7 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
-        <videofile></videofile>
+        <videofile/>
         <urlsafevideofile>videopanorama.</urlsafevideofile>
         <startonload>0</startonload>
       </input>
@@ -2001,7 +2001,7 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
-        <videofile></videofile>
+        <videofile/>
         <urlsafevideofile>videopanorama.</urlsafevideofile>
         <startonload>0</startonload>
       </input>
@@ -2141,7 +2141,7 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
-        <videofile></videofile>
+        <videofile/>
         <urlsafevideofile>videopanorama.</urlsafevideofile>
         <startonload>0</startonload>
       </input>
@@ -2281,7 +2281,7 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
-        <videofile></videofile>
+        <videofile/>
         <urlsafevideofile>videopanorama.</urlsafevideofile>
         <startonload>0</startonload>
       </input>
@@ -2420,7 +2420,7 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
-        <videofile></videofile>
+        <videofile/>
         <urlsafevideofile>videopanorama.</urlsafevideofile>
         <startonload>0</startonload>
       </input>
@@ -2618,7 +2618,7 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
-        <videofile></videofile>
+        <videofile/>
         <urlsafevideofile>videopanorama.</urlsafevideofile>
         <startonload>0</startonload>
       </input>
@@ -2728,7 +2728,7 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
-        <videofile></videofile>
+        <videofile/>
         <urlsafevideofile>videopanorama.</urlsafevideofile>
         <startonload>0</startonload>
       </input>
@@ -2867,7 +2867,7 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
-        <videofile></videofile>
+        <videofile/>
         <urlsafevideofile>videopanorama.</urlsafevideofile>
         <startonload>0</startonload>
       </input>
@@ -3005,7 +3005,7 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
-        <videofile></videofile>
+        <videofile/>
         <urlsafevideofile>videopanorama.</urlsafevideofile>
         <startonload>0</startonload>
       </input>
@@ -3143,7 +3143,7 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
-        <videofile></videofile>
+        <videofile/>
         <urlsafevideofile>videopanorama.</urlsafevideofile>
         <startonload>0</startonload>
       </input>
@@ -3281,7 +3281,7 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
-        <videofile></videofile>
+        <videofile/>
         <urlsafevideofile>videopanorama.</urlsafevideofile>
         <startonload>0</startonload>
       </input>
@@ -3473,7 +3473,7 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
-        <videofile></videofile>
+        <videofile/>
         <urlsafevideofile>videopanorama.</urlsafevideofile>
         <startonload>0</startonload>
       </input>
@@ -3632,7 +3632,7 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
-        <videofile></videofile>
+        <videofile/>
         <urlsafevideofile>videopanorama.</urlsafevideofile>
         <startonload>0</startonload>
       </input>
@@ -3764,7 +3764,7 @@
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
         <startonload>0</startonload>
-        <videofile></videofile>
+        <videofile/>
         <urlsafevideofile>videopanorama.</urlsafevideofile>
       </input>
       <viewingparameter>
@@ -3900,7 +3900,7 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
-        <videofile></videofile>
+        <videofile/>
         <urlsafevideofile>videopanorama.</urlsafevideofile>
         <startonload>0</startonload>
       </input>
@@ -4037,7 +4037,7 @@
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
-        <videofile></videofile>
+        <videofile/>
         <urlsafevideofile>videopanorama.</urlsafevideofile>
         <startonload>0</startonload>
       </input>
@@ -4218,8 +4218,8 @@
           <enabled>1</enabled>
           <filename>C:/xampp/htdocs/output/lampung/waykalam/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -4248,14 +4248,14 @@
         <hideaboutbox>1</hideaboutbox>
         <invertwheel>1</invertwheel>
         <dblclickfullscreen>1</dblclickfullscreen>
-        <sensitivity>13</sensitivity>
+        <sensitivity>8</sensitivity>
         <leveltileformat>1</leveltileformat>
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
         <cubefilename>images/$n_o.webp</cubefilename>
         <smoothhsmovement>1</smoothhsmovement>
         <projectionscontext>0</projectionscontext>
         <quality>50</quality>
-        <leveltilesize>1024</leveltilesize>
+        <leveltilesize>510</leveltilesize>
         <windowwidth>1920</windowwidth>
         <windowheight>1080</windowheight>
       </htmlcss>
