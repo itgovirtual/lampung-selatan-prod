@@ -15,17 +15,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>-34.7</start>
+          <start>-99.75</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>-6.36</start>
+          <start>-29.51</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>88.45</start>
+          <start>144.6</start>
           <minunit>pixels</minunit>
           <max>140</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -40,7 +40,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2025-12-16T09:26:07</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-05-04T11:43:08</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <capturedatetime>2025-12-05T09:58:50</capturedatetime>
@@ -195,9 +195,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-347.89</pan>
-            <tilt>10.5</tilt>
-            <fov>15</fov>
+            <pan>-347.87</pan>
+            <tilt>7.86</tilt>
+            <fov>10.88</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -252,6 +252,30 @@
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-354.19</pan>
+            <tilt>-0.04</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -2609,8 +2633,8 @@
           <enabled>1</enabled>
           <filename>C:/xampp/htdocs/output/lampung/riobythebeach/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -2639,16 +2663,17 @@
         <hideaboutbox>1</hideaboutbox>
         <invertwheel>1</invertwheel>
         <dblclickfullscreen>1</dblclickfullscreen>
-        <sensitivity>13</sensitivity>
+        <sensitivity>8</sensitivity>
         <leveltileformat>1</leveltileformat>
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
         <cubefilename>images/$n_o.webp</cubefilename>
         <smoothhsmovement>1</smoothhsmovement>
         <projectionscontext>0</projectionscontext>
         <quality>50</quality>
-        <leveltilesize>1024</leveltilesize>
+        <leveltilesize>510</leveltilesize>
         <windowwidth>1920</windowwidth>
         <windowheight>1080</windowheight>
+        <previewresolution>8</previewresolution>
       </htmlcss>
     </output>
     <streetview/>
