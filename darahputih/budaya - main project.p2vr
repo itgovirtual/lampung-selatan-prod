@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <panorama>
       <projectsettings>
@@ -321,13 +321,33 @@
         <urlsafevideofile>Lambak Balan Keratuan Darah Putih Dance Putri.webm</urlsafevideofile>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>1.42</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-23.23</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>117.02</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-05-04T10:29:29</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -975,8 +995,8 @@
           <enabled>1</enabled>
           <filename>C:/xampp/htdocs/output/lampung/darahputih/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -1009,8 +1029,10 @@
         <invertwheel>1</invertwheel>
         <dblclickfullscreen>1</dblclickfullscreen>
         <quality>50</quality>
-        <leveltilesize>1024</leveltilesize>
-        <sensitivity>13</sensitivity>
+        <leveltilesize>510</leveltilesize>
+        <sensitivity>8</sensitivity>
+        <smoothhsmovement>1</smoothhsmovement>
+        <previewresolution>8</previewresolution>
       </htmlcss>
     </output>
     <streetview/>
