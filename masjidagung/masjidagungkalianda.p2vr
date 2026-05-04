@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <panorama>
       <projectsettings>
@@ -4039,10 +4039,10 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>output-final/index.html</filename>
+          <filename>C:/xampp/htdocs/output/lampung/masjidagung/index.html</filename>
           <values>
-            <value id="cachebust">true</value>
-            <value id="css"/>
+            <value id="cachebust">false</value>
+            <value id="css"></value>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
@@ -4066,7 +4066,7 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>3600</tilesize>
-        <filename>output-final/pano.xml</filename>
+        <filename>C:/xampp/htdocs/output/lampung/masjidagung/pano.xml</filename>
         <skinfile>$d/lampung-skin-religi.ggsk</skinfile>
         <leveltileformat>1</leveltileformat>
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
@@ -4077,8 +4077,10 @@
         <hideaboutbox>1</hideaboutbox>
         <sensitivity>13</sensitivity>
         <dblclickfullscreen>1</dblclickfullscreen>
-        <leveltilesize>1024</leveltilesize>
+        <leveltilesize>510</leveltilesize>
         <invertwheel>1</invertwheel>
+        <previewresolution>8</previewresolution>
+        <smoothhsmovement>1</smoothhsmovement>
       </htmlcss>
     </output>
     <streetview/>
