@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <start>node220</start>
     <panorama>
@@ -2006,19 +2006,42 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
-        <fov/>
-        <flyinstart/>
+        <pan>
+          <start>-29.3</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>8.16</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
+        <fov>
+          <start>141.82</start>
+          <minunit>pixels</minunit>
+          <max>140</max>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
+        </fov>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>304.56</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-05-05T11:19:42</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2025-12-07T19:33:51</capturedatetime>
         <latitude>-5.936387</latitude>
         <longitude>105.509992</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <tags>PulauSebesi</tags>
+        <customnodeid>cootage</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
