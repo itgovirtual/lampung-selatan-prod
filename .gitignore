@@ -1,6 +1,8 @@
 /*
 !.gitignore
 !/trimomukti
+/trimomukti/audio/
+/trimomukti/assets/
 /trimomukti/panorama/
 /trimomukti/video/
 /trimomukti/video 360/
