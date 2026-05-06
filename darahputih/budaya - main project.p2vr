@@ -588,13 +588,33 @@
         <urlsafevideofile>Lambak Balan Keratuan Darah Putih Dance Putri.webm</urlsafevideofile>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>103.13</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-14.65</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>117.02</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-05-06T10:15:57</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -604,6 +624,8 @@
         <tags>LambanBalakKeratuanDarahPutih</tags>
         <latitude>-5.73500366</latitude>
         <longitude>105.66188378</longitude>
+        <altitude>-3048</altitude>
+        <customnodeid>penerimaantamu</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
