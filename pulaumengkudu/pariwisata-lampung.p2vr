@@ -519,17 +519,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>108.19</start>
+          <start>-7.39</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0.57</start>
+          <start>2.15</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>100</start>
+          <start>117.02</start>
           <minunit>pixels</minunit>
           <max>140</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -544,16 +544,17 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2025-12-05T17:04:48</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-05-05T15:46:57</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2025-12-05T10:10:48</capturedatetime>
         <latitude>-5.847990</latitude>
         <longitude>105.684593</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <copyright>govirtual</copyright>
         <tags>pulaumengkudu</tags>
+        <customnodeid>fasilitasperibadatan</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1413,17 +1414,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>-158.19</start>
+          <start>-100.34</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>2.44</start>
+          <start>-5.37</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>100</start>
+          <start>136.93</start>
           <minunit>pixels</minunit>
           <max>140</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -1438,16 +1439,17 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2025-12-05T17:05:38</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-05-05T15:48:42</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2025-12-05T10:10:48</capturedatetime>
         <latitude>-5.847990</latitude>
         <longitude>105.684593</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <copyright>govirtual</copyright>
         <tags>pulaumengkudu</tags>
+        <customnodeid>saungpendopo</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2116,8 +2118,9 @@
         <capturedatetime>2025-12-05T10:10:48</capturedatetime>
         <latitude>-5.847990</latitude>
         <longitude>105.684593</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <tags>pulaumengkudu</tags>
+        <customnodeid>jembatanpenghubung</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2243,17 +2246,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>-98.7</start>
+          <start>-0.88</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>1.87</start>
+          <start>-2.76</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>100</start>
+          <start>143.89</start>
           <minunit>pixels</minunit>
           <max>140</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -2268,16 +2271,17 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2025-12-05T17:06:17</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-05-05T15:49:50</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2021-03-11T22:02:53</capturedatetime>
         <latitude>-5.847990</latitude>
         <longitude>105.684593</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <datetime>3/11/2021 10:02 PM</datetime>
         <tags>pulaumengkudu</tags>
+        <customnodeid>shelter</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -4059,7 +4063,7 @@
           <filename>C:/xampp/htdocs/output/lampung/pulaumengkudu/index.html</filename>
           <values>
             <value id="cachebust">false</value>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
