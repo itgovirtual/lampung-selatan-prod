@@ -326,13 +326,33 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>-65.84</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-1.18</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>128.69</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-05-06T10:26:30</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -342,6 +362,7 @@
         <latitude>-5.60580420</latitude>
         <altitude>-3048</altitude>
         <longitude>105.50056274</longitude>
+        <customnodeid>ruangganti</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1095,13 +1116,33 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>-2.97</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-10.08</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>139.2</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-05-06T10:35:34</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -1347,13 +1388,33 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>-8.86</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>0.16</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>139.2</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-05-06T10:24:36</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -1363,6 +1424,7 @@
         <latitude>-5.60580420</latitude>
         <altitude>-3048</altitude>
         <longitude>105.50056274</longitude>
+        <customnodeid>office</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1425,13 +1487,33 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>-124.36</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>1.72</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>139.2</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-05-06T10:23:28</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -1441,6 +1523,7 @@
         <latitude>-5.60580420</latitude>
         <altitude>-3048</altitude>
         <longitude>105.50056274</longitude>
+        <customnodeid>gerbangkeamanan</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1891,13 +1974,33 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>165.43</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-1.86</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>139.2</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-05-06T10:23:00</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -1907,6 +2010,7 @@
         <latitude>-5.60580420</latitude>
         <altitude>-3048</altitude>
         <longitude>105.50056274</longitude>
+        <customnodeid>ruangvip</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2135,13 +2239,33 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>140.34</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-0.46</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <max>126</max>
+          <start>128.69</start>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-05-06T10:25:32</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -2151,6 +2275,7 @@
         <latitude>-5.60580420</latitude>
         <altitude>-3048</altitude>
         <longitude>105.50056274</longitude>
+        <customnodeid>mess</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2439,7 +2564,7 @@
           <filename>C:/xampp/htdocs/output/lampung/ptjuangjaya/index.html</filename>
           <values>
             <value id="cachebust">false</value>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
