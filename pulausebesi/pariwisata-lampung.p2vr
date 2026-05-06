@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <start>node220</start>
     <panorama>
@@ -3515,17 +3515,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>26.67</start>
+          <start>-63.01</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>-2.14</start>
+          <start>12.95</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>100</start>
+          <start>121.2</start>
           <minunit>pixels</minunit>
           <max>140</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -3540,7 +3540,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2025-12-07T22:09:41</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-05-06T09:49:11</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -3549,7 +3549,7 @@
         <longitude>105.509992</longitude>
         <altitude>-3048</altitude>
         <tags>PulauSebesi</tags>
-        <customnodeid/>
+        <customnodeid>pelabuhan</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -3612,19 +3612,42 @@
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
-        <fov/>
-        <flyinstart/>
+        <pan>
+          <start>-41.09</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-17.31</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
+        <fov>
+          <start>121.2</start>
+          <minunit>pixels</minunit>
+          <max>140</max>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
+        </fov>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>304.56</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-05-06T09:48:13</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2025-12-07T19:33:52</capturedatetime>
         <latitude>-5.936387</latitude>
         <longitude>105.509992</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <tags>PulauSebesi</tags>
+        <customnodeid></customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
