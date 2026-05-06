@@ -293,6 +293,7 @@
         <latitude>-5.73202201</latitude>
         <longitude>105.59057850</longitude>
         <altitude>-3048</altitude>
+        <customnodeid>lambanbalak</customnodeid>
       </userdata>
       <projectsettings>
         <userdata>
@@ -777,17 +778,32 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>-180</start>
+          <start>-46.11</start>
+          <min>0</min>
+          <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>3.57</start>
+          <min>-90</min>
+          <max>90</max>
         </tilt>
         <fov>
-          <start>130</start>
+          <start>122.54</start>
           <max>126</max>
+          <minunit>pixels</minunit>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-05-06T10:07:33</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -797,6 +813,7 @@
         <latitude>-5.73202201</latitude>
         <longitude>105.59057850</longitude>
         <altitude>-3048</altitude>
+        <customnodeid>galeri</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2026,7 +2043,7 @@
           <filename>C:/xampp/htdocs/output/lampung/margalegun/index.html</filename>
           <values>
             <value id="cachebust">false</value>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
