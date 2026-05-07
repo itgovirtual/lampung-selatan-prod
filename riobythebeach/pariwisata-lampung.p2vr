@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
-    <start>node60</start>
+    <start>node61</start>
     <panorama>
       <id>node60</id>
       <input>
@@ -306,17 +306,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>3.82</start>
+          <start>-3.17</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0.42</start>
+          <start>1.19</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>119.15</start>
+          <start>158.76</start>
           <minunit>pixels</minunit>
           <max>140</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -331,7 +331,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2025-12-05T10:52:04</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-05-07T11:10:48</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -2634,7 +2634,7 @@
           <filename>C:/xampp/htdocs/output/lampung/riobythebeach/index.html</filename>
           <values>
             <value id="cachebust">false</value>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
