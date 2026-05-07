@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <start>node212</start>
     <panorama>
@@ -4421,7 +4421,7 @@
           <title>Pelabuan Bakauheni (Est. 3 Jam)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lampung-selatan.govirtual.id/infrastructure/index.html#Bakauheni</url>
+          <url>https://lampung-selatan.govirtual.id/bakauheni</url>
           <target>_self</target>
           <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
