@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <start>node26</start>
     <panorama>
@@ -225,7 +225,7 @@
           <title>Peternakan Juang Jaya (Est. 45 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lampung-selatan.govirtual.id/agriculture/ptjuangjaya</url>
+          <url>https://lampung-selatan.govirtual.id/ptjuangjaya</url>
           <skinid>hotspot-link-other_link</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -385,12 +385,12 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>0.9</start>
+          <start>109.734</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>-7.04</start>
+          <start>-10.4838</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
@@ -410,7 +410,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2026-02-25T14:58:45</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-05-07T11:36:41</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -499,7 +499,7 @@
           <title>Peternakan Juang Jaya (Est. 45 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lampung-selatan.govirtual.id/agriculture/index.html#PeternakanJuangJaya</url>
+          <url>https://lampung-selatan.govirtual.id/ptjuangjaya</url>
           <skinid>hotspot-link-other_link</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -513,8 +513,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-26.38</pan>
-            <tilt>8.14</tilt>
+            <pan>-26.23</pan>
+            <tilt>8.15</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -528,7 +528,7 @@
           <title>Trimomukti Agrikultur (1 Jam 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lampung-selatan.govirtual.id/agriculture/index.html#PertanianTrimomukti</url>
+          <url>https://lampung-selatan.govirtual.id/trimomukti</url>
           <skinid>hotspot-link-other_link</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -557,7 +557,7 @@
           <title>Pulau Umang-umang (Est. 2 jam)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lampung-selatan.govirtual.id/tourism3/index.html#PulauUmangUmang</url>
+          <url>https://lampung-selatan.govirtual.id/pulauumang</url>
           <skinid>hotspot-link-other_link</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -3337,7 +3337,7 @@
           <filename>C:/xampp/htdocs/output/lampung/menarasiger/index.html</filename>
           <values>
             <value id="cachebust">false</value>
-            <value id="css"></value>
+            <value id="css"/>
             <value id="fitcover">false</value>
             <value id="htmltitle">$(upt)</value>
             <value id="jsxml">false</value>
