@@ -210,6 +210,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU-2.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -1330,7 +1331,7 @@
       <sounds>
         <sound>
           <position>
-            <pan>-63.08</pan>
+            <pan>-61.74</pan>
             <tilt>-2.86</tilt>
           </position>
           <videorect>
@@ -4684,6 +4685,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU-2.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -5413,6 +5415,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU-2.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
