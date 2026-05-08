@@ -3647,7 +3647,7 @@
         <longitude>105.509992</longitude>
         <altitude>-3048</altitude>
         <tags>PulauSebesi</tags>
-        <customnodeid></customnodeid>
+        <customnodeid/>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -4034,6 +4034,34 @@
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-19.17</pan>
+            <tilt>9.63</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Pulau Sebuku (Est. 1 Jam 30 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspo_location_kategori</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/Pulau Sebeku.png</customimage>
+          <urlsafecustomimage>Pulau Sebeku.png</urlsafecustomimage>
+          <use3d>0</use3d>
+          <width>162</width>
+          <height>253</height>
         </hotspot>
       </hotspots>
       <output/>
