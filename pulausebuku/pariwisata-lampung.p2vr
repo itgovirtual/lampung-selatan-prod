@@ -49,7 +49,7 @@
           <tilt>-90</tilt>
           <fov>170</fov>
         </flyinstart>
-        <pannorth>0</pannorth>
+        <pannorth>-22</pannorth>
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
@@ -96,30 +96,6 @@
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-342.28</pan>
-            <tilt>-10.99</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <customprops/>
-          <polygon/>
-          <id>Point02</id>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <type>point</type>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
         </hotspot>
         <hotspot>
           <position>
@@ -209,12 +185,252 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-350.44</pan>
+            <tilt>-2.11</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point05</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspot_oi_polygon</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/INFOOO.gif</customimage>
+          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>900</width>
+          <height>900</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-40.39</pan>
+            <tilt>-18.71</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point07</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspot_oi_polygon4</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/INFOOO.gif</customimage>
+          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>900</width>
+          <height>900</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-250.53</pan>
+            <tilt>-9.17</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point08</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspot_oi_polygon10</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/INFOOO.gif</customimage>
+          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>900</width>
+          <height>900</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-233.24</pan>
+            <tilt>7.33</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point09</id>
+          <title>Gunung Krakatau (Est. 2 Jam)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspot-link-other</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/L_Ibu Krakatau_HLL-02.png</customimage>
+          <urlsafecustomimage>L_Ibu Krakatau_HLL-02.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>162</width>
+          <height>253</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-40.23</pan>
+            <tilt>7.25</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>Gunung Rajabasa (Est. 2 Jam)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspot-link-other</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/L_Gunung Rajabasa_HLL.png</customimage>
+          <urlsafecustomimage>L_Gunung Rajabasa_HLL.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>162</width>
+          <height>253</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-10.73</pan>
+            <tilt>-0.560001</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>30</fov>
+            <stretch>100</stretch>
+            <dimx>1000</dimx>
+            <dimy>1000</dimy>
+          </videorect>
+          <type>webelement</type>
+          <id>Element01</id>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>none</clickmode>
+          <popoutscaling>100</popoutscaling>
+          <popbackmode>stop</popbackmode>
+          <hidepinned>0</hidepinned>
+          <handcursor>0</handcursor>
+          <permeable>0</permeable>
+        </sound>
+        <sound>
+          <position>
+            <pan>-63.51</pan>
+            <tilt>-17.75</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>30</fov>
+            <stretch>100</stretch>
+            <dimx>1000</dimx>
+            <dimy>1000</dimy>
+          </videorect>
+          <type>webelement</type>
+          <id>Element04</id>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>none</clickmode>
+          <popoutscaling>100</popoutscaling>
+          <popbackmode>stop</popbackmode>
+          <hidepinned>0</hidepinned>
+          <handcursor>0</handcursor>
+          <permeable>0</permeable>
+        </sound>
+        <sound>
+          <position>
+            <pan>-270.93</pan>
+            <tilt>-9.03</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>30</fov>
+            <stretch>100</stretch>
+            <dimx>1000</dimx>
+            <dimy>1000</dimy>
+          </videorect>
+          <type>webelement</type>
+          <id>Element10</id>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>none</clickmode>
+          <popoutscaling>100</popoutscaling>
+          <popbackmode>stop</popbackmode>
+          <hidepinned>0</hidepinned>
+          <handcursor>0</handcursor>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node24</id>
     </panorama>
     <panorama>
@@ -358,12 +574,74 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-264.95</pan>
+            <tilt>-4.26</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspot_oi_polygon5</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/INFOOO.gif</customimage>
+          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>900</width>
+          <height>900</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-242.66</pan>
+            <tilt>-0.79</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>30</fov>
+            <stretch>100</stretch>
+            <dimx>1000</dimx>
+            <dimy>1000</dimy>
+          </videorect>
+          <type>webelement</type>
+          <id>Element05</id>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>none</clickmode>
+          <popoutscaling>100</popoutscaling>
+          <popbackmode>stop</popbackmode>
+          <hidepinned>0</hidepinned>
+          <handcursor>0</handcursor>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
     </panorama>
     <panorama>
       <projectsettings>
@@ -495,12 +773,135 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-344.92</pan>
+            <tilt>2.93</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspot_oi_polygon6</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/INFOOO.gif</customimage>
+          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>900</width>
+          <height>900</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-138.65</pan>
+            <tilt>4.03</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point05</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspot_oi_polygon7</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/INFOOO.gif</customimage>
+          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>900</width>
+          <height>900</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-5.52</pan>
+            <tilt>4.19</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>30</fov>
+            <stretch>100</stretch>
+            <dimx>1000</dimx>
+            <dimy>1000</dimy>
+          </videorect>
+          <type>webelement</type>
+          <id>Element06</id>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>none</clickmode>
+          <popoutscaling>100</popoutscaling>
+          <popbackmode>stop</popbackmode>
+          <hidepinned>0</hidepinned>
+          <handcursor>0</handcursor>
+          <permeable>0</permeable>
+        </sound>
+        <sound>
+          <position>
+            <pan>-159.02</pan>
+            <tilt>4.12</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>30</fov>
+            <stretch>100</stretch>
+            <dimx>1000</dimx>
+            <dimy>1000</dimy>
+          </videorect>
+          <type>webelement</type>
+          <id>Element07</id>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>none</clickmode>
+          <popoutscaling>100</popoutscaling>
+          <popbackmode>stop</popbackmode>
+          <hidepinned>0</hidepinned>
+          <handcursor>0</handcursor>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node22</id>
     </panorama>
     <panorama>
@@ -634,12 +1035,74 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-278.31</pan>
+            <tilt>-1.86</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspot_oi_polygon2</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/INFOOO.gif</customimage>
+          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>900</width>
+          <height>900</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-302.78</pan>
+            <tilt>3.38</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>30</fov>
+            <stretch>100</stretch>
+            <dimx>1000</dimx>
+            <dimy>1000</dimy>
+          </videorect>
+          <type>webelement</type>
+          <id>Element02</id>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>none</clickmode>
+          <popoutscaling>100</popoutscaling>
+          <popbackmode>stop</popbackmode>
+          <hidepinned>0</hidepinned>
+          <handcursor>0</handcursor>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node23</id>
     </panorama>
     <panorama>
@@ -912,12 +1375,74 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-356.83</pan>
+            <tilt>-27.47</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspot_oi_polygon9</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/INFOOO.gif</customimage>
+          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>900</width>
+          <height>900</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-22.55</pan>
+            <tilt>-23.06</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>30</fov>
+            <stretch>100</stretch>
+            <dimx>1000</dimx>
+            <dimy>1000</dimy>
+          </videorect>
+          <type>webelement</type>
+          <id>Element09</id>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>none</clickmode>
+          <popoutscaling>100</popoutscaling>
+          <popbackmode>stop</popbackmode>
+          <hidepinned>0</hidepinned>
+          <handcursor>0</handcursor>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node26</id>
     </panorama>
     <panorama>
@@ -1328,12 +1853,74 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-345.32</pan>
+            <tilt>-2.18</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspot_oi_polygon3</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/INFOOO.gif</customimage>
+          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>900</width>
+          <height>900</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-360</pan>
+            <tilt>-2.18</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>30</fov>
+            <stretch>100</stretch>
+            <dimx>1000</dimx>
+            <dimy>1000</dimy>
+          </videorect>
+          <type>webelement</type>
+          <id>Element03</id>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>none</clickmode>
+          <popoutscaling>100</popoutscaling>
+          <popbackmode>stop</popbackmode>
+          <hidepinned>0</hidepinned>
+          <handcursor>0</handcursor>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node29</id>
     </panorama>
     <panorama>
@@ -1467,12 +2054,74 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-150.65</pan>
+            <tilt>-2.58</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspot_oi_polygon8</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/INFOOO.gif</customimage>
+          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>900</width>
+          <height>900</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-131.65</pan>
+            <tilt>-3.39</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>30</fov>
+            <stretch>100</stretch>
+            <dimx>1000</dimx>
+            <dimy>1000</dimy>
+          </videorect>
+          <type>webelement</type>
+          <id>Element08</id>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>none</clickmode>
+          <popoutscaling>100</popoutscaling>
+          <popbackmode>stop</popbackmode>
+          <hidepinned>0</hidepinned>
+          <handcursor>0</handcursor>
+          <permeable>0</permeable>
+        </sound>
+      </sounds>
       <id>node30</id>
     </panorama>
     <panorama>
@@ -2443,7 +3092,7 @@
           <customprops/>
           <polygon/>
           <id>Point01</id>
-          <title>$(ut)</title>
+          <title>Pulau Sebuku</title>
           <description>Pulau Sebuku</description>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
@@ -2656,8 +3305,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-286.64</pan>
-            <tilt>9.44</tilt>
+            <pan>-262.55</pan>
+            <tilt>6.07</tilt>
             <fov>5</fov>
           </position>
           <next>
@@ -2697,7 +3346,7 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
-          <title>$(ut)</title>
+          <title>Pulau Sebuku</title>
           <description>Pulau Sebuku</description>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
