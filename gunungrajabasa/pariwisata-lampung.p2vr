@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <start>node176</start>
     <panorama>
@@ -3671,6 +3671,89 @@
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-272.84</pan>
+            <tilt>9.7</tilt>
+            <fov>15</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point02</id>
+          <title>Masjid Agung Kalianda (Est. 30 Menit)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspot-link-other</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/L_Masjid Agung Kalianda_HLL.png</customimage>
+          <urlsafecustomimage>L_Masjid Agung Kalianda_HLL.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>162</width>
+          <height>253</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-116.03</pan>
+            <tilt>8.95</tilt>
+            <fov>15</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point03</id>
+          <title>Pulau Mengkudu (Est. 1 Jam)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspot-link-other</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/L_Pantai Mengkudu_HLL.png</customimage>
+          <use3d>1</use3d>
+          <width>162</width>
+          <height>253</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-153.04</pan>
+            <tilt>10.31</tilt>
+            <fov>15</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point07</id>
+          <title>Menara Siger (Est.1 Jam)</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspot-link-other</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/Menara Siger.png</customimage>
+          <urlsafecustomimage>Menara Siger.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>162</width>
+          <height>253</height>
         </hotspot>
       </hotspots>
       <output/>
