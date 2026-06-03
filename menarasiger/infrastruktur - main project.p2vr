@@ -168,20 +168,21 @@
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://lampung-selatan.govirtual.id/pulauumang</url>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/NEW LOKASI-20251208T121002Z-3-001/Pulau umang umang.png</customimage>
+          <urlsafecustomimage>Pulau umang umang.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>253</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-146.54</pan>
-            <tilt>7.95</tilt>
+            <pan>-145.62</pan>
+            <tilt>7.98</tilt>
             <fov>9</fov>
           </position>
           <next>
@@ -196,13 +197,13 @@
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://lampung-selatan.govirtual.id/margalegun</url>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/NEW LOKASI-20251208T121002Z-3-001/Lamban Balak Bandar Marga Legun.png</customimage>
-          <urlsafecustomimage>Lamban Balak Bandar Marga Legun.png</urlsafecustomimage>
+          <urlsafecustomimage>Lamban Balak Bandar Marga Legun-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>252</height>
@@ -225,13 +226,13 @@
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://lampung-selatan.govirtual.id/ptjuangjaya</url>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/NEW LOKASI-20251208T121002Z-3-001/PT juang jaya- peternakan sapi.png</customimage>
-          <urlsafecustomimage>PT juang jaya- peternakan sapi.png</urlsafecustomimage>
+          <urlsafecustomimage>PT juang jaya- peternakan sapi-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>252</height>
@@ -499,21 +500,21 @@
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://lampung-selatan.govirtual.id/ptjuangjaya</url>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/NEW LOKASI-20251208T121002Z-3-001/PT juang jaya- peternakan sapi.png</customimage>
-          <urlsafecustomimage>PT juang jaya- peternakan sapi.png</urlsafecustomimage>
+          <urlsafecustomimage>PT juang jaya- peternakan sapi-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>253</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-26.23</pan>
-            <tilt>8.15</tilt>
+            <pan>-26.1</pan>
+            <tilt>8.16</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -528,13 +529,13 @@
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://lampung-selatan.govirtual.id/trimomukti</url>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/NEW LOKASI-20251208T121002Z-3-001/Pertanian Trimomukti.png</customimage>
-          <urlsafecustomimage>Pertanian Trimomukti.png</urlsafecustomimage>
+          <urlsafecustomimage>Pertanian Trimomukti-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>253</height>
@@ -557,13 +558,13 @@
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://lampung-selatan.govirtual.id/pulauumang</url>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/NEW LOKASI-20251208T121002Z-3-001/Pulau umang umang.png</customimage>
-          <urlsafecustomimage>Pulau umang umang-1.png</urlsafecustomimage>
+          <urlsafecustomimage>Pulau umang umang.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>253</height>
