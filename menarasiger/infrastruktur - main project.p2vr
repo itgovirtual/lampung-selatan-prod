@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21036" version="7.1.12">
+<pano2vrconfig version="7.1.12" rev="21036">
   <tour>
     <start>node26</start>
     <panorama>
@@ -1415,7 +1415,7 @@
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>2025:12:04 09:46:20</datetime>
-        <tags>MenaraSiger</tags>
+        <tags>MenaraSiger|oi</tags>
         <altitude>-3048</altitude>
         <customnodeid>MenaraSiger</customnodeid>
         <latitude>-5.86529791</latitude>
@@ -3155,7 +3155,7 @@
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>2025:12:04 09:44:50</datetime>
-        <tags>MenaraSiger</tags>
+        <tags>MenaraSiger|oi</tags>
         <latitude>-5.86529791</latitude>
         <altitude>-3048</altitude>
         <longitude>105.74976038</longitude>
