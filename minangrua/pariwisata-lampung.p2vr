@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21036" version="7.1.12">
+<pano2vrconfig version="7.1.12" rev="21036">
   <tour>
     <start>node103</start>
     <panorama>
@@ -409,7 +409,7 @@
       <userdata>
         <customprops/>
         <capturedatetime>2025-12-05T15:45:24</capturedatetime>
-        <tags>PantaiMinangRua</tags>
+        <tags>oi|PantaiMinangRua</tags>
         <latitude>-5.85771343</latitude>
         <altitude>-3048</altitude>
         <longitude>105.71438263</longitude>
@@ -493,7 +493,7 @@
           <id>Point03</id>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon7</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -525,7 +525,7 @@
             <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
-          <id>Element07</id>
+          <id>Element01</id>
           <mode>0</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>0</locked>
@@ -542,15 +542,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-7" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=21&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -1011,10 +1003,11 @@
       <userdata>
         <customprops/>
         <capturedatetime>2025-12-05T15:45:22</capturedatetime>
-        <tags>PantaiMinangRua</tags>
+        <tags>oi|PantaiMinangRua</tags>
         <latitude>-5.85771343</latitude>
         <altitude>-3048</altitude>
         <longitude>105.71438263</longitude>
+        <customnodeid>jukung</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1143,20 +1136,20 @@
       <sounds>
         <sound>
           <position>
-            <pan>-205.45</pan>
-            <tilt>-3.41</tilt>
+            <pan>-201.38</pan>
+            <tilt>-6.46</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>27.5893</fov>
+            <fov>13.9622</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
-          <id>Element06</id>
+          <id>Element01</id>
           <mode>0</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>0</locked>
@@ -1173,15 +1166,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-6" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=20&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -1219,7 +1204,7 @@
       <userdata>
         <customprops/>
         <capturedatetime>2025-12-05T15:45:22</capturedatetime>
-        <tags>PantaiMinangRua</tags>
+        <tags>oi|PantaiMinangRua</tags>
         <altitude>-3048</altitude>
         <customnodeid>GoaMinangRua</customnodeid>
         <latitude>-5.85771343</latitude>
@@ -1312,7 +1297,6 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/HOSOT-03.png</customimage>
-          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -1346,8 +1330,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-128.88</pan>
-            <tilt>1.87</tilt>
+            <pan>-129.08</pan>
+            <tilt>1.54</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1379,14 +1363,14 @@
       <sounds>
         <sound>
           <position>
-            <pan>-30.62</pan>
-            <tilt>4.59</tilt>
+            <pan>-30.63</pan>
+            <tilt>3.54</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>30.64</fov>
+            <fov>24.5832</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
@@ -1409,27 +1393,19 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-1" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=15&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
         <sound>
           <position>
-            <pan>-108.65</pan>
-            <tilt>9.11</tilt>
+            <pan>-110.53</pan>
+            <tilt>2.12</tilt>
           </position>
           <videorect>
             <rotx>8</rotx>
             <roty>-9</roty>
             <rotz>0</rotz>
-            <fov>25.02</fov>
+            <fov>12.3386</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
@@ -1452,15 +1428,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-2" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=16&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element02" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -1498,10 +1466,11 @@
       <userdata>
         <customprops/>
         <capturedatetime>2025-12-05T15:45:23</capturedatetime>
-        <tags>PantaiMinangRua</tags>
+        <tags>oi|PantaiMinangRua</tags>
         <latitude>-5.85771343</latitude>
         <altitude>-3048</altitude>
         <longitude>105.71438263</longitude>
+        <customnodeid>pendopo</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1657,8 +1626,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-324.13</pan>
-            <tilt>-6.36</tilt>
+            <pan>-327.51</pan>
+            <tilt>-6.85</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -1670,7 +1639,7 @@
             <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
-          <id>Element03</id>
+          <id>Element01</id>
           <mode>0</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>0</locked>
@@ -1687,33 +1656,25 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-3" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=17&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
         <sound>
           <position>
-            <pan>-120</pan>
-            <tilt>0.66</tilt>
+            <pan>-110.19</pan>
+            <tilt>9.48</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>30</fov>
+            <fov>15.62</fov>
             <stretch>100</stretch>
-            <dimx>1000</dimx>
-            <dimy>1000</dimy>
+            <dimx>400</dimx>
+            <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
-          <id>Element04</id>
+          <id>Element02</id>
           <mode>0</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>0</locked>
@@ -1730,7 +1691,8 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <permeable>0</permeable>
+          <webcontent>&lt;div id="Element02" style="width: 100%; height: 100%;">&lt;/div></webcontent>
+          <permeable>1</permeable>
         </sound>
       </sounds>
       <id>node111</id>
@@ -2169,10 +2131,11 @@
       <userdata>
         <customprops/>
         <capturedatetime>2025-12-05T15:45:23</capturedatetime>
-        <tags>PantaiMinangRua</tags>
+        <tags>oi|PantaiMinangRua</tags>
         <latitude>-5.85771343</latitude>
         <altitude>-3048</altitude>
         <longitude>105.71438263</longitude>
+        <customnodeid>pokdarwis</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2279,7 +2242,7 @@
           <id>Point04</id>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon5</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -2305,13 +2268,13 @@
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>25.8214</fov>
+            <fov>25.82</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
-          <id>Element05</id>
+          <id>Element01</id>
           <mode>0</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>0</locked>
@@ -2328,15 +2291,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-5" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=19&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
