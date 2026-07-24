@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21036" version="7.1.12">
+<pano2vrconfig version="7.1.12" rev="21036">
   <tour>
     <start>node24</start>
     <panorama>
@@ -59,7 +59,7 @@
         <customprops/>
         <capturedatetime>2025-12-04T10:49:47</capturedatetime>
         <datetime>04/12/2025 10:49</datetime>
-        <tags>PulauSebuku</tags>
+        <tags>oi|PulauSebuku</tags>
         <altitude>-3048</altitude>
         <customnodeid>PulauSebuku</customnodeid>
         <title>Pulau Sebuku Drone</title>
@@ -187,8 +187,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-350.44</pan>
-            <tilt>-2.11</tilt>
+            <pan>-2.92001</pan>
+            <tilt>-9.76</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -330,14 +330,14 @@
       <sounds>
         <sound>
           <position>
-            <pan>-15.05</pan>
-            <tilt>0.09</tilt>
+            <pan>-30.08</pan>
+            <tilt>-7.95</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>25.5</fov>
+            <fov>17.88</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
@@ -360,33 +360,25 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-1" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=44&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
         <sound>
           <position>
-            <pan>-65.09</pan>
-            <tilt>-13.27</tilt>
+            <pan>-56.16</pan>
+            <tilt>-18</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>25.18</fov>
+            <fov>10.3193</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
-          <id>Element04</id>
+          <id>Element02</id>
           <mode>0</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>0</locked>
@@ -403,33 +395,25 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-4" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=47&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element02" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
         <sound>
           <position>
-            <pan>-280.52</pan>
-            <tilt>-5.74</tilt>
+            <pan>-273.77</pan>
+            <tilt>-7.7</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>29.2</fov>
+            <fov>8.39207</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
-          <id>Element10</id>
+          <id>Element03</id>
           <mode>0</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>0</locked>
@@ -446,15 +430,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-10" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=53&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element03" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -484,11 +460,12 @@
         <capturedatetime>2025-12-04T16:18:42</capturedatetime>
         <copyright>govirtual</copyright>
         <datetime>2025:12:05 07:18:25</datetime>
-        <tags>PulauSebuku</tags>
+        <tags>oi|PulauSebuku</tags>
         <customprops/>
         <altitude>-3048</altitude>
         <latitude>-5.85410000</latitude>
         <longitude>105.53901100</longitude>
+        <customnodeid>perahunelayan</customnodeid>
       </userdata>
       <projectsettings>
         <userdata>
@@ -636,20 +613,20 @@
       <sounds>
         <sound>
           <position>
-            <pan>-237.12</pan>
-            <tilt>0.81</tilt>
+            <pan>-238.05</pan>
+            <tilt>1</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>27.27</fov>
+            <fov>15.1957</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
-          <id>Element05</id>
+          <id>Element01</id>
           <mode>0</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>0</locked>
@@ -666,15 +643,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-5" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=48&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -714,10 +683,11 @@
         <capturedatetime>2025-12-04T16:18:26</capturedatetime>
         <copyright>govirtual</copyright>
         <datetime>2025:12:05 07:18:02</datetime>
-        <tags>PulauSebuku</tags>
+        <tags>oi|PulauSebuku</tags>
         <altitude>-3048</altitude>
         <latitude>-5.85410000</latitude>
         <longitude>105.53901100</longitude>
+        <customnodeid>gunungrajabasa</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -878,13 +848,13 @@
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>23.73</fov>
+            <fov>14.07</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
-          <id>Element06</id>
+          <id>Element01</id>
           <mode>0</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>0</locked>
@@ -901,20 +871,12 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-6" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=49&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
         <sound>
           <position>
-            <pan>-160.03</pan>
+            <pan>-168.47</pan>
             <tilt>4.72</tilt>
           </position>
           <videorect>
@@ -927,7 +889,7 @@
             <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
-          <id>Element07</id>
+          <id>Element02</id>
           <mode>0</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>0</locked>
@@ -944,15 +906,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-7" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=50&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element02" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -993,10 +947,11 @@
         <capturedatetime>2025-12-04T16:18:40</capturedatetime>
         <copyright>govirtual</copyright>
         <datetime>2025:12:05 07:18:24</datetime>
-        <tags>PulauSebuku</tags>
+        <tags>oi|PulauSebuku</tags>
         <altitude>-3048</altitude>
         <latitude>-5.85410000</latitude>
         <longitude>105.53901100</longitude>
+        <customnodeid>perahucepat</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1124,20 +1079,20 @@
       <sounds>
         <sound>
           <position>
-            <pan>-301.43</pan>
-            <tilt>-0.39</tilt>
+            <pan>-295.87</pan>
+            <tilt>-0.71</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>7</roty>
             <rotz>0</rotz>
-            <fov>27.91</fov>
+            <fov>16.0215</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
-          <id>Element02</id>
+          <id>Element01</id>
           <mode>0</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>0</locked>
@@ -1154,15 +1109,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-2" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=45&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -1341,7 +1288,7 @@
         <capturedatetime>2025-12-04T16:20:10</capturedatetime>
         <copyright>govirtual</copyright>
         <datetime>2025:12:05 07:19:13</datetime>
-        <tags>PulauSebuku</tags>
+        <tags>oi|PulauSebuku</tags>
         <altitude>-3048</altitude>
         <latitude>-5.85410000</latitude>
         <longitude>105.53901100</longitude>
@@ -1438,12 +1385,75 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-285.49</pan>
+            <tilt>-14.93</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspot_oi_polygon3</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/INFOOO.gif</customimage>
+          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>900</width>
+          <height>900</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-326.11</pan>
+            <tilt>-12.48</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>-11</roty>
+            <rotz>0</rotz>
+            <fov>27.91</fov>
+            <stretch>100</stretch>
+            <dimx>400</dimx>
+            <dimy>600</dimy>
+          </videorect>
+          <type>webelement</type>
+          <id>Element01</id>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>none</clickmode>
+          <popoutscaling>100</popoutscaling>
+          <popbackmode>stop</popbackmode>
+          <hidepinned>0</hidepinned>
+          <handcursor>0</handcursor>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
+          <permeable>1</permeable>
+        </sound>
+      </sounds>
       <id>node26</id>
     </panorama>
     <panorama>
@@ -1759,10 +1769,11 @@
         <capturedatetime>2025-12-04T16:22:50</capturedatetime>
         <copyright>govirtual</copyright>
         <datetime>2025:12:05 07:22:09</datetime>
-        <tags>PulauSebuku</tags>
+        <tags>oi|PulauSebuku</tags>
         <altitude>-3048</altitude>
         <latitude>-5.85410000</latitude>
         <longitude>105.53901100</longitude>
+        <customnodeid>pondoknelayan</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1889,20 +1900,20 @@
       <sounds>
         <sound>
           <position>
-            <pan>-309.05</pan>
-            <tilt>0.54</tilt>
+            <pan>-317.77</pan>
+            <tilt>0.65</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>25.98</fov>
+            <fov>14.46</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
-          <id>Element03</id>
+          <id>Element01</id>
           <mode>0</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>0</locked>
@@ -1919,15 +1930,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-3" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=46&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -1968,10 +1971,11 @@
         <capturedatetime>2025-12-04T16:21:00</capturedatetime>
         <copyright>govirtual</copyright>
         <datetime>2025:12:05 07:20:09</datetime>
-        <tags>PulauSebuku</tags>
+        <tags>oi|PulauSebuku</tags>
         <altitude>-3048</altitude>
         <latitude>-5.85410000</latitude>
         <longitude>105.53901100</longitude>
+        <customnodeid>jalansetapak</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2066,8 +2070,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-150.65</pan>
-            <tilt>-2.58</tilt>
+            <pan>-133.06</pan>
+            <tilt>-8.04</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2099,20 +2103,20 @@
       <sounds>
         <sound>
           <position>
-            <pan>-126</pan>
-            <tilt>-2.03</tilt>
+            <pan>-111.57</pan>
+            <tilt>-6.02</tilt>
           </position>
           <videorect>
             <rotx>-6</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>27.43</fov>
+            <fov>16.66</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
-          <id>Element08</id>
+          <id>Element01</id>
           <mode>0</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>0</locked>
@@ -2129,15 +2133,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-8" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=51&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -3496,7 +3492,6 @@
         <value id="Project">true</value>
         <value id="ar.po">true</value>
         <value id="en.po">true</value>
-        <value id="en_US.po">true</value>
         <value id="nl.po">true</value>
         <value id="zh_CN.po">true</value>
       </translationsenabled>
