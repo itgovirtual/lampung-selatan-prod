@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <start>node176</start>
     <panorama>
@@ -461,36 +461,6 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-105.03</pan>
-            <tilt>1.15</tilt>
-            <fov>3</fov>
-          </position>
-          <next>
-            <pan>-94</pan>
-            <tilt>1.1</tilt>
-            <fov>100</fov>
-          </next>
-          <customprops/>
-          <polygon/>
-          <id>Point02</id>
-          <title>Jalur Pendakian</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node159}</url>
-          <target>-94.0/1.1/100.0</target>
-          <skinid>hotspot-default</skinid>
-          <type>point</type>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU-2.png</urlsafecustomimage>
-          <use3d>1</use3d>
-          <width>26</width>
-          <height>92</height>
-        </hotspot>
-        <hotspot>
-          <position>
             <pan>-131.8</pan>
             <tilt>0.87</tilt>
             <fov>10</fov>
@@ -652,10 +622,10 @@
           <customprops/>
           <polygon/>
           <id>Point02</id>
-          <title>Akses Pulang</title>
+          <title>Titik Kumpul</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node158}</url>
+          <url>{node157}</url>
           <target>-65.0/-1.3/100.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
@@ -663,7 +633,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU-2.png</urlsafecustomimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -3200,6 +3170,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
