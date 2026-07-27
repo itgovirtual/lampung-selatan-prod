@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21036" version="7.1.12">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <start>node176</start>
     <panorama>
@@ -2734,6 +2734,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -2993,36 +2994,6 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>292.77</pan>
-            <tilt>-23.9</tilt>
-            <fov>4</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <customprops/>
-          <polygon/>
-          <id>Point03</id>
-          <title>Arah Pulang</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node177}</url>
-          <target>$fwd</target>
-          <skinid>hotspot-default</skinid>
-          <type>point</type>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU-2.png</urlsafecustomimage>
-          <use3d>1</use3d>
-          <width>26</width>
-          <height>92</height>
-        </hotspot>
-        <hotspot>
-          <position>
             <pan>-344.72</pan>
             <tilt>2.32</tilt>
             <fov>4</fov>
@@ -3122,8 +3093,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-333.77</pan>
-            <tilt>-14.4</tilt>
+            <pan>-330.29</pan>
+            <tilt>-22.21</tilt>
             <fov>4</fov>
           </position>
           <next>
@@ -3179,8 +3150,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-84.03</pan>
-            <tilt>-10.14</tilt>
+            <pan>-83.58</pan>
+            <tilt>-3.85</tilt>
             <fov>12.6902</fov>
           </position>
           <next>
@@ -3203,6 +3174,35 @@
           <use3d>1</use3d>
           <width>900</width>
           <height>900</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-140.04</pan>
+            <tilt>-21.67</tilt>
+            <fov>4</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point04</id>
+          <title>Arah Pulang</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node177}</url>
+          <target>$fwd</target>
+          <skinid>hotspot-default</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
+          <use3d>1</use3d>
+          <width>26</width>
+          <height>92</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -3255,8 +3255,8 @@
         </sound>
         <sound>
           <position>
-            <pan>-125.16</pan>
-            <tilt>-9.28</tilt>
+            <pan>-108.52</pan>
+            <tilt>-6.13</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -3339,8 +3339,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-354.68</pan>
-            <tilt>-5.94</tilt>
+            <pan>-354.51</pan>
+            <tilt>-5.93</tilt>
             <fov>4</fov>
           </position>
           <next>
@@ -3354,7 +3354,7 @@
           <title>Jalur Pendakian</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node175}</url>
+          <url>{node176}</url>
           <target>0.7/11.4/100.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
@@ -3362,7 +3362,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU-2.png</urlsafecustomimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
