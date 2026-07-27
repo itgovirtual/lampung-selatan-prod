@@ -1292,8 +1292,8 @@
             <fov>3</fov>
           </position>
           <next>
-            <pan>6.8</pan>
-            <tilt>-18.6</tilt>
+            <pan>-175.6</pan>
+            <tilt>-1.6</tilt>
             <fov>100</fov>
           </next>
           <customprops/>
@@ -1303,14 +1303,14 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node163}</url>
-          <target>6.8/-18.6/100.0</target>
+          <target>-175.6/-1.6/100.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU-2.png</urlsafecustomimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -1889,9 +1889,9 @@
             <fov>3</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
+            <pan>-0.6</pan>
+            <tilt>10.1</tilt>
+            <fov>100</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -1900,14 +1900,14 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node167}</url>
-          <target>$fwd</target>
+          <target>-0.6/10.1/100.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU-2.png</urlsafecustomimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -2208,8 +2208,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>8.59</pan>
-            <tilt>2.12</tilt>
+            <pan>8.58</pan>
+            <tilt>1.96</tilt>
             <fov>4</fov>
           </position>
           <next>
@@ -2495,8 +2495,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>359.56</pan>
-            <tilt>21.01</tilt>
+            <pan>13.15</pan>
+            <tilt>19.41</tilt>
             <fov>4</fov>
           </position>
           <next>
@@ -2603,8 +2603,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>2.24</pan>
-            <tilt>15.74</tilt>
+            <pan>2.75</pan>
+            <tilt>11.33</tilt>
             <fov>4</fov>
           </position>
           <next>
@@ -2711,8 +2711,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>292.91</pan>
-            <tilt>11.71</tilt>
+            <pan>291.25</pan>
+            <tilt>1.32</tilt>
             <fov>4</fov>
           </position>
           <next>
@@ -2858,8 +2858,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-25.16</pan>
-            <tilt>-31.55</tilt>
+            <pan>-25.15</pan>
+            <tilt>-31.72</tilt>
             <fov>4</fov>
           </position>
           <next>
@@ -2870,7 +2870,7 @@
           <customprops/>
           <polygon/>
           <id>Point01</id>
-          <title>Arah Pulang</title>
+          <title>Area Puncak</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node175}</url>
@@ -2881,7 +2881,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU-2.png</urlsafecustomimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -2900,7 +2900,7 @@
           <customprops/>
           <polygon/>
           <id>Point02</id>
-          <title>Jalur Pendakian</title>
+          <title>Puncak</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node176}</url>
@@ -2911,7 +2911,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU-2.png</urlsafecustomimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -2976,7 +2976,7 @@
           <customprops/>
           <polygon/>
           <id>Point01</id>
-          <title>Jalur Pendakian</title>
+          <title>Puncak</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node174}</url>
@@ -2987,7 +2987,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU-2.png</urlsafecustomimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -3075,7 +3075,7 @@
           <customprops/>
           <polygon/>
           <id>Point02</id>
-          <title>Arah Pulang</title>
+          <title>Area Puncak</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node174}</url>
@@ -3086,7 +3086,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU-2.png</urlsafecustomimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -3310,14 +3310,14 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-354.51</pan>
-            <tilt>-5.93</tilt>
+            <pan>-354.5</pan>
+            <tilt>-3.09</tilt>
             <fov>4</fov>
           </position>
           <next>
-            <pan>0.7</pan>
-            <tilt>11.4</tilt>
-            <fov>100</fov>
+            <pan>7.2</pan>
+            <tilt>-1.6</tilt>
+            <fov>117</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -3326,14 +3326,14 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node176}</url>
-          <target>0.7/11.4/100.0</target>
+          <target>7.2/-1.6/117.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU-1.png</urlsafecustomimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
