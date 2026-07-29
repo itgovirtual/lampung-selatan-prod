@@ -6,7 +6,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: nl\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,7 +16,7 @@ msgstr ""
 #. Node: node178 / User Data Title
 #. Node: node221 / User Data Title
 msgid "default"
-msgstr "Standaard"
+msgstr "default"
 
 #. Node: node178 / User Data Date && Time
 #. Node: node220 / User Data Date && Time
@@ -54,7 +54,7 @@ msgstr "<div id=\"Element01\" style=\"width: 100%; height: 100%;\"></div>"
 #. Node: node208 / Point Hotspot: Point02 / Title
 #. Node: node209 / Point Hotspot: Point01 / Title
 msgid "Dermaga"
-msgstr "Dok"
+msgstr "Pier"
 
 #. Node: node178 / Point Hotspot: Point02 / Title
 #. Node: node194 / Point Hotspot: Point01 / Title
@@ -65,7 +65,7 @@ msgstr "Dok"
 #. Node: node208 / Point Hotspot: Point01 / Title
 #. Node: node209 / Point Hotspot: Point02 / Title
 msgid "Penginapan Krakatau"
-msgstr "Krakatoa Inn"
+msgstr "Krakatau Inn"
 
 #. Node: node178 / Point Hotspot: Point03 / Title
 #. Node: node184 / Point Hotspot: Point01 / Title
@@ -74,7 +74,7 @@ msgstr "Krakatoa Inn"
 #. Node: node186 / Point Hotspot: Point01 / Title
 #. Node: node187 / Point Hotspot: Point02 / Title
 msgid "Pohon Mangrove"
-msgstr "Mangroveboom"
+msgstr "Mangrove Trees"
 
 #. Node: node178 / Point Hotspot: Point04 / Title
 #. Node: node187 / Point Hotspot: Point01 / Title
@@ -88,12 +88,12 @@ msgstr "Mangroveboom"
 #. Node: node193 / Point Hotspot: Point01 / Title
 #. Node: node220 / Point Hotspot: Point01 / Title
 msgid "Penginapan Putri Puan"
-msgstr "Putri Puan's herberg"
+msgstr "Putri Puan Inn"
 
 #. Node: node178 / Point Hotspot: Point06 / Title
 #. Node: node220 / Point Hotspot: Point06 / Title
 msgid "Pantai Minang Rua (Est. 1 Jam 30 Menit)"
-msgstr "Minang Rua-strand (Gesch. 1 uur 30 minuten)"
+msgstr "Minang Rua Beach (Est. 1 Hour 30 Mins)"
 
 #. Node: node178 / Point Hotspot: Point06 / URL
 #. Node: node220 / Point Hotspot: Point06 / URL
@@ -103,7 +103,7 @@ msgstr "https://lampung-selatan.govirtual.id/minangrua/index.html#"
 #. Node: node178 / Point Hotspot: Point07 / Title
 #. Node: node220 / Point Hotspot: Point03 / Title
 msgid "Pulau Sebuku (Est. 1 Jam 30 Menit)"
-msgstr "Sebuku-eiland (Gesch. 1 uur 30 minuten)"
+msgstr "Sebuku Island (Est. 1 Hour 30 Mins)"
 
 #. Node: node178 / Point Hotspot: Point07 / URL
 #. Node: node220 / Point Hotspot: Point03 / URL
@@ -114,17 +114,17 @@ msgstr "https://lampung-selatan.govirtual.id/pulausebuku/index.html#"
 #. Node: node220 / Point Hotspot: Point04 / Title
 #. Node: node220 / Point Hotspot: Point07 / Title
 msgid "Drone Pulau Sebesi"
-msgstr "Pulau Sebesi-drones"
+msgstr "Sebesi Island Drone"
 
 #. Node: node178 / Point Hotspot: Point09 / Title
 #. Node: node221 / Point Hotspot: Point01 / Title
 msgid "Drone Pulau Sebesi Sore"
-msgstr "Sebesi Island Drone-middag"
+msgstr "Sebesi Island Afternoon Drone"
 
 #. Node: node178 / Point Hotspot: Point10 / Title
 #. Node: node220 / Point Hotspot: Point05 / Title
 msgid "Gunung Krakatau (Est. 2 Jam)"
-msgstr "Krakatau-berg (Gesch. 2 uur)"
+msgstr "Mount Krakatoa (Est. 2 Hours)"
 
 #. Node: node178 / Point Hotspot: Point10 / URL
 #. Node: node220 / Point Hotspot: Point05 / URL
@@ -133,7 +133,7 @@ msgstr "https://lampung-selatan.govirtual.id/gunungkrakatau/index.html#"
 
 #. Node: node178 / Point Hotspot: Point11 / Title
 msgid "Klik untuk informasi <br/> Dermaga Sebesi"
-msgstr "Klik voor informatie <br/> Sebesi-pier"
+msgstr "Click for information on <br/> Sebesi Pier"
 
 #. Node: node178 / Poly Hotspot: Poly01 / URL
 #. Node: node180 / Poly Hotspot: Poly01 / URL
@@ -190,7 +190,7 @@ msgstr "govirtual"
 #. Node: node180 / Point Hotspot: Point01 / Title
 #. Node: node181 / Point Hotspot: Point02 / Title
 msgid "Dermaga Sebesi"
-msgstr "Sebesi-pier"
+msgstr "Sebesi Pier"
 
 #. Node: node180 / User Data Date && Time
 msgid "2/28/2021 7:50 PM"
@@ -221,15 +221,15 @@ msgstr "<div id=\"Element02\" style=\"width: 100%; height: 100%;\"></div>"
 #. Node: node206 / Point Hotspot: Point02 / Title
 #. Node: node221 / Point Hotspot: Point08 / Title
 msgid "Arah Keluar"
-msgstr "Uitgang richting"
+msgstr "Exit Direction"
 
 #. Node: node180 / Point Hotspot: Point03 / Title
 msgid "Klik untuk informasi <br/> Komoditi Pisang"
-msgstr "Klik voor informatie <br/> Bananen Grondstof"
+msgstr "Click for information on <br/> Banana Commodities"
 
 #. Node: node180 / Point Hotspot: Point04 / Title
 msgid "Klik untuk informasi <br/> Komoditi Kelapa"
-msgstr "Klik voor informatie <br/> Kokosnoot Grondstof"
+msgstr "Click for information on <br/> Coconut Commodities"
 
 #. Node: node180 / Poly Hotspot: Poly02 / URL
 #. Node: node193 / Poly Hotspot: Poly01 / URL
@@ -252,7 +252,7 @@ msgstr "2/28/2021 6:54 PM"
 #. Node: node182 / Point Hotspot: Point01 / Title
 #. Node: node188 / Point Hotspot: Point01 / Title
 msgid "Pantai Sebesi"
-msgstr "Sebesi-strand"
+msgstr "Sebesi Beach"
 
 #. Node: node183 / User Data Date && Time
 msgid "3/10/2021 5:50 PM"
@@ -268,7 +268,7 @@ msgstr "hutanbakau"
 
 #. Node: node184 / Point Hotspot: Point03 / Title
 msgid "Klik untuk informasi <br/>Hutan Bakau"
-msgstr "Klik voor informatie <br/>Mangrovebos"
+msgstr "Click for information on <br/>Mangrove Forest"
 
 #. Node: node185 / User Data Date && Time
 msgid "1/12/2021 12:13 AM"
@@ -284,7 +284,7 @@ msgstr "Mangrove"
 
 #. Node: node186 / Point Hotspot: Point02 / Title
 msgid "Klik untuk informasi <br/> Bagan Apung"
-msgstr "Klik voor informatie <br/> Drijvend Visplatform"
+msgstr "Click for information on <br/> Floating Fishing Platform"
 
 #. Node: node187 / User Data Date && Time
 msgid "1/12/2021 12:04 AM"
@@ -301,11 +301,11 @@ msgstr "<div id=\"Element03\" style=\"width: 100%; height: 100%;\"></div>"
 
 #. Node: node187 / Point Hotspot: Point03 / Title
 msgid "Klik untuk informasi <br/>Pohon Bakau"
-msgstr "Klik voor informatie <br/>Mangroveboom"
+msgstr "Click for information on <br/>Mangrove Tree"
 
 #. Node: node187 / Point Hotspot: Point04 / Title
 msgid "Klik untuk informasi <br/>Perahu Cepat"
-msgstr "Klik voor informatie <br/>Snelboot"
+msgstr "Click for information on <br/>Speedboat"
 
 #. Node: node187 / Poly Hotspot: Poly02 / URL
 #. Node: node221 / Poly Hotspot: Poly03 / URL
@@ -322,7 +322,7 @@ msgstr "perahukatir"
 
 #. Node: node188 / Point Hotspot: Point02 / Title
 msgid "Klik untuk informasi <br/>Perahu Katir"
-msgstr "Klik voor informatie <br/>Uitleggerboot"
+msgstr "Click for information on <br/>Outrigger Canoe"
 
 #. Node: node189 / User Data Date && Time
 msgid "1/12/2021 12:32 AM"
@@ -334,7 +334,7 @@ msgstr "1/12/2021 12:21 AM"
 
 #. Node: node190 / Point Hotspot: Point01 / Title
 msgid "PLTD Pulau Sebesi"
-msgstr "Sebesi-eiland PLTD"
+msgstr "Sebesi Island Power Plant"
 
 #. Node: node191 / User Data Date && Time
 msgid "1/11/2021 11:54 PM"
@@ -353,10 +353,8 @@ msgid "1/11/2021 11:51 PM"
 msgstr "1/11/2021 11:51 PM"
 
 #. Node: node193 / User Data Custom Node ID
-#, fuzzy
-#| msgid "Penginapan Krakatau"
 msgid "penginapan"
-msgstr "Krakatoa Inn"
+msgstr "penginapan"
 
 #. Node: node194 / User Data Custom Node ID
 msgid "cootage"
@@ -364,44 +362,44 @@ msgstr "cootage"
 
 #. Node: node194 / Point Hotspot: Point03 / Title
 msgid "Mushola"
-msgstr "Gebedsruimte"
+msgstr "Prayer Room"
 
 #. Node: node194 / Point Hotspot: Point04 / Title
 msgid "Klik untuk informasi <br/>Cootage Krakatau"
-msgstr "Klik voor informatie <br/>Cottage Krakatau"
+msgstr "Click for information on <br/>Krakatau Cottage"
 
 #. Node: node195 / Point Hotspot: Point03 / Title
 #. Node: node199 / Point Hotspot: Point02 / Title
 #. Node: node200 / Point Hotspot: Point01 / Title
 msgid "Balai Pertemuan"
-msgstr "Congreshal"
+msgstr "Meeting Hall"
 
 #. Node: node196 / Point Hotspot: Point02 / Title
 #. Node: node197 / Point Hotspot: Point03 / Title
 #. Node: node201 / Point Hotspot: Point01 / Title
 msgid "Keluar"
-msgstr "Ga weg"
+msgstr "Exit"
 
 #. Node: node198 / Point Hotspot: Point02 / Title
 msgid "Toilet Umum"
-msgstr "Openbaar toilet"
+msgstr "Public Restroom"
 
 #. Node: node200 / Point Hotspot: Point02 / Title
 #. Node: node202 / Point Hotspot: Point01 / Title
 msgid "Musholla"
-msgstr "Islamitische gebedsruimte"
+msgstr "Prayer Room"
 
 #. Node: node201 / Point Hotspot: Point02 / Title
 msgid "Kamar Tidur"
-msgstr "Slaapkamer"
+msgstr "Bedroom"
 
 #. Node: node201 / Point Hotspot: Point03 / Title
 msgid "Toilet"
-msgstr "Toilet"
+msgstr "Restroom"
 
 #. Node: node202 / Point Hotspot: Point02 / Title
 msgid "Pintu Gerbang"
-msgstr "Hek"
+msgstr "Entrance Gate"
 
 #. Node: node203 / User Data Custom Node ID
 msgid "lampu"
@@ -409,34 +407,32 @@ msgstr "lampu"
 
 #. Node: node203 / Point Hotspot: Point01 / Title
 msgid "Area Parkir"
-msgstr "Parkeerplaats"
+msgstr "Parking Area"
 
 #. Node: node203 / Point Hotspot: Point03 / Title
 msgid "Klik untuk informasi <br/>Lampu Tenaga Surya"
-msgstr "Klik voor informatie <br/>Zonne-energie Lamp"
+msgstr "Click for information on <br/>Solar Light"
 
 #. Node: node203 / Point Hotspot: Point04 / Title
 msgid "Klik untuk informasi <br/>Loket Pelabuhan Sebesi"
-msgstr "Klik voor informatie <br/>Loket Sebesi-haven"
+msgstr "Click for information on <br/>Sebesi Harbor Ticket Booth"
 
 #. Node: node206 / User Data Custom Node ID
-msgid "perahubagiancungkil"
-msgstr "perahubagiancungkil"
+msgid "perahubagancungkil"
+msgstr "perahubagancungkil"
 
 #. Node: node206 / Point Hotspot: Point03 / Title
 msgid "Klik untuk informasi <br/>Perahu Bagan Cungkil"
-msgstr "Klik voor informatie <br/>Bagan Cungkil-boot"
+msgstr "Click for information on <br/>Lift-Net Boat"
 
 #. Node: node207 / User Data Custom Node ID
 #. Node: node208 / User Data Custom Node ID
-#, fuzzy
-#| msgid "Pelabuhan"
 msgid "pelabuhan"
-msgstr "Haven"
+msgstr "pelabuhan"
 
 #. Node: node208 / Point Hotspot: Point03 / Title
 msgid "Klik untuk informasi <br/>Pelabuhan"
-msgstr "Klik voor informatie <br/>Haven"
+msgstr "Click for information on <br/>Harbor"
 
 #. Node: node209 / User Data Custom Node ID
 msgid "landmark"
@@ -444,11 +440,11 @@ msgstr "landmark"
 
 #. Node: node209 / Point Hotspot: Point03 / Title
 msgid "Klik untuk informasi <br/>Landmark"
-msgstr "Klik voor informatie <br/>Landmerk"
+msgstr "Click for information on <br/>Landmark"
 
 #. Node: node220 / User Data Title
 msgid "Pulau Sebesi Drone Main"
-msgstr "Pulau Sebesi Hoofd-drone"
+msgstr "Sebesi Island Main Drone"
 
 #. Node: node220 / User Data Custom Node ID
 msgid "PulauSebesiDrone"
@@ -457,11 +453,11 @@ msgstr "PulauSebesiDrone"
 #. Node: node220 / Point Hotspot: Point02 / Title
 #. Node: node221 / Point Hotspot: Point07 / Title
 msgid "Pelabuhan"
-msgstr "Haven"
+msgstr "Harbor"
 
 #. Node: node220 / Point Hotspot: Point08 / Title
 msgid "Klik untuk informasi <br/>Gunung Sebesi"
-msgstr "Klik voor informatie <br/>Berg Sebesi"
+msgstr "Click for information on <br/>Mount Sebesi"
 
 #. Node: node221 / User Data Date && Time
 msgid "11/30/2025 6:12 PM"
@@ -477,23 +473,23 @@ msgstr "<div id=\"Element04\" style=\"width: 100%; height: 100%;\"></div>"
 
 #. Node: node221 / Point Hotspot: Point02 / Title
 msgid "Klik untuk informasi <br/>Pulau Panjang"
-msgstr "Klik voor informatie <br/>Pulau Panjang"
+msgstr "Click for information on <br/>Panjang Island"
 
 #. Node: node221 / Point Hotspot: Point03 / Title
 msgid "Klik untuk informasi <br/>Pulau Umang Umang"
-msgstr "Klik voor informatie <br/>Pulau Umang Umang"
+msgstr "Click for information on <br/>Umang Umang Island"
 
 #. Node: node221 / Point Hotspot: Point04 / Title
 msgid "Klik untuk informasi <br/>Masjid Jami Al Iman"
-msgstr "Klik voor informatie <br/>Masjid Jami Al Iman"
+msgstr "Click for information on <br/>Jami Al Iman Mosque"
 
 #. Node: node221 / Point Hotspot: Point05 / Title
 msgid "Klik untuk informasi <br/>PLTD Pulau Sebesi"
-msgstr "Klik voor informatie <br/>Sebesi-eiland PLTD"
+msgstr "Click for information on <br/>Sebesi Island Power Plant"
 
 #. Node: node221 / Point Hotspot: Point06 / Title
 msgid "Drone Pulau Sebesi Siang"
-msgstr "Iron Island daglichtdrone"
+msgstr "Sebesi Island Daytime Drone"
 
 #. Node: node221 / Poly Hotspot: Poly04 / URL
 msgid "javascript:TourEngine.bukaOtomatis('Element04');"
@@ -501,12 +497,12 @@ msgstr "javascript:TourEngine.bukaOtomatis('Element04');"
 
 #. Context Menu Default Entry
 msgid "Enter VR"
-msgstr "Open VR"
+msgstr "Enter VR"
 
 #. Context Menu Default Entry
 msgid "Enter Fullscreen"
-msgstr "Volledig scherm openen"
+msgstr "Enter Fullscreen"
 
 #. Context Menu Default Entry
 msgid "Exit Fullscreen"
-msgstr "Volledig scherm sluiten"
+msgstr "Exit Fullscreen"

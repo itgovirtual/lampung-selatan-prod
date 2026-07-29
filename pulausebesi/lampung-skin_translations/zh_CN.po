@@ -13,76 +13,60 @@ msgstr ""
 "X-Source-Language: id-ID\n"
 "X-Generator: Poedit 3.8\n"
 
+#. Skin Variable: VB / Initial Value
+msgid "start"
+msgstr "start"
+
+#. Skin Variable: link / Initial Value
+#, fuzzy
+#| msgid "Pulau<br>Sebesi"
+msgid "pulausebesi"
+msgstr "pulausebesi"
+
+#. Skin Variable: lokasi / Initial Value
+#, fuzzy
+#| msgid "Pulau<br>Sebesi"
+msgid "Pulau Sebesi"
+msgstr "塞贝西岛"
+
 #. Skin Element Text: Assistant Text / Text
 msgid "More\n"
-msgstr ""
+msgstr "更多\n"
 
-#. Skin Element: Button Kategori / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Button Kategori Mobile / Set Value Action (Target Element: Iframe) / Text
+#. Skin Element Text: Back umum / Text
+msgid "Back"
+msgstr "返回"
+
+#. Skin Element: Backdrop Opening / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Berhenti / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Berhenti Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: No / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: No Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Skip Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: close-button-welcome / Set Variable Value Action (Variable Name: VB) / Text
+msgid "skip"
+msgstr "skip"
+
+#. Skin Element External: Closing vd / URL
+msgid "assets/closing.png"
+msgstr "assets/closing.png"
+
+#. Skin Element Text: Desc 2 / Text
+#. Skin Element Text: Desc 2 Mobile / Text
+msgid "Pilihan fitur untuk memilih lokasi lain yang ingin anda pandu oleh kami"
+msgstr "选择其他您希望由我们引导游览的位置"
+
+#. Skin Element Text: Desc 3 / Text
+#. Skin Element Text: Desc Mobile / Text
 msgid ""
-"<iframe src=\"../webview/kategori-id.html\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
+"Pilihan fitur untuk berhenti memakai pemandu tour dan kembali menjelajah "
+"dengan bebas"
 msgstr ""
-"<iframe src=\"../webview/kategori-zh.html\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
+"选择停止使用导游服务并重新自由探索"
 
 #. Skin Element Text: Enable Audio? / Text
 msgid "Enable Audio?"
-msgstr ""
-
-#. Skin Element: Icon + Discover / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Jelajah / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/discover.html?disc=3&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/discover.html?disc=3&lang=zh\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-
-#. Skin Element: Icon + Info / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Informasi / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/informasi.html?info=5&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/informasi.html?info=5&lang=zh\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-
-#. Skin Element: Icon + Menu / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/menu.php?menu=30&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/menu.php?menu=30&lang=zh\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-
-#. Skin Element: Icon + Public / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/publicservice.php?lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/publicservice.php?lang=zh\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
+msgstr "开启音频？"
 
 #. Skin Element Text: Informasi-text / Text
 msgid "Informasi\n"
@@ -91,19 +75,7 @@ msgstr "信息\n"
 #. Skin Element Text: Jelajah-text / Text
 #. Skin Element Text: Text Discover / Text
 msgid "Jelajah"
-msgstr "发现"
-
-#. Skin Element: Menu / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/menu.php?menu=76&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/menu.php?menu=76&lang=zh\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
+msgstr "探索"
 
 #. Skin Element Text: Menu Tezt / Text
 #. Skin Element Text: Text Menu / Text
@@ -112,15 +84,49 @@ msgstr "菜单"
 
 #. Skin Element Text: NO / Text
 msgid "NO"
-msgstr ""
+msgstr "否"
+
+#. Skin Element Text: Next umum / Text
+msgid "Next"
+msgstr "下一步"
+
+#. Skin Element Text: No / Text
+#. Skin Element Text: No Mobile / Text
+msgid "Explore Virtual Tour"
+msgstr "探索虚拟导览"
 
 #. Skin Element Text: Shop-text / Text
 msgid "Shop"
-msgstr "店铺"
+msgstr "商店"
+
+#. Skin Element Text: Skip Mobile / Text
+#. Skin Element Button: skip-button_1 / Alternate Text
+msgid "Skip"
+msgstr "跳过"
+
+#. Skin Element Text: Start / Text
+#. Skin Element Text: Start Mobile / Text
+msgid "Start Virtual Buddy"
+msgstr "启动虚拟助手"
+
+#. Skin Element: Start / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Start Mobile / Set Variable Value Action (Variable Name: VB) / Text
+msgid "show"
+msgstr "show"
+
+#. Skin Element Text: Text 1 / Text
+#. Skin Element Text: Text 1_1 / Text
+msgid ""
+"Selamat datang! Saya akan menjadi pemandu virtual Anda di sini. Kita akan "
+"melihat setiap sudut lokasi ini untuk menemukan berbagai informasi serta "
+"detail menarik di setiap area yang Anda kunjungi."
+msgstr ""
+"欢迎！我将成为您的虚拟导游。我们将探索此位置的每个角落，了解您访问"
+"的每个区域的各种信息和有趣细节。"
 
 #. Skin Element Text: Text 2 / Text
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #. Skin Element Text: Text Info / Text
 msgid "Informasi"
@@ -130,13 +136,91 @@ msgstr "信息"
 msgid "Layanan Publik"
 msgstr "公共服务"
 
+#. Skin Element Text: Title 2 / Text
+#. Skin Element Text: Title 2 Mobile / Text
+msgid "Tour Selanjutnya"
+msgstr "下一程导览"
+
+#. Skin Element Text: Title 3 / Text
+#. Skin Element Text: Title 3 Mobile / Text
+msgid "Tour Mandiri"
+msgstr "自主导览"
+
+#. Skin Element External: Vidy / URL
+#. Skin Element External: Vidy Mobile / URL
+msgid "assets/avatar-cepet.png"
+msgstr "assets/avatar-cepet.png"
+
 #. Skin Element Text: YES / Text
 msgid "YES"
+msgstr "是"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-discover) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe src=\"../webview/discover.html?disc=3&lang=id\"\n"
+#| "width=\"100%\";\n"
+#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#| "frameborder=\"0\"></iframe>"
+msgid ""
+"<iframe src=\"../webview/discover.html?disc=%1&lang=id\" width=\"100%\" ; "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/discover-zh.html?disc=%1\" width=\"100%\" ; "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-informasi) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe src=\"../webview/informasi.html?info=5&lang=id\"\n"
+#| "width=\"100%\";\n"
+#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#| "frameborder=\"0\"></iframe>"
+msgid ""
+"<iframe src=\"../webview/informasi.html?info=%1&amp;lang=id\" width=\"100%"
+"\" ;=\"\" style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/informasi.html?info=%1&amp;lang=zh\" width=\"100%"
+"\" ;=\"\" style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe src=\"../webview/kategori-id.html\"\n"
+#| "width=\"100%\";\n"
+#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#| "frameborder=\"0\"></iframe>"
+msgid ""
+"<iframe src=\"../webview/kategori-id.html\" width=\"100%\" ;=\"\" "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/kategori-zh.html\" width=\"100%\" ;=\"\" "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-menu) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe src=\"../webview/kategori-id.html\"\n"
+#| "width=\"100%\";\n"
+#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#| "frameborder=\"0\"></iframe>"
+msgid ""
+"<iframe src=\"../webview/menu.html\" width=\"100%\" ;=\"\" style=\"height: "
+"100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/menu-zh.html\" width=\"100%\" ;=\"\" style=\"height: "
+"100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
 
 #. Skin Element External: ht_node_custom_image / URL
+#. Skin Element External: ht_url_custom_image / URL
 msgid "_custom"
-msgstr ""
+msgstr "_custom"
 
 #. Skin Element Text: popup-chatbot / Text
 msgid ""
@@ -147,18 +231,27 @@ msgid ""
 "    frameborder=\"0\"\n"
 "></iframe>"
 msgstr ""
+"  <iframe\n"
+"    src=\"https://www.chatbase.co/chatbot-iframe/ld0-XDhWz-2tI29Pd2JeU\"\n"
+"    width=\"100%\"\n"
+"    style=\"height: 100%; min-height: 100%;\"\n"
+"    frameborder=\"0\"\n"
+"></iframe>"
 
-#. Skin Element Button: skip-button_1 / Alternate Text
-msgid "Skip"
-msgstr ""
+#. Skin Element Text: text 2 / Text
+#. Skin Element Text: text 2 Mobile / Text
+msgid "Next Journey"
+msgstr "下一程旅程"
 
-#. Skin Element Text: title-txt / Text
-msgid "Pulau<br>Sebesi"
-msgstr "塞贝西岛"
+#. Skin Element Text: text 3 / Text
+#. Skin Element Text: text 3 Mobile / Text
+msgid "Berhenti"
+msgstr "停止"
 
 #. Skin Element Text: txt-chatbot / Text
+#. Skin Element Text: txt-chatbot-mobile / Text
 msgid "Chatbot"
-msgstr ""
+msgstr "聊天机器人"
 
 #. Skin Element Text: txt-welcome / Text
 msgid ""
@@ -169,13 +262,12 @@ msgid ""
 " pengalaman alam autentik dengan keramahan warga lokal. Nikmati homestay "
 "sederhana, kuliner ikan segar, dan petualangan seru seperti memancing\n"
 " atau menjelajah pantai sepanjang 19 km. Cocok untuk pecinta alam dan "
-"petualang sejati, Pulau Sebesi siap menciptakan kenangan liburan yang "
-"tak\n"
+"petualang sejati, Pulau Sebesi siap menciptakan kenangan liburan yang tak\n"
 " terlupakan. Ayo, mulai petualangan Anda sekarang!"
 msgstr ""
-"欢迎来到 塞贝西岛 (Pulau Sebesi)，这是楠榜南部巽他海峡上的探险天堂！这座有"
-"人居住的岛屿提供徒步攀登塞贝西山、在迷人的珊瑚礁中浮潜以及壮丽的喀拉喀托火"
-"山景色。塞贝西岛距离加里安达 (Kalianda) 仅 1.5 小时船程，为您带来真实的自"
-"然体验和当地居民的热情好客。您可以享受简单的民宿、新鲜的鱼类美食，以及钓鱼"
-"或探索长达 19 公里海岸线等刺激的探险活动。塞贝西岛非常适合自然爱好者和真正"
-"的探险家，它将为您创造难忘的假期回忆。来吧，立即开始您的探险之旅！"
+"欢迎来到 塞贝西岛 (Pulau Sebesi)， constituencies是楠榜南部巽他海峡上的探险天堂！"
+"这座有人居住的岛屿提供徒步攀登塞贝西山、在迷人的珊瑚礁中浮潜以及壮丽的喀拉喀托"
+"火山景色。塞贝西岛距离加里安达 (Kalianda) 仅 1.5 小时船程，为您带来真实的自然"
+"体验和当地居民的热情好客。您可以享受简单的民宿、新鲜的鱼类美食，以及钓鱼或探"
+"索长达 19 公里海岸线等刺激的探险活动。塞贝西岛非常适合自然爱好者和真正的探险"
+"家，它将为您创造难忘的假期回忆。来吧，立即开始您的探险之旅！"

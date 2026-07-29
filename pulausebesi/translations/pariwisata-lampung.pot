@@ -17,6 +17,19 @@ msgstr ""
 msgid "PantaiSebesi"
 msgstr ""
 
+#. Node: node178 / Pinned Web Element: Element01 / Code
+#. Node: node180 / Pinned Web Element: Element01 / Code
+#. Node: node184 / Pinned Web Element: Element01 / Code
+#. Node: node186 / Pinned Web Element: Element01 / Code
+#. Node: node187 / Pinned Web Element: Element01 / Code
+#. Node: node188 / Pinned Web Element: Element01 / Code
+#. Node: node203 / Pinned Web Element: Element01 / Code
+#. Node: node206 / Pinned Web Element: Element01 / Code
+#. Node: node208 / Pinned Web Element: Element01 / Code
+#. Node: node221 / Pinned Web Element: Element01 / Code
+msgid "<div id=\"Element01\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr ""
+
 #. Node: node178 / Point Hotspot: Point01 / Title
 #. Node: node178 / Point Hotspot: Point05 / Title
 #. Node: node183 / Point Hotspot: Point02 / Title
@@ -67,6 +80,26 @@ msgstr ""
 msgid "Penginapan Putri Puan"
 msgstr ""
 
+#. Node: node178 / Point Hotspot: Point06 / Title
+#. Node: node220 / Point Hotspot: Point06 / Title
+msgid "Pantai Minang Rua (Est. 1 Jam 30 Menit)"
+msgstr ""
+
+#. Node: node178 / Point Hotspot: Point06 / URL
+#. Node: node220 / Point Hotspot: Point06 / URL
+msgid "https://lampung-selatan.govirtual.id/minangrua/index.html#"
+msgstr ""
+
+#. Node: node178 / Point Hotspot: Point07 / Title
+#. Node: node220 / Point Hotspot: Point03 / Title
+msgid "Pulau Sebuku (Est. 1 Jam 30 Menit)"
+msgstr ""
+
+#. Node: node178 / Point Hotspot: Point07 / URL
+#. Node: node220 / Point Hotspot: Point03 / URL
+msgid "https://lampung-selatan.govirtual.id/pulausebuku/index.html#"
+msgstr ""
+
 #. Node: node178 / Point Hotspot: Point08 / Title
 #. Node: node220 / Point Hotspot: Point04 / Title
 #. Node: node220 / Point Hotspot: Point07 / Title
@@ -76,6 +109,33 @@ msgstr ""
 #. Node: node178 / Point Hotspot: Point09 / Title
 #. Node: node221 / Point Hotspot: Point01 / Title
 msgid "Drone Pulau Sebesi Sore"
+msgstr ""
+
+#. Node: node178 / Point Hotspot: Point10 / Title
+#. Node: node220 / Point Hotspot: Point05 / Title
+msgid "Gunung Krakatau (Est. 2 Jam)"
+msgstr ""
+
+#. Node: node178 / Point Hotspot: Point10 / URL
+#. Node: node220 / Point Hotspot: Point05 / URL
+msgid "https://lampung-selatan.govirtual.id/gunungkrakatau/index.html#"
+msgstr ""
+
+#. Node: node178 / Point Hotspot: Point11 / Title
+msgid "Klik untuk informasi <br/> Dermaga Sebesi"
+msgstr ""
+
+#. Node: node178 / Poly Hotspot: Poly01 / URL
+#. Node: node180 / Poly Hotspot: Poly01 / URL
+#. Node: node184 / Poly Hotspot: Poly01 / URL
+#. Node: node186 / Poly Hotspot: Poly01 / URL
+#. Node: node187 / Poly Hotspot: Poly01 / URL
+#. Node: node188 / Poly Hotspot: Poly01 / URL
+#. Node: node203 / Poly Hotspot: Poly01 / URL
+#. Node: node206 / Poly Hotspot: Poly01 / URL
+#. Node: node208 / Poly Hotspot: Poly01 / URL
+#. Node: node221 / Poly Hotspot: Poly01 / URL
+msgid "javascript:TourEngine.bukaOtomatis(\'Element01\');"
 msgstr ""
 
 #. Node: node179 / User Data Author
@@ -126,6 +186,20 @@ msgstr ""
 msgid "2/28/2021 7:50 PM"
 msgstr ""
 
+#. Node: node180 / User Data Custom Node ID
+msgid "pisang"
+msgstr ""
+
+#. Node: node180 / Pinned Web Element: Element02 / Code
+#. Node: node193 / Pinned Web Element: Element01 / Code
+#. Node: node194 / Pinned Web Element: Element01 / Code
+#. Node: node203 / Pinned Web Element: Element02 / Code
+#. Node: node209 / Pinned Web Element: Element01 / Code
+#. Node: node220 / Pinned Web Element: Element01 / Code
+#. Node: node221 / Pinned Web Element: Element02 / Code
+msgid "<div id=\"Element02\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr ""
+
 #. Node: node180 / Point Hotspot: Point02 / Title
 #. Node: node181 / Point Hotspot: Point01 / Title
 #. Node: node182 / Point Hotspot: Point02 / Title
@@ -137,6 +211,24 @@ msgstr ""
 #. Node: node206 / Point Hotspot: Point02 / Title
 #. Node: node221 / Point Hotspot: Point08 / Title
 msgid "Arah Keluar"
+msgstr ""
+
+#. Node: node180 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/> Komoditi Pisang"
+msgstr ""
+
+#. Node: node180 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/> Komoditi Kelapa"
+msgstr ""
+
+#. Node: node180 / Poly Hotspot: Poly02 / URL
+#. Node: node193 / Poly Hotspot: Poly01 / URL
+#. Node: node194 / Poly Hotspot: Poly01 / URL
+#. Node: node203 / Poly Hotspot: Poly02 / URL
+#. Node: node209 / Poly Hotspot: Poly01 / URL
+#. Node: node220 / Poly Hotspot: Poly01 / URL
+#. Node: node221 / Poly Hotspot: Poly02 / URL
+msgid "javascript:TourEngine.bukaOtomatis(\'Element02\');"
 msgstr ""
 
 #. Node: node181 / User Data Date && Time
@@ -160,6 +252,14 @@ msgstr ""
 msgid "1/12/2021 12:07 AM"
 msgstr ""
 
+#. Node: node184 / User Data Custom Node ID
+msgid "hutanbakau"
+msgstr ""
+
+#. Node: node184 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Hutan Bakau"
+msgstr ""
+
 #. Node: node185 / User Data Date && Time
 msgid "1/12/2021 12:13 AM"
 msgstr ""
@@ -172,12 +272,46 @@ msgstr ""
 msgid "Mangrove"
 msgstr ""
 
+#. Node: node186 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/> Bagan Apung"
+msgstr ""
+
 #. Node: node187 / User Data Date && Time
 msgid "1/12/2021 12:04 AM"
 msgstr ""
 
+#. Node: node187 / User Data Custom Node ID
+msgid "pohonbakau"
+msgstr ""
+
+#. Node: node187 / Pinned Web Element: Element02 / Code
+#. Node: node221 / Pinned Web Element: Element03 / Code
+msgid "<div id=\"Element03\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr ""
+
+#. Node: node187 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Pohon Bakau"
+msgstr ""
+
+#. Node: node187 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Perahu Cepat"
+msgstr ""
+
+#. Node: node187 / Poly Hotspot: Poly02 / URL
+#. Node: node221 / Poly Hotspot: Poly03 / URL
+msgid "javascript:TourEngine.bukaOtomatis(\'Element03\');"
+msgstr ""
+
 #. Node: node188 / User Data Date && Time
 msgid "1/12/2021 12:00 AM"
+msgstr ""
+
+#. Node: node188 / User Data Custom Node ID
+msgid "perahukatir"
+msgstr ""
+
+#. Node: node188 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/>Perahu Katir"
 msgstr ""
 
 #. Node: node189 / User Data Date && Time
@@ -208,8 +342,20 @@ msgstr ""
 msgid "1/11/2021 11:51 PM"
 msgstr ""
 
+#. Node: node193 / User Data Custom Node ID
+msgid "penginapan"
+msgstr ""
+
+#. Node: node194 / User Data Custom Node ID
+msgid "cootage"
+msgstr ""
+
 #. Node: node194 / Point Hotspot: Point03 / Title
 msgid "Mushola"
+msgstr ""
+
+#. Node: node194 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Cootage Krakatau"
 msgstr ""
 
 #. Node: node195 / Point Hotspot: Point03 / Title
@@ -245,8 +391,45 @@ msgstr ""
 msgid "Pintu Gerbang"
 msgstr ""
 
+#. Node: node203 / User Data Custom Node ID
+msgid "lampu"
+msgstr ""
+
 #. Node: node203 / Point Hotspot: Point01 / Title
 msgid "Area Parkir"
+msgstr ""
+
+#. Node: node203 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Lampu Tenaga Surya"
+msgstr ""
+
+#. Node: node203 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Loket Pelabuhan Sebesi"
+msgstr ""
+
+#. Node: node206 / User Data Custom Node ID
+msgid "perahubagiancungkil"
+msgstr ""
+
+#. Node: node206 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Perahu Bagan Cungkil"
+msgstr ""
+
+#. Node: node207 / User Data Custom Node ID
+#. Node: node208 / User Data Custom Node ID
+msgid "pelabuhan"
+msgstr ""
+
+#. Node: node208 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Pelabuhan"
+msgstr ""
+
+#. Node: node209 / User Data Custom Node ID
+msgid "landmark"
+msgstr ""
+
+#. Node: node209 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Landmark"
 msgstr ""
 
 #. Node: node220 / User Data Title
@@ -262,12 +445,44 @@ msgstr ""
 msgid "Pelabuhan"
 msgstr ""
 
+#. Node: node220 / Point Hotspot: Point08 / Title
+msgid "Klik untuk informasi <br/>Gunung Sebesi"
+msgstr ""
+
 #. Node: node221 / User Data Date && Time
 msgid "11/30/2025 6:12 PM"
 msgstr ""
 
+#. Node: node221 / User Data Custom Node ID
+msgid "pulaupanjang"
+msgstr ""
+
+#. Node: node221 / Pinned Web Element: Element04 / Code
+msgid "<div id=\"Element04\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr ""
+
+#. Node: node221 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/>Pulau Panjang"
+msgstr ""
+
+#. Node: node221 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Pulau Umang Umang"
+msgstr ""
+
+#. Node: node221 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Masjid Jami Al Iman"
+msgstr ""
+
+#. Node: node221 / Point Hotspot: Point05 / Title
+msgid "Klik untuk informasi <br/>PLTD Pulau Sebesi"
+msgstr ""
+
 #. Node: node221 / Point Hotspot: Point06 / Title
 msgid "Drone Pulau Sebesi Siang"
+msgstr ""
+
+#. Node: node221 / Poly Hotspot: Poly04 / URL
+msgid "javascript:TourEngine.bukaOtomatis(\'Element04\');"
 msgstr ""
 
 #. Context Menu Default Entry

@@ -16,16 +16,29 @@ msgstr ""
 #. Node: node178 / User Data Title
 #. Node: node221 / User Data Title
 msgid "default"
-msgstr ""
+msgstr "默认"
 
 #. Node: node178 / User Data Date && Time
 #. Node: node220 / User Data Date && Time
 msgid "10/14/2025 12:58 PM"
-msgstr ""
+msgstr "10/14/2025 12:58 PM"
 
 #. Node: node178 / User Data Custom Node ID
 msgid "PantaiSebesi"
-msgstr ""
+msgstr "PantaiSebesi"
+
+#. Node: node178 / Pinned Web Element: Element01 / Code
+#. Node: node180 / Pinned Web Element: Element01 / Code
+#. Node: node184 / Pinned Web Element: Element01 / Code
+#. Node: node186 / Pinned Web Element: Element01 / Code
+#. Node: node187 / Pinned Web Element: Element01 / Code
+#. Node: node188 / Pinned Web Element: Element01 / Code
+#. Node: node203 / Pinned Web Element: Element01 / Code
+#. Node: node206 / Pinned Web Element: Element01 / Code
+#. Node: node208 / Pinned Web Element: Element01 / Code
+#. Node: node221 / Pinned Web Element: Element01 / Code
+msgid "<div id=\"Element01\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr "<div id=\"Element01\" style=\"width: 100%; height: 100%;\"></div>"
 
 #. Node: node178 / Point Hotspot: Point01 / Title
 #. Node: node178 / Point Hotspot: Point05 / Title
@@ -77,6 +90,26 @@ msgstr "红树林"
 msgid "Penginapan Putri Puan"
 msgstr "普特里普安旅馆"
 
+#. Node: node178 / Point Hotspot: Point06 / Title
+#. Node: node220 / Point Hotspot: Point06 / Title
+msgid "Pantai Minang Rua (Est. 1 Jam 30 Menit)"
+msgstr "米南鲁阿海滩（预计1小时30分钟）"
+
+#. Node: node178 / Point Hotspot: Point06 / URL
+#. Node: node220 / Point Hotspot: Point06 / URL
+msgid "https://lampung-selatan.govirtual.id/minangrua/index.html#"
+msgstr "https://lampung-selatan.govirtual.id/minangrua/index.html#"
+
+#. Node: node178 / Point Hotspot: Point07 / Title
+#. Node: node220 / Point Hotspot: Point03 / Title
+msgid "Pulau Sebuku (Est. 1 Jam 30 Menit)"
+msgstr "斯布库岛（预计1小时30分钟）"
+
+#. Node: node178 / Point Hotspot: Point07 / URL
+#. Node: node220 / Point Hotspot: Point03 / URL
+msgid "https://lampung-selatan.govirtual.id/pulausebuku/index.html#"
+msgstr "https://lampung-selatan.govirtual.id/pulausebuku/index.html#"
+
 #. Node: node178 / Point Hotspot: Point08 / Title
 #. Node: node220 / Point Hotspot: Point04 / Title
 #. Node: node220 / Point Hotspot: Point07 / Title
@@ -87,6 +120,33 @@ msgstr "塞贝西岛无人机"
 #. Node: node221 / Point Hotspot: Point01 / Title
 msgid "Drone Pulau Sebesi Sore"
 msgstr "塞贝西岛无人机下午"
+
+#. Node: node178 / Point Hotspot: Point10 / Title
+#. Node: node220 / Point Hotspot: Point05 / Title
+msgid "Gunung Krakatau (Est. 2 Jam)"
+msgstr "喀拉喀托火山（预计2小时）"
+
+#. Node: node178 / Point Hotspot: Point10 / URL
+#. Node: node220 / Point Hotspot: Point05 / URL
+msgid "https://lampung-selatan.govirtual.id/gunungkrakatau/index.html#"
+msgstr "https://lampung-selatan.govirtual.id/gunungkrakatau/index.html#"
+
+#. Node: node178 / Point Hotspot: Point11 / Title
+msgid "Klik untuk informasi <br/> Dermaga Sebesi"
+msgstr "点击查看信息 <br/> 塞贝西码头"
+
+#. Node: node178 / Poly Hotspot: Poly01 / URL
+#. Node: node180 / Poly Hotspot: Poly01 / URL
+#. Node: node184 / Poly Hotspot: Poly01 / URL
+#. Node: node186 / Poly Hotspot: Poly01 / URL
+#. Node: node187 / Poly Hotspot: Poly01 / URL
+#. Node: node188 / Poly Hotspot: Poly01 / URL
+#. Node: node203 / Poly Hotspot: Poly01 / URL
+#. Node: node206 / Poly Hotspot: Poly01 / URL
+#. Node: node208 / Poly Hotspot: Poly01 / URL
+#. Node: node221 / Poly Hotspot: Poly01 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element01');"
+msgstr "javascript:TourEngine.bukaOtomatis('Element01');"
 
 #. Node: node179 / User Data Author
 #. Node: node180 / User Data Author
@@ -103,11 +163,11 @@ msgstr "塞贝西岛无人机下午"
 #. Node: node192 / User Data Author
 #. Node: node193 / User Data Author
 msgid "Govirtual"
-msgstr ""
+msgstr "Govirtual"
 
 #. Node: node179 / User Data Date && Time
 msgid "2/28/2021 7:53 PM"
-msgstr ""
+msgstr "2/28/2021 7:53 PM"
 
 #. Node: node179 / User Data Copyright
 #. Node: node180 / User Data Copyright
@@ -124,7 +184,7 @@ msgstr ""
 #. Node: node192 / User Data Copyright
 #. Node: node193 / User Data Copyright
 msgid "govirtual"
-msgstr ""
+msgstr "govirtual"
 
 #. Node: node179 / Point Hotspot: Point02 / Title
 #. Node: node180 / Point Hotspot: Point01 / Title
@@ -134,7 +194,21 @@ msgstr "塞贝西码头"
 
 #. Node: node180 / User Data Date && Time
 msgid "2/28/2021 7:50 PM"
-msgstr ""
+msgstr "2/28/2021 7:50 PM"
+
+#. Node: node180 / User Data Custom Node ID
+msgid "pisang"
+msgstr "pisang"
+
+#. Node: node180 / Pinned Web Element: Element02 / Code
+#. Node: node193 / Pinned Web Element: Element01 / Code
+#. Node: node194 / Pinned Web Element: Element01 / Code
+#. Node: node203 / Pinned Web Element: Element02 / Code
+#. Node: node209 / Pinned Web Element: Element01 / Code
+#. Node: node220 / Pinned Web Element: Element01 / Code
+#. Node: node221 / Pinned Web Element: Element02 / Code
+msgid "<div id=\"Element02\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr "<div id=\"Element02\" style=\"width: 100%; height: 100%;\"></div>"
 
 #. Node: node180 / Point Hotspot: Point02 / Title
 #. Node: node181 / Point Hotspot: Point01 / Title
@@ -149,13 +223,31 @@ msgstr ""
 msgid "Arah Keluar"
 msgstr "出口方向"
 
+#. Node: node180 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/> Komoditi Pisang"
+msgstr "点击查看信息 <br/> 香蕉大宗商品"
+
+#. Node: node180 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/> Komoditi Kelapa"
+msgstr "点击查看信息 <br/> 椰子大宗商品"
+
+#. Node: node180 / Poly Hotspot: Poly02 / URL
+#. Node: node193 / Poly Hotspot: Poly01 / URL
+#. Node: node194 / Poly Hotspot: Poly01 / URL
+#. Node: node203 / Poly Hotspot: Poly02 / URL
+#. Node: node209 / Poly Hotspot: Poly01 / URL
+#. Node: node220 / Poly Hotspot: Poly01 / URL
+#. Node: node221 / Poly Hotspot: Poly02 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element02');"
+msgstr "javascript:TourEngine.bukaOtomatis('Element02');"
+
 #. Node: node181 / User Data Date && Time
 msgid "2/28/2021 6:56 PM"
-msgstr ""
+msgstr "2/28/2021 6:56 PM"
 
 #. Node: node182 / User Data Date && Time
 msgid "2/28/2021 6:54 PM"
-msgstr ""
+msgstr "2/28/2021 6:54 PM"
 
 #. Node: node182 / Point Hotspot: Point01 / Title
 #. Node: node188 / Point Hotspot: Point01 / Title
@@ -164,63 +256,117 @@ msgstr "塞贝西海滩"
 
 #. Node: node183 / User Data Date && Time
 msgid "3/10/2021 5:50 PM"
-msgstr ""
+msgstr "3/10/2021 5:50 PM"
 
 #. Node: node184 / User Data Date && Time
 msgid "1/12/2021 12:07 AM"
-msgstr ""
+msgstr "1/12/2021 12:07 AM"
+
+#. Node: node184 / User Data Custom Node ID
+msgid "hutanbakau"
+msgstr "hutanbakau"
+
+#. Node: node184 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Hutan Bakau"
+msgstr "点击查看信息 <br/>红树林"
 
 #. Node: node185 / User Data Date && Time
 msgid "1/12/2021 12:13 AM"
-msgstr ""
+msgstr "1/12/2021 12:13 AM"
 
 #. Node: node186 / User Data Date && Time
 msgid "1/12/2021 12:10 AM"
-msgstr ""
+msgstr "1/12/2021 12:10 AM"
 
 #. Node: node186 / User Data Custom Node ID
 msgid "Mangrove"
-msgstr ""
+msgstr "Mangrove"
+
+#. Node: node186 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/> Bagan Apung"
+msgstr "点击查看信息 <br/> 漂浮捕鱼平台"
 
 #. Node: node187 / User Data Date && Time
 msgid "1/12/2021 12:04 AM"
-msgstr ""
+msgstr "1/12/2021 12:04 AM"
+
+#. Node: node187 / User Data Custom Node ID
+msgid "pohonbakau"
+msgstr "pohonbakau"
+
+#. Node: node187 / Pinned Web Element: Element02 / Code
+#. Node: node221 / Pinned Web Element: Element03 / Code
+msgid "<div id=\"Element03\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr "<div id=\"Element03\" style=\"width: 100%; height: 100%;\"></div>"
+
+#. Node: node187 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Pohon Bakau"
+msgstr "点击查看信息 <br/>红树"
+
+#. Node: node187 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Perahu Cepat"
+msgstr "点击查看信息 <br/>快艇"
+
+#. Node: node187 / Poly Hotspot: Poly02 / URL
+#. Node: node221 / Poly Hotspot: Poly03 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element03');"
+msgstr "javascript:TourEngine.bukaOtomatis('Element03');"
 
 #. Node: node188 / User Data Date && Time
 msgid "1/12/2021 12:00 AM"
-msgstr ""
+msgstr "1/12/2021 12:00 AM"
+
+#. Node: node188 / User Data Custom Node ID
+msgid "perahukatir"
+msgstr "perahukatir"
+
+#. Node: node188 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/>Perahu Katir"
+msgstr "点击查看信息 <br/>舷外浮筏船"
 
 #. Node: node189 / User Data Date && Time
 msgid "1/12/2021 12:32 AM"
-msgstr ""
+msgstr "1/12/2021 12:32 AM"
 
 #. Node: node190 / User Data Date && Time
 msgid "1/12/2021 12:21 AM"
-msgstr ""
+msgstr "1/12/2021 12:21 AM"
 
 #. Node: node190 / Point Hotspot: Point01 / Title
 msgid "PLTD Pulau Sebesi"
-msgstr "塞贝西岛PLTD"
+msgstr "塞贝西岛PLTD发电厂"
 
 #. Node: node191 / User Data Date && Time
 msgid "1/11/2021 11:54 PM"
-msgstr ""
+msgstr "1/11/2021 11:54 PM"
 
 #. Node: node192 / User Data Date && Time
 msgid "1/11/2021 11:57 PM"
-msgstr ""
+msgstr "1/11/2021 11:57 PM"
 
 #. Node: node192 / User Data Custom Node ID
 msgid "VillaPuan"
-msgstr ""
+msgstr "VillaPuan"
 
 #. Node: node193 / User Data Date && Time
 msgid "1/11/2021 11:51 PM"
-msgstr ""
+msgstr "1/11/2021 11:51 PM"
+
+#. Node: node193 / User Data Custom Node ID
+msgid "penginapan"
+msgstr "penginapan"
+
+#. Node: node194 / User Data Custom Node ID
+msgid "cootage"
+msgstr "cootage"
 
 #. Node: node194 / Point Hotspot: Point03 / Title
 msgid "Mushola"
 msgstr "祈祷室"
+
+#. Node: node194 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Cootage Krakatau"
+msgstr "点击查看信息 <br/>喀拉喀托小屋"
 
 #. Node: node195 / Point Hotspot: Point03 / Title
 #. Node: node199 / Point Hotspot: Point02 / Title
@@ -255,39 +401,108 @@ msgstr "洗手间"
 msgid "Pintu Gerbang"
 msgstr "门"
 
+#. Node: node203 / User Data Custom Node ID
+msgid "lampu"
+msgstr "lampu"
+
 #. Node: node203 / Point Hotspot: Point01 / Title
 msgid "Area Parkir"
 msgstr "停车场"
 
+#. Node: node203 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Lampu Tenaga Surya"
+msgstr "点击查看信息 <br/>太阳能路灯"
+
+#. Node: node203 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Loket Pelabuhan Sebesi"
+msgstr "点击查看信息 <br/>塞贝西港口售票处"
+
+#. Node: node206 / User Data Custom Node ID
+msgid "perahubagiancungkil"
+msgstr "perahubagiancungkil"
+
+#. Node: node206 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Perahu Bagan Cungkil"
+msgstr "点击查看信息 <br/>巴甘渔船"
+
+#. Node: node207 / User Data Custom Node ID
+#. Node: node208 / User Data Custom Node ID
+msgid "pelabuhan"
+msgstr "pelabuhan"
+
+#. Node: node208 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Pelabuhan"
+msgstr "点击查看信息 <br/>港口"
+
+#. Node: node209 / User Data Custom Node ID
+msgid "landmark"
+msgstr "landmark"
+
+#. Node: node209 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Landmark"
+msgstr "点击查看信息 <br/>地标"
+
 #. Node: node220 / User Data Title
 msgid "Pulau Sebesi Drone Main"
-msgstr ""
+msgstr "塞贝西岛主无人机"
 
 #. Node: node220 / User Data Custom Node ID
 msgid "PulauSebesiDrone"
-msgstr ""
+msgstr "PulauSebesiDrone"
 
 #. Node: node220 / Point Hotspot: Point02 / Title
 #. Node: node221 / Point Hotspot: Point07 / Title
 msgid "Pelabuhan"
 msgstr "港口"
 
+#. Node: node220 / Point Hotspot: Point08 / Title
+msgid "Klik untuk informasi <br/>Gunung Sebesi"
+msgstr "点击查看信息 <br/>塞贝西山"
+
 #. Node: node221 / User Data Date && Time
 msgid "11/30/2025 6:12 PM"
-msgstr ""
+msgstr "11/30/2025 6:12 PM"
+
+#. Node: node221 / User Data Custom Node ID
+msgid "pulaupanjang"
+msgstr "pulaupanjang"
+
+#. Node: node221 / Pinned Web Element: Element04 / Code
+msgid "<div id=\"Element04\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr "<div id=\"Element04\" style=\"width: 100%; height: 100%;\"></div>"
+
+#. Node: node221 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/>Pulau Panjang"
+msgstr "点击查看信息 <br/>班让岛"
+
+#. Node: node221 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Pulau Umang Umang"
+msgstr "点击查看信息 <br/>乌芒乌芒岛"
+
+#. Node: node221 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Masjid Jami Al Iman"
+msgstr "点击查看信息 <br/>贾米阿里曼清真寺"
+
+#. Node: node221 / Point Hotspot: Point05 / Title
+msgid "Klik untuk informasi <br/>PLTD Pulau Sebesi"
+msgstr "点击查看信息 <br/>塞贝西岛PLTD发电厂"
 
 #. Node: node221 / Point Hotspot: Point06 / Title
 msgid "Drone Pulau Sebesi Siang"
 msgstr "铁岛日光无人机"
 
+#. Node: node221 / Poly Hotspot: Poly04 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element04');"
+msgstr "javascript:TourEngine.bukaOtomatis('Element04');"
+
 #. Context Menu Default Entry
 msgid "Enter VR"
-msgstr ""
+msgstr "进入 VR"
 
 #. Context Menu Default Entry
 msgid "Enter Fullscreen"
-msgstr ""
+msgstr "进入全屏"
 
 #. Context Menu Default Entry
 msgid "Exit Fullscreen"
-msgstr ""
+msgstr "退出全屏"

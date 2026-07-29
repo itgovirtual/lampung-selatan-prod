@@ -16,16 +16,16 @@ msgstr ""
 #. Node: node178 / User Data Title
 #. Node: node221 / User Data Title
 msgid "default"
-msgstr ""
+msgstr "افتراضي"
 
 #. Node: node178 / User Data Date && Time
 #. Node: node220 / User Data Date && Time
 msgid "10/14/2025 12:58 PM"
-msgstr ""
+msgstr "10/14/2025 12:58 PM"
 
 #. Node: node178 / User Data Custom Node ID
 msgid "PantaiSebesi"
-msgstr ""
+msgstr "PantaiSebesi"
 
 #. Node: node178 / Point Hotspot: Point01 / Title
 #. Node: node178 / Point Hotspot: Point05 / Title
@@ -103,11 +103,11 @@ msgstr "جزيرة سيبيسي بدون طيار بعد الظهر"
 #. Node: node192 / User Data Author
 #. Node: node193 / User Data Author
 msgid "Govirtual"
-msgstr ""
+msgstr "Govirtual"
 
 #. Node: node179 / User Data Date && Time
 msgid "2/28/2021 7:53 PM"
-msgstr ""
+msgstr "2/28/2021 7:53 PM"
 
 #. Node: node179 / User Data Copyright
 #. Node: node180 / User Data Copyright
@@ -124,7 +124,7 @@ msgstr ""
 #. Node: node192 / User Data Copyright
 #. Node: node193 / User Data Copyright
 msgid "govirtual"
-msgstr ""
+msgstr "govirtual"
 
 #. Node: node179 / Point Hotspot: Point02 / Title
 #. Node: node180 / Point Hotspot: Point01 / Title
@@ -134,7 +134,7 @@ msgstr "رصيف سيبيسي"
 
 #. Node: node180 / User Data Date && Time
 msgid "2/28/2021 7:50 PM"
-msgstr ""
+msgstr "2/28/2021 7:50 PM"
 
 #. Node: node180 / Point Hotspot: Point02 / Title
 #. Node: node181 / Point Hotspot: Point01 / Title
@@ -151,11 +151,11 @@ msgstr "اتجاه الخروج"
 
 #. Node: node181 / User Data Date && Time
 msgid "2/28/2021 6:56 PM"
-msgstr ""
+msgstr "2/28/2021 6:56 PM"
 
 #. Node: node182 / User Data Date && Time
 msgid "2/28/2021 6:54 PM"
-msgstr ""
+msgstr "2/28/2021 6:54 PM"
 
 #. Node: node182 / Point Hotspot: Point01 / Title
 #. Node: node188 / Point Hotspot: Point01 / Title
@@ -164,39 +164,39 @@ msgstr "شاطئ سيبيسي"
 
 #. Node: node183 / User Data Date && Time
 msgid "3/10/2021 5:50 PM"
-msgstr ""
+msgstr "3/10/2021 5:50 PM"
 
 #. Node: node184 / User Data Date && Time
 msgid "1/12/2021 12:07 AM"
-msgstr ""
+msgstr "1/12/2021 12:07 AM"
 
 #. Node: node185 / User Data Date && Time
 msgid "1/12/2021 12:13 AM"
-msgstr ""
+msgstr "1/12/2021 12:13 AM"
 
 #. Node: node186 / User Data Date && Time
 msgid "1/12/2021 12:10 AM"
-msgstr ""
+msgstr "1/12/2021 12:10 AM"
 
 #. Node: node186 / User Data Custom Node ID
 msgid "Mangrove"
-msgstr ""
+msgstr "Mangrove"
 
 #. Node: node187 / User Data Date && Time
 msgid "1/12/2021 12:04 AM"
-msgstr ""
+msgstr "1/12/2021 12:04 AM"
 
 #. Node: node188 / User Data Date && Time
 msgid "1/12/2021 12:00 AM"
-msgstr ""
+msgstr "1/12/2021 12:00 AM"
 
 #. Node: node189 / User Data Date && Time
 msgid "1/12/2021 12:32 AM"
-msgstr ""
+msgstr "1/12/2021 12:32 AM"
 
 #. Node: node190 / User Data Date && Time
 msgid "1/12/2021 12:21 AM"
-msgstr ""
+msgstr "1/12/2021 12:21 AM"
 
 #. Node: node190 / Point Hotspot: Point01 / Title
 msgid "PLTD Pulau Sebesi"
@@ -204,19 +204,19 @@ msgstr "جزيرة سيبيسي بي تي دي"
 
 #. Node: node191 / User Data Date && Time
 msgid "1/11/2021 11:54 PM"
-msgstr ""
+msgstr "1/11/2021 11:54 PM"
 
 #. Node: node192 / User Data Date && Time
 msgid "1/11/2021 11:57 PM"
-msgstr ""
+msgstr "1/11/2021 11:57 PM"
 
 #. Node: node192 / User Data Custom Node ID
 msgid "VillaPuan"
-msgstr ""
+msgstr "VillaPuan"
 
 #. Node: node193 / User Data Date && Time
 msgid "1/11/2021 11:51 PM"
-msgstr ""
+msgstr "1/11/2021 11:51 PM"
 
 #. Node: node194 / Point Hotspot: Point03 / Title
 msgid "Mushola"
@@ -261,11 +261,11 @@ msgstr "منطقة وقوف السيارات"
 
 #. Node: node220 / User Data Title
 msgid "Pulau Sebesi Drone Main"
-msgstr ""
+msgstr "Pulau Sebesi Drone Main"
 
 #. Node: node220 / User Data Custom Node ID
 msgid "PulauSebesiDrone"
-msgstr ""
+msgstr "PulauSebesiDrone"
 
 #. Node: node220 / Point Hotspot: Point02 / Title
 #. Node: node221 / Point Hotspot: Point07 / Title
@@ -274,7 +274,7 @@ msgstr "هاربور"
 
 #. Node: node221 / User Data Date && Time
 msgid "11/30/2025 6:12 PM"
-msgstr ""
+msgstr "11/30/2025 6:12 PM"
 
 #. Node: node221 / Point Hotspot: Point06 / Title
 msgid "Drone Pulau Sebesi Siang"
@@ -282,12 +282,12 @@ msgstr "جزيرة الحديد في ضوء النهار بدون طيار"
 
 #. Context Menu Default Entry
 msgid "Enter VR"
-msgstr ""
+msgstr "الدخول إلى الواقع الافتراضي"
 
 #. Context Menu Default Entry
 msgid "Enter Fullscreen"
-msgstr ""
+msgstr "ملء الشاشة"
 
 #. Context Menu Default Entry
 msgid "Exit Fullscreen"
-msgstr ""
+msgstr "الخروج من وضع ملء الشاشة"
