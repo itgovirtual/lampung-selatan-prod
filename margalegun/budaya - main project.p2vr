@@ -508,74 +508,12 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
-        <hotspot>
-          <position>
-            <pan>0.88</pan>
-            <tilt>50.6</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <customprops/>
-          <polygon/>
-          <id>Point05</id>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon</skinid>
-          <type>point</type>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
-          <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
-        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds>
-        <sound>
-          <position>
-            <pan>-358.63</pan>
-            <tilt>28.74</tilt>
-          </position>
-          <videorect>
-            <rotx>0</rotx>
-            <roty>0</roty>
-            <rotz>0</rotz>
-            <fov>30</fov>
-            <stretch>100</stretch>
-            <dimx>1000</dimx>
-            <dimy>1000</dimy>
-          </videorect>
-          <type>webelement</type>
-          <id>Element01</id>
-          <mode>0</mode>
-          <nodechangekeep>0</nodechangekeep>
-          <locked>0</locked>
-          <pansize>10</pansize>
-          <tiltsize>10</tiltsize>
-          <fieldsize>90</fieldsize>
-          <ambientlevel>0</ambientlevel>
-          <startmutedmobile>0</startmutedmobile>
-          <level>1</level>
-          <loop>1</loop>
-          <copyfile>1</copyfile>
-          <clickmode>none</clickmode>
-          <popoutscaling>100</popoutscaling>
-          <popbackmode>stop</popbackmode>
-          <hidepinned>0</hidepinned>
-          <handcursor>0</handcursor>
-          <permeable>0</permeable>
-        </sound>
-      </sounds>
+      <sounds/>
     </panorama>
     <panorama>
       <projectsettings>
@@ -1445,53 +1383,6 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>panorama/Rumah Adat Kalianda/Rumah-adat-lagun-kalianda---Area-Teras-Samping-Lamban-Balak.jpg</filename>
-        <videotype>equi</videotype>
-        <levelpitch>0</levelpitch>
-        <levelroll>0</levelroll>
-        <startonload>0</startonload>
-      </input>
-      <viewingparameter>
-        <pan/>
-        <tilt/>
-        <fov>
-          <max>126</max>
-        </fov>
-        <flyinstart/>
-        <pannorth>0</pannorth>
-      </viewingparameter>
-      <userdata>
-        <customprops/>
-        <capturedatetime>2025-10-17T23:07:06</capturedatetime>
-        <tags>RumahAdatKalianda</tags>
-        <latitude>-5.73202201</latitude>
-        <longitude>105.59057850</longitude>
-        <altitude>-3048</altitude>
-      </userdata>
-      <floorplans/>
-      <hotspots/>
-      <output/>
-      <streetview/>
-      <streetviewproject/>
-      <ggloudproject/>
-      <sounds/>
-      <id>node16</id>
-    </panorama>
-    <panorama>
-      <projectsettings>
-        <userdata>
-          <customprops/>
-        </userdata>
-        <mapgrid>
-          <anchor/>
-        </mapgrid>
-        <floorplangrid>
-          <anchor/>
-        </floorplangrid>
-      </projectsettings>
-      <input>
-        <patch/>
-        <type>auto</type>
         <filename>panorama/Rumah Adat Kalianda/Rumah-adat-lagun-kalianda---Bagian-Dalam-Lamban-Balak.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
@@ -1944,54 +1835,6 @@
         </sound>
       </sounds>
       <id>node18</id>
-    </panorama>
-    <panorama>
-      <projectsettings>
-        <userdata>
-          <customprops/>
-        </userdata>
-        <mapgrid>
-          <anchor/>
-        </mapgrid>
-        <floorplangrid>
-          <anchor/>
-        </floorplangrid>
-      </projectsettings>
-      <input>
-        <patch/>
-        <type>auto</type>
-        <filename>panorama/Rumah Adat Kalianda/Rumah-adat-lagun-kalianda---Bagian-Teras-Depan-Lamban-Balak.jpg</filename>
-        <videotype>equi</videotype>
-        <levelpitch>0</levelpitch>
-        <levelroll>0</levelroll>
-        <startonload>0</startonload>
-      </input>
-      <viewingparameter>
-        <pan/>
-        <tilt/>
-        <fov>
-          <max>126</max>
-        </fov>
-        <flyinstart/>
-        <pannorth>0</pannorth>
-      </viewingparameter>
-      <userdata>
-        <customprops/>
-        <capturedatetime>2025-11-05T17:32:42</capturedatetime>
-        <datetime>11/5/2025 5:32 PM</datetime>
-        <tags>RumahAdatKalianda</tags>
-        <latitude>-5.73202201</latitude>
-        <longitude>105.59057850</longitude>
-        <altitude>-3048</altitude>
-      </userdata>
-      <floorplans/>
-      <hotspots/>
-      <output/>
-      <streetview/>
-      <streetviewproject/>
-      <ggloudproject/>
-      <sounds/>
-      <id>node19</id>
     </panorama>
     <panorama>
       <projectsettings>
