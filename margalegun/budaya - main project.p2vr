@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.12" rev="21036">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <start>node20</start>
     <panorama>
@@ -395,9 +395,9 @@
             <fov>12</fov>
           </position>
           <next>
-            <pan>-36.2</pan>
-            <tilt>-5.4</tilt>
-            <fov>130</fov>
+            <pan>-86.4</pan>
+            <tilt>-4.9</tilt>
+            <fov>151.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -406,7 +406,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node11}</url>
-          <target>-36.2/-5.4/130.0</target>
+          <target>-86.4/-4.9/151.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -451,7 +451,7 @@
         <hotspot>
           <position>
             <pan>-75.96</pan>
-            <tilt>-0.27</tilt>
+            <tilt>-2.93</tilt>
             <fov>12</fov>
           </position>
           <next>
@@ -485,9 +485,9 @@
             <fov>12</fov>
           </position>
           <next>
-            <pan>86</pan>
-            <tilt>-8.2</tilt>
-            <fov>100</fov>
+            <pan>89.9</pan>
+            <tilt>-5</tilt>
+            <fov>151.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -496,7 +496,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node17}</url>
-          <target>86.0/-8.2/100.0</target>
+          <target>89.9/-5.0/151.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -828,9 +828,9 @@
             <fov>17</fov>
           </position>
           <next>
-            <pan>26.1</pan>
-            <tilt>1.8</tilt>
-            <fov>100</fov>
+            <pan>38.1</pan>
+            <tilt>-12.1</tilt>
+            <fov>151.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -839,7 +839,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node24}</url>
-          <target>26.1/1.8/100.0</target>
+          <target>38.1/-12.1/151.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -853,14 +853,14 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-68.67</pan>
-            <tilt>-32.99</tilt>
+            <pan>-68.03</pan>
+            <tilt>-35.51</tilt>
             <fov>18</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
+            <pan>45.7</pan>
+            <tilt>-1.9</tilt>
+            <fov>151.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -869,6 +869,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node25}</url>
+          <target>45.7/-1.9/151.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1333,44 +1334,14 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-0.67</pan>
-            <tilt>-1.49</tilt>
-            <fov>12</fov>
-          </position>
-          <next>
-            <pan>-40.1</pan>
-            <tilt>-1.7</tilt>
-            <fov>108.5</fov>
-          </next>
-          <customprops/>
-          <polygon/>
-          <id>Point02</id>
-          <title>Halaman Belakang</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node15}</url>
-          <target>-40.1/-1.7/108.5</target>
-          <skinid>hotspot-default</skinid>
-          <type>point</type>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <customimage>assets/HOSOT-03.png</customimage>
-          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
-          <use3d>1</use3d>
-          <width>100</width>
-          <height>100</height>
-        </hotspot>
-        <hotspot>
-          <position>
             <pan>-81.92</pan>
-            <tilt>-2.16</tilt>
+            <tilt>-9.71</tilt>
             <fov>15</fov>
           </position>
           <next>
-            <pan>1.2</pan>
-            <tilt>9.8</tilt>
-            <fov>117</fov>
+            <pan>1.3</pan>
+            <tilt>2.6</tilt>
+            <fov>151.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -1379,7 +1350,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node25}</url>
-          <target>1.2/9.8/117.0</target>
+          <target>1.3/2.6/151.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1421,74 +1392,25 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
-      </hotspots>
-      <output/>
-      <streetview/>
-      <streetviewproject/>
-      <ggloudproject/>
-      <sounds/>
-      <id>node14</id>
-    </panorama>
-    <panorama>
-      <projectsettings>
-        <userdata>
-          <customprops/>
-        </userdata>
-        <mapgrid>
-          <anchor/>
-        </mapgrid>
-        <floorplangrid>
-          <anchor/>
-        </floorplangrid>
-      </projectsettings>
-      <input>
-        <patch/>
-        <type>auto</type>
-        <filename>C:/Users/TIM IT GOVIRTUAL/Desktop/Rumah-adat-lagun kalianda---Area Belakang-Galeri-2.jpg.jpeg</filename>
-        <videotype>equi</videotype>
-        <levelpitch>0</levelpitch>
-        <levelroll>0</levelroll>
-        <startonload>0</startonload>
-      </input>
-      <viewingparameter>
-        <pan/>
-        <tilt/>
-        <fov>
-          <max>126</max>
-        </fov>
-        <flyinstart/>
-        <pannorth>0</pannorth>
-      </viewingparameter>
-      <userdata>
-        <customprops/>
-        <capturedatetime>2025-11-05T17:32:42</capturedatetime>
-        <datetime>11/5/2025 5:32 PM</datetime>
-        <tags>RumahAdatKalianda</tags>
-        <latitude>-5.73202201</latitude>
-        <longitude>105.59057850</longitude>
-        <altitude>-3048</altitude>
-      </userdata>
-      <floorplans/>
-      <hotspots>
         <hotspot>
           <position>
-            <pan>-90.78</pan>
-            <tilt>0.52</tilt>
-            <fov>12</fov>
+            <pan>-357.88</pan>
+            <tilt>-5.47</tilt>
+            <fov>15</fov>
           </position>
           <next>
-            <pan>130</pan>
-            <tilt>0.5</tilt>
-            <fov>130</fov>
+            <pan>1.2</pan>
+            <tilt>-1.5</tilt>
+            <fov>147.4</fov>
           </next>
           <customprops/>
           <polygon/>
-          <id>Point01</id>
-          <title>Lamban Balak Marga Legun</title>
+          <id>Point02</id>
+          <title>Area Belakang</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node14}</url>
-          <target>130.0/0.5/130.0</target>
+          <url>{node26}</url>
+          <target>1.2/-1.5/147.4</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1500,84 +1422,13 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
-        <hotspot>
-          <position>
-            <pan>-357.75</pan>
-            <tilt>-5.25</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <customprops/>
-          <polygon/>
-          <id>Point02</id>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon7</skinid>
-          <type>point</type>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
-          <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
-        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds>
-        <sound>
-          <position>
-            <pan>-33.6</pan>
-            <tilt>-4.62</tilt>
-          </position>
-          <videorect>
-            <rotx>0</rotx>
-            <roty>0</roty>
-            <rotz>0</rotz>
-            <fov>30</fov>
-            <stretch>100</stretch>
-            <dimx>400</dimx>
-            <dimy>600</dimy>
-          </videorect>
-          <type>webelement</type>
-          <id>Element07</id>
-          <mode>0</mode>
-          <nodechangekeep>0</nodechangekeep>
-          <locked>0</locked>
-          <pansize>10</pansize>
-          <tiltsize>10</tiltsize>
-          <fieldsize>90</fieldsize>
-          <ambientlevel>0</ambientlevel>
-          <startmutedmobile>0</startmutedmobile>
-          <level>1</level>
-          <loop>1</loop>
-          <copyfile>1</copyfile>
-          <clickmode>none</clickmode>
-          <popoutscaling>100</popoutscaling>
-          <popbackmode>stop</popbackmode>
-          <hidepinned>0</hidepinned>
-          <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-7" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=157&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
-          <permeable>1</permeable>
-        </sound>
-      </sounds>
-      <id>node15</id>
+      <sounds/>
+      <id>node14</id>
     </panorama>
     <panorama>
       <projectsettings>
@@ -1705,7 +1556,7 @@
           <next>
             <pan>154.6</pan>
             <tilt>-2.3</tilt>
-            <fov>100</fov>
+            <fov>138.2</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -1714,7 +1565,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node18}</url>
-          <target>154.6/-2.3/100.0</target>
+          <target>154.6/-2.3/138.2</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1992,9 +1843,9 @@
             <fov>14</fov>
           </position>
           <next>
-            <pan>24.2</pan>
-            <tilt>-0.1</tilt>
-            <fov>100</fov>
+            <pan>-10.4</pan>
+            <tilt>-5.3</tilt>
+            <fov>151.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2003,7 +1854,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node17}</url>
-          <target>24.2/-0.1/100.0</target>
+          <target>-10.4/-5.3/151.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2165,18 +2016,18 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>37.83</start>
+          <start>42.4526</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>4.67</start>
+          <start>-7.34677</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
           <max>126</max>
-          <start>96.85</start>
+          <start>145.017</start>
           <minunit>pixels</minunit>
           <maxfovstereographic>330</maxfovstereographic>
           <maxfovfisheye>360</maxfovfisheye>
@@ -2190,7 +2041,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>rectilinear</flyinprojection>
-        <defaultviewtimestamp>2026-02-25T15:13:21</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-07-29T15:39:05</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -2319,9 +2170,9 @@
             <fov>15</fov>
           </position>
           <next>
-            <pan>22.7</pan>
-            <tilt>-0.9</tilt>
-            <fov>130</fov>
+            <pan>25.6</pan>
+            <tilt>-11.9</tilt>
+            <fov>151.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2330,7 +2181,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node13}</url>
-          <target>22.7/-0.9/130.0</target>
+          <target>25.6/-11.9/151.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2468,9 +2319,9 @@
             <fov>16</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
+            <pan>-4.4</pan>
+            <tilt>-6.7</tilt>
+            <fov>151.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2479,6 +2330,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node23}</url>
+          <target>-4.4/-6.7/151.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2497,9 +2349,9 @@
             <fov>16</fov>
           </position>
           <next>
-            <pan>-37.5</pan>
-            <tilt>-1.9</tilt>
-            <fov>100</fov>
+            <pan>-19.1</pan>
+            <tilt>-8</tilt>
+            <fov>151.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2508,7 +2360,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node21}</url>
-          <target>-37.5/-1.9/100.0</target>
+          <target>-19.1/-8.0/151.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2575,9 +2427,9 @@
             <fov>14</fov>
           </position>
           <next>
-            <pan>28.3</pan>
-            <tilt>-3.1</tilt>
-            <fov>100</fov>
+            <pan>82.9</pan>
+            <tilt>-10.5</tilt>
+            <fov>151.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2586,7 +2438,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node24}</url>
-          <target>28.3/-3.1/100.0</target>
+          <target>82.9/-10.5/151.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2605,9 +2457,9 @@
             <fov>14</fov>
           </position>
           <next>
-            <pan>-167.5</pan>
-            <tilt>-1.5</tilt>
-            <fov>117</fov>
+            <pan>-166.8</pan>
+            <tilt>-8.6</tilt>
+            <fov>151.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2616,7 +2468,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node22}</url>
-          <target>-167.5/-1.5/117.0</target>
+          <target>-166.8/-8.6/151.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2749,14 +2601,14 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-236.85</pan>
-            <tilt>-28.53</tilt>
-            <fov>18</fov>
+            <pan>-237.92</pan>
+            <tilt>-31.99</tilt>
+            <fov>15</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
+            <pan>54.1</pan>
+            <tilt>-2.5</tilt>
+            <fov>138.2</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2765,6 +2617,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node25}</url>
+          <target>54.1/-2.5/138.2</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2783,9 +2636,9 @@
             <fov>14</fov>
           </position>
           <next>
-            <pan>-112</pan>
-            <tilt>-3</tilt>
-            <fov>117</fov>
+            <pan>-94.1</pan>
+            <tilt>-6.1</tilt>
+            <fov>151.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2794,7 +2647,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node23}</url>
-          <target>-112.0/-3.0/117.0</target>
+          <target>-94.1/-6.1/151.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2815,7 +2668,7 @@
           <next>
             <pan>94.4</pan>
             <tilt>-2.1</tilt>
-            <fov>130</fov>
+            <fov>151.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2824,7 +2677,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node13}</url>
-          <target>94.4/-2.1/130.0</target>
+          <target>94.4/-2.1/151.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2921,9 +2774,9 @@
             <fov>14</fov>
           </position>
           <next>
-            <pan>26.2</pan>
-            <tilt>-0.7</tilt>
-            <fov>100</fov>
+            <pan>38.8</pan>
+            <tilt>-13.6</tilt>
+            <fov>151.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2932,7 +2785,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node24}</url>
-          <target>26.2/-0.7/100.0</target>
+          <target>38.8/-13.6/151.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2951,6 +2804,79 @@
       <ggloudproject/>
       <sounds/>
       <id>node25</id>
+    </panorama>
+    <panorama>
+      <projectsettings>
+        <userdata>
+          <customprops/>
+        </userdata>
+        <mapgrid>
+          <anchor/>
+        </mapgrid>
+        <floorplangrid>
+          <anchor/>
+        </floorplangrid>
+      </projectsettings>
+      <input>
+        <patch/>
+        <type>auto</type>
+        <filename>E:/#lampung error link/margalegun/panorama/Rumah Adat Kalianda/Rumah-adat-lagun-kalianda---Area-Belakang-Galeri-2.jpg</filename>
+        <videotype>equi</videotype>
+        <levelpitch>0</levelpitch>
+        <levelroll>0</levelroll>
+      </input>
+      <viewingparameter>
+        <pan/>
+        <tilt/>
+        <fov/>
+        <flyinstart/>
+        <pannorth>0</pannorth>
+      </viewingparameter>
+      <userdata>
+        <customprops/>
+        <capturedatetime>2025-11-05T17:32:42+07:00</capturedatetime>
+        <datetime>11/5/2025 5:32 PM</datetime>
+        <tags>RumahAdatKalianda</tags>
+      </userdata>
+      <floorplans/>
+      <hotspots>
+        <hotspot>
+          <position>
+            <pan>-97.63</pan>
+            <tilt>-1.33</tilt>
+            <fov>15</fov>
+          </position>
+          <next>
+            <pan>-34.2</pan>
+            <tilt>-3.1</tilt>
+            <fov>151.6</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point01</id>
+          <title>Lamban Balak Marga Legun</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node14}</url>
+          <target>-34.2/-3.1/151.6</target>
+          <skinid>hotspot-default</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>100</width>
+          <height>100</height>
+        </hotspot>
+      </hotspots>
+      <output/>
+      <streetview/>
+      <streetviewproject/>
+      <ggloudproject/>
+      <sounds/>
+      <id>node26</id>
     </panorama>
   </tour>
   <panorama>
