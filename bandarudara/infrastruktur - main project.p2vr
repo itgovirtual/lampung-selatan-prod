@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.12" rev="21036">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <start>node55</start>
     <panorama>
@@ -609,8 +609,8 @@
             <fov>15</fov>
           </position>
           <next>
-            <pan>-78.1</pan>
-            <tilt>-11.4</tilt>
+            <pan>5.4</pan>
+            <tilt>-1</tilt>
             <fov>130</fov>
           </next>
           <customprops/>
@@ -620,20 +620,21 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node49}</url>
-          <target>-78.1/-11.4/130.0</target>
+          <target>5.4/-1.0/130.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-85.75</pan>
+            <pan>-85.74</pan>
             <tilt>-5.56</tilt>
             <fov>13</fov>
           </position>
@@ -901,9 +902,9 @@
             <fov>14</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>2.6</tilt>
-            <fov>137.9</fov>
+            <pan>82.3</pan>
+            <tilt>-0.4</tilt>
+            <fov>143.7</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -912,7 +913,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node71}</url>
-          <target>0.0/2.6/137.9</target>
+          <target>82.3/-0.4/143.7</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1163,6 +1164,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/door.png</customimage>
+          <urlsafecustomimage>door-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>40</width>
           <height>40</height>
@@ -2089,12 +2091,12 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>-2.32</start>
+          <start>57.18</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>-12.33</start>
+          <start>4.06</start>
           <max>65</max>
           <min>-65</min>
         </tilt>
@@ -2114,7 +2116,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2026-02-23T09:31:56</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-07-29T15:12:36</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -2772,8 +2774,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-92.06</pan>
-            <tilt>-2.37</tilt>
+            <pan>-91.86</pan>
+            <tilt>-2.35</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -3086,6 +3088,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -3246,9 +3249,9 @@
             <fov>10</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
+            <pan>89.1</pan>
+            <tilt>-3.7</tilt>
+            <fov>130</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -3257,6 +3260,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node59}</url>
+          <target>89.1/-3.7/130.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -3692,8 +3696,8 @@
             <fov>10</fov>
           </position>
           <next>
-            <pan>-129.2</pan>
-            <tilt>-2.8</tilt>
+            <pan>-71.9</pan>
+            <tilt>-0.6</tilt>
             <fov>130</fov>
           </next>
           <customprops/>
@@ -3703,7 +3707,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node56}</url>
-          <target>-129.2/-2.8/130.0</target>
+          <target>-71.9/-0.6/130.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -4387,7 +4391,7 @@
         <hotspot>
           <position>
             <pan>-1.3</pan>
-            <tilt>-9.83</tilt>
+            <tilt>-10</tilt>
             <fov>17</fov>
           </position>
           <next>
