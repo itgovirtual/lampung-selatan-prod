@@ -11,76 +11,63 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.8\n"
 
+#. Skin Variable: VB / Initial Value
+msgid "start"
+msgstr ""
+
+#. Skin Variable: link / Initial Value
+msgid "gunungkrakatau"
+msgstr ""
+
+#. Skin Variable: lokasi / Initial Value
+#, fuzzy
+#| msgid "Gunung <br>Krakatau"
+msgid "Gunung Krakatau"
+msgstr "喀拉喀托火山"
+
+#. Skin Variable: lokasi2 / Initial Value
+#, fuzzy
+#| msgid "Anak <br>Krakatau"
+msgid "Anak Krakatau"
+msgstr "喀拉喀托之子"
+
 #. Skin Element Text: Assistant Text / Text
 msgid "More\n"
 msgstr ""
 
-#. Skin Element: Button Kategori / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Button Kategori Mobile / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/kategori-id.html\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
+#. Skin Element Text: Back umum / Text
+msgid "Back"
 msgstr ""
-"<iframe src=\"../webview/kategori-zh.html\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
+
+#. Skin Element: Backdrop Opening / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Berhenti / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Berhenti Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: No / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: No Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Skip Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: close-button-welcome / Set Variable Value Action (Variable Name: VB) / Text
+msgid "skip"
+msgstr ""
+
+#. Skin Element External: Closing vd / URL
+msgid "assets/closing.png"
+msgstr ""
+
+#. Skin Element Text: Desc 2 / Text
+#. Skin Element Text: Desc 2 Mobile / Text
+msgid "Pilihan fitur untuk memilih lokasi lain yang ingin anda pandu oleh kami"
+msgstr ""
+
+#. Skin Element Text: Desc 3 / Text
+#. Skin Element Text: Desc Mobile / Text
+msgid ""
+"Pilihan fitur untuk berhenti memakai pemandu tour dan kembali menjelajah "
+"dengan bebas"
+msgstr ""
 
 #. Skin Element Text: Enable Audio? / Text
 msgid "Enable Audio?"
 msgstr ""
-
-#. Skin Element: Icon + Discover / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Jelajah / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/discover.html?disc=8&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/discover.html?disc=8&lang=zh\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-
-#. Skin Element: Icon + Info / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Informasi / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/informasi.html?info=56&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/informasi.html?info=56&lang=zh\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-
-#. Skin Element: Icon + Menu / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/menu.php?menu=30&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/menu.php?menu=30&lang=zh\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-
-#. Skin Element: Icon + Public / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/publicservice.php?lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/publicservice.php?lang=zh\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
 
 #. Skin Element Text: Informasi-text / Text
 #, fuzzy
@@ -95,18 +82,6 @@ msgstr "信息"
 msgid "Jelajah"
 msgstr "探索"
 
-#. Skin Element: Menu / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/menu.php?menu=76&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/menu.php?menu=76&lang=zh\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-
 #. Skin Element Text: Menu Tezt / Text
 #. Skin Element Text: Text Menu / Text
 msgid "Menu"
@@ -116,9 +91,42 @@ msgstr "菜单"
 msgid "NO"
 msgstr ""
 
+#. Skin Element Text: Next umum / Text
+msgid "Next"
+msgstr ""
+
+#. Skin Element Text: No / Text
+#. Skin Element Text: No Mobile / Text
+msgid "Explore Virtual Tour"
+msgstr ""
+
 #. Skin Element Text: Shop-text / Text
 msgid "Shop"
 msgstr "店铺"
+
+#. Skin Element Text: Skip Mobile / Text
+#. Skin Element Button: skip-button / Alternate Text
+#. Skin Element Button: skip-button_1 / Alternate Text
+msgid "Skip"
+msgstr ""
+
+#. Skin Element Text: Start / Text
+#. Skin Element Text: Start Mobile / Text
+msgid "Start Virtual Buddy"
+msgstr ""
+
+#. Skin Element: Start / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Start Mobile / Set Variable Value Action (Variable Name: VB) / Text
+msgid "show"
+msgstr ""
+
+#. Skin Element Text: Text 1 / Text
+#. Skin Element Text: Text 1_1 / Text
+msgid ""
+"Selamat datang! Saya akan menjadi pemandu virtual Anda di sini. Kita akan "
+"melihat setiap sudut lokasi ini untuk menemukan berbagai informasi serta "
+"detail menarik di setiap area yang Anda kunjungi."
+msgstr ""
 
 #. Skin Element Text: Text 2 / Text
 msgid "X"
@@ -132,11 +140,66 @@ msgstr "信息"
 msgid "Layanan Publik"
 msgstr "公共服务"
 
+#. Skin Element Text: Title 2 / Text
+#. Skin Element Text: Title 2 Mobile / Text
+msgid "Tour Selanjutnya"
+msgstr ""
+
+#. Skin Element Text: Title 3 / Text
+#. Skin Element Text: Title 3 Mobile / Text
+msgid "Tour Mandiri"
+msgstr ""
+
+#. Skin Element External: Vidy / URL
+#. Skin Element External: Vidy Mobile / URL
+msgid "assets/avatar-cepet.png"
+msgstr ""
+
 #. Skin Element Text: YES / Text
 msgid "YES"
 msgstr ""
 
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-discover) / Text
+msgid ""
+"<iframe src=\"../webview/discover.html?disc=%1&lang=id\" width=\"100%\" ; "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/discover-zh.html?disc=%1&lang=zh\" width=\"100%\" ; "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-informasi) / Text
+msgid ""
+"<iframe src=\"../webview/informasi.html?info=%1&amp;lang=id\" width=\"100%"
+"\" ;=\"\" style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/informasi.html?info=%1&amp;lang=zh\" width=\"100%"
+"\" ;=\"\" style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url) / Text
+msgid ""
+"<iframe src=\"../webview/kategori-id.html\" width=\"100%\" ;=\"\" "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/kategori-zh.html\" width=\"100%\" ;=\"\" "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-menu) / Text
+msgid ""
+"<iframe src=\"../webview/menu.html\" width=\"100%\" ;=\"\" style=\"height: "
+"100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/menu-zh.html\" width=\"100%\" ;=\"\" "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
 #. Skin Element External: ht_node_custom_image / URL
+#. Skin Element External: ht_url_custom_image / URL
 msgid "_custom"
 msgstr ""
 
@@ -150,18 +213,15 @@ msgid ""
 "></iframe>"
 msgstr ""
 
-#. Skin Element Button: skip-button / Alternate Text
-#. Skin Element Button: skip-button_1 / Alternate Text
-msgid "Skip"
+#. Skin Element Text: text 2 / Text
+#. Skin Element Text: text 2 Mobile / Text
+msgid "Next Journey"
 msgstr ""
 
-#. Skin Element Text: title-ibu-krakatau-txt / Text
-msgid "Gunung <br>Krakatau"
-msgstr "喀拉喀托火山"
-
-#. Skin Element Text: title-krakatau-txt / Text
-msgid "Anak <br>Krakatau"
-msgstr "喀拉喀托之子"
+#. Skin Element Text: text 3 / Text
+#. Skin Element Text: text 3 Mobile / Text
+msgid "Berhenti"
+msgstr ""
 
 #. Skin Element Text: txt- pulau anak krakatau / Text
 msgid ""
@@ -189,6 +249,7 @@ msgstr ""
 "之一。"
 
 #. Skin Element Text: txt-chatbot / Text
+#. Skin Element Text: txt-chatbot-mobile / Text
 msgid "Chatbot"
 msgstr "聊天机器人"
 
@@ -211,6 +272,39 @@ msgstr ""
 "观，它是自然再生的惊人象征。除了呈现壮丽的火山全景外，这个自然保护区还拥有令"
 "人惊叹的丰富 海底生物多样性。让我们在这个地质遗产地享受一次难忘的探险，同时始"
 "终优先考虑安全和自然保护。"
+
+#~ msgid ""
+#~ "<iframe src=\"../webview/menu.php?menu=30&lang=id\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+#~ msgstr ""
+#~ "<iframe src=\"../webview/menu.php?menu=30&lang=zh\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+
+#~ msgid ""
+#~ "<iframe src=\"../webview/publicservice.php?lang=id\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+#~ msgstr ""
+#~ "<iframe src=\"../webview/publicservice.php?lang=zh\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+
+#~ msgid ""
+#~ "<iframe src=\"../webview/menu.php?menu=76&lang=id\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+#~ msgstr ""
+#~ "<iframe src=\"../webview/menu.php?menu=76&lang=zh\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
 
 #~ msgid ""
 #~ "<iframe id=\"url_iframe\"\n"

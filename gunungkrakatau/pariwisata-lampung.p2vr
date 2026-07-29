@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21036" version="7.1.12">
+<pano2vrconfig version="7.1.12" rev="21036">
   <tour>
     <start>node212</start>
     <panorama>
@@ -170,9 +170,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-215.93</pan>
-            <tilt>6.93</tilt>
-            <fov>10</fov>
+            <pan>-228.16</pan>
+            <tilt>7.43</tilt>
+            <fov>16.13</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -182,6 +182,7 @@
           <customprops/>
           <polygon/>
           <id>Point04</id>
+          <title>Klik untuk informasi &lt;/br> Lumut Kerak</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>hotspot_oi_polygon</skinid>
@@ -189,11 +190,11 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info-2.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
@@ -222,6 +223,28 @@
           <width>500</width>
           <height>500</height>
         </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-215.13/0.65|-213.68/-0.54|-209.24/-0.02|-207/1.84|-204.15/2.87|-199.3/5.43|-197.89/7.1|-201.43/12.2|-204.41/16.26|-205.67/18.27|-221.05/16.62|-226.73/15.83|-232.76/13.01|-238.23/7.6|-236.3/4.47|-239.34/0.77|-238.07/-2.08|-240.8/-8.47|-237.72/-10.19|-232.15/-7.4|-227.91/-3.77|-225.38/-0.08|-221.28/-2.11|-216.9/-2.72|-217.46/0|-216.61/1.56</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -230,14 +253,14 @@
       <sounds>
         <sound>
           <position>
-            <pan>-243.86</pan>
-            <tilt>5.83</tilt>
+            <pan>-249.59</pan>
+            <tilt>6.81</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
-            <roty>0</roty>
+            <roty>-18</roty>
             <rotz>0</rotz>
-            <fov>30</fov>
+            <fov>22.7554</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
@@ -423,9 +446,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-19.08</pan>
-            <tilt>-14.84</tilt>
-            <fov>10</fov>
+            <pan>-33.55</pan>
+            <tilt>-14.49</tilt>
+            <fov>20</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -435,6 +458,7 @@
           <customprops/>
           <polygon/>
           <id>Point04</id>
+          <title>Klik untuk informasi &lt;/br> Pteris Sp.</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>hotspot_oi_polygon</skinid>
@@ -442,11 +466,11 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info-2.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
@@ -475,6 +499,28 @@
           <width>500</width>
           <height>500</height>
         </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-20.15/-10.85|-17.72/-7.06|-17.17/-4.2|-13.06/-5.33|-14.02/-14.13|-12.48/-18.12|-15.79/-19.97|-22.45/-26.1|-23.76/-21.06|-25.08/-14|-23.83/-9.29</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -483,8 +529,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-45.54</pan>
-            <tilt>-10.13</tilt>
+            <pan>-56.24</pan>
+            <tilt>-11.25</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -900,9 +946,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-30.44</pan>
-            <tilt>-12.32</tilt>
-            <fov>10</fov>
+            <pan>-42.7</pan>
+            <tilt>-11.14</tilt>
+            <fov>13</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -912,6 +958,7 @@
           <customprops/>
           <polygon/>
           <id>Point05</id>
+          <title>Klik untuk informasi &lt;/br> Seismograf</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>hotspot_oi_polygon</skinid>
@@ -919,17 +966,17 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info-2.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-209.56</pan>
-            <tilt>-5.81</tilt>
-            <fov>10</fov>
+            <pan>-202.61</pan>
+            <tilt>-4.73</tilt>
+            <fov>11</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -939,6 +986,7 @@
           <customprops/>
           <polygon/>
           <id>Point06</id>
+          <title>Klik untuk infromasi &lt;br/> Antena GPS / GNSS</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>hotspot_oi_polygon2</skinid>
@@ -946,17 +994,17 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info - kiri.png</customimage>
+          <urlsafecustomimage>line info - kiri.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-222.39</pan>
-            <tilt>-4.67</tilt>
-            <fov>10</fov>
+            <pan>-230.06</pan>
+            <tilt>-4.17</tilt>
+            <fov>11</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -966,6 +1014,7 @@
           <customprops/>
           <polygon/>
           <id>Point07</id>
+          <title>Klik untuk informasi &lt;br/> Panel Surya</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>hotspot_oi_polygon3</skinid>
@@ -973,11 +1022,11 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info-2.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
@@ -1060,6 +1109,72 @@
           <width>500</width>
           <height>500</height>
         </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-1.06/7.44|-359.89/0.6|-359.95/-21.48|-41.41/-17.27|-41.7/0.23|-30.87/7.45</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-209.37/-0.92|-208.34/-1.6|-208.45/-7.44|-206.53/-8.19|-209.46/-9.47|-212.13/-9.21|-212.12/-7.71|-209.99/-7.65|-210.23/-2.06|-210.12/-1.28</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly02</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element02');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element02');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-218.6/-0.78|-215.64/-5.58|-217.87/-6.23|-217.54/-8.04|-222.17/-9.44|-223.31/-8.44|-223.47/-4.18|-224.24/-4.54|-223.41/-0.96|-221.28/-0.74|-221.1/0.48|-220.28/0.3|-220.51/-0.87</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly03</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element03');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element03');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -1068,8 +1183,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-55.13</pan>
-            <tilt>-7.56</tilt>
+            <pan>-59.97</pan>
+            <tilt>-10.08</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -1103,8 +1218,8 @@
         </sound>
         <sound>
           <position>
-            <pan>-192.14</pan>
-            <tilt>-4.36</tilt>
+            <pan>-190.05</pan>
+            <tilt>-3.93</tilt>
           </position>
           <videorect>
             <rotx>-10</rotx>
@@ -1138,8 +1253,8 @@
         </sound>
         <sound>
           <position>
-            <pan>-235.92</pan>
-            <tilt>-4.17</tilt>
+            <pan>-243.28</pan>
+            <tilt>-3.68</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -1568,7 +1683,7 @@
           <title>Keluar</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node55}</url>
+          <url>{node43}</url>
           <target>-4.5/-15.6/119.7</target>
           <skinid>hotspot-360-out</skinid>
           <type>point</type>
@@ -1576,16 +1691,16 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/HOSOT-03.png</customimage>
-          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
+          <urlsafecustomimage>HOSOT-03-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-289.46</pan>
-            <tilt>-4.78</tilt>
-            <fov>10</fov>
+            <pan>-295.85</pan>
+            <tilt>-4.86</tilt>
+            <fov>13</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -1595,24 +1710,25 @@
           <customprops/>
           <polygon/>
           <id>Point06</id>
+          <title>Klik untuk informasi &lt;br/> Batuan Beku Lava</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon2</skinid>
+          <skinid>hotspot_oi_polygon3</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-177.68</pan>
-            <tilt>-2.74</tilt>
-            <fov>10</fov>
+            <pan>-192.3</pan>
+            <tilt>-2.99</tilt>
+            <fov>13</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -1622,6 +1738,7 @@
           <customprops/>
           <polygon/>
           <id>Point07</id>
+          <title>Klik untuk informasi &lt;br/> Batuan Beku Vulkanik</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>hotspot_oi_polygon</skinid>
@@ -1629,11 +1746,11 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info-2.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
@@ -1689,6 +1806,50 @@
           <width>500</width>
           <height>500</height>
         </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-176.51/-0.73|-174.17/-0.79|-172.22/-3.32|-170.37/-3.43|-168.25/-2.63|-166.26/-3.62|-165.43/-5.25|-168.56/-6.23|-172.19/-5.01|-172.85/-3.65|-176.09/-4.86|-179.78/-5.28|-182.89/-5.42|-184.27/-4.98|-185.64/-5.47|-187.6/-5.27|-191.38/-4.84|-198.02/-4.72|-200.53/-2.83|-199.95/-1.01|-197.08/-0.33|-195.44/1.14|-192.41/0.83|-189.19/0.19|-186.97/0.45|-184.5/1.5|-182.35/1.09|-180.2/0.87|-178.75/0.25</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-280.78/-12.35|-287.5/-10.85|-287.78/-9.21|-288.84/-8.13|-290.76/-7.22|-293.72/-7.15|-302.89/-6.11|-303.18/-4.96|-306.42/-4.67|-306.66/-4.03|-309.04/-4.15|-311.23/-3.89|-315.4/-1.44|-313.95/0.26|-311.01/0.19|-310.87/1.96|-309/3.62|-304.03/4.57|-296.85/3.47|-290.17/2.89|-285.77/0.12|-276.6/-1.44|-270.61/-4.59|-268.19/-8.92|-266.63/-12.23|-269.22/-14.5|-277.5/-13.57</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly02</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element03');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element03');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -1697,14 +1858,14 @@
       <sounds>
         <sound>
           <position>
-            <pan>-317.87</pan>
-            <tilt>-5.12</tilt>
+            <pan>-314.01</pan>
+            <tilt>-3.7</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>21.336</fov>
+            <fov>16.69</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
@@ -1727,13 +1888,13 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div id="Element02" style="width: 100%; height: 100%;">&lt;/div></webcontent>
+          <webcontent>&lt;div id="Element03" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
         <sound>
           <position>
-            <pan>-213.75</pan>
-            <tilt>-2.07</tilt>
+            <pan>-212.02</pan>
+            <tilt>-1.75</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -1970,9 +2131,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-355.57</pan>
-            <tilt>1.7</tilt>
-            <fov>10</fov>
+            <pan>-4.38</pan>
+            <tilt>2.55</tilt>
+            <fov>13</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -1982,6 +2143,7 @@
           <customprops/>
           <polygon/>
           <id>Point06</id>
+          <title>Klik untuk informarsi &lt;br/> Jalur Lava</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>hotspot_oi_polygon</skinid>
@@ -1989,11 +2151,11 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info-2.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
@@ -2022,6 +2184,28 @@
           <width>500</width>
           <height>500</height>
         </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-349.48/4.65|-350.91/2.61|-350.62/0.13|-343/-1.47|-335.79/-4.73|-323.67/-8.24|-319.06/-10.64|-333.16/-22.51|-343.62/-17.22|-353.23/-13.61|-5.94/-8.38|-12.51/-6.53|-22.05/-3.15|-28.16/-2.17|-30.48/0.47|-30.81/1.99|-26.61/3.47|-22.76/4.15|-20.74/0.12|-13.91/-3|-3.27/-3.19|-359.83/-1.43|-359.73/0.55|-0.04/2.22|-359.31/3.58|-357.43/4.93|-353.27/5.42|-353.27/5.42</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -2030,14 +2214,14 @@
       <sounds>
         <sound>
           <position>
-            <pan>-16.14</pan>
-            <tilt>2.56</tilt>
+            <pan>-24.16</pan>
+            <tilt>1.39</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>22.93</fov>
+            <fov>19.7721</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
@@ -3805,7 +3989,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/drone-133.png</customimage>
-          <urlsafecustomimage>drone-133-1.png</urlsafecustomimage>
+          <urlsafecustomimage>drone-133.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -3835,7 +4019,7 @@
           <distanceauto>0</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/drone-133.png</customimage>
-          <urlsafecustomimage>drone-133-1.png</urlsafecustomimage>
+          <urlsafecustomimage>drone-133.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -3927,8 +4111,8 @@
           <customimage>assets/drone-133.png</customimage>
           <urlsafecustomimage>drone-133.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>88</width>
-          <height>88</height>
+          <width>100</width>
+          <height>100</height>
         </hotspot>
         <hotspot>
           <position>
@@ -4124,8 +4308,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-157.75</pan>
-            <tilt>-21.28</tilt>
+            <pan>-155.14</pan>
+            <tilt>-13.66</tilt>
             <fov>8</fov>
           </position>
           <next>
@@ -4177,7 +4361,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/drone-133.png</customimage>
-          <urlsafecustomimage>drone-133-1.png</urlsafecustomimage>
+          <urlsafecustomimage>drone-133.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -4302,9 +4486,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-101.76</pan>
-            <tilt>-36.5</tilt>
-            <fov>10</fov>
+            <pan>-142.07</pan>
+            <tilt>-40.93</tilt>
+            <fov>14</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -4314,6 +4498,7 @@
           <customprops/>
           <polygon/>
           <id>Point08</id>
+          <title>Klik untuk informasi &lt;br/> Kawah Anak Krakatau</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>hotspot_oi_polygon</skinid>
@@ -4321,11 +4506,11 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info-2.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
@@ -4354,6 +4539,28 @@
           <width>500</width>
           <height>500</height>
         </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-116.72/-18.95|-101.55/-20.07|-88.55/-22.02|-75.78/-20.9|-68.4/-19.83|-60.96/-19.01|-53.91/-28.28|-47.78/-38.49|-48.73/-49.15|-68.97/-78.09|-175.77/-77.6|-191.92/-53.29|-184.17/-33.92|-179.9/-18.88|-166.96/-22.27|-156.19/-19.43|-145.67/-20.63|-129.77/-21.09|-125/-20.89</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -4362,14 +4569,14 @@
       <sounds>
         <sound>
           <position>
-            <pan>-48.93</pan>
-            <tilt>-36.6</tilt>
+            <pan>-165.69</pan>
+            <tilt>-37.83</tilt>
           </position>
           <videorect>
-            <rotx>0</rotx>
-            <roty>0</roty>
-            <rotz>17</rotz>
-            <fov>24.86</fov>
+            <rotx>9</rotx>
+            <roty>-6</roty>
+            <rotz>-14</rotz>
+            <fov>18.9157</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
@@ -4488,7 +4695,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/drone-133.png</customimage>
-          <urlsafecustomimage>drone-133-1.png</urlsafecustomimage>
+          <urlsafecustomimage>drone-133.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -4518,7 +4725,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/drone-133.png</customimage>
-          <urlsafecustomimage>drone-133-1.png</urlsafecustomimage>
+          <urlsafecustomimage>drone-133.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -4584,9 +4791,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-357.69</pan>
-            <tilt>-12.09</tilt>
-            <fov>10</fov>
+            <pan>-12.33</pan>
+            <tilt>-13.24</tilt>
+            <fov>13</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -4596,6 +4803,7 @@
           <customprops/>
           <polygon/>
           <id>Point02</id>
+          <title>Klik untuk informasi &lt;br/> Anak Krakatau</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>hotspot_oi_polygon</skinid>
@@ -4603,11 +4811,11 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO-1.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info-2.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
@@ -4638,9 +4846,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-144.61</pan>
-            <tilt>-20.57</tilt>
-            <fov>14.5426</fov>
+            <pan>-102.15</pan>
+            <tilt>-23.86</tilt>
+            <fov>14.54</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -4650,6 +4858,7 @@
           <customprops/>
           <polygon/>
           <id>Point07</id>
+          <title>Klik untuk informasi &lt;br/> Pulau Sertung</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>hotspot_oi_polygon2</skinid>
@@ -4657,11 +4866,11 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO-1.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info - kiri.png</customimage>
+          <urlsafecustomimage>line info - kiri.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
@@ -4690,6 +4899,50 @@
           <width>500</width>
           <height>500</height>
         </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-109.48/-4.4|-109.31/-6.54|-106.08/-9.78|-110.48/-12.61|-107.54/-17.05|-108.11/-24.47|-104.12/-27.29|-104.21/-34.37|-118.22/-41.67|-136.75/-45.95|-168.75/-56.98|-201.5/-57.19|-213.24/-42.14|-214.17/-33.91|-225.04/-29.22|-241.36/-25.81|-243.13/-23.71|-233.19/-22.92|-195.59/-19.11|-161.17/-12.07|-132.31/-8.06|-120.55/-5.08|-114.36/-4.14</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element02');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element02');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-358.2/-7.14|-355.61/-7.16|-352.26/-7.71|-348.21/-8.36|-344.62/-8.9|-342.11/-10.47|-343.31/-12.16|-342.52/-13.11|-338.9/-13.42|-341.34/-14.4|-346.51/-15.41|-350.22/-16.11|-350.91/-17.36|-356.11/-16.6|-358.81/-16.49|-2.68/-16.04|-6.29/-14.88|-9.62/-14.06|-15.88/-15.11|-16.48/-14|-14.72/-13.01|-18.09/-12.47|-19.01/-11.3|-19.29/-10.6|-15.13/-10.48|-13.64/-9.37|-13.26/-8.81|-6.95/-8.15|-1.87/-7.15</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly02</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -4698,14 +4951,14 @@
       <sounds>
         <sound>
           <position>
-            <pan>-336.16</pan>
-            <tilt>-8.23</tilt>
+            <pan>-26.76</pan>
+            <tilt>-12.16</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>15.4493</fov>
+            <fov>12.1056</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
@@ -4733,14 +4986,14 @@
         </sound>
         <sound>
           <position>
-            <pan>175.204</pan>
-            <tilt>-18.0342</tilt>
+            <pan>282.884</pan>
+            <tilt>-21.3042</tilt>
           </position>
           <videorect>
-            <rotx>-3.07085</rotx>
-            <roty>-17.3029</roty>
-            <rotz>-2.97225</rotz>
-            <fov>28.9702</fov>
+            <rotx>-1.07085</rotx>
+            <roty>-3.3029</roty>
+            <rotz>5.02775</rotz>
+            <fov>26.7411</fov>
             <stretch>92.442</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
@@ -4955,8 +5208,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-103.16</pan>
-            <tilt>-1.87</tilt>
+            <pan>-109.83</pan>
+            <tilt>-1.14</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -4967,6 +5220,7 @@
           <customprops/>
           <polygon/>
           <id>Point05</id>
+          <title>Klik untuk informasi &lt;br/> Pulau Rakata</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>hotspot_oi_polygon</skinid>
@@ -4974,11 +5228,11 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO-1.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info-2.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
@@ -5009,9 +5263,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-1.13001</pan>
-            <tilt>-13.11</tilt>
-            <fov>10</fov>
+            <pan>-337.42</pan>
+            <tilt>-13.06</tilt>
+            <fov>12</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -5021,6 +5275,7 @@
           <customprops/>
           <polygon/>
           <id>Point06</id>
+          <title>Klik untuk informasi &lt;br/> Pulau Panjang</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>hotspot_oi_polygon2</skinid>
@@ -5028,11 +5283,11 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info - kiri.png</customimage>
+          <urlsafecustomimage>line info - kiri.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
@@ -5061,6 +5316,50 @@
           <width>500</width>
           <height>500</height>
         </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-340.45/-8.25|-332.25/-9.86|-324.65/-10.57|-318.47/-10.24|-307.98/-10|-307.54/-11.84|-315/-13.47|-326.27/-15.26|-336.7/-17.64|-351.69/-19|-358.87/-18.58|-40.61/-20.48|-49.43/-17.18|-48.69/-13.7|-43.87/-11.92|-37.49/-11.9|-19.46/-12.5|-6.32/-11.15|-356.77/-9.3|-348.83/-8.72</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element02');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element02');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-98.57/2.38|-95.91/1.18|-92.83/-0.9|-85.33/-3.43|-79.44/-3.76|-74.3/-4.57|-74.35/-6.1|-80.47/-6.98|-87.99/-7.44|-94.18/-7.98|-99.58/-6.4|-106.44/-6.31|-111.47/-5.96|-123.28/-6.04|-123.39/-4.73|-120.47/-4.33|-114.3/-2.71|-111.6/-2.8|-108.04/-1.83|-104.15/0.46|-101.65/2.15|-99.69/3.16</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly02</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -5069,13 +5368,13 @@
       <sounds>
         <sound>
           <position>
-            <pan>-119.3</pan>
-            <tilt>3.02</tilt>
+            <pan>-122.77</pan>
+            <tilt>0.63</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
-            <roty>15</roty>
-            <rotz>-4</rotz>
+            <roty>7</roty>
+            <rotz>2</rotz>
             <fov>13.75</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
@@ -5104,14 +5403,14 @@
         </sound>
         <sound>
           <position>
-            <pan>-27.17</pan>
-            <tilt>-11.08</tilt>
+            <pan>-318.05</pan>
+            <tilt>-10.93</tilt>
           </position>
           <videorect>
-            <rotx>0</rotx>
-            <roty>-8</roty>
-            <rotz>0</rotz>
-            <fov>22.46</fov>
+            <rotx>-5</rotx>
+            <roty>13</roty>
+            <rotz>5</rotz>
+            <fov>17.816</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
@@ -5166,17 +5465,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>16.16</start>
+          <start>4.51</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>-20.78</start>
+          <start>-42.43</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>134.84</start>
+          <start>145.86</start>
           <minunit>pixels</minunit>
           <max>140</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -5191,7 +5490,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2025-12-10T10:15:26</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-07-28T10:19:55</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -5238,14 +5537,14 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-353.12</pan>
-            <tilt>-8.76</tilt>
-            <fov>12</fov>
+            <pan>-356.43</pan>
+            <tilt>-17.31</tilt>
+            <fov>10</fov>
           </position>
           <next>
             <pan>-178.5</pan>
             <tilt>-42.1</tilt>
-            <fov>117.7</fov>
+            <fov>137.7</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -5254,14 +5553,14 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node214}</url>
-          <target>-178.5/-42.1/117.7</target>
+          <target>-178.5/-42.1/137.7</target>
           <skinid>hotspot-drone</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/drone-133.png</customimage>
-          <urlsafecustomimage>drone-133-1.png</urlsafecustomimage>
+          <customimage>assets/baru/drone animasi lampung.png</customimage>
+          <urlsafecustomimage>drone animasi lampung.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -5329,9 +5628,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-353.59</pan>
-            <tilt>-25.49</tilt>
-            <fov>10</fov>
+            <pan>15.91</pan>
+            <tilt>-66.53</tilt>
+            <fov>16</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -5341,18 +5640,19 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
+          <title>Klik untuk informasi &lt;/br> Gunung Krakatau</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon</skinid>
+          <skinid>hotspot_oi_polygon_special</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/info line gn.png</customimage>
+          <urlsafecustomimage>info line gn.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>245</width>
+          <height>47</height>
         </hotspot>
         <hotspot>
           <position>
@@ -5381,6 +5681,55 @@
           <width>500</width>
           <height>500</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>14.97</pan>
+            <tilt>-46.69</tilt>
+            <fov>117</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point07</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>outline_object</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/baru/small line dash animate gn krakatau.png</customimage>
+          <urlsafecustomimage>small line dash animate gn krakatau.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>1920</width>
+          <height>1112</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-281.9/-37.7|-272.86/-52.9|-273.94/-68.32|-282.92/-77.3|-293.01/-80.66|-327.26/-82.04|-341.26/-74.37|-39.23/-61.7|-45.2/-58.13|-35.26/-53.95|-343.27/-61.85|-352.55/-61.8|-353.79/-60.44|-353.79/-60.44|-11.12/-54.69|-23.47/-40.91|-36.63/-36.74|-40.78/-29.56|-47.85/-25.75|-47.66/-21.23|-42.78/-15.66|-27.37/-11.81|-21.48/-8.01|-22.13/-5.91|-1.75/2.02|-346.15/1.64|-334.86/-4.29|-327.17/-5.73|-302.68/-9.64|-295.78/-10.62|-293/-12.27|-296.03/-14.28|-290.98/-17.79|-282.2/-21.03|-286.46/-25.46</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -5389,15 +5738,15 @@
       <sounds>
         <sound>
           <position>
-            <pan>42.5604</pan>
-            <tilt>-1.51462</tilt>
+            <pan>-27.57</pan>
+            <tilt>-59.6</tilt>
           </position>
           <videorect>
-            <rotx>7.38887</rotx>
-            <roty>2.3198</roty>
-            <rotz>0.505581</rotz>
-            <fov>18.2162</fov>
-            <stretch>92.1552</stretch>
+            <rotx>-25</rotx>
+            <roty>-10</roty>
+            <rotz>-23</rotz>
+            <fov>32.94</fov>
+            <stretch>100.73</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
           </videorect>
@@ -5492,7 +5841,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/drone-133.png</customimage>
-          <urlsafecustomimage>drone-133-1.png</urlsafecustomimage>
+          <urlsafecustomimage>drone-133.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -5514,14 +5863,14 @@
           <title>Menara Siger (Est.2 Jam)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://Lampung-Selatan.govirtual.id/infrastructure/index.html#MenaraSiger</url>
+          <url>https://lampung-selatan.govirtual.id/menarasiger/index.html#</url>
           <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/Menara Siger.png</customimage>
-          <urlsafecustomimage>Menara Siger.png</urlsafecustomimage>
+          <urlsafecustomimage>Menara Siger-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>253</height>
@@ -5558,9 +5907,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-28.42</pan>
-            <tilt>5.99</tilt>
-            <fov>10</fov>
+            <pan>-47.81</pan>
+            <tilt>5.56</tilt>
+            <fov>13</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -5570,6 +5919,7 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
+          <title>Klik untuk informasi &lt;br/> Vegetasi</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>hotspot_oi_polygon</skinid>
@@ -5577,11 +5927,11 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info-2.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
@@ -5610,6 +5960,28 @@
           <width>500</width>
           <height>500</height>
         </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-22.23/17.29|-11.92/12.83|-8.57/12.32|-6.36/12.69|-3.36/11.61|-0.98/12.05|-359.88/-1.75|-60.25/0.76|-60.82/8.89|-51.05/10.29|-44.02/10.93|-33.21/14.57|-26.83/16.16|-24.43/17.2|-24.34/17.28</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -5618,14 +5990,14 @@
       <sounds>
         <sound>
           <position>
-            <pan>-353.34</pan>
-            <tilt>6.07</tilt>
+            <pan>-65.39</pan>
+            <tilt>6.03</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
-            <roty>11</roty>
+            <roty>3</roty>
             <rotz>-1</rotz>
-            <fov>23.09</fov>
+            <fov>16.5885</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
@@ -5703,9 +6075,9 @@
             <fov>16</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
+            <pan>-30.1</pan>
+            <tilt>7.2</tilt>
+            <fov>100</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -5714,13 +6086,14 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node213}</url>
+          <target>-30.1/7.2/100.0</target>
           <skinid>hotspot-drone</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/drone-133.png</customimage>
-          <urlsafecustomimage>drone-133-1.png</urlsafecustomimage>
+          <urlsafecustomimage>drone-133.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
