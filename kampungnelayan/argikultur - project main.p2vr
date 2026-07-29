@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <start>node34</start>
     <panorama>
@@ -756,12 +756,12 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>135.77</start>
+          <start>168.03</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>-17.23</start>
+          <start>-4.8</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
@@ -781,7 +781,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2025-12-08T22:24:09</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-07-29T16:08:18</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -1150,7 +1150,7 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-0.82003</pan>
+            <pan>-0.99003</pan>
             <tilt>7.33</tilt>
             <fov>10</fov>
           </position>
