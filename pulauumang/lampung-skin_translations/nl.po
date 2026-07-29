@@ -11,82 +11,66 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.8\n"
 
+#. Skin Variable: VB / Initial Value
+msgid "start"
+msgstr "start"
+
+#. Skin Variable: link / Initial Value
+#, fuzzy
+#| msgid "Pulau<br>Umang-umang"
+msgid "pulauumangumang"
+msgstr "pulauumangumang"
+
+#. Skin Variable: lokasi / Initial Value
+#, fuzzy
+#| msgid "Pulau<br>Umang-umang"
+msgid "Pulau <br/>Umang Umang"
+msgstr "Umang Umang <br/>Eiland"
+
 #. Skin Element Text: Assistant Text / Text
 msgid "More\n"
-msgstr ""
+msgstr "Meer\n"
 
-#. Skin Element: Button Kategori / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Button Kategori Mobile / Set Value Action (Target Element: Iframe) / Text
+#. Skin Element Text: Back umum / Text
+msgid "Back"
+msgstr "Terug"
+
+#. Skin Element: Backdrop Opening / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Berhenti / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Berhenti Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: No / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: No Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Skip Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: close-button-welcome / Set Variable Value Action (Variable Name: VB) / Text
+msgid "skip"
+msgstr "skip"
+
+#. Skin Element External: Closing vd / URL
+msgid "assets/closing.png"
+msgstr "assets/closing.png"
+
+#. Skin Element Text: Desc 2 / Text
+#. Skin Element Text: Desc 2 Mobile / Text
+msgid "Pilihan fitur untuk memilih lokasi lain yang ingin anda pandu oleh kami"
+msgstr "Functie-optie om een andere lokasi te kiezen die u door ons wilt laten begeleiden"
+
+#. Skin Element Text: Desc 3 / Text
+#. Skin Element Text: Desc Mobile / Text
 msgid ""
-"<iframe src=\"../webview/kategori-id.html\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
+"Pilihan fitur untuk berhenti memakai pemandu tour dan kembali menjelajah "
+"dengan bebas"
 msgstr ""
-"<iframe src=\"../webview/kategori-nl.html\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
+"Functie-optie om te stoppen met het gebruiken van de gids en weer vrij te verkennen"
 
 #. Skin Element Text: Enable Audio? / Text
 msgid "Enable Audio?"
-msgstr ""
-
-#. Skin Element: Icon + Discover / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Jelajah / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/discover.html?disc=4&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/discover.html?disc=4&lang=nl\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-
-#. Skin Element: Icon + Info / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Informasi / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/informasi.html?info=7&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/informasi.html?info=7&lang=nl\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-
-#. Skin Element: Icon + Menu / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/menu.php?menu=30&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/menu.php?menu=30&lang=nl\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-
-#. Skin Element: Icon + Public / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/publicservice.php?lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/publicservice.php?lang=nl\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
+msgstr "Audio Inschakelen?"
 
 #. Skin Element Text: Informasi-text / Text
 #, fuzzy
 #| msgid "Informasi"
 msgid "Informasi\n"
-msgstr "Informatie"
+msgstr "Informatie\n"
 
 #. Skin Element Text: Jelajah-text / Text
 #. Skin Element Text: Text Discover / Text
@@ -95,34 +79,56 @@ msgstr "Informatie"
 msgid "Jelajah"
 msgstr "Verkennen"
 
-#. Skin Element: Menu / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/menu.php?menu=76&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/menu.php?menu=76&lang=nl\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-
 #. Skin Element Text: Menu Tezt / Text
 #. Skin Element Text: Text Menu / Text
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #. Skin Element Text: NO / Text
 msgid "NO"
-msgstr ""
+msgstr "Nee"
+
+#. Skin Element Text: Next umum / Text
+msgid "Next"
+msgstr "Volgende"
+
+#. Skin Element Text: No / Text
+#. Skin Element Text: No Mobile / Text
+msgid "Explore Virtual Tour"
+msgstr "Virtuele Tour Verkennen"
 
 #. Skin Element Text: Shop-text / Text
 msgid "Shop"
 msgstr "Winkel"
 
+#. Skin Element Text: Skip Mobile / Text
+#. Skin Element Button: skip-button_1 / Alternate Text
+msgid "Skip"
+msgstr "Overslaan"
+
+#. Skin Element Text: Start / Text
+#. Skin Element Text: Start Mobile / Text
+msgid "Start Virtual Buddy"
+msgstr "Virtuele Assistent Starten"
+
+#. Skin Element: Start / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Start Mobile / Set Variable Value Action (Variable Name: VB) / Text
+msgid "show"
+msgstr "show"
+
+#. Skin Element Text: Text 1 / Text
+#. Skin Element Text: Text 1_1 / Text
+msgid ""
+"Selamat datang! Saya akan menjadi pemandu virtual Anda di sini. Kita akan "
+"melihat setiap sudut lokasi ini untuk menemukan berbagai informasi serta "
+"detail menarik di setiap area yang Anda kunjungi."
+msgstr ""
+"Welkom! Ik ben hier uw virtuele gids. We gaan elk hoekje van deze locatie "
+"bekijken om diverse informatie en interessante details te ontdekken in elk gebied dat u bezoekt."
+
 #. Skin Element Text: Text 2 / Text
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #. Skin Element Text: Text Info / Text
 msgid "Informasi"
@@ -130,15 +136,93 @@ msgstr "Informatie"
 
 #. Skin Element Text: Text Public / Text
 msgid "Layanan Publik"
-msgstr "Openbare dienst"
+msgstr "Openbare Dienst"
+
+#. Skin Element Text: Title 2 / Text
+#. Skin Element Text: Title 2 Mobile / Text
+msgid "Tour Selanjutnya"
+msgstr "Volgende Tour"
+
+#. Skin Element Text: Title 3 / Text
+#. Skin Element Text: Title 3 Mobile / Text
+msgid "Tour Mandiri"
+msgstr "Zelfstandige Tour"
+
+#. Skin Element External: Vidy / URL
+#. Skin Element External: Vidy Mobile / URL
+msgid "assets/avatar-cepet.png"
+msgstr "assets/avatar-cepet.png"
 
 #. Skin Element Text: YES / Text
 msgid "YES"
+msgstr "Ja"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-discover) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe src=\"../webview/discover.html?disc=4&lang=id\"\n"
+#| "width=\"100%\";\n"
+#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#| "frameborder=\"0\"></iframe>"
+msgid ""
+"<iframe src=\"../webview/discover.html?disc=%1&lang=id\" width=\"100%\" ; "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/discover-nl.html?disc=%1\" width=\"100%\" ; "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-informasi) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe src=\"../webview/informasi.html?info=7&lang=id\"\n"
+#| "width=\"100%\";\n"
+#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#| "frameborder=\"0\"></iframe>"
+msgid ""
+"<iframe src=\"../webview/informasi.html?info=%1&amp;lang=id\" width=\"100%"
+"\" ;=\"\" style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/informasi.html?info=%1&amp;lang=nl\" width=\"100%"
+"\" ;=\"\" style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe src=\"../webview/kategori-id.html\"\n"
+#| "width=\"100%\";\n"
+#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#| "frameborder=\"0\"></iframe>"
+msgid ""
+"<iframe src=\"../webview/kategori-id.html\" width=\"100%\" ;=\"\" "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/kategori-nl.html\" width=\"100%\" ;=\"\" "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-menu) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe src=\"../webview/kategori-id.html\"\n"
+#| "width=\"100%\";\n"
+#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#| "frameborder=\"0\"></iframe>"
+msgid ""
+"<iframe src=\"../webview/menu.html\" width=\"100%\" ;=\"\" style=\"height: "
+"100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/menu-nl.html\" width=\"100%\" ;=\"\" style=\"height: "
+"100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
 
 #. Skin Element External: ht_node_custom_image / URL
+#. Skin Element External: ht_url_custom_image / URL
 msgid "_custom"
-msgstr ""
+msgstr "_custom"
 
 #. Skin Element Text: popup-chatbot / Text
 msgid ""
@@ -149,18 +233,27 @@ msgid ""
 "    frameborder=\"0\"\n"
 "></iframe>"
 msgstr ""
+"  <iframe\n"
+"    src=\"https://www.chatbase.co/chatbot-iframe/ld0-XDhWz-2tI29Pd2JeU\"\n"
+"    width=\"100%\"\n"
+"    style=\"height: 100%; min-height: 100%;\"\n"
+"    frameborder=\"0\"\n"
+"></iframe>"
 
-#. Skin Element Button: skip-button_1 / Alternate Text
-msgid "Skip"
-msgstr ""
+#. Skin Element Text: text 2 / Text
+#. Skin Element Text: text 2 Mobile / Text
+msgid "Next Journey"
+msgstr "Volgende Reis"
 
-#. Skin Element Text: title-txt / Text
-msgid "Pulau<br>Umang-umang"
-msgstr "Umang Umang <br>eiland"
+#. Skin Element Text: text 3 / Text
+#. Skin Element Text: text 3 Mobile / Text
+msgid "Berhenti"
+msgstr "Stoppen"
 
 #. Skin Element Text: txt-chatbot / Text
+#. Skin Element Text: txt-chatbot-mobile / Text
 msgid "Chatbot"
-msgstr ""
+msgstr "Chatbot"
 
 #. Skin Element Text: txt-welcome / Text
 #, fuzzy
@@ -197,6 +290,39 @@ msgstr ""
 "Kom en ervaar nu de rust en natuurlijke schoonheid op Umang-umang Eiland!"
 
 #~ msgid ""
+#~ "<iframe src=\"../webview/menu.php?menu=30&lang=id\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+#~ msgstr ""
+#~ "<iframe src=\"../webview/menu.php?menu=30&lang=nl\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+
+#~ msgid ""
+#~ "<iframe src=\"../webview/publicservice.php?lang=id\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+#~ msgstr ""
+#~ "<iframe src=\"../webview/publicservice.php?lang=nl\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+
+#~ msgid ""
+#~ "<iframe src=\"../webview/menu.php?menu=76&lang=id\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+#~ msgstr ""
+#~ "<iframe src=\"../webview/menu.php?menu=76&lang=nl\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+
+#~ msgid ""
 #~ "Selamat datang di Pulau Sebeku, permata tak berpenghuni di Lampung "
 #~ "Selatan! Nikmati keindahan laut jernih, terumbu karang yang kaya, dan "
 #~ "panorama eksotis yang sempurna untuk fotografi drone. Hanya 20 menit "
@@ -227,7 +353,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/kategori-nlhtml\"\n"
+#~ "    src=\"../webview/kategori-nl.html\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -242,7 +368,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.html?disc=8&lang=nl\"\n"
+#~ "    src=\"../webview/discover-nl.html?disc=8\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -257,7 +383,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.html?disc=13&lang=nl\"\n"
+#~ "    src=\"../webview/discover-nl.html?disc=13\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -272,7 +398,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.html?disc=2&lang=nl\"\n"
+#~ "    src=\"../webview/discover-nl.html?disc=2\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -287,7 +413,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.html?disc=3&lang=nl\"\n"
+#~ "    src=\"../webview/discover-nl.html?disc=3\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -302,7 +428,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.html?disc=4&lang=nl\"\n"
+#~ "    src=\"../webview/discover-nl.html?disc=4\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -317,7 +443,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.html?disc=5&lang=nl\"\n"
+#~ "    src=\"../webview/discover-nl.html?disc=5\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -332,7 +458,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.html?disc=12&lang=nl\"\n"
+#~ "    src=\"../webview/discover-nl.html?disc=12\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -538,7 +664,7 @@ msgstr ""
 #~ "frisheid biedt aan de voet van de Rajabasa Berg, in Zuid-Lampung. Deze "
 #~ "getrapte waterval presenteert een heldere en krachtige waterstroom, "
 #~ "omgeven door weelderige groene bomen die verkoeling geven. Het geluid van "
-#~ "het bulderende water en de koele lucht creëren een vredige sfeer, ideaal "
+#~ "het bulderende water en de koele lucht creëren een vredige sfeer, ideal "
 #~ "om te ontsnappen aan de dagelijkse drukte. Bezoekers kunnen genieten van "
 #~ "de frisheid van het natuurlijke zwembad eronder om te zwemmen of gewoon "
 #~ "te ontspannen en te genieten van het prachtige natuurpanorama. Wij "

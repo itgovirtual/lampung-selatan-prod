@@ -11,118 +11,125 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.8\n"
 
+#. Skin Variable: VB / Initial Value
+msgid "start"
+msgstr "start"
+
+#. Skin Variable: link / Initial Value
+#, fuzzy
+#| msgid "Pulau<br>Umang-umang"
+msgid "pulauumangumang"
+msgstr "pulauumangumang"
+
+#. Skin Variable: lokasi / Initial Value
+#, fuzzy
+#| msgid "Pulau<br>Umang-umang"
+msgid "Pulau <br/>Umang Umang"
+msgstr "Umang Umang<br/>Island"
+
 #. Skin Element Text: Assistant Text / Text
 msgid "More\n"
-msgstr ""
+msgstr "More\n"
 
-#. Skin Element: Button Kategori / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Button Kategori Mobile / Set Value Action (Target Element: Iframe) / Text
+#. Skin Element Text: Back umum / Text
+msgid "Back"
+msgstr "Back"
+
+#. Skin Element: Backdrop Opening / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Berhenti / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Berhenti Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: No / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: No Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Skip Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: close-button-welcome / Set Variable Value Action (Variable Name: VB) / Text
+msgid "skip"
+msgstr "skip"
+
+#. Skin Element External: Closing vd / URL
+msgid "assets/closing.png"
+msgstr "assets/closing.png"
+
+#. Skin Element Text: Desc 2 / Text
+#. Skin Element Text: Desc 2 Mobile / Text
+msgid "Pilihan fitur untuk memilih lokasi lain yang ingin anda pandu oleh kami"
+msgstr "Feature option to choose another location you wish to explore with our guidance"
+
+#. Skin Element Text: Desc 3 / Text
+#. Skin Element Text: Desc Mobile / Text
 msgid ""
-"<iframe src=\"../webview/kategori-id.html\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
+"Pilihan fitur untuk berhenti memakai pemandu tour dan kembali menjelajah "
+"dengan bebas"
 msgstr ""
-"<iframe src=\"../webview/kategori-en.html\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
+"Feature option to stop using the tour guide and resume exploring freely"
 
 #. Skin Element Text: Enable Audio? / Text
 msgid "Enable Audio?"
-msgstr ""
-
-#. Skin Element: Icon + Discover / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Jelajah / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/discover.html?disc=4&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/discover.html?disc=4&lang=en\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-
-#. Skin Element: Icon + Info / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Informasi / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/informasi.html?info=7&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/informasi.html?info=7&lang=en\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-
-#. Skin Element: Icon + Menu / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/menu.php?menu=30&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/menu.php?menu=30&lang=en\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-
-#. Skin Element: Icon + Public / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/publicservice.php?lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/publicservice.php?lang=en\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
+msgstr "Enable Audio?"
 
 #. Skin Element Text: Informasi-text / Text
 #, fuzzy
 #| msgid "Informasi"
 msgid "Informasi\n"
-msgstr "Information"
+msgstr "Information\n"
 
 #. Skin Element Text: Jelajah-text / Text
 #. Skin Element Text: Text Discover / Text
 #, fuzzy
 #| msgid "Jelajahi"
 msgid "Jelajah"
-msgstr "Discover"
-
-#. Skin Element: Menu / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/menu.php?menu=76&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/menu.php?menu=76&lang=en\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
+msgstr "Explore"
 
 #. Skin Element Text: Menu Tezt / Text
 #. Skin Element Text: Text Menu / Text
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #. Skin Element Text: NO / Text
 msgid "NO"
-msgstr ""
+msgstr "NO"
+
+#. Skin Element Text: Next umum / Text
+msgid "Next"
+msgstr "Next"
+
+#. Skin Element Text: No / Text
+#. Skin Element Text: No Mobile / Text
+msgid "Explore Virtual Tour"
+msgstr "Explore Virtual Tour"
 
 #. Skin Element Text: Shop-text / Text
 msgid "Shop"
+msgstr "Shop"
+
+#. Skin Element Text: Skip Mobile / Text
+#. Skin Element Button: skip-button_1 / Alternate Text
+msgid "Skip"
+msgstr "Skip"
+
+#. Skin Element Text: Start / Text
+#. Skin Element Text: Start Mobile / Text
+msgid "Start Virtual Buddy"
+msgstr "Start Virtual Buddy"
+
+#. Skin Element: Start / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Start Mobile / Set Variable Value Action (Variable Name: VB) / Text
+msgid "show"
+msgstr "show"
+
+#. Skin Element Text: Text 1 / Text
+#. Skin Element Text: Text 1_1 / Text
+msgid ""
+"Selamat datang! Saya akan menjadi pemandu virtual Anda di sini. Kita akan "
+"melihat setiap sudut lokasi ini untuk menemukan berbagai informasi serta "
+"detail menarik di setiap area yang Anda kunjungi."
 msgstr ""
+"Welcome! I will be your virtual guide here. We will explore every corner "
+"of this location to uncover informative details and interesting highlights "
+"in every area you visit."
 
 #. Skin Element Text: Text 2 / Text
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #. Skin Element Text: Text Info / Text
 msgid "Informasi"
@@ -132,13 +139,91 @@ msgstr "Information"
 msgid "Layanan Publik"
 msgstr "Public Service"
 
+#. Skin Element Text: Title 2 / Text
+#. Skin Element Text: Title 2 Mobile / Text
+msgid "Tour Selanjutnya"
+msgstr "Next Tour"
+
+#. Skin Element Text: Title 3 / Text
+#. Skin Element Text: Title 3 Mobile / Text
+msgid "Tour Mandiri"
+msgstr "Self Tour"
+
+#. Skin Element External: Vidy / URL
+#. Skin Element External: Vidy Mobile / URL
+msgid "assets/avatar-cepet.png"
+msgstr "assets/avatar-cepet.png"
+
 #. Skin Element Text: YES / Text
 msgid "YES"
+msgstr "YES"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-discover) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe src=\"../webview/discover.html?disc=4&lang=id\"\n"
+#| "width=\"100%\";\n"
+#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#| "frameborder=\"0\"></iframe>"
+msgid ""
+"<iframe src=\"../webview/discover.html?disc=%1&lang=id\" width=\"100%\" ; "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
 msgstr ""
+"<iframe src=\"../webview/discover-en.html?disc=%1\" width=\"100%\" ; "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-informasi) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe src=\"../webview/informasi.html?info=7&lang=id\"\n"
+#| "width=\"100%\";\n"
+#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#| "frameborder=\"0\"></iframe>"
+msgid ""
+"<iframe src=\"../webview/informasi.html?info=%1&amp;lang=id\" width=\"100%"
+"\" ;=\"\" style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/informasi.html?info=%1&amp;lang=en\" width=\"100%"
+"\" ;=\"\" style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe src=\"../webview/kategori-id.html\"\n"
+#| "width=\"100%\";\n"
+#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#| "frameborder=\"0\"></iframe>"
+msgid ""
+"<iframe src=\"../webview/kategori-id.html\" width=\"100%\" ;=\"\" "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/kategori-en.html\" width=\"100%\" ;=\"\" "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-menu) / Text
+#, fuzzy
+#| msgid ""
+#| "<iframe src=\"../webview/kategori-id.html\"\n"
+#| "width=\"100%\";\n"
+#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#| "frameborder=\"0\"></iframe>"
+msgid ""
+"<iframe src=\"../webview/menu.html\" width=\"100%\" ;=\"\" style=\"height: "
+"100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/menu-en.html\" width=\"100%\" ;=\"\" style=\"height: "
+"100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
 
 #. Skin Element External: ht_node_custom_image / URL
+#. Skin Element External: ht_url_custom_image / URL
 msgid "_custom"
-msgstr ""
+msgstr "_custom"
 
 #. Skin Element Text: popup-chatbot / Text
 msgid ""
@@ -149,18 +234,27 @@ msgid ""
 "    frameborder=\"0\"\n"
 "></iframe>"
 msgstr ""
+"  <iframe\n"
+"    src=\"https://www.chatbase.co/chatbot-iframe/ld0-XDhWz-2tI29Pd2JeU\"\n"
+"    width=\"100%\"\n"
+"    style=\"height: 100%; min-height: 100%;\"\n"
+"    frameborder=\"0\"\n"
+"></iframe>"
 
-#. Skin Element Button: skip-button_1 / Alternate Text
-msgid "Skip"
-msgstr ""
+#. Skin Element Text: text 2 / Text
+#. Skin Element Text: text 2 Mobile / Text
+msgid "Next Journey"
+msgstr "Next Journey"
 
-#. Skin Element Text: title-txt / Text
-msgid "Pulau<br>Umang-umang"
-msgstr "Pulau<br>Umang-umang"
+#. Skin Element Text: text 3 / Text
+#. Skin Element Text: text 3 Mobile / Text
+msgid "Berhenti"
+msgstr "Stop"
 
 #. Skin Element Text: txt-chatbot / Text
+#. Skin Element Text: txt-chatbot-mobile / Text
 msgid "Chatbot"
-msgstr ""
+msgstr "Chatbot"
 
 #. Skin Element Text: txt-welcome / Text
 #, fuzzy
@@ -173,7 +267,7 @@ msgstr ""
 #| "suasana tenang dan alam yang masih alami, Pulau\n"
 #| " Umang-umang cocok untuk pelarian dari hiruk-pikuk kota. Fasilitas "
 #| "sederhana dan akses mudah menjadikan pulau ini pilihan \n"
-#| "ideal untuk liburan intim atau petualangan ringan. Ayo, rasakan "
+#| "ideal untuk liburan intimate atau petualangan ringan. Ayo, rasakan "
 #| "ketenangan dan keindahan alam di Pulau Umang-umang sekarang!"
 msgid ""
 "Selamat datang di Pulau Umang-umang, oase kecil di Lampung Selatan! Pulau "
@@ -195,6 +289,39 @@ msgstr ""
 "access make this island an ideal choice for an intimate getaway or a light "
 "adventure. Come and experience the tranquility and natural beauty of Umang-"
 "umang Island now!"
+
+#~ msgid ""
+#~ "<iframe src=\"../webview/menu.php?menu=30&lang=id\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+#~ msgstr ""
+#~ "<iframe src=\"../webview/menu.php?menu=30&lang=en\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+
+#~ msgid ""
+#~ "<iframe src=\"../webview/publicservice.php?lang=id\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+#~ msgstr ""
+#~ "<iframe src=\"../webview/publicservice.php?lang=en\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+
+#~ msgid ""
+#~ "<iframe src=\"../webview/menu.php?menu=76&lang=id\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
+#~ msgstr ""
+#~ "<iframe src=\"../webview/menu.php?menu=76&lang=en\"\n"
+#~ "width=\"100%\";\n"
+#~ "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
+#~ "frameborder=\"0\"></iframe>"
 
 #, fuzzy
 #~ msgid ""
@@ -233,7 +360,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.php?disc=3&lang=en\"\n"
+#~ "    src=\"../webview/discover-en.html?disc=3\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -256,7 +383,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.php?disc=8&lang=en\"\n"
+#~ "    src=\"../webview/discover-en.html?disc=8\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -276,12 +403,10 @@ msgstr ""
 #~ "pointer-events:auto; opacity:1;\"scrolling=\"auto\" allow=\"autoplay; "
 #~ "fullscreen; clipboard-write\"></iframe>"
 #~ msgstr ""
-#~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.php?disc=8&lang=en\"\n"
-#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~ "border:0; pointer-events:auto; opacity:1;\"\n"
-#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~ "  </iframe>"
+#~ "<iframe id=\"url_iframe\" src=\"../webview/discover-en.html?disc=8\" "
+#~ "style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
+#~ "pointer-events:auto; opacity:1;\"scrolling=\"auto\" allow=\"autoplay; "
+#~ "fullscreen; clipboard-write\"></iframe>"
 
 #, fuzzy
 #~| msgid ""
@@ -300,7 +425,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.php?disc=2&lang=en\"\n"
+#~ "    src=\"../webview/discover-en.html?disc=2\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -323,7 +448,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.php?disc=4&lang=en\"\n"
+#~ "    src=\"../webview/discover-en.html?disc=4\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -346,7 +471,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.php?disc=13&lang=en\n"
+#~ "    src=\"../webview/discover-en.html?disc=13\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -369,7 +494,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.php?disc=5&lang=en\"\n"
+#~ "    src=\"../webview/discover-en.html?disc=5\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -392,7 +517,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.php?disc=12&lang=en\"\n"
+#~ "    src=\"../webview/discover-en.html?disc=12\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -415,7 +540,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/informasi.php?info=5&lang=en\"\n"
+#~ "    src=\"../webview/informasi.html?info=5&lang=en\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -438,7 +563,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/informasi.php?info=6&lang=en\"\n"
+#~ "    src=\"../webview/informasi.html?info=6&lang=en\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -461,7 +586,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/informasi.php?info=56&lang=en\"\n"
+#~ "    src=\"../webview/informasi.html?info=56&lang=en\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -484,7 +609,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/informasi.php?info=58&lang=en\"\n"
+#~ "    src=\"../webview/informasi.html?info=58&lang=en\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -507,7 +632,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/informasi.php?info=2&lang=en\"\n"
+#~ "    src=\"../webview/informasi.html?info=2&lang=en\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -530,7 +655,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/informasi.php?info=7&lang=en\"\n"
+#~ "    src=\"../webview/informasi.html?info=7&lang=en\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -553,7 +678,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/informasi.php?info=57&lang=en\"\n"
+#~ "    src=\"../webview/informasi.html?info=57&lang=en\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -576,7 +701,7 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/informasi.php?info=10&lang=en\"\n"
+#~ "    src=\"../webview/informasi.html?info=10&lang=en\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
@@ -614,32 +739,32 @@ msgstr ""
 #~ "  </iframe>"
 #~ msgstr ""
 #~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/informasi.php?itm=61&lang=en\"\n"
+#~ "    src=\"../webview/kategori-en.html\"\n"
 #~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
 #~ "border:0; pointer-events:auto; opacity:1;\"\n"
 #~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
 #~ "  </iframe>"
 
 #~ msgid "Gunung<br>Krakatau"
-#~ msgstr "Gunung<br>Krakatau"
+#~ msgstr "Mount<br>Krakatau"
 
 #~ msgid "Anak <br>Krakatau"
 #~ msgstr "Anak <br>Krakatau"
 
 #~ msgid "Pantai <br>Minang Rua"
-#~ msgstr "Pantai <br>Minang Rua"
+#~ msgstr "Minang Rua<br>Beach"
 
 #~ msgid "Pulau<br>Mengkudu"
-#~ msgstr "Pulau<br>Mengkudu"
+#~ msgstr "Mengkudu<br>Island"
 
 #~ msgid "Pulau <br>Sebesi"
-#~ msgstr "Pulau <br>Sebesi"
+#~ msgstr "Sebesi<br>Island"
 
 #~ msgid "Pulau<br>Sebuku"
-#~ msgstr "Pulau<br>Sebuku"
+#~ msgstr "Sebuku<br>Island"
 
 #~ msgid "Gunung<br>Rajabasa"
-#~ msgstr "Gunung<br>Rajabasa"
+#~ msgstr "Mount<br>Rajabasa"
 
 #~ msgid "Rio By The Beach"
 #~ msgstr "Rio By The Beach"
@@ -659,20 +784,19 @@ msgstr ""
 #~ "langsung keajaiban alam, dinamika bumi, serta proses terbentuknya "
 #~ "kehidupan baru di salah satu fenomena geologi paling menakjubkan di dunia."
 #~ msgstr ""
-#~ "Deskripsi: Welcome to the Mount Anak Krakatau area, one of the most "
-#~ "active and iconic volcanoes in Indonesia, located in the waters of the "
-#~ "Sunda Strait. Anak Krakatau is the result of continued volcanic activity "
-#~ "following the massive eruption of Mount Krakatau in 1883, and it first "
-#~ "emerged above sea level in 1927. To this day, Anak Krakatau continues to "
-#~ "grow and serves as an important natural laboratory for geological, "
-#~ "volcanological, and coastal ecosystem research. This area features unique "
-#~ "biodiversity, ranging from pioneer vegetation to rich marine life. In "
-#~ "addition to its high scientific value, Anak Krakatau is also an "
-#~ "attractive destination for nature tourism and educational visits for both "
-#~ "local and international visitors. We invite you to witness firsthand the "
-#~ "wonders of nature, the dynamic forces of the earth, and the process of "
-#~ "new life formation in one of the most fascinating geological phenomena in "
-#~ "the world."
+#~ "Welcome to the Mount Anak Krakatau area, one of the most active and iconic "
+#~ "volcanoes in Indonesia, located in the waters of the Sunda Strait. Anak "
+#~ "Krakatau is the result of continued volcanic activity following the "
+#~ "massive eruption of Mount Krakatau in 1883, and it first emerged above "
+#~ "sea level in 1927. To this day, Anak Krakatau continues to grow and serves "
+#~ "as an important natural laboratory for geological, volcanological, and "
+#~ "coastal ecosystem research. This area features unique biodiversity, "
+#~ "ranging from pioneer vegetation to rich marine life. In addition to its "
+#~ "high scientific value, Anak Krakatau is also an attractive destination for "
+#~ "nature tourism and educational visits for both local and international "
+#~ "visitors. We invite you to witness firsthand the wonders of nature, the "
+#~ "dynamic forces of the earth, and the process of new life formation in "
+#~ "one of the most fascinating geological phenomena in the world."
 
 #~ msgid ""
 #~ "Selamat datang di Pulau Sebesi, surga petualangan di Selat Sunda, Lampung "
@@ -796,12 +920,12 @@ msgstr ""
 #~ msgstr ""
 #~ "Welcome to Minang Rua Beach, a hidden paradise in Bakauheni, South "
 #~ "Lampung! Enjoy a 10 km stretch of soft white sand, the calm waves of the "
-#~ "Sunda Strait, and a stunning natural panorama. photos at Instagrammable "
-#~ "spots. Neatly managed by the local tourism awareness group (Pokdarwis), "
-#~ "Minang Rua Beach offers complete facilities for your convenience. Located "
-#~ "just 15 minutes from Bakauheni Port, make this beach your primary choice "
-#~ "for creating unforgettable memories with your loved ones. Enjoy the "
-#~ "natural beauty of Lampung!"
+#~ "Sunda Strait, and a stunning natural panorama. Take photos at "
+#~ "Instagrammable spots. Neatly managed by the local tourism awareness group "
+#~ "(Pokdarwis), Minang Rua Beach offers complete facilities for your "
+#~ "convenience. Located just 15 minutes from Bakauheni Port, make this "
+#~ "beach your primary choice for creating unforgettable memories with your "
+#~ "loved ones. Enjoy the natural beauty of Lampung!"
 
 #~ msgid "Jalur Pendakian"
 #~ msgstr "Tracking Route"
@@ -849,45 +973,6 @@ msgstr ""
 #~ "court, making it perfect for family vacations, couples' retreats, or solo "
 #~ "healing, complete with tranquility, Instagrammable photo spots, and "
 #~ "weekly live music for an authentic and memorable beach adventure."
-
-#, fuzzy
-#~| msgid ""
-#~| "<iframe id=\"url_iframe\"\n"
-#~| "    src=\"../webview/kategori.php?lang=id\"\n"
-#~| "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~| "border:0; pointer-events:auto; opacity:1;\"\n"
-#~| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~| "  </iframe>"
-#~ msgid ""
-#~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"https://lampung-selatan.govirtual.id/webview/kategori-"
-#~ "id.html\"\n"
-#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~ "border:0; pointer-events:auto; opacity:1;\"\n"
-#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~ "  </iframe>"
-#~ msgstr ""
-#~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/kategori.php?lang=en\"\n"
-#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~ "border:0; pointer-events:auto; opacity:1;\"\n"
-#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~ "  </iframe>"
-
-#~ msgid ""
-#~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.php?disc=8&lang=en\"\n"
-#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~ "border:0; pointer-events:auto; opacity:1;\"\n"
-#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~ "  </iframe>"
-#~ msgstr ""
-#~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.php?disc=8&lang=en\"\n"
-#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~ "border:0; pointer-events:auto; opacity:1;\"\n"
-#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~ "  </iframe>"
 
 #~ msgid "Fasilitas"
 #~ msgstr "Facility"
