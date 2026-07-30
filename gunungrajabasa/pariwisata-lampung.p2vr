@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig version="7.1.12" rev="21036">
   <tour>
     <start>node176</start>
     <panorama>
@@ -424,7 +424,7 @@
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>3/2/2021 7:27 PM</datetime>
-        <tags>rajabasa</tags>
+        <tags>oi|rajabasa</tags>
         <customnodeid>BasecampPendakian</customnodeid>
       </userdata>
       <floorplans/>
@@ -461,9 +461,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-131.8</pan>
-            <tilt>0.87</tilt>
-            <fov>10</fov>
+            <pan>-167.47</pan>
+            <tilt>3.08</tilt>
+            <fov>13</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -473,18 +473,41 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
+          <title>Klik untuk informasi &lt;br/>Basecamp Pendakian</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon2</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-121.53/14.21|-110.98/8.11|-111.38/5.54|-118.8/4.9|-118.39/-2.26|-117.99/-7.7|-157.97/-12.62|-165.07/-8.19|-165.27/7.57|-168.01/9.14|-165.69/18.98</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -494,14 +517,14 @@
       <sounds>
         <sound>
           <position>
-            <pan>-157.84</pan>
-            <tilt>-2.28</tilt>
+            <pan>-189.12</pan>
+            <tilt>3.92</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>6</roty>
             <rotz>0</rotz>
-            <fov>30</fov>
+            <fov>23.75</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
@@ -524,15 +547,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-2" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=83&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -570,11 +585,12 @@
         <capturedatetime>2021-03-02T19:55:12</capturedatetime>
         <latitude>-5.779881</latitude>
         <longitude>105.631056</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>3/2/2021 7:55 PM</datetime>
-        <tags>rajabasa</tags>
+        <tags>oi|rajabasa</tags>
+        <customnodeid>jagung</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -640,9 +656,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>2.97</pan>
-            <tilt>-5.35</tilt>
-            <fov>14.6467</fov>
+            <pan>344.07</pan>
+            <tilt>-7.17</tilt>
+            <fov>15.65</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -652,18 +668,41 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
+          <title>Klik untuk informasi &lt;br/>Perkebunan Jagung</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon3</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-11.15/2.29|-354.92/3.95|-340.07/3.53|-325.59/1.33|-319.34/0.59|-318.09/-15.6|-315.32/-29.36|-326.5/-39.99|-356.16/-46.03|-35.73/-35.88|-44.03/-26.38|-43.55/-15.16|-39.25/-0.87|-31.86/0.61</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -673,8 +712,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-29.94</pan>
-            <tilt>2.62</tilt>
+            <pan>-42.11</pan>
+            <tilt>-7.37</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -703,15 +742,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-3" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=84&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -749,11 +780,12 @@
         <capturedatetime>2021-03-02T20:24:49</capturedatetime>
         <latitude>-5.779881</latitude>
         <longitude>105.631056</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>3/2/2021 8:24 PM</datetime>
-        <tags>rajabasa</tags>
+        <tags>oi|rajabasa</tags>
+        <customnodeid>pohonkapuk</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -819,9 +851,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>1.67999</pan>
-            <tilt>15.79</tilt>
-            <fov>10</fov>
+            <pan>349.22</pan>
+            <tilt>17.53</tilt>
+            <fov>15</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -831,24 +863,25 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
+          <title>Klik untuk informasi &lt;br/>Pohon Kapuk Hutan</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon4</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-111.97</pan>
-            <tilt>-33.76</tilt>
-            <fov>15.1359</fov>
+            <pan>-124.3</pan>
+            <tilt>-21.49</tilt>
+            <fov>18.14</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -858,18 +891,62 @@
           <customprops/>
           <polygon/>
           <id>Point04</id>
+          <title>Klik untuk informasi &lt;br/>Jalur Pendakian</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon10</skinid>
+          <skinid>hotspot_oi_polygon3</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-2.25/48.87|-352.42/48.43|-350.42/34.21|-348.32/13.87|-343.03/-3.83|-328.64/-17.99|-327.07/-22.65|-338.33/-29.69|-356.72/-37.02|-21.67/-38.73|-37.94/-30.19|-33.97/-23.09|-20.82/-19.59|-10.24/-1.5|-5.77/19.2|-3.07/36.01|-2.34/38.81|-3.16/41.3</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <type>poly</type>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-102.38/-9.05|-113.43/-8.6|-128.06/-28.93|-134.7/-39.07|-138.95/-41.39|-153.49/-52.39|-76.24/-58.94|-93.69/-42.42|-100.55/-29.27</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly02</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element03');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element03');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -879,8 +956,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-34.83</pan>
-            <tilt>10.97</tilt>
+            <pan>-40.69</pan>
+            <tilt>12.44</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -909,25 +986,17 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-4" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=85&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
         <sound>
           <position>
-            <pan>-158.81</pan>
-            <tilt>-14.05</tilt>
+            <pan>-152.5</pan>
+            <tilt>-19.28</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
-            <roty>0</roty>
+            <roty>-15</roty>
             <rotz>0</rotz>
             <fov>30</fov>
             <stretch>100</stretch>
@@ -952,15 +1021,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-10" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=91&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element03" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -998,11 +1059,12 @@
         <capturedatetime>2021-03-02T20:30:38</capturedatetime>
         <latitude>-5.779881</latitude>
         <longitude>105.631056</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>3/2/2021 8:30 PM</datetime>
-        <tags>rajabasa</tags>
+        <tags>oi|rajabasa</tags>
+        <customnodeid>perkebunanpisang</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1068,9 +1130,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-134.23</pan>
-            <tilt>6.03</tilt>
-            <fov>17.0924</fov>
+            <pan>-117.4</pan>
+            <tilt>2.35</tilt>
+            <fov>17.09</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -1080,24 +1142,25 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
+          <title>Klik untuk informasi &lt;br/>Pondok Perkebunan Warga</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon5</skinid>
+          <skinid>hotspot_oi_polygon2</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info - kiri.png</customimage>
+          <urlsafecustomimage>line info - kiri.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-229.88</pan>
-            <tilt>3.89</tilt>
-            <fov>13.913</fov>
+            <pan>-240.96</pan>
+            <tilt>5.21</tilt>
+            <fov>15.91</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -1107,18 +1170,63 @@
           <customprops/>
           <polygon/>
           <id>Point04</id>
+          <title>Klik untuk informasi &lt;br/>Perkebunan Pisang</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon11</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-217.73/40.05|-197.43/24.72|-209.81/24.31|-218.35/22.9|-225.46/9.92|-221.11/-12.39|-220.48/-28.26|-227.47/-29.15|-237.99/-28.68|-253.69/-28.04|-257.51/-21.91|-252.49/-10.57|-254.51/5.2|-259.98/15.19|-268.58/14.27|-269.3/24.77|-267.91/31.67|-244.67/42.04</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-140.54/-33.44|-135.62/-34.52|-137.48/-13.94|-124.07/-9.13|-124.22/-20.38|-117.21/-20.69|-111.14/-18.5|-115.62/8.02|-108.94/9.31|-114.18/39.49|-143.11/39.21|-172.25/21.28|-171.46/10.89|-170.1/-7.36|-168.69/-20.46|-164.76/-22.18|-165.42/-10.03|-148.95/-12.83|-148.8/-16.93|-143.06/-17.52|-142.42/-13.03</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly02</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element02');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element02');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -1128,8 +1236,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-92.08</pan>
-            <tilt>4.75</tilt>
+            <pan>-90.98</pan>
+            <tilt>3.73</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -1158,21 +1266,13 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-5" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=86&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element02" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
         <sound>
           <position>
-            <pan>-263.3</pan>
-            <tilt>2.03</tilt>
+            <pan>-268</pan>
+            <tilt>3.55</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -1201,15 +1301,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-11" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=92&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -1489,7 +1581,7 @@
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>3/2/2021 11:48 PM</datetime>
-        <tags>rajabasa</tags>
+        <tags>oi|rajabasa</tags>
         <customnodeid>JalurTracking</customnodeid>
       </userdata>
       <floorplans/>
@@ -1556,9 +1648,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-0.97</pan>
-            <tilt>14.43</tilt>
-            <fov>10</fov>
+            <pan>-344.97</pan>
+            <tilt>14.68</tilt>
+            <fov>16</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -1568,18 +1660,41 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
+          <title>Klik untuk informasi &lt;br/>Tanda Pos 2</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon6</skinid>
+          <skinid>hotspot_oi_polygon2</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info - kiri.png</customimage>
+          <urlsafecustomimage>line info - kiri.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-349.92/49.03|-352.2/31.79|-351.94/17.88|-351.69/2.87|-358.44/-7.1|-7.66/-0.08|-7.09/21.21|-7.95/40.58|-7.42/48.39</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element02');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element02');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -1589,12 +1704,12 @@
       <sounds>
         <sound>
           <position>
-            <pan>-326.9</pan>
-            <tilt>14.77</tilt>
+            <pan>-316.44</pan>
+            <tilt>13.23</tilt>
           </position>
           <videorect>
             <rotx>5</rotx>
-            <roty>-1</roty>
+            <roty>13</roty>
             <rotz>-2</rotz>
             <fov>30</fov>
             <stretch>100</stretch>
@@ -1619,15 +1734,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-6" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=87&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element02" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -1665,11 +1772,12 @@
         <capturedatetime>2021-03-03T00:13:47</capturedatetime>
         <latitude>-5.779881</latitude>
         <longitude>105.631056</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>3/3/2021 12:13 AM</datetime>
-        <tags>rajabasa</tags>
+        <tags>oi|rajabasa</tags>
+        <customnodeid>jalurakar</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1735,9 +1843,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-0.480015</pan>
-            <tilt>19.15</tilt>
-            <fov>12.2011</fov>
+            <pan>-13.21</pan>
+            <tilt>-0.68</tilt>
+            <fov>15.2</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -1747,18 +1855,41 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
+          <title>Klik untuk informasi &lt;br/>Jalur Akar</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon7</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-5.82/15.76|-353.38/15.34|-353.47/6.95|-346.75/4.95|-330/4.45|-328.21/-2.83|-327.1/-14.97|-342.22/-21.89|-6.9/-26.61|-16.27/-22.12|-25.04/-13.65|-27.5/-0.91|-24.68/3.88|-6.98/4.11</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -1768,8 +1899,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-31.76</pan>
-            <tilt>19.89</tilt>
+            <pan>-38.76</pan>
+            <tilt>4.63</tilt>
           </position>
           <videorect>
             <rotx>1</rotx>
@@ -1798,15 +1929,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-7" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=88&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -2168,11 +2291,12 @@
         <capturedatetime>2021-03-03T01:09:21</capturedatetime>
         <latitude>-5.779881</latitude>
         <longitude>105.631056</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>3/3/2021 1:09 AM</datetime>
-        <tags>rajabasa</tags>
+        <tags>oi|rajabasa</tags>
+        <customnodeid>hutanhujan</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2238,9 +2362,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-184.65</pan>
-            <tilt>0.96</tilt>
-            <fov>10</fov>
+            <pan>-195.79</pan>
+            <tilt>2.59</tilt>
+            <fov>15</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -2250,18 +2374,41 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
+          <title>Klik untuk informasi &lt;br/>Hutan Hujan</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon12</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-195.47/30.45|-175.1/25.29|-166.72/21.12|-164.73/7.69|-165.22/-10.51|-176.66/-18.85|-197.19/-19.83|-220.42/-12.78|-235.1/17.78|-215.98/31.93</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -2271,8 +2418,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-210.22</pan>
-            <tilt>0.07</tilt>
+            <pan>-223.57</pan>
+            <tilt>2.55</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -2301,15 +2448,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-12" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=93&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -2671,11 +2810,12 @@
         <capturedatetime>2021-03-03T01:41:52</capturedatetime>
         <latitude>-5.779881</latitude>
         <longitude>105.631056</longitude>
-        <altitude>-10000</altitude>
+        <altitude>-3048</altitude>
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>3/3/2021 1:41 AM</datetime>
-        <tags>rajabasa</tags>
+        <tags>oi|rajabasa</tags>
+        <customnodeid>bendera</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2741,9 +2881,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-350.63</pan>
-            <tilt>15.52</tilt>
-            <fov>16.6033</fov>
+            <pan>-15.55</pan>
+            <tilt>13.5</tilt>
+            <fov>16.6</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -2753,18 +2893,41 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
+          <title>Klik untuk informasi &lt;br/>Bendera Indonesia</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon9</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-330.31/47.84|-327.38/14.69|-349.3/0.69|-0.66/-0.32|-9.99/2.23|-10.74/8.19|-11.97/28.8|-3.16/26.65|-352.26/29.3</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -2774,14 +2937,14 @@
       <sounds>
         <sound>
           <position>
-            <pan>-38.01</pan>
-            <tilt>12.43</tilt>
+            <pan>-48.72</pan>
+            <tilt>15.85</tilt>
           </position>
           <videorect>
             <rotx>4</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>37.83</fov>
+            <fov>36.8528</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
@@ -2804,15 +2967,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-9" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=90&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -3056,7 +3211,7 @@
         <longitude>105.631056</longitude>
         <altitude>-3048</altitude>
         <datetime>3/13/2021 12:07 AM</datetime>
-        <tags>rajabasa</tags>
+        <tags>oi|rajabasa</tags>
         <customnodeid>GunungRajabasa</customnodeid>
       </userdata>
       <floorplans/>
@@ -3093,9 +3248,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-350.94</pan>
-            <tilt>-25.07</tilt>
-            <fov>13.913</fov>
+            <pan>-2.64</pan>
+            <tilt>-15.22</tilt>
+            <fov>14.91</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -3105,6 +3260,7 @@
           <customprops/>
           <polygon/>
           <id>Point01</id>
+          <title>Klik untuk informasi &lt;br/>Tugu Puncak</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>hotspot_oi_polygon</skinid>
@@ -3112,17 +3268,17 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-83.58</pan>
-            <tilt>-3.85</tilt>
-            <fov>12.6902</fov>
+            <pan>-96.12</pan>
+            <tilt>-9.07</tilt>
+            <fov>12.69</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -3132,18 +3288,19 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
+          <title>Klik untuk informasi &lt;br/>Tanaman Pakis Haji</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon8</skinid>
+          <skinid>hotspot_oi_polygon3</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
@@ -3175,6 +3332,50 @@
           <width>26</width>
           <height>92</height>
         </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-352.94/-9.93|-344.24/-10.43|-340.38/-31.9|-349.88/-36.63|-0.62/-36.68|-5.82/-31.78|-359.14/-24.35|-354.99/-19.04|-353.57/-21.18</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-82.07/5.54|-71.55/6.47|-65.33/4.43|-65.78/-0.68|-80.46/-10.05|-84.28/-30.12|-95.47/-30.48|-94.06/-14.62|-102.42/-12.07|-112.24/-16.17|-112.56/-6.01|-106.31/5.54|-95.21/10.19|-84.48/10.66</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly02</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element03');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element03');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -3183,8 +3384,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-33.21</pan>
-            <tilt>-6.82</tilt>
+            <pan>-34.15</pan>
+            <tilt>-13.4</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -3213,27 +3414,19 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-1" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=82&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
         <sound>
           <position>
-            <pan>-108.52</pan>
-            <tilt>-6.13</tilt>
+            <pan>-121.65</pan>
+            <tilt>-10.44</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>40.27</fov>
+            <fov>31.0843</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
@@ -3256,15 +3449,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-8" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=89&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element03" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -3405,13 +3590,14 @@
       </viewingparameter>
       <userdata>
         <customprops/>
-        <capturedatetime>2025-12-03T10:03:54+07:00</capturedatetime>
+        <capturedatetime>2025-12-03T10:03:54</capturedatetime>
         <latitude>-5.757968</latitude>
         <longitude>105.614536</longitude>
-        <altitude>642.358</altitude>
+        <altitude>642.357</altitude>
         <title>default</title>
         <datetime>12/3/2025 10:03 AM</datetime>
-        <tags>rajabasa</tags>
+        <tags>oi|rajabasa</tags>
+        <customnodeid>gunung</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -3504,9 +3690,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-1.95001</pan>
-            <tilt>-3.82</tilt>
-            <fov>14.4022</fov>
+            <pan>-5.61</pan>
+            <tilt>-4.38</tilt>
+            <fov>14.4</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -3516,18 +3702,41 @@
           <customprops/>
           <polygon/>
           <id>Point02</id>
+          <title>Klik untuk informasi &lt;br/>Gunung Rajabasa</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon13</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-13.01/7.94|-338.72/7.95|-307.67/-3.65|-300.21/-8.59|-354.29/-30.95|-42.53/-13.55|-47.8/-5.27|-36.45/-0.13</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -3537,8 +3746,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-334.7</pan>
-            <tilt>-5.07</tilt>
+            <pan>-25.88</pan>
+            <tilt>-3.6</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -3567,15 +3776,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-13" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=94&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -3776,7 +3977,8 @@
           <title>Masjid Agung Kalianda (Est. 30 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot-link-other</skinid>
+          <url>https://lampung-selatan.govirtual.id/masjidagung/index.html#</url>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3804,7 +4006,8 @@
           <title>Pulau Mengkudu (Est. 1 Jam)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot-link-other</skinid>
+          <url>https://lampung-selatan.govirtual.id/pulaumengkudu/index.html#</url>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3832,7 +4035,8 @@
           <title>Menara Siger (Est.1 Jam)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot-link-other</skinid>
+          <url>https://lampung-selatan.govirtual.id/menarasiger/index.html#</url>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3899,9 +4103,17 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
+        <value id="artmpp.po">true</value>
+        <value id="artmptmph.po">true</value>
         <value id="en.po">true</value>
+        <value id="entmpp.po">true</value>
+        <value id="entmptmph.po">true</value>
         <value id="nl.po">true</value>
+        <value id="nltmpp.po">true</value>
+        <value id="nltmptmph.po">true</value>
         <value id="zh_CN.po">true</value>
+        <value id="zh_CNtmph.po">true</value>
+        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>
@@ -3918,7 +4130,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/pano/lampungoi/gunungrajabasa/index.html</filename>
+          <filename>D:/xampp/htdocs/lampung-output/gunungrajabasa/index.html</filename>
           <values>
             <value id="cachebust">false</value>
             <value id="css"/>
@@ -3945,7 +4157,7 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>3600</tilesize>
-        <filename>C:/xampp/htdocs/pano/lampungoi/gunungrajabasa/pano.xml</filename>
+        <filename>D:/xampp/htdocs/lampung-output/gunungrajabasa/pano.xml</filename>
         <skinfile>$d/lampung-skin.ggsk</skinfile>
         <hideaboutbox>1</hideaboutbox>
         <invertwheel>1</invertwheel>
