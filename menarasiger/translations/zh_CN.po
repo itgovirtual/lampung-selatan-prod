@@ -13,311 +13,66 @@ msgstr ""
 "X-Source-Language: id-ID\n"
 "X-Generator: Poedit 3.8\n"
 
-#. Node: node2 / User Data Author
-#. Node: node5 / User Data Author
-#. Node: node7 / User Data Author
-#. Node: node8 / User Data Author
-#. Node: node9 / User Data Author
-#. Node: node13 / User Data Author
-#. Node: node20 / User Data Author
-#. Node: node26 / User Data Author
-#. Node: node27 / User Data Author
-#. Node: node28 / User Data Author
-#. Node: node36 / User Data Author
-#. Node: node41 / User Data Author
-#. Node: node43 / User Data Author
-#. Node: node44 / User Data Author
-#. Node: node45 / User Data Author
-#. Node: node47 / User Data Author
-#. Node: node50 / User Data Author
-#. Node: node52 / User Data Author
-#. Node: node53 / User Data Author
-#. Node: node54 / User Data Author
-#. Node: node55 / User Data Author
-#. Node: node56 / User Data Author
-#. Node: node58 / User Data Author
-#. Node: node59 / User Data Author
-#. Node: node60 / User Data Author
-#. Node: node61 / User Data Author
-#. Node: node62 / User Data Author
-#. Node: node63 / User Data Author
-#. Node: node65 / User Data Author
-#. Node: node66 / User Data Author
-#. Node: node67 / User Data Author
-#. Node: node68 / User Data Author
-#. Node: node69 / User Data Author
-#. Node: node73 / User Data Author
-#. Node: node74 / User Data Author
-msgid "Govirtual"
-msgstr ""
+#. Node: node14 / User Data Date && Time
+msgid "2025:12:04 09:42:38"
+msgstr "2025:12:04 09:42:38"
 
-#. Node: node2 / User Data Date && Time
-msgid "1/17/2021 7:32 PM"
-msgstr ""
-
-#. Node: node2 / User Data Copyright
-#. Node: node5 / User Data Copyright
-#. Node: node7 / User Data Copyright
-#. Node: node8 / User Data Copyright
-#. Node: node9 / User Data Copyright
-#. Node: node13 / User Data Copyright
-#. Node: node18 / User Data Copyright
-#. Node: node20 / User Data Copyright
-#. Node: node26 / User Data Copyright
-#. Node: node27 / User Data Copyright
-#. Node: node28 / User Data Copyright
-#. Node: node29 / User Data Copyright
-#. Node: node36 / User Data Copyright
-#. Node: node38 / User Data Copyright
-#. Node: node40 / User Data Copyright
-#. Node: node41 / User Data Copyright
-#. Node: node43 / User Data Copyright
-#. Node: node44 / User Data Copyright
-#. Node: node45 / User Data Copyright
-#. Node: node47 / User Data Copyright
-#. Node: node50 / User Data Copyright
-#. Node: node52 / User Data Copyright
-#. Node: node53 / User Data Copyright
-#. Node: node54 / User Data Copyright
-#. Node: node55 / User Data Copyright
-#. Node: node56 / User Data Copyright
-#. Node: node58 / User Data Copyright
-#. Node: node59 / User Data Copyright
-#. Node: node60 / User Data Copyright
-#. Node: node61 / User Data Copyright
-#. Node: node62 / User Data Copyright
-#. Node: node63 / User Data Copyright
-#. Node: node65 / User Data Copyright
-#. Node: node66 / User Data Copyright
-#. Node: node67 / User Data Copyright
-#. Node: node68 / User Data Copyright
-#. Node: node69 / User Data Copyright
-#. Node: node73 / User Data Copyright
-#. Node: node74 / User Data Copyright
-msgid "govirtual"
-msgstr ""
-
-#. Node: node2 / Point Hotspot: Point01 / Title
-#. Node: node10 / Point Hotspot: Point01 / Title
-#. Node: node12 / Point Hotspot: Point03 / Title
-msgid "Gerbang Eksekutif"
-msgstr "行政通道入口"
-
-#. Node: node2 / Point Hotspot: Point02 / Title
-msgid "Gerbang Masuk Motor"
-msgstr "摩托车入口"
-
-#. Node: node3 / User Data Title
-#. Node: node4 / User Data Title
-#. Node: node17 / User Data Title
-msgid "default"
-msgstr ""
-
-#. Node: node3 / User Data Date && Time
-#. Node: node4 / User Data Date && Time
-msgid "10/20/2025 10:36 AM"
-msgstr ""
-
-#. Node: node3 / User Data Custom Node ID
-msgid "PelabuhanBakauheni"
-msgstr "巴考亨尼港"
-
-#. Node: node3 / Point Hotspot: Point01 / Title
-#. Node: node4 / Point Hotspot: Point01 / Title
-msgid "Drone Bakauheni"
-msgstr "巴考亨尼无人机"
-
-#. Node: node3 / Point Hotspot: Point02 / Title
-#. Node: node4 / Point Hotspot: Point03 / Title
-msgid "Menara Siger (Est. 5 Menit)"
-msgstr "西格尔塔（约5分钟）"
-
-#. Node: node3 / Point Hotspot: Point03 / Title
-#. Node: node4 / Point Hotspot: Point04 / Title
-#. Node: node15 / Point Hotspot: Point05 / Title
-#. Node: node16 / Point Hotspot: Point01 / Title
-msgid "Peternakan Juang Jaya (Est. 45 Menit)"
-msgstr "Juang Jaya 农场（约45分钟）"
-
-#. Node: node3 / Point Hotspot: Point04 / Title
-#. Node: node4 / Point Hotspot: Point02 / Title
-#. Node: node15 / Point Hotspot: Point04 / Title
-msgid "Lamban Balak Bandar Marga Legun (Est. 50 Menit)"
-msgstr "Lamban Balak Bandar Marga Legun（约50分钟）"
-
-#. Node: node3 / Point Hotspot: Point05 / Title
-msgid "Trimomukti Agrikultur (Est. 1 Jam 10 Menit)"
-msgstr "Trimomukti 农业（约1小时10分钟）"
-
-#. Node: node3 / Point Hotspot: Point06 / Title
-msgid "Dermaga Bakauheni"
-msgstr "巴考亨尼码头"
-
-#. Node: node4 / Point Hotspot: Point05 / Title
-msgid "Maju Tambak Sumur (Est. 5 Menit)"
-msgstr "Maju Tambak Sumur（预计 5 分钟）"
-
-#. Node: node4 / Point Hotspot: Point06 / Title
-msgid "Pertanian Trimomukti (Est. 1 Jam 10 Menit)"
-msgstr "Trimomukti 农业（约1小时10分钟）"
-
-#. Node: node5 / User Data Date && Time
-msgid "1/17/2021 8:58 PM"
-msgstr ""
-
-#. Node: node5 / User Data Custom Node ID
-msgid "Bagasi"
-msgstr ""
-
-#. Node: node5 / Point Hotspot: Point01 / Title
-#. Node: node7 / Point Hotspot: Point01 / Title
-#. Node: node11 / Point Hotspot: Point01 / Title
 #. Node: node14 / Point Hotspot: Point01 / Title
 #. Node: node19 / Point Hotspot: Point01 / Title
 #. Node: node21 / Point Hotspot: Point01 / Title
 #. Node: node22 / Point Hotspot: Point01 / Title
 #. Node: node23 / Point Hotspot: Point01 / Title
-#. Node: node24 / Point Hotspot: Point01 / Title
+#. Node: node24 / Point Hotspot: Point03 / Title
 #. Node: node27 / Point Hotspot: Point01 / Title
 #. Node: node31 / Point Hotspot: Point01 / Title
 #. Node: node34 / Point Hotspot: Point01 / Title
 #. Node: node36 / Point Hotspot: Point01 / Title
 #. Node: node40 / Point Hotspot: Point01 / Title
 #. Node: node42 / Point Hotspot: Point01 / Title
-#. Node: node43 / Point Hotspot: Point01 / Title
-#. Node: node49 / Point Hotspot: Point01 / Title
-#. Node: node50 / Point Hotspot: Point02 / Title
-#. Node: node58 / Point Hotspot: Point02 / Title
-#. Node: node61 / Point Hotspot: Point02 / Title
-#. Node: node64 / Point Hotspot: Point01 / Title
-#. Node: node69 / Point Hotspot: Point01 / Title
-#. Node: node70 / Point Hotspot: Point01 / Title
-#. Node: node71 / Point Hotspot: Point01 / Title
-#. Node: node72 / Point Hotspot: Point01 / Title
 msgid "Keluar"
 msgstr "出口"
 
-#. Node: node5 / Point Hotspot: Point02 / Title
-msgid "Area Pemuatan Reguler"
-msgstr "常规装载区"
-
-#. Node: node6 / User Data Date && Time
-msgid "1/24/2019 11:29 PM"
-msgstr ""
-
-#. Node: node6 / User Data Custom Node ID
-msgid "PelayananPelangganEksekutif"
-msgstr "行政客户服务"
-
-#. Node: node6 / Point Hotspot: Point01 / Title
-#. Node: node9 / Point Hotspot: Point03 / Title
-msgid "Lobi Eksekutif"
-msgstr "行政大厅"
-
-#. Node: node7 / User Data Date && Time
-msgid "1/17/2021 8:45 PM"
-msgstr ""
-
-#. Node: node7 / User Data Custom Node ID
-msgid "LayananPelangganReguler"
-msgstr "普通客户服务"
-
-#. Node: node8 / User Data Date && Time
-#. Node: node9 / User Data Date && Time
-msgid "1/17/2021 8:23 PM"
-msgstr ""
-
-#. Node: node8 / User Data Custom Node ID
-msgid "DermagaReguler"
-msgstr "普通码头"
-
-#. Node: node8 / Point Hotspot: Point01 / Title
-#. Node: node12 / Point Hotspot: Point04 / Title
-msgid "Pemeriksaan Keamanan Reguler"
-msgstr "常规安检"
-
-#. Node: node9 / User Data Custom Node ID
-msgid "GedungEksekutif"
-msgstr "行政大楼"
-
-#. Node: node9 / Point Hotspot: Point01 / Title
-#. Node: node10 / Point Hotspot: Point02 / Title
-#. Node: node33 / Point Hotspot: Point03 / Title
-#. Node: node53 / Point Hotspot: Point03 / Title
-msgid "Gerbang Masuk"
-msgstr "入口大门"
-
-#. Node: node9 / Point Hotspot: Point02 / Title
-msgid "Gedung ASDP"
-msgstr "ASDP 大楼"
-
-#. Node: node10 / User Data Date && Time
-msgid "1/24/2019 11:08 PM"
-msgstr ""
-
-#. Node: node10 / User Data Custom Node ID
-msgid "KantorCabang"
-msgstr ""
-
-#. Node: node10 / Point Hotspot: Point03 / Title
-msgid "Gedung Reguler"
-msgstr "常规大楼"
-
-#. Node: node11 / User Data Date && Time
-msgid "1/24/2019 11:34 PM"
-msgstr ""
-
-#. Node: node11 / Point Hotspot: Point02 / Title
-msgid "Layanan Pelanggan Eksekutif"
-msgstr "行政客服"
-
-#. Node: node12 / User Data Date && Time
-msgid "1/25/2019 12:16 AM"
-msgstr ""
-
-#. Node: node12 / Point Hotspot: Point01 / Title
-#. Node: node13 / Point Hotspot: Point02 / Title
-msgid "Gedung ASPD"
-msgstr "ASPD 大楼"
-
-#. Node: node12 / Point Hotspot: Point02 / Title
-msgid "Lobi Reguler"
-msgstr "常规大厅"
-
-#. Node: node13 / User Data Date && Time
-msgid "1/17/2021 7:24 PM"
-msgstr ""
-
-#. Node: node13 / Point Hotspot: Point01 / Title
-msgid "Gerbang Masuk Mobil"
-msgstr "汽车入口"
-
-#. Node: node14 / User Data Date && Time
-msgid "2025:12:04 09:42:38"
-msgstr ""
-
-#. Node: node15 / Point Hotspot: Point01 / Title
-#. Node: node16 / Point Hotspot: Point05 / Title
-msgid "Bandara Internasional Radin Inten II (Est. 1 Jam 30 Menit)"
-msgstr "拉丁因登二号国际机场（约1小时30分钟）"
-
-#. Node: node15 / Point Hotspot: Point02 / Title
-#. Node: node16 / Point Hotspot: Point06 / Title
-msgid "Pelabuhan Bakauheni (Est. 5 Menit)"
-msgstr "巴考亨尼港（约5分钟）"
-
 #. Node: node15 / Point Hotspot: Point03 / Title
+#. Node: node16 / Point Hotspot: Point04 / Title
 msgid "Pulau Umang-umang (Est. 2 jam)"
 msgstr "Umang-Umang 岛（约2小时）"
+
+#. Node: node15 / Point Hotspot: Point03 / URL
+#. Node: node16 / Point Hotspot: Point04 / URL
+msgid "https://lampung-selatan.govirtual.id/pulauumang"
+msgstr "https://lampung-selatan.govirtual.id/pulauumang"
+
+#. Node: node15 / Point Hotspot: Point04 / Title
+msgid "Lamban Balak Bandar Marga Legun (Est. 50 Menit)"
+msgstr "Lamban Balak Bandar Marga Legun（约50分钟）"
+
+#. Node: node15 / Point Hotspot: Point04 / URL
+msgid "https://lampung-selatan.govirtual.id/margalegun"
+msgstr "https://lampung-selatan.govirtual.id/margalegun"
+
+#. Node: node15 / Point Hotspot: Point05 / Title
+#. Node: node16 / Point Hotspot: Point01 / Title
+msgid "Peternakan Juang Jaya (Est. 45 Menit)"
+msgstr "Juang Jaya 农场（约45分钟）"
+
+#. Node: node15 / Point Hotspot: Point05 / URL
+#. Node: node16 / Point Hotspot: Point01 / URL
+msgid "https://lampung-selatan.govirtual.id/ptjuangjaya"
+msgstr "https://lampung-selatan.govirtual.id/ptjuangjaya"
 
 #. Node: node15 / Point Hotspot: Point06 / Title
 #. Node: node16 / Point Hotspot: Point03 / Title
 msgid "Trimomukti Agrikultur (1 Jam 10 Menit)"
 msgstr "Trimomukti 农业（1小时10分钟）"
 
+#. Node: node15 / Point Hotspot: Point06 / URL
+#. Node: node16 / Point Hotspot: Point03 / URL
+msgid "https://lampung-selatan.govirtual.id/trimomukti"
+msgstr "https://lampung-selatan.govirtual.id/trimomukti"
+
 #. Node: node15 / Point Hotspot: Point07 / Title
 #. Node: node26 / Point Hotspot: Point02 / Title
-#. Node: node30 / Point Hotspot: Point02 / Title
+#. Node: node30 / Point Hotspot: Point04 / Title
 #. Node: node33 / Point Hotspot: Point02 / Title
 #. Node: node34 / Point Hotspot: Point02 / Title
 #. Node: node35 / Point Hotspot: Point01 / Title
@@ -333,11 +88,11 @@ msgstr "BSI 清真寺"
 #. Node: node20 / Point Hotspot: Point03 / Title
 #. Node: node25 / Point Hotspot: Point01 / Title
 #. Node: node26 / Point Hotspot: Point01 / Title
-#. Node: node27 / Point Hotspot: Point04 / Title
+#. Node: node27 / Point Hotspot: Point05 / Title
 #. Node: node30 / Point Hotspot: Point01 / Title
 #. Node: node32 / Point Hotspot: Point01 / Title
 #. Node: node33 / Point Hotspot: Point01 / Title
-#. Node: node39 / Point Hotspot: Point01 / Title
+#. Node: node39 / Point Hotspot: Point05 / Title
 #. Node: node41 / Point Hotspot: Point01 / Title
 #. Node: node41 / Point Hotspot: Point03 / Title
 msgid "Menara Siger"
@@ -350,33 +105,40 @@ msgstr "西格尔塔无人机"
 
 #. Node: node16 / User Data Date && Time
 msgid "10/23/2025 3:26 PM"
-msgstr ""
-
-#. Node: node16 / User Data Custom Node ID
-#. Node: node26 / User Data Custom Node ID
-msgid "MenaraSiger"
-msgstr "西格尔塔"
-
-#. Node: node16 / Point Hotspot: Point04 / Title
-msgid "Maju Tambak Sumur (Est. 15 Menit)"
-msgstr "Maju Tambak Sumur（约15分钟）"
-
-#. Node: node17 / User Data Date && Time
-msgid "10/13/2025 6:41 AM"
-msgstr ""
+msgstr "10/23/2025 3:26 PM"
 
 #. Node: node18 / User Data Date && Time
-#. Node: node38 / User Data Date && Time
 msgid "2025:12:04 09:41:24"
-msgstr ""
+msgstr "2025:12:04 09:41:24"
+
+#. Node: node18 / User Data Copyright
+#. Node: node20 / User Data Copyright
+#. Node: node26 / User Data Copyright
+#. Node: node27 / User Data Copyright
+#. Node: node28 / User Data Copyright
+#. Node: node29 / User Data Copyright
+#. Node: node36 / User Data Copyright
+#. Node: node40 / User Data Copyright
+#. Node: node41 / User Data Copyright
+msgid "govirtual"
+msgstr "govirtual"
 
 #. Node: node19 / User Data Date && Time
 msgid "2025:12:04 09:44:23"
-msgstr ""
+msgstr "2025:12:04 09:44:23"
+
+#. Node: node20 / User Data Author
+#. Node: node26 / User Data Author
+#. Node: node27 / User Data Author
+#. Node: node28 / User Data Author
+#. Node: node36 / User Data Author
+#. Node: node41 / User Data Author
+msgid "Govirtual"
+msgstr "Govirtual"
 
 #. Node: node20 / User Data Date && Time
 msgid "2025:12:04 09:47:36"
-msgstr ""
+msgstr "2025:12:04 09:47:36"
 
 #. Node: node20 / Point Hotspot: Point02 / Title
 msgid "Taman Bakauheni"
@@ -385,11 +147,11 @@ msgstr "巴考亨尼公园"
 #. Node: node21 / User Data Date && Time
 #. Node: node33 / User Data Date && Time
 msgid "2025:12:04 09:43:04"
-msgstr ""
+msgstr "2025:12:04 09:43:04"
 
 #. Node: node22 / User Data Date && Time
 msgid "2025:12:04 09:47:32"
-msgstr ""
+msgstr "2025:12:04 09:47:32"
 
 #. Node: node22 / Point Hotspot: Point02 / Title
 #. Node: node32 / Point Hotspot: Point02 / Title
@@ -399,37 +161,54 @@ msgstr "西格尔公园"
 
 #. Node: node23 / User Data Date && Time
 msgid "2025:12:04 09:43:39"
-msgstr ""
+msgstr "2025:12:04 09:43:39"
 
 #. Node: node24 / User Data Date && Time
 msgid "2025:12:04 09:43:24"
-msgstr ""
+msgstr "2025:12:04 09:43:24"
 
 #. Node: node24 / Point Hotspot: Point02 / Title
-#. Node: node46 / Point Hotspot: Point02 / Title
 msgid "Toilet"
 msgstr "洗手间"
 
 #. Node: node25 / User Data Date && Time
 msgid "2025:12:04 09:46:41"
-msgstr ""
+msgstr "2025:12:04 09:46:41"
 
 #. Node: node25 / User Data Custom Node ID
-msgid "PelabuhanBakauhueni"
-msgstr "巴卡乌赫尼港口"
+msgid "BakauheniHarbour"
+msgstr "BakauheniHarbour"
 
 #. Node: node26 / User Data Date && Time
 #. Node: node28 / User Data Date && Time
 msgid "2025:12:04 09:46:20"
-msgstr ""
+msgstr "2025:12:04 09:46:20"
+
+#. Node: node26 / User Data Custom Node ID
+msgid "MenaraSiger"
+msgstr "MenaraSiger"
+
+#. Node: node26 / Pinned Web Element: Element01 / Code
+#. Node: node41 / Pinned Web Element: Element01 / Code
+msgid "<div id=\"Element01\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr "<div id=\"Element01\" style=\"width: 100%; height: 100%;\"></div>"
+
+#. Node: node26 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Filosofis"
+msgstr "点击查看信息 <br/>关于哲学"
+
+#. Node: node26 / Poly Hotspot: Poly01 / URL
+#. Node: node41 / Poly Hotspot: Poly01 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element01');"
+msgstr "javascript:TourEngine.bukaOtomatis('Element01');"
 
 #. Node: node27 / User Data Date && Time
 msgid "2025:12:04 09:46:25"
-msgstr ""
+msgstr "2025:12:04 09:46:25"
 
 #. Node: node27 / User Data Custom Node ID
 msgid "MuseumMiniSiger"
-msgstr "迷你西格博物馆"
+msgstr "MuseumMiniSiger"
 
 #. Node: node27 / Point Hotspot: Point02 / Title
 #. Node: node27 / Point Hotspot: Point03 / Title
@@ -442,27 +221,31 @@ msgstr "博物馆"
 
 #. Node: node29 / User Data Date && Time
 msgid "2025:12:04 09:44:33"
-msgstr ""
+msgstr "2025:12:04 09:44:33"
 
 #. Node: node30 / User Data Date && Time
 msgid "2025:12:04 09:40:41"
-msgstr ""
+msgstr "2025:12:04 09:40:41"
 
 #. Node: node31 / User Data Date && Time
 msgid "2025:12:04 09:41:04"
-msgstr ""
+msgstr "2025:12:04 09:41:04"
 
 #. Node: node32 / User Data Date && Time
 msgid "2025:12:04 09:42:10"
-msgstr ""
+msgstr "2025:12:04 09:42:10"
+
+#. Node: node33 / Point Hotspot: Point03 / Title
+msgid "Gerbang Masuk"
+msgstr "入口大门"
 
 #. Node: node34 / User Data Date && Time
 msgid "2025:12:04 09:47:02"
-msgstr ""
+msgstr "2025:12:04 09:47:02"
 
 #. Node: node35 / User Data Date && Time
 msgid "2025:12:04 09:41:05"
-msgstr ""
+msgstr "2025:12:04 09:41:05"
 
 #. Node: node35 / Point Hotspot: Point02 / Title
 msgid "Tempat Parkir"
@@ -470,32 +253,26 @@ msgstr "停车区"
 
 #. Node: node35 / Point Hotspot: Point03 / Title
 #. Node: node39 / Point Hotspot: Point02 / Title
-#. Node: node47 / Point Hotspot: Point01 / Title
-#. Node: node63 / Point Hotspot: Point03 / Title
 msgid "Food Court"
 msgstr "美食广场"
 
 #. Node: node36 / User Data Date && Time
 msgid "2025:12:04 09:45:10"
-msgstr ""
+msgstr "2025:12:04 09:45:10"
 
 #. Node: node36 / User Data Custom Node ID
 msgid "PuncakMenaraSiger"
-msgstr "西格塔顶"
+msgstr "PuncakMenaraSiger"
 
 #. Node: node37 / User Data Date && Time
 msgid "10/20/2025 4:51 PM"
-msgstr ""
+msgstr "10/20/2025 4:51 PM"
 
 #. Node: node37 / User Data Custom Node ID
 msgid "TamanSiger"
-msgstr "西格公园"
+msgstr "TamanSiger"
 
 #. Node: node37 / Point Hotspot: Point01 / Title
-#. Node: node43 / Point Hotspot: Point02 / Title
-#. Node: node53 / Point Hotspot: Point01 / Title
-#. Node: node59 / Point Hotspot: Point01 / Title
-#. Node: node60 / Point Hotspot: Point02 / Title
 msgid "Area Parkir"
 msgstr "停车区"
 
@@ -505,257 +282,27 @@ msgstr "休息区"
 
 #. Node: node39 / User Data Date && Time
 msgid "2025:12:04 09:44:30"
-msgstr ""
+msgstr "2025:12:04 09:44:30"
 
 #. Node: node40 / User Data Date && Time
 msgid "2025:12:04 09:42:19"
-msgstr ""
+msgstr "2025:12:04 09:42:19"
 
 #. Node: node41 / User Data Date && Time
 msgid "2025:12:04 09:44:50"
-msgstr ""
+msgstr "2025:12:04 09:44:50"
+
+#. Node: node41 / User Data Custom Node ID
+msgid "motif"
+msgstr "motif"
+
+#. Node: node41 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Motif Siger"
+msgstr "点击查看信息 <br/>关于 Siger 图案"
 
 #. Node: node42 / User Data Date && Time
 msgid "2025:12:04 09:44:13"
-msgstr ""
-
-#. Node: node43 / User Data Date && Time
-msgid "1/16/2021 7:33 PM"
-msgstr ""
-
-#. Node: node43 / User Data Custom Node ID
-msgid "BandarUdara"
-msgstr "机场"
-
-#. Node: node43 / Point Hotspot: Point03 / Title
-#. Node: node52 / Point Hotspot: Point01 / Title
-msgid "Pos Keamanan"
-msgstr "安保岗亭"
-
-#. Node: node44 / User Data Date && Time
-msgid "1/16/2021 7:29 PM"
-msgstr ""
-
-#. Node: node44 / Point Hotspot: Point01 / Title
-#. Node: node50 / Point Hotspot: Point01 / Title
-msgid "Bandar Udara Radin Inten"
-msgstr "拉丁因登机场"
-
-#. Node: node45 / User Data Date && Time
-msgid "1/16/2021 8:10 PM"
-msgstr ""
-
-#. Node: node45 / Point Hotspot: Point01 / Title
-#. Node: node54 / Point Hotspot: Point01 / Title
-msgid "Drop Off"
-msgstr "下客区"
-
-#. Node: node45 / Point Hotspot: Point02 / Title
-#. Node: node62 / Point Hotspot: Point01 / Title
-#. Node: node74 / Point Hotspot: Point01 / Title
-msgid "Bandara Internasional Radin Inten II"
-msgstr "拉丁因登二号国际机场"
-
-#. Node: node46 / User Data Date && Time
-msgid "1/24/2019 12:39 AM"
-msgstr ""
-
-#. Node: node46 / Point Hotspot: Point01 / Title
-#. Node: node57 / Point Hotspot: Point01 / Title
-#. Node: node67 / Point Hotspot: Point03 / Title
-msgid "Pusat Check In"
-msgstr "值机中心"
-
-#. Node: node46 / Point Hotspot: Point03 / Title
-#. Node: node58 / Point Hotspot: Point01 / Title
-#. Node: node65 / Point Hotspot: Point02 / Title
-msgid "Pengambilan Bagasi"
-msgstr "行李提取"
-
-#. Node: node47 / User Data Date && Time
-msgid "1/16/2021 7:37 PM"
-msgstr ""
-
-#. Node: node47 / Point Hotspot: Point02 / Title
-#. Node: node56 / Point Hotspot: Point02 / Title
-msgid "Gedung Parkir"
-msgstr "停车楼"
-
-#. Node: node48 / User Data Date && Time
-msgid "1/23/2019 11:02 PM"
-msgstr ""
-
-#. Node: node48 / Point Hotspot: Point01 / Title
-#. Node: node51 / Point Hotspot: Point01 / Title
-#. Node: node57 / Point Hotspot: Point02 / Title
-#. Node: node64 / Point Hotspot: Point02 / Title
-msgid "Ruang Tunggu"
-msgstr "候机室"
-
-#. Node: node48 / Point Hotspot: Point02 / Title
-msgid "Musholla"
-msgstr "祈祷室"
-
-#. Node: node48 / Point Hotspot: Point03 / Title
-#. Node: node51 / Point Hotspot: Point02 / Title
-msgid "Lounge Eksekutif"
-msgstr "行政贵宾室"
-
-#. Node: node49 / User Data Date && Time
-msgid "1/24/2019 12:36 AM"
-msgstr ""
-
-#. Node: node50 / User Data Date && Time
-msgid "1/16/2021 7:05 PM"
-msgstr ""
-
-#. Node: node51 / User Data Date && Time
-msgid "1/23/2019 11:09 PM"
-msgstr ""
-
-#. Node: node52 / User Data Date && Time
-msgid "1/16/2021 8:06 PM"
-msgstr ""
-
-#. Node: node52 / Point Hotspot: Point02 / Title
-#. Node: node66 / Point Hotspot: Point02 / Title
-#. Node: node67 / Point Hotspot: Point01 / Title
-msgid "Pusat ATM"
-msgstr "ATM 中心"
-
-#. Node: node53 / User Data Date && Time
-msgid "1/16/2021 7:15 PM"
-msgstr ""
-
-#. Node: node53 / Point Hotspot: Point02 / Title
-msgid "Gerbang Keluar"
-msgstr "出口大门"
-
-#. Node: node54 / User Data Date && Time
-msgid "1/16/2021 8:02 PM"
-msgstr ""
-
-#. Node: node54 / Point Hotspot: Point02 / Title
-#. Node: node63 / Point Hotspot: Point01 / Title
-msgid "Gerbang Keberangkatan"
-msgstr "出口大门"
-
-#. Node: node54 / Point Hotspot: Point03 / Title
-msgid "Gerbang Kedatangan"
-msgstr "到达口"
-
-#. Node: node55 / User Data Date && Time
-msgid "1/16/2021 7:56 PM"
-msgstr ""
-
-#. Node: node55 / Point Hotspot: Point01 / Title
-#. Node: node56 / Point Hotspot: Point01 / Title
-msgid "Layanan Pelanggan"
-msgstr "客户服务"
-
-#. Node: node56 / User Data Date && Time
-msgid "1/16/2021 7:44 PM"
-msgstr ""
-
-#. Node: node57 / User Data Date && Time
-msgid "1/23/2019 10:49 PM"
-msgstr ""
-
-#. Node: node58 / User Data Date && Time
-msgid "1/16/2021 8:18 PM"
-msgstr ""
-
-#. Node: node59 / User Data Date && Time
-msgid "1/16/2021 7:24 PM"
-msgstr ""
-
-#. Node: node59 / Point Hotspot: Point02 / Title
-msgid "Area Parkir Motor"
-msgstr "摩托车停车区"
-
-#. Node: node60 / User Data Date && Time
-#. Node: node68 / User Data Date && Time
-msgid "1/16/2021 7:08 PM"
-msgstr ""
-
-#. Node: node60 / Point Hotspot: Point01 / Title
-msgid "Bandara"
-msgstr "机场"
-
-#. Node: node61 / User Data Date && Time
-#. Node: node73 / User Data Date && Time
-msgid "1/16/2021 7:12 PM"
-msgstr ""
-
-#. Node: node61 / Point Hotspot: Point01 / Title
-msgid "Area Parkir Mobil"
-msgstr "汽车停车区"
-
-#. Node: node62 / User Data Date && Time
-msgid "1/16/2021 7:19 PM"
-msgstr ""
-
-#. Node: node63 / User Data Date && Time
-msgid "1/16/2021 7:49 PM"
-msgstr ""
-
-#. Node: node63 / Point Hotspot: Point02 / Title
-#. Node: node67 / Point Hotspot: Point02 / Title
-msgid "Pelayanan Pelanggan"
-msgstr "客户服务"
-
-#. Node: node63 / Point Hotspot: Point04 / Title
-msgid "Drop Off Disabilitas"
-msgstr "无障碍下车区"
-
-#. Node: node64 / User Data Date && Time
-msgid "1/23/2019 11:18 PM"
-msgstr ""
-
-#. Node: node65 / User Data Date && Time
-msgid "1/16/2021 9:01 PM"
-msgstr ""
-
-#. Node: node65 / Point Hotspot: Point01 / Title
-#. Node: node72 / Point Hotspot: Point02 / Title
-msgid "Ruang Menyusui"
-msgstr "哺乳室"
-
-#. Node: node66 / User Data Date && Time
-msgid "1/16/2021 8:29 PM"
-msgstr ""
-
-#. Node: node66 / Point Hotspot: Point01 / Title
-msgid "Area Pengambilan Bagasi"
-msgstr "行李提取区"
-
-#. Node: node67 / User Data Date && Time
-msgid "1/16/2021 8:00 PM"
-msgstr ""
-
-#. Node: node69 / User Data Date && Time
-msgid "1/16/2021 7:52 PM"
-msgstr ""
-
-#. Node: node70 / User Data Date && Time
-msgid "1/23/2019 10:59 PM"
-msgstr ""
-
-#. Node: node71 / User Data Date && Time
-msgid "1/23/2019 11:11 PM"
-msgstr ""
-
-#. Node: node72 / User Data Date && Time
-msgid "1/23/2019 10:45 PM"
-msgstr ""
-
-#. Node: node72 / Point Hotspot: Point03 / Title
-msgid "Keberangkatan"
-msgstr "出发"
-
-#. Node: node74 / User Data Date && Time
-msgid "1/16/2021 7:02 PM"
-msgstr ""
+msgstr "2025:12:04 09:44:13"
 
 #. Context Menu Default Entry
 msgid "Enter VR"
@@ -768,12 +315,3 @@ msgstr "进入全屏"
 #. Context Menu Default Entry
 msgid "Exit Fullscreen"
 msgstr "退出全屏"
-
-#~ msgid "BandarUdaraInternasionalRadinInten"
-#~ msgstr "拉丁因登国际机场"
-
-#~ msgid "Maju Tambak Sumur"
-#~ msgstr "Maju Tambak Sumur"
-
-#~ msgid "Bandara Internasional Radin Inten II (1 Jam 30 Menit)"
-#~ msgstr "拉丁因登二号国际机场（1小时30分钟）"
