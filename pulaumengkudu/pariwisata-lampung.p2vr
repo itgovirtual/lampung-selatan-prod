@@ -4631,13 +4631,13 @@
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://lampung-selatan.govirtual.id/menarasiger/index.html#</url>
-          <skinid>hotspot-link-other</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/Menara Siger.png</customimage>
-          <urlsafecustomimage>Menara Siger-1.png</urlsafecustomimage>
+          <urlsafecustomimage>Menara Siger.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>253</height>
@@ -4660,7 +4660,7 @@
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://lampung-selatan.govirtual.id/bakauheni/index.html#</url>
-          <skinid>hotspot-link-other</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -4799,9 +4799,17 @@
       <fovmode>horizontal</fovmode>
       <translationsavailable>
         <value id="Project">id-ID</value>
+        <value id="ar.po">ar</value>
+        <value id="en.po">en</value>
+        <value id="nl.po">nl</value>
+        <value id="zh_CN.po">zh-CN</value>
       </translationsavailable>
       <translationsnames>
         <value id="Project">Indonesia</value>
+        <value id="ar.po">العربية</value>
+        <value id="en.po">English</value>
+        <value id="nl.po">Nederlands</value>
+        <value id="zh_CN.po">简体中文</value>
       </translationsnames>
       <translationsenabled>
         <value id="Project">true</value>
