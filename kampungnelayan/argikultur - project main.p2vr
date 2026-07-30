@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig version="7.1.11" rev="21010">
   <tour>
     <start>node34</start>
     <panorama>
@@ -756,12 +756,12 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>168.03</start>
+          <start>174.7</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>-4.8</start>
+          <start>-4.06</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
@@ -781,7 +781,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2026-07-29T16:08:18</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-07-30T09:34:10</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -1174,7 +1174,6 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/L_Budidaya Perikanan Air Tawar Desa Palembapang - PT. Maju Tambak Sumur_HLL.png</customimage>
-          <urlsafecustomimage>L_Budidaya Perikanan Air Tawar Desa Palembapang - PT. Maju Tambak Sumur_HLL.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>253</height>
@@ -1263,8 +1262,8 @@
             <fov>8</fov>
           </position>
           <next>
-            <pan>-179.2</pan>
-            <tilt>-3.2</tilt>
+            <pan>178.7</pan>
+            <tilt>-4.8</tilt>
             <fov>100</fov>
           </next>
           <customprops/>
@@ -1274,7 +1273,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node37}</url>
-          <target>-179.2/-3.2/100.0</target>
+          <target>178.7/-4.8/100.0</target>
           <skinid>hotspot-drone</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1417,7 +1416,7 @@
         <hotspot>
           <position>
             <pan>-15.26</pan>
-            <tilt>4.62</tilt>
+            <tilt>4.46</tilt>
             <fov>8</fov>
           </position>
           <next>
@@ -1451,8 +1450,8 @@
             <fov>8</fov>
           </position>
           <next>
-            <pan>133.5</pan>
-            <tilt>-2.2</tilt>
+            <pan>171.2</pan>
+            <tilt>-5.2</tilt>
             <fov>130</fov>
           </next>
           <customprops/>
@@ -1462,7 +1461,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node34}</url>
-          <target>133.5/-2.2/130.0</target>
+          <target>171.2/-5.2/130.0</target>
           <skinid>hotspot-drone</skinid>
           <type>point</type>
           <distance>0</distance>
