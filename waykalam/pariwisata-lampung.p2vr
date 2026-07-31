@@ -1445,6 +1445,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -2679,6 +2680,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -3519,6 +3521,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -3887,9 +3890,9 @@
             <fov>6</fov>
           </position>
           <next>
-            <pan>12.8</pan>
-            <tilt>2</tilt>
-            <fov>100</fov>
+            <pan>52.8</pan>
+            <tilt>5.4</tilt>
+            <fov>148.1</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -3898,14 +3901,14 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node153}</url>
-          <target>12.8/2.0/100.0</target>
+          <target>52.8/5.4/148.1</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -4867,7 +4870,7 @@
         <hotspot>
           <position>
             <pan>-5.83</pan>
-            <tilt>-12.1</tilt>
+            <tilt>-12.27</tilt>
             <fov>3</fov>
           </position>
           <next>
