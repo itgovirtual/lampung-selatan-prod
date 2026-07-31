@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.11" rev="21010">
+<pano2vrconfig version="7.1.12" rev="21036">
   <tour>
     <start>node34</start>
     <panorama>
@@ -394,10 +394,10 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
-          <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
+          <urlsafecustomimage>DRONE ICON_800X800PX-21-1.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>40</width>
-          <height>40</height>
+          <width>100</width>
+          <height>100</height>
         </hotspot>
         <hotspot>
           <position>
@@ -424,10 +424,10 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
-          <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
+          <urlsafecustomimage>DRONE ICON_800X800PX-21-1.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>40</width>
-          <height>40</height>
+          <width>100</width>
+          <height>100</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -501,10 +501,10 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
-          <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
+          <urlsafecustomimage>DRONE ICON_800X800PX-21-1.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>40</width>
-          <height>40</height>
+          <width>100</width>
+          <height>100</height>
         </hotspot>
         <hotspot>
           <position>
@@ -531,10 +531,10 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
-          <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
+          <urlsafecustomimage>DRONE ICON_800X800PX-21-1.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>40</width>
-          <height>40</height>
+          <width>100</width>
+          <height>100</height>
         </hotspot>
         <hotspot>
           <position>
@@ -561,7 +561,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU-1.png</urlsafecustomimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -661,10 +661,10 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
-          <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
+          <urlsafecustomimage>DRONE ICON_800X800PX-21-1.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>40</width>
-          <height>40</height>
+          <width>100</width>
+          <height>100</height>
         </hotspot>
         <hotspot>
           <position>
@@ -691,10 +691,10 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
-          <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
+          <urlsafecustomimage>DRONE ICON_800X800PX-21-1.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>40</width>
-          <height>40</height>
+          <width>100</width>
+          <height>100</height>
         </hotspot>
         <hotspot>
           <position>
@@ -820,7 +820,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
-          <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
+          <urlsafecustomimage>DRONE ICON_800X800PX-21-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -936,13 +936,13 @@
           <url>https://lampung-selatan.govirtual.id/menarasiger</url>
           <safeurl>index.html#b</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/picture-20251210T162458Z-3-001/picture/Menara Siger.png</customimage>
-          <urlsafecustomimage>Menara Siger-1.png</urlsafecustomimage>
+          <urlsafecustomimage>Menara Siger.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>253</height>
@@ -967,13 +967,13 @@
           <url>https://lampung-selatan.govirtual.id/pulausebuku</url>
           <safeurl>index.html#b</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/picture-20251210T162458Z-3-001/picture/Pulau Sebeku.png</customimage>
-          <urlsafecustomimage>Pulau Sebeku.png</urlsafecustomimage>
+          <urlsafecustomimage>Pulau Sebeku-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>253</height>
@@ -1050,7 +1050,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
-          <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
+          <urlsafecustomimage>DRONE ICON_800X800PX-21-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -1075,13 +1075,13 @@
           <url>https://lampung-selatan.govirtual.id/pulausebuku</url>
           <safeurl>index.html#b</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/picture-20251210T162458Z-3-001/picture/Pulau Sebeku.png</customimage>
-          <urlsafecustomimage>Pulau Sebeku.png</urlsafecustomimage>
+          <urlsafecustomimage>Pulau Sebeku-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>253</height>
@@ -1106,13 +1106,13 @@
           <url>https://lampung-selatan.govirtual.id/ptjuangjaya</url>
           <safeurl>index.html#b</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/picture-20251210T162458Z-3-001/picture/PT juang jaya- peternakan sapi.png</customimage>
-          <urlsafecustomimage>PT juang jaya- peternakan sapi.png</urlsafecustomimage>
+          <urlsafecustomimage>PT juang jaya- peternakan sapi-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>252</height>
@@ -1137,13 +1137,13 @@
           <url>https://lampung-selatan.govirtual.id/menarasiger</url>
           <safeurl>index.html#b</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/picture-20251210T162458Z-3-001/picture/Menara Siger.png</customimage>
-          <urlsafecustomimage>Menara Siger-1.png</urlsafecustomimage>
+          <urlsafecustomimage>Menara Siger.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>253</height>
@@ -1174,6 +1174,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/L_Budidaya Perikanan Air Tawar Desa Palembapang - PT. Maju Tambak Sumur_HLL.png</customimage>
+          <urlsafecustomimage>L_Budidaya Perikanan Air Tawar Desa Palembapang - PT. Maju Tambak Sumur_HLL.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>253</height>
@@ -1250,7 +1251,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
-          <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
+          <urlsafecustomimage>DRONE ICON_800X800PX-21-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -1280,7 +1281,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
-          <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
+          <urlsafecustomimage>DRONE ICON_800X800PX-21-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -1309,10 +1310,10 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
-          <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
-          <use3d>0</use3d>
-          <width>1</width>
-          <height>40</height>
+          <urlsafecustomimage>DRONE ICON_800X800PX-21-1.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>100</width>
+          <height>100</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -1408,7 +1409,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
-          <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
+          <urlsafecustomimage>DRONE ICON_800X800PX-21-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -1438,7 +1439,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
-          <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
+          <urlsafecustomimage>DRONE ICON_800X800PX-21-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -1468,7 +1469,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
-          <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
+          <urlsafecustomimage>DRONE ICON_800X800PX-21-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -1621,10 +1622,11 @@
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>1/18/2021 12:03 AM</datetime>
-        <tags>PTMajuTambakSumur</tags>
+        <tags>oi|PTMajuTambakSumur</tags>
         <latitude>-5.81541900</latitude>
         <altitude>-3048</altitude>
         <longitude>105.77891700</longitude>
+        <customnodeid>saluran</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1690,9 +1692,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-34.94</pan>
-            <tilt>-16.91</tilt>
-            <fov>10</fov>
+            <pan>-44.22</pan>
+            <tilt>-17.35</tilt>
+            <fov>13</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -1702,6 +1704,7 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
+          <title>Klik untuk informasi &lt;br/>Saluran Irigasi Tambak</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>hotspot_oi_polygon</skinid>
@@ -1709,11 +1712,33 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-41.62/-5.45|-33.31/-5.35|-0.55/-30.28|-75.38/-37.25</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -1723,8 +1748,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-58.96</pan>
-            <tilt>-13.02</tilt>
+            <pan>-71.33</pan>
+            <tilt>-14.66</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -1732,8 +1757,8 @@
             <rotz>0</rotz>
             <fov>30</fov>
             <stretch>100</stretch>
-            <dimx>1000</dimx>
-            <dimy>1000</dimy>
+            <dimx>400</dimx>
+            <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
           <id>Element01</id>
@@ -1753,7 +1778,8 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <permeable>0</permeable>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
+          <permeable>1</permeable>
         </sound>
       </sounds>
       <id>node39</id>
@@ -2282,10 +2308,11 @@
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>1/17/2021 11:59 PM</datetime>
-        <tags>PTMajuTambakSumur</tags>
+        <tags>oi|PTMajuTambakSumur</tags>
         <latitude>-5.81541900</latitude>
         <altitude>-3048</altitude>
         <longitude>105.77891700</longitude>
+        <customnodeid>pondok</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -2351,9 +2378,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-329.68</pan>
-            <tilt>-7.13</tilt>
-            <fov>10</fov>
+            <pan>-337.06</pan>
+            <tilt>-3.14</tilt>
+            <fov>13</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -2363,18 +2390,41 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
+          <title>Klik untuk informasi &lt;br/>Pondok Pakan</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon3</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-337.62/18.26|-311.72/13.78|-303.67/4.67|-314.37/3.57|-313.47/-15.78|-339.07/-21.46|-345.02/-15.74|-345.27/4.08|-349.02/6.42|-340.61/20.21</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -2384,8 +2434,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-1.96</pan>
-            <tilt>-3.36</tilt>
+            <pan>-1.86</pan>
+            <tilt>-3.69</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -2393,8 +2443,8 @@
             <rotz>0</rotz>
             <fov>30</fov>
             <stretch>100</stretch>
-            <dimx>1000</dimx>
-            <dimy>1000</dimy>
+            <dimx>400</dimx>
+            <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
           <id>Element03</id>
@@ -2414,7 +2464,8 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <permeable>0</permeable>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
+          <permeable>1</permeable>
         </sound>
       </sounds>
       <id>node44</id>
@@ -2441,17 +2492,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>180</start>
+          <start>-2.07</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>-18.23</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>130</start>
+          <start>117.69</start>
           <minunit>pixels</minunit>
           <max>140</max>
           <maxfovstereographic>330</maxfovstereographic>
@@ -2466,12 +2517,13 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>rectilinear</flyinprojection>
+        <defaultviewtimestamp>2026-07-31T13:59:39</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
         <capturedatetime>2019-01-25T03:45:29</capturedatetime>
         <datetime>1/25/2019 3:45 AM</datetime>
-        <tags>PTMajuTambakSumur</tags>
+        <tags>oi|PTMajuTambakSumur</tags>
         <latitude>-5.81541900</latitude>
         <altitude>-3048</altitude>
         <longitude>105.77891700</longitude>
@@ -2541,9 +2593,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-351.72</pan>
-            <tilt>-17.24</tilt>
-            <fov>10</fov>
+            <pan>-359.3</pan>
+            <tilt>-16.13</tilt>
+            <fov>13</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -2553,18 +2605,41 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
+          <title>Klik untuk informasi &lt;br/>Kincir Air</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon2</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-355.95/-1.67|-343.83/-1.49|-338.94/-17.23|-339.16/-25.1|-353.14/-30.14|-5.51/-29.15|-2.9/-10.43|-1.8/-8.83|-359.78/-6.97</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -2574,8 +2649,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-17.54</pan>
-            <tilt>-11.84</tilt>
+            <pan>-23.9</pan>
+            <tilt>-14.41</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -2583,8 +2658,8 @@
             <rotz>0</rotz>
             <fov>30</fov>
             <stretch>100</stretch>
-            <dimx>1000</dimx>
-            <dimy>1000</dimy>
+            <dimx>400</dimx>
+            <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
           <id>Element02</id>
@@ -2604,7 +2679,8 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <permeable>0</permeable>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
+          <permeable>1</permeable>
         </sound>
       </sounds>
       <id>node45</id>
@@ -2791,7 +2867,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/output/lampung/kampungnelayan/index.html</filename>
+          <filename>D:/xampp/htdocs/lampung-output/kampungnelayanketapang/index.html</filename>
           <values>
             <value id="cachebust">false</value>
             <value id="css"/>
@@ -2825,7 +2901,7 @@
           <toggleskinbutton>1</toggleskinbutton>
         </webvr>
         <tilesize>3000</tilesize>
-        <filename>C:/xampp/htdocs/output/lampung/kampungnelayan/pano.xml</filename>
+        <filename>D:/xampp/htdocs/lampung-output/kampungnelayanketapang/pano.xml</filename>
         <leveltileformat>1</leveltileformat>
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
         <cubefilename>images/$n_o.webp</cubefilename>

@@ -1,4 +1,3 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -13,79 +12,197 @@ msgstr ""
 "X-Source-Language: id\n"
 "X-Generator: Poedit 3.8\n"
 
+#. Skin Variable: VB / Initial Value
+msgid "start"
+msgstr "start"
+
+#. Skin Variable: link / Initial Value
+msgid "kampungnelayanketapang"
+msgstr "kampungnelayanketapang-nl"
+
+#. Skin Variable: lokasi / Initial Value
+msgid "PT Maju Tambak Sumur"
+msgstr "Maju Tambak Sumur Bedrijf-nl"
+
+#. Skin Variable: lokasi2 / Initial Value
+#, fuzzy
+#| msgid "Budidaya Perikanan <br> Air Tawar"
+msgid "Budidaya Perikanan<br>Air Tawar"
+msgstr "Viskweek <br> Zoetwater-nl"
+
+#. Skin Element Text: Assistant Text / Text
+msgid "More\n"
+msgstr "Meer\n"
+
+#. Skin Element Text: Back umum / Text
+msgid "Back"
+msgstr "Terug"
+
+#. Skin Element: Backdrop Opening / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Berhenti / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Berhenti Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: No / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: No Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Skip Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: close-button-welcome / Set Variable Value Action (Variable Name: VB) / Text
+msgid "skip"
+msgstr "skip"
+
+#. Skin Element External: Closing vd / URL
+msgid "assets/closing.png"
+msgstr "assets/closing.png"
+
+#. Skin Element Text: Desc 2 / Text
+#. Skin Element Text: Desc 2 Mobile / Text
+msgid "Pilihan fitur untuk memilih lokasi lain yang ingin anda pandu oleh kami"
+msgstr "Functieoptie om een andere locatie te kiezen waar u door ons rondgeleid wilt worden"
+
+#. Skin Element Text: Desc 3 / Text
+#. Skin Element Text: Desc Mobile / Text
+msgid ""
+"Pilihan fitur untuk berhenti memakai pemandu tour dan kembali menjelajah "
+"dengan bebas"
+msgstr ""
+"Functieoptie om te stoppen met de gids en weer vrij te gaan verkennen"
+
+#. Skin Element Text: Enable Audio? / Text
+msgid "Enable Audio?"
+msgstr "Audio inschakelen?"
+
+#. Skin Element Text: Informasi-text / Text
+#, fuzzy
+#| msgid "Informasi"
+msgid "Informasi\n"
+msgstr "Informatie\n"
+
+#. Skin Element Text: Jelajah-text / Text
+#. Skin Element Text: Text Discover / Text
+#, fuzzy
+#| msgid "Jelajahi"
+msgid "Jelajah"
+msgstr "Ontdekken"
+
+#. Skin Element Text: Menu Tezt / Text
+#. Skin Element Text: Text Menu / Text
+msgid "Menu"
+msgstr "Menu"
+
+#. Skin Element Text: NO / Text
+msgid "NO"
+msgstr "NEE"
+
+#. Skin Element Text: Next umum / Text
+msgid "Next"
+msgstr "Volgende"
+
+#. Skin Element Text: No / Text
+#. Skin Element Text: No Mobile / Text
+msgid "Explore Virtual Tour"
+msgstr "Virtuele tour verkennen"
+
+#. Skin Element Text: Shop-text / Text
+msgid "Shop"
+msgstr "Winkel"
+
+#. Skin Element Text: Skip Mobile / Text
+#. Skin Element Button: skip-button_1 / Alternate Text
+msgid "Skip"
+msgstr "Overslaan"
+
+#. Skin Element Text: Start / Text
+#. Skin Element Text: Start Mobile / Text
+msgid "Start Virtual Buddy"
+msgstr "Start virtuele gids"
+
+#. Skin Element: Start / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Start Mobile / Set Variable Value Action (Variable Name: VB) / Text
+msgid "show"
+msgstr "show"
+
+#. Skin Element Text: Text 1 / Text
+#. Skin Element Text: Text 1_1 / Text
+msgid ""
+"Selamat datang! Saya akan menjadi pemandu virtual Anda di sini. Kita akan "
+"melihat setiap sudut lokasi ini untuk menemukan berbagai informasi serta "
+"detail menarik di setiap area yang Anda kunjungi."
+msgstr ""
+"Welkom! Ik zal hier uw virtuele gids zijn. We bekijken elke hoek van deze "
+"locatie om diverse informatie en interessante details te ontdekken in elk "
+"gebied dat u bezoekt."
+
 #. Skin Element Text: Text 2 / Text
 msgid "X"
-msgstr ""
+msgstr "X"
 
-#. Skin Element Button: ar-active / Alternate Text
-#. Skin Element Button: ar-flag / Alternate Text
-#. Skin Element Button: cn-active / Alternate Text
-#. Skin Element Button: cn-flag / Alternate Text
-#. Skin Element Button: en-active / Alternate Text
-#. Skin Element Button: en-flag / Alternate Text
-#. Skin Element Button: id-active / Alternate Text
-#. Skin Element Button: id-flag / Alternate Text
-#. Skin Element Button: nld-active / Alternate Text
-#. Skin Element Button: nld-flag / Alternate Text
-msgid "Indonesia"
-msgstr ""
+#. Skin Element Text: Text Info / Text
+msgid "Informasi"
+msgstr "Informatie"
 
-#. Skin Element: button-category / Set Value Action (Target Element: popup_url) / Text
-#, fuzzy
-#| msgid ""
-#| "<iframe id=\"url_iframe\"\n"
-#| "    src=\"https://lampung-selatan.govirtual.id/webview/kategori-id.html\"\n"
-#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-#| "pointer-events:auto; opacity:1;\"\n"
-#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#| "  </iframe>"
+#. Skin Element Text: Text Public / Text
+msgid "Layanan Publik"
+msgstr "Openbare dienst"
+
+#. Skin Element Text: Title 2 / Text
+#. Skin Element Text: Title 2 Mobile / Text
+msgid "Tour Selanjutnya"
+msgstr "Volgende tour"
+
+#. Skin Element Text: Title 3 / Text
+#. Skin Element Text: Title 3 Mobile / Text
+msgid "Tour Mandiri"
+msgstr "Zelfstandige tour"
+
+#. Skin Element External: Vidy / URL
+#. Skin Element External: Vidy Mobile / URL
+msgid "assets/avatar-cepet.png"
+msgstr "assets/avatar-cepet.png"
+
+#. Skin Element Text: YES / Text
+msgid "YES"
+msgstr "JA"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-discover) / Text
 msgid ""
-"<iframe id=\"url_iframe\"\n"
-"    src=\"../webview/kategori-id.html\"\n"
-"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-"pointer-events:auto; opacity:1;\"\n"
-"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-"  </iframe>"
+"<iframe src=\"../webview/discover.html?disc=%1&lang=id\" width=\"100%\" ; "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
 msgstr ""
-"<iframe id=\"url_iframe\"\n"
-"    src=\"https://lampung-selatan.govirtual.id/webview/kategori-nl.html\"\n"
-"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-"pointer-events:auto; opacity:1;\"\n"
-"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-"  </iframe>"
+"<iframe src=\"../webview/discover-nl.html?disc=%1\" width=\"100%\" ; "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
 
-#. Skin Element: discover Budidaya Perikanan Air / Set Value Action (Target Element: popup_url-tambak-sumur) / Text
-#. Skin Element: discover PT Maju Tambak Sumur / Set Value Action (Target Element: popup_url-tambak-sumur) / Text
-#, fuzzy
-#| msgid ""
-#| "<iframe id=\"url_iframe\"\n"
-#| "    src=\"https://lampung-selatan.govirtual.id/webview/discover.html?"
-#| "disc=14&lang=id\"\n"
-#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-#| "pointer-events:auto; opacity:1;\"\n"
-#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#| "  </iframe>"
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-informasi) / Text
 msgid ""
-"<iframe id=\"url_iframe\"\n"
-"    src=\"../webview/discover.html?disc=14&lang=id\"\n"
-"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-"pointer-events:auto; opacity:1;\"\n"
-"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-"  </iframe>"
+"<iframe src=\"../webview/informasi.html?info=%1&amp;lang=id\" width=\"100%"
+"\" ;=\"\" style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
 msgstr ""
-"<iframe id=\"url_iframe\"\n"
-"    src=\"https://lampung-selatan.govirtual.id/webview/discover.html?"
-"disc=14&lang=nl\"\n"
-"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-"pointer-events:auto; opacity:1;\"\n"
-"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-"  </iframe>"
+"<iframe src=\"../webview/informasi-nl.html?info=%1\" width=\"100%\" ;=\"\" "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url) / Text
+msgid ""
+"<iframe src=\"../webview/kategori-id.html\" width=\"100%\" ;=\"\" "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/kategori-nl.html\" width=\"100%\" ;=\"\" "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-menu) / Text
+msgid ""
+"<iframe src=\"../webview/menu.html\" width=\"100%\" ;=\"\" style=\"height: "
+"100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/menu-nl.html\" width=\"100%\" ;=\"\" style=\"height: "
+"100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
 
 #. Skin Element External: ht_node_custom_image / URL
-#. Skin Element External: ht_node_custom_image_1 / URL
-#. Skin Element External: ht_node_custom_image_2 / URL
+#. Skin Element External: ht_url_custom_image / URL
 msgid "_custom"
-msgstr ""
+msgstr "_custom"
 
 #. Skin Element Text: popup-chatbot / Text
 msgid ""
@@ -96,228 +213,45 @@ msgid ""
 "    frameborder=\"0\"\n"
 "></iframe>"
 msgstr ""
+"  <iframe\n"
+"    src=\"https://www.chatbase.co/chatbot-iframe/ld0-XDhWz-2tI29Pd2JeU\"\n"
+"    width=\"100%\"\n"
+"    style=\"height: 100%; min-height: 100%;\"\n"
+"    frameborder=\"0\"\n"
+"></iframe>"
 
-#. Skin Element: public-service Budidaya Perikanan Air / Set Value Action (Target Element: popup_url-informasi-Budidaya Perikanan) / Text
-#. Skin Element: public-service PT Maju Tambak Sumur / Set Value Action (Target Element: popup_url-informasi-PT Maju Tambak Sumur) / Text
-#, fuzzy
-#| msgid ""
-#| "<iframe id=\"url_iframe\"\n"
-#| "    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
-#| "info=62&lang=id\"\n"
-#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-#| "pointer-events:auto; opacity:1;\"\n"
-#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#| "  </iframe>"
-msgid ""
-"<iframe id=\"url_iframe\"\n"
-"    src=\"../webview/informasi.html?info=62&lang=id\"\n"
-"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-"pointer-events:auto; opacity:1;\"\n"
-"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-"  </iframe>"
-msgstr ""
-"<iframe id=\"url_iframe\"\n"
-"    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
-"info=62&lang=nl\"\n"
-"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-"pointer-events:auto; opacity:1;\"\n"
-"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-"  </iframe>"
+#. Skin Element Text: text 2 / Text
+#. Skin Element Text: text 2 Mobile / Text
+msgid "Next Journey"
+msgstr "Volgende reis"
 
-#. Skin Element: public-service juang jaya / Set Value Action (Target Element: popup_url-informasi-peternakan juang jaya) / Text
-#, fuzzy
-#| msgid ""
-#| "<iframe id=\"url_iframe\"\n"
-#| "    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
-#| "info=9&lang=id\"\n"
-#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-#| "pointer-events:auto; opacity:1;\"\n"
-#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#| "  </iframe>"
-msgid ""
-"<iframe id=\"url_iframe\"\n"
-"    src=\"../webview/informasi.html?info=9&lang=id\"\n"
-"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-"pointer-events:auto; opacity:1;\"\n"
-"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-"  </iframe>"
-msgstr ""
-"<iframe id=\"url_iframe\"\n"
-"    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
-"info=9&lang=nl\"\n"
-"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-"pointer-events:auto; opacity:1;\"\n"
-"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-"  </iframe>"
+#. Skin Element Text: text 3 / Text
+#. Skin Element Text: text 3 Mobile / Text
+msgid "Berhenti"
+msgstr "Stoppen"
 
-#. Skin Element: public-service pertanian / Set Value Action (Target Element: popup_url-informasi-pertanian trimomukti) / Text
-#, fuzzy
-#| msgid ""
-#| "<iframe id=\"url_iframe\"\n"
-#| "    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
-#| "info=11&lang=id\"\n"
-#| "    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-#| "pointer-events:auto; opacity:1;\"\n"
-#| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#| "  </iframe>"
-msgid ""
-"<iframe id=\"url_iframe\"\n"
-"    src=\"../webview/informasi.html?info=11&lang=id\"\n"
-"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-"pointer-events:auto; opacity:1;\"\n"
-"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-"  </iframe>"
-msgstr ""
-"<iframe id=\"url_iframe\"\n"
-"    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
-"info=11&lang=nl\"\n"
-"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-"pointer-events:auto; opacity:1;\"\n"
-"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-"  </iframe>"
+#. Skin Element Text: txt-chatbot / Text
+#. Skin Element Text: txt-chatbot-mobile / Text
+msgid "Chatbot"
+msgstr "Chatbot"
 
-#. Skin Element Button: skip -  pertanian / Alternate Text
-#. Skin Element Button: skip - PT Maju Tambak Sumur / Alternate Text
-#. Skin Element Button: skip -gunung juang jaya / Alternate Text
-msgid "Skip"
-msgstr "Overslaan"
-
-#. Skin Element Text: title-Budidaya Perikanan air-txt / Text
-msgid "Budidaya Perikanan <br> Air Tawar"
-msgstr "Viskweek <br> Zoetwater"
-
-#. Skin Element Text: title-Budidaya Perikanan air-txt / Logic Block Text
-msgid "Budidaya <br> Perikanan <br> Air Tawar"
-msgstr "Kweek <br> Visserij <br> Zoetwater"
-
-#. Skin Element Text: title-PT Maju Tambak Sumur-txt / Text
-msgid "PT Maju Tambak Sumur"
-msgstr "Maju Tambak Sumur Bedrijf"
-
-#. Skin Element Text: title-PT Maju Tambak Sumur-txt / Logic Block Text
-msgid "PT Maju <br> Tambak <br> Sumur"
-msgstr "Maju <br> Tambak <br> Sumur Bedrijf"
-
-#. Skin Element Text: title-pertanian-txt / Text
-msgid "Trimomukti Pertanian"
-msgstr "Trimomukti Landbouw"
-
-#. Skin Element Text: title-pertanian-txt / Logic Block Text
-msgid "Trimomukti <br> Pertanian"
-msgstr "Trimomukti <br> Landbouw"
-
-#. Skin Element Text: title-peternakan-txt / Text
-msgid "PT Juang Jaya Peternakan"
-msgstr "Juang Jaya Veeteeltbedrijf"
-
-#. Skin Element Text: title-peternakan-txt / Logic Block Text
-msgid "PT Juang <br> Jaya <br> Peternakan"
-msgstr "Juang <br> Jaya <br> Veeteeltbedrijf"
-
-#. Skin Element Text: txt- Kampung Nelayan Ketapang / Text
+#. Skin Element Text: txt-welcome / Text
 msgid ""
 "Selamat datang di Kampung Nelayan Ketapang, pusat kehidupan maritim yang "
 "ramai dan otentik di Kabupaten Lampung Selatan. Desa ini menjadi saksi "
-"aktivitas melaut sehari-hari, di mana perahu-perahu tradisional berjejer rapi "
-"menghadap perairan Selat Sunda. Ketapang terkenal sebagai tempat pelelangan "
-"ikan (TPI) yang menyediakan hasil laut segar terbaik. Pengunjung dapat "
-"merasakan suasana pasar yang dinamis, berinteraksi dengan nelayan lokal, dan "
-"membeli tangkapan segar untuk dibawa pulang. Nikmati pesona budaya bahari "
-"sambil mendukung keberlanjutan mata masyarakat pesisir."
+"aktivitas melaut sehari-hari, di mana perahu-perahu tradisional berjejer "
+"rapi menghadap perairan Selat Sunda. Ketapang terkenal sebagai tempat "
+"pelelangan ikan (TPI) yang menyediakan hasil laut segar terbaik. Pengunjung "
+"dapat merasakan suasana pasar yang dinamis, berinteraksi dengan nelayan "
+"lokal, dan membeli tangkapan segar untuk dibawa pulang. Nikmati pesona "
+"budaya bahari sambil mendukung keberlanjutan mata masyarakat pesisir."
 msgstr ""
 "Welkom in het vissersdorp Ketapang, een bruisend en authentiek centrum van "
-"het maritieme leven in het regentschap Zuid-Lampung. Dit dorp is getuige van "
-"dagelijkse visserijactiviteiten, waar traditionele boten netjes in een rij "
+"het maritieme leven in het regentschap Zuid-Lampung-nl. Dit dorp is getuige "
+"van dagelijkse visserijactiviteiten, waar traditionele boten netjes in een rij "
 "liggen met uitzicht op het water van de Straat Soenda. Ketapang staat bekend "
 "als een visveiling (TPI) die de beste verse vis biedt. Bezoekers kunnen de "
 "dynamische marktsfeer ervaren, in contact komen met lokale vissers en verse "
 "vangsten kopen om mee naar huis te nemen. Geniet van de charme van de "
 "maritieme cultuur en draag tegelijkertijd bij aan de duurzaamheid van "
-"kustgemeenschappen."
-
-#. Skin Element Text: txt- pertanian trimomukti / Text
-msgid ""
-"Selamat datang di Kawasan Pertanian Trimomukti, pusat inovasi smart farming "
-"di Lampung Selatan Kawasan seluas 1.019 hektare di Desa Trimomukti, Kecamatan "
-"Candipuro, ini menjadi pilot project pertanian modern berbasis teknologi dari "
-"Kementerian Pertanian. Saksikan transformasi lahan menjadi zona produksi padi "
-"dan jagung berkelanjutan, lengkap dengan irigasi canggik, jalan usaha tani, "
-"dan listrik pendukung. Cocok untuk edukasi keluarga, pelajar, atau pecinta "
-"agribisnis. Nikmati tur demonstrasi, workshop petani,  dan pemandangan hijau "
-"subur. Dukung ketahanan pangan nasik dengan kunjungan Anda, rasakan sinergi "
-"alam dan teknologi di jantung Lampung!"
-msgstr ""
-"Welkom bij het landbouwgebied Trimomukti, een centrum voor slimme "
-"landbouwinnovatie in Zuid-Lampung. Dit gebied van 1019 hectare in het dorp "
-"Trimomukti, district Candipuro, is een pilotproject voor moderne, op "
-"technologie gebaseerde landbouw van het Ministerie van Landbouw. ​​Wees getuige "
-"van de transformatie van land tot een duurzame rijst- en maïsproductiezone, "
-"compleet met geavanceerde irrigatie, landwegen en ondersteunende "
-"elektriciteit. Geschikt voor gezinnen, studenten en liefhebbers van de "
-"agribusiness. Geniet van demonstraties, boerenworkshops en het weelderige "
-"groene landschap. Draag bij aan de voedselzekerheid van rijst met uw bezoek "
-"en ervaar de synergie van natuur en technologie in het hart van Lampung!"
-
-#. Skin Element Text: txt- peternakan juang jaya / Text
-msgid ""
-"Selamat datang di Perternakan Juang Jaya, pusat peternakan sapi modern di "
-"Lampung Selatan!proses penggemukan sapi yang inovatif dan pelajari kontribusi "
-"kami untuk ketahanan pangan nasional. Berlokasi di Sidomulyo, hanya 1 jam "
-"dari Bandar Lampung, destinasi ini menawarkan tur edukatif untuk keluarga dan "
-"pelajar. Dengan fasilitas modern dan pelayanan ramah, nikmati pengalaman "
-"belajar tentang peternakan berkelanjutan. Cocok untuk yang ingin tahu lebih "
-"dalam tentang industri peternakan, Perternakan Juang Jaya siap memberikan "
-"wawasan baru. Ayo, jelajahi dunia peternakan dan dukung produk lokal bersama "
-"kami!"
-msgstr ""
-"Welkom bij Juang Jaya Farm, een modern centrum voor veehouderij in Zuid-"
-"Lampung! Ontdek ons ​​innovatieve proces voor het mesten van runderen en leer "
-"over onze bijdrage aan de nationale voedselzekerheid. Gelegen in Sidomulyo, "
-"op slechts een uur rijden van Bandar Lampung, biedt deze bestemming "
-"educatieve rondleidingen voor gezinnen en studenten. Met moderne faciliteiten "
-"en vriendelijke service kunt u genieten van een leerzame ervaring over "
-"duurzame landbouw. ​​Perfect voor iedereen die nieuwsgierig is naar de "
-"veehouderijsector: Juang Jaya Farm biedt u graag nieuwe inzichten. Kom de "
-"wereld van vee ontdekken en steun samen met ons lokale producten!"
-
-#. Skin Element Text: txt-category / Text
-msgid "KATEGORI"
-msgstr "CATEGORIE"
-
-#. Skin Element Text: txt-chatbot / Text
-msgid "Chatbot"
-msgstr "Chatbot"
-
-#. Skin Element Text: txt-discover Budidaya Perikanan Air / Text
-#. Skin Element Text: txt-discover PT Maju Tambak Sumur / Text
-msgid "Jelajahi"
-msgstr "Ontdekken"
-
-#. Skin Element Text: txt-discover juang jaya / Text
-#. Skin Element Text: txt-information pertanian / Text
-#. Skin Element Text: txt-menu Budidaya Perikanan Air / Text
-#. Skin Element Text: txt-menu PT Maju Tambak Sumur / Text
-msgid "Berita"
-msgstr "Nieuws"
-
-#. Skin Element Text: txt-discover pertanian / Text
-msgid "Sejarah"
-msgstr "Geschiedenis"
-
-#. Skin Element Text: txt-gallery Budidaya Perikanan Air / Text
-#. Skin Element Text: txt-gallery PT Maju Tambak Sumur / Text
-#. Skin Element Text: txt-gallery juang jaya / Text
-#. Skin Element Text: txt-gallery pertanian / Text
-msgid "Informasi"
-msgstr "Informatie"
-
-#. Skin Element Text: txt-information Budidaya Perikanan Air / Text
-#. Skin Element Text: txt-information PT Maju Tambak Sumur / Text
-#. Skin Element Text: txt-menu juang jaya / Text
-#. Skin Element Text: txt-menu pertanian / Text
-msgid "Tentang Kami"
-msgstr "Over ons"
-
-#. Skin Element Text: txt-information juang jaya / Text
-msgid "Fasilitas"
-msgstr "Faciliteit"
+"kustgemeenschappen-nl!"
