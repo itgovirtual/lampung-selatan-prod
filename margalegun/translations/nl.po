@@ -13,122 +13,20 @@ msgstr ""
 "X-Source-Language: id-ID\n"
 "X-Generator: Poedit 3.8\n"
 
-#. Node: node8 / User Data Author
-msgid "Govirtual"
-msgstr ""
-
-#. Node: node8 / User Data Date && Time
-msgid "2025:12:03 11:26:23"
-msgstr ""
-
-#. Node: node8 / User Data Copyright
-#. Node: node2 / User Data Copyright
-#. Node: node4 / User Data Copyright
-#. Node: node5 / User Data Copyright
-#. Node: node6 / User Data Copyright
-#. Node: node7 / User Data Copyright
-msgid "govirtual"
-msgstr ""
-
-#. Node: node8 / User Data Custom Node ID
-msgid "KeratuanDarahPutih"
-msgstr "KeratuanDarahPutih"
-
-#. Node: node8 / Point Hotspot: Point01 / Title
-#. Node: node2 / Point Hotspot: Point01 / Title
-msgid "Pintu Masuk"
-msgstr "Ingang"
-
-#. Node: node8 / Point Hotspot: Point02 / Title
-msgid "360 Video Experience Tarian Tradisional"
-msgstr "360-video-ervaring van traditionele dans"
-
-#. Node: node2 / User Data Date && Time
-msgid "2025:12:03 11:26:14"
-msgstr ""
-
-#. Node: node3 / Point Hotspot: Point01 / Title
-msgid "Lamban Balak Keratuan Darah Putih"
-msgstr "Lamban Balak Keratuan Darah Putih"
-
-#. Node: node3 / Point Hotspot: Point02 / Title
-msgid "Masjid Agung Kalianda (Est. 15 Menit)"
-msgstr "Grote Moskee van Kalianda (ca. 15 minuten)"
-
-#. Node: node3 / Point Hotspot: Point02 / URL
-msgid ""
-"https://lampung-selatan.govirtual.id/religion/"
-"index.html#MasjidAgungKalianda"
-msgstr ""
-
-#. Node: node3 / Point Hotspot: Point03 / Title
-msgid "Menara Siger (Est. 30 Menit)"
-msgstr "Siger Toren (ca. 30 minuten)"
-
-#. Node: node3 / Point Hotspot: Point03 / URL
-#. Node: node9 / Point Hotspot: Point04 / URL
-msgid ""
-"https://lampung-selatan.govirtual.id/infrastructure/"
-"index.html#MenaraSiger"
-msgstr ""
-
-#. Node: node3 / Point Hotspot: Point04 / Title
-msgid "PT Juang Jaya (Est. 1 Jam)"
-msgstr "PT Juang Jaya (ca. 1 uur)"
-
-#. Node: node3 / Point Hotspot: Point04 / URL
-#. Node: node9 / Point Hotspot: Point05 / URL
-msgid ""
-"https://lampung-selatan.govirtual.id/agriculture/"
-"index.html#PeternakanJuangJaya"
-msgstr ""
-
-#. Node: node4 / User Data Date && Time
-msgid "2025:12:03 11:25:13"
-msgstr ""
-
-#. Node: node4 / Point Hotspot: Point01 / Title
-#. Node: node5 / Point Hotspot: Point01 / Title
-#. Node: node7 / Point Hotspot: Point02 / Title
-msgid "Silsilah Keturunan"
-msgstr "Stamboom"
-
-#. Node: node5 / User Data Date && Time
-msgid "2025:12:03 11:26:26"
-msgstr ""
-
-#. Node: node5 / Point Hotspot: Point02 / Title
-msgid "Pakaian Adat"
-msgstr "Traditionele kleding"
-
-#. Node: node6 / User Data Date && Time
-msgid "2025:12:03 11:24:41"
-msgstr ""
-
-#. Node: node6 / Point Hotspot: Point01 / Title
-#. Node: node7 / Point Hotspot: Point03 / Title
-msgid "Kerajinan Topeng"
-msgstr "Maskerambacht"
-
-#. Node: node6 / Point Hotspot: Point02 / Title
-msgid "Dekorasi Adat"
-msgstr "Traditionele decoratie"
-
-#. Node: node6 / Point Hotspot: Point03 / Title
-msgid "Area Belakang"
-msgstr "Achtergebied"
-
-#. Node: node7 / User Data Date && Time
-msgid "2025:12:03 11:24:36"
-msgstr ""
-
-#. Node: node7 / Point Hotspot: Point01 / Title
-msgid "Pintu Keluar"
-msgstr "Uitgang"
-
 #. Node: node9 / User Data Date && Time
 msgid "2025:12:06 12:38:09"
-msgstr ""
+msgstr "2025:12:06 12:38:09"
+
+#. Node: node9 / User Data Custom Node ID
+msgid "atap"
+msgstr "atap"
+
+#. Node: node9 / Pinned Web Element: Element02 / Code
+#. Node: node13 / Pinned Web Element: Element11 / Code
+#. Node: node17 / Pinned Web Element: Element03 / Code
+#. Node: node21 / Pinned Web Element: Element09 / Code
+msgid "<div id=\"Element02\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr "<div id=\"Element02\" style=\"width: 100%; height: 100%;\"></div>"
 
 #. Node: node9 / Point Hotspot: Point01 / Title
 #. Node: node10 / Point Hotspot: Point01 / Title
@@ -136,9 +34,9 @@ msgstr ""
 #. Node: node11 / Point Hotspot: Point01 / Title
 #. Node: node12 / Point Hotspot: Point01 / Title
 #. Node: node14 / Point Hotspot: Point01 / Title
-#. Node: node15 / Point Hotspot: Point01 / Title
 #. Node: node20 / Point Hotspot: Point01 / Title
 #. Node: node25 / Point Hotspot: Point01 / Title
+#. Node: node26 / Point Hotspot: Point01 / Title
 msgid "Lamban Balak Marga Legun"
 msgstr "Lamban Balak Marga Legun"
 
@@ -163,29 +61,47 @@ msgid "Pelabuhan Bakauheni (Est. 50 Menit)"
 msgstr "Haven van Bakauheni (ca. 50 minuten)"
 
 #. Node: node9 / Point Hotspot: Point03 / URL
-msgid ""
-"https://lampung-selatan.govirtual.id/infrastructure/"
-"index.html#Bakauheni"
-msgstr ""
+msgid "https://lampung-selatan.govirtual.id/bakauheni"
+msgstr "https://lampung-selatan.govirtual.id/bakauheni"
 
 #. Node: node9 / Point Hotspot: Point04 / Title
 msgid "Menara Siger (Est. 50 Menit)"
 msgstr "Siger Toren (ca. 50 minuten)"
 
+#. Node: node9 / Point Hotspot: Point04 / URL
+msgid "https://lampung-selatan.govirtual.id/menarasiger"
+msgstr "https://lampung-selatan.govirtual.id/menarasiger"
+
 #. Node: node9 / Point Hotspot: Point05 / Title
 msgid "Peternakan Juang Jaya (Est. 50 Menit)"
 msgstr "Juang Jaya Boerderij (ca. 50 minuten)"
 
+#. Node: node9 / Point Hotspot: Point05 / URL
+msgid "https://lampung-selatan.govirtual.id/ptjuangjaya"
+msgstr "https://lampung-selatan.govirtual.id/ptjuangjaya"
+
 #. Node: node9 / Point Hotspot: Point06 / Title
 msgid "Bandara Internasional Radin Inten II (Est. 50 Menit)"
-msgstr ""
-"Internationale Luchthaven Radin Inten II (ca. 50 minuten)"
+msgstr "Internationale Luchthaven Radin Inten II (ca. 50 minuten)"
 
 #. Node: node9 / Point Hotspot: Point06 / URL
-msgid ""
-"https://lampung-selatan.govirtual.id/infrastructure/"
-"index.html#BandarUdara"
-msgstr ""
+msgid "https://lampung-selatan.govirtual.id/bandarudara"
+msgstr "https://lampung-selatan.govirtual.id/bandarudara"
+
+#. Node: node9 / Point Hotspot: Point07 / Title
+msgid "Klik untuk informasi <br/>Atap"
+msgstr "Klik voor informatie <br/>over het Dak"
+
+#. Node: node9 / Poly Hotspot: Poly01 / URL
+#. Node: node13 / Poly Hotspot: Poly02 / URL
+#. Node: node17 / Poly Hotspot: Poly02 / URL
+#. Node: node21 / Poly Hotspot: Poly01 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element02');"
+msgstr "javascript:TourEngine.bukaOtomatis('Element02');"
+
+#. Node: node10 / User Data Custom Node ID
+msgid "lambanbalak"
+msgstr "lambanbalak"
 
 #. Node: node10 / Point Hotspot: Point02 / Title
 msgid "Lapangan"
@@ -199,15 +115,41 @@ msgstr "Traditioneel huis"
 
 #. Node: node11 / User Data Date && Time
 msgid "1/22/2021 4:47 PM"
-msgstr ""
+msgstr "1/22/2021 4:47 PM"
 
 #. Node: node12 / User Data Date && Time
 msgid "1/22/2021 4:06 PM"
-msgstr ""
+msgstr "1/22/2021 4:06 PM"
 
 #. Node: node13 / User Data Date && Time
 msgid "1/22/2021 5:07 PM"
-msgstr ""
+msgstr "1/22/2021 5:07 PM"
+
+#. Node: node13 / User Data Custom Node ID
+msgid "tokoh"
+msgstr "tokoh"
+
+#. Node: node13 / Pinned Web Element: Element08 / Code
+#. Node: node17 / Pinned Web Element: Element04 / Code
+#. Node: node18 / Pinned Web Element: Element05 / Code
+#. Node: node20 / Pinned Web Element: Element01 / Code
+#. Node: node23 / Pinned Web Element: Element14 / Code
+#. Node: node26 / Pinned Web Element: Element01 / Code
+msgid "<div id=\"Element01\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr "<div id=\"Element01\" style=\"width: 100%; height: 100%;\"></div>"
+
+#. Node: node13 / Pinned Web Element: Element10 / Code
+#. Node: node17 / Pinned Web Element: Element06 / Code
+msgid "<div id=\"Element03\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr "<div id=\"Element03\" style=\"width: 100%; height: 100%;\"></div>"
+
+#. Node: node13 / Pinned Web Element: Element12 / Code
+msgid "<div id=\"Element05\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr "<div id=\"Element05\" style=\"width: 100%; height: 100%;\"></div>"
+
+#. Node: node13 / Pinned Web Element: Element13 / Code
+msgid "<div id=\"Element04\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr "<div id=\"Element04\" style=\"width: 100%; height: 100%;\"></div>"
 
 #. Node: node13 / Point Hotspot: Point03 / Title
 #. Node: node14 / Point Hotspot: Point04 / Title
@@ -216,24 +158,121 @@ msgstr ""
 msgid "Keluar"
 msgstr "Verlaten"
 
+#. Node: node13 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Tokoh"
+msgstr "Klik voor informatie <br/>over Figuren"
+
+#. Node: node13 / Point Hotspot: Point05 / Title
+msgid "Klik untuk informasi <br/>Genta"
+msgstr "Klik voor informatie <br/>over Genta"
+
+#. Node: node13 / Point Hotspot: Point06 / Title
+msgid "Klik untuk informasi <br/>Alat Pemintal Benang"
+msgstr "Klik voor informatie <br/>over het Spingereedschap"
+
+#. Node: node13 / Point Hotspot: Point07 / Title
+msgid "Klik untuk informasi <br/>Setrika Arang"
+msgstr "Klik voor informatie <br/>over het Houtskoolstrijkijzer"
+
+#. Node: node13 / Point Hotspot: Point08 / Title
+msgid "Klik untuk informasi <br/>Lunjak"
+msgstr "Klik voor informatie <br/>over Lunjak"
+
+#. Node: node13 / Poly Hotspot: Poly01 / URL
+#. Node: node17 / Poly Hotspot: Poly01 / URL
+#. Node: node18 / Poly Hotspot: Poly01 / URL
+#. Node: node20 / Poly Hotspot: Poly01 / URL
+#. Node: node23 / Poly Hotspot: Poly01 / URL
+#. Node: node26 / Poly Hotspot: Poly01 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element01');"
+msgstr "javascript:TourEngine.bukaOtomatis('Element01');"
+
+#. Node: node13 / Poly Hotspot: Poly03 / URL
+#. Node: node17 / Poly Hotspot: Poly03 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element03');"
+msgstr "javascript:TourEngine.bukaOtomatis('Element03');"
+
+#. Node: node13 / Poly Hotspot: Poly04 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element04');"
+msgstr "javascript:TourEngine.bukaOtomatis('Element04');"
+
+#. Node: node13 / Poly Hotspot: Poly05 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element05');"
+msgstr "javascript:TourEngine.bukaOtomatis('Element05');"
+
 #. Node: node14 / User Data Date && Time
 msgid "1/22/2021 4:40 PM"
-msgstr ""
+msgstr "1/22/2021 4:40 PM"
+
+#. Node: node14 / User Data Custom Node ID
+msgid "galeri"
+msgstr "galeri"
 
 #. Node: node14 / Point Hotspot: Point02 / Title
-msgid "Halaman Belakang"
-msgstr "Achtertuin"
+msgid "Area Belakang"
+msgstr "Achtergebied"
 
-#. Node: node15 / User Data Date && Time
-#. Node: node19 / User Data Date && Time
-#. Node: node21 / User Data Date && Time
-#. Node: node25 / User Data Date && Time
-msgid "11/5/2025 5:32 PM"
-msgstr ""
+#. Node: node17 / User Data Custom Node ID
+msgid "lelangu"
+msgstr "lelangu"
+
+#. Node: node17 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Payung Tiga Tingkat"
+msgstr "Klik voor informatie <br/>over de Drielagige Parasol"
+
+#. Node: node17 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Lelangu"
+msgstr "Klik voor informatie <br/>over Lelangu"
+
+#. Node: node17 / Point Hotspot: Point05 / Title
+msgid "Klik untuk informasi <br/>Lalangir"
+msgstr "Klik voor informatie <br/>over Lalangir"
+
+#. Node: node18 / User Data Custom Node ID
+msgid "singgasana"
+msgstr "singgasana"
+
+#. Node: node18 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/>Singgasana"
+msgstr "Klik voor informatie <br/>over de Troon"
 
 #. Node: node20 / User Data Custom Node ID
 msgid "BandarMargaLegun"
 msgstr "BandarMargaLegun"
+
+#. Node: node20 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/>Simbol Kebangsawanan"
+msgstr "Klik voor informatie <br/>over het Symbool van Adel"
+
+#. Node: node21 / User Data Date && Time
+#. Node: node25 / User Data Date && Time
+#. Node: node26 / User Data Date && Time
+msgid "11/5/2025 5:32 PM"
+msgstr "11/5/2025 5:32 PM"
+
+#. Node: node21 / User Data Custom Node ID
+msgid "ruasbambu"
+msgstr "ruasbambu"
+
+#. Node: node21 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Ruas Bambu"
+msgstr "Klik voor informatie <br/>over Bamboesegmenten"
+
+#. Node: node23 / User Data Custom Node ID
+msgid "dongkrak"
+msgstr "dongkrak"
+
+#. Node: node23 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Dongkrak Mekanik"
+msgstr "Klik voor informatie <br/>over de Mechanische Krik"
+
+#. Node: node26 / User Data Custom Node ID
+msgid "gerobak"
+msgstr "gerobak"
+
+#. Node: node26 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/>Gerobak Kayu"
+msgstr "Klik voor informatie <br/>over de Houten Kar"
 
 #. Context Menu Default Entry
 msgid "Enter VR"

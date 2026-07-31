@@ -3,123 +3,19 @@ msgid ""
 msgstr ""
 "X-Source-Language: id-ID"
 
-#. Node: node8 / User Data Author
-msgid "Govirtual"
-msgstr ""
-
-#. Node: node8 / User Data Date && Time
-msgid "2025:12:03 11:26:23"
-msgstr ""
-
-#. Node: node8 / User Data Copyright
-#. Node: node2 / User Data Copyright
-#. Node: node4 / User Data Copyright
-#. Node: node5 / User Data Copyright
-#. Node: node6 / User Data Copyright
-#. Node: node7 / User Data Copyright
-msgid "govirtual"
-msgstr ""
-
-#. Node: node8 / User Data Custom Node ID
-msgid "KeratuanDarahPutih"
-msgstr ""
-
-#. Node: node8 / Point Hotspot: Point01 / Title
-#. Node: node2 / Point Hotspot: Point01 / Title
-msgid "Pintu Masuk"
-msgstr ""
-
-#. Node: node8 / Point Hotspot: Point02 / Title
-msgid "360 Video Experience Tarian Tradisional"
-msgstr ""
-
-#. Node: node8 / Point Hotspot: Point04 / Title
-#. Node: node13 / Point Hotspot: Point03 / Title
-#. Node: node14 / Point Hotspot: Point04 / Title
-#. Node: node17 / Point Hotspot: Point01 / Title
-#. Node: node24 / Point Hotspot: Point01 / Title
-msgid "Keluar"
-msgstr ""
-
-#. Node: node2 / User Data Date && Time
-msgid "2025:12:03 11:26:14"
-msgstr ""
-
-#. Node: node3 / Point Hotspot: Point01 / Title
-msgid "Lamban Balak Keratuan Darah Putih"
-msgstr ""
-
-#. Node: node3 / Point Hotspot: Point02 / Title
-msgid "Masjid Agung Kalianda (Est. 15 Menit)"
-msgstr ""
-
-#. Node: node3 / Point Hotspot: Point02 / URL
-msgid "https://lampung-selatan.govirtual.id/religion/index.html#MasjidAgungKalianda"
-msgstr ""
-
-#. Node: node3 / Point Hotspot: Point03 / Title
-msgid "Menara Siger (Est. 30 Menit)"
-msgstr ""
-
-#. Node: node3 / Point Hotspot: Point03 / URL
-#. Node: node9 / Point Hotspot: Point04 / URL
-msgid "https://lampung-selatan.govirtual.id/infrastructure/index.html#MenaraSiger"
-msgstr ""
-
-#. Node: node3 / Point Hotspot: Point04 / Title
-msgid "PT Juang Jaya (Est. 1 Jam)"
-msgstr ""
-
-#. Node: node3 / Point Hotspot: Point04 / URL
-#. Node: node9 / Point Hotspot: Point05 / URL
-msgid "https://lampung-selatan.govirtual.id/agriculture/index.html#PeternakanJuangJaya"
-msgstr ""
-
-#. Node: node4 / User Data Date && Time
-msgid "2025:12:03 11:25:13"
-msgstr ""
-
-#. Node: node4 / Point Hotspot: Point01 / Title
-#. Node: node5 / Point Hotspot: Point01 / Title
-#. Node: node7 / Point Hotspot: Point02 / Title
-msgid "Silsilah Keturunan"
-msgstr ""
-
-#. Node: node5 / User Data Date && Time
-msgid "2025:12:03 11:26:26"
-msgstr ""
-
-#. Node: node5 / Point Hotspot: Point02 / Title
-msgid "Pakaian Adat"
-msgstr ""
-
-#. Node: node6 / User Data Date && Time
-msgid "2025:12:03 11:24:41"
-msgstr ""
-
-#. Node: node6 / Point Hotspot: Point01 / Title
-#. Node: node7 / Point Hotspot: Point03 / Title
-msgid "Kerajinan Topeng"
-msgstr ""
-
-#. Node: node6 / Point Hotspot: Point02 / Title
-msgid "Dekorasi Adat"
-msgstr ""
-
-#. Node: node6 / Point Hotspot: Point03 / Title
-msgid "Area Belakang"
-msgstr ""
-
-#. Node: node7 / User Data Date && Time
-msgid "2025:12:03 11:24:36"
-msgstr ""
-
-#. Node: node7 / Point Hotspot: Point01 / Title
-msgid "Pintu Keluar"
-msgstr ""
-
 #. Node: node9 / User Data Date && Time
 msgid "2025:12:06 12:38:09"
+msgstr ""
+
+#. Node: node9 / User Data Custom Node ID
+msgid "atap"
+msgstr ""
+
+#. Node: node9 / Pinned Web Element: Element02 / Code
+#. Node: node13 / Pinned Web Element: Element11 / Code
+#. Node: node17 / Pinned Web Element: Element03 / Code
+#. Node: node21 / Pinned Web Element: Element09 / Code
+msgid "<div id=\"Element02\" style=\"width: 100%; height: 100%;\"></div>"
 msgstr ""
 
 #. Node: node9 / Point Hotspot: Point01 / Title
@@ -128,9 +24,9 @@ msgstr ""
 #. Node: node11 / Point Hotspot: Point01 / Title
 #. Node: node12 / Point Hotspot: Point01 / Title
 #. Node: node14 / Point Hotspot: Point01 / Title
-#. Node: node15 / Point Hotspot: Point01 / Title
 #. Node: node20 / Point Hotspot: Point01 / Title
 #. Node: node25 / Point Hotspot: Point01 / Title
+#. Node: node26 / Point Hotspot: Point01 / Title
 msgid "Lamban Balak Marga Legun"
 msgstr ""
 
@@ -155,15 +51,23 @@ msgid "Pelabuhan Bakauheni (Est. 50 Menit)"
 msgstr ""
 
 #. Node: node9 / Point Hotspot: Point03 / URL
-msgid "https://lampung-selatan.govirtual.id/infrastructure/index.html#Bakauheni"
+msgid "https://lampung-selatan.govirtual.id/bakauheni"
 msgstr ""
 
 #. Node: node9 / Point Hotspot: Point04 / Title
 msgid "Menara Siger (Est. 50 Menit)"
 msgstr ""
 
+#. Node: node9 / Point Hotspot: Point04 / URL
+msgid "https://lampung-selatan.govirtual.id/menarasiger"
+msgstr ""
+
 #. Node: node9 / Point Hotspot: Point05 / Title
 msgid "Peternakan Juang Jaya (Est. 50 Menit)"
+msgstr ""
+
+#. Node: node9 / Point Hotspot: Point05 / URL
+msgid "https://lampung-selatan.govirtual.id/ptjuangjaya"
 msgstr ""
 
 #. Node: node9 / Point Hotspot: Point06 / Title
@@ -171,7 +75,22 @@ msgid "Bandara Internasional Radin Inten II (Est. 50 Menit)"
 msgstr ""
 
 #. Node: node9 / Point Hotspot: Point06 / URL
-msgid "https://lampung-selatan.govirtual.id/infrastructure/index.html#BandarUdara"
+msgid "https://lampung-selatan.govirtual.id/bandarudara"
+msgstr ""
+
+#. Node: node9 / Point Hotspot: Point07 / Title
+msgid "Klik untuk informasi <br/>Atap"
+msgstr ""
+
+#. Node: node9 / Poly Hotspot: Poly01 / URL
+#. Node: node13 / Poly Hotspot: Poly02 / URL
+#. Node: node17 / Poly Hotspot: Poly02 / URL
+#. Node: node21 / Poly Hotspot: Poly01 / URL
+msgid "javascript:TourEngine.bukaOtomatis(\'Element02\');"
+msgstr ""
+
+#. Node: node10 / User Data Custom Node ID
+msgid "lambanbalak"
 msgstr ""
 
 #. Node: node10 / Point Hotspot: Point02 / Title
@@ -196,23 +115,153 @@ msgstr ""
 msgid "1/22/2021 5:07 PM"
 msgstr ""
 
+#. Node: node13 / User Data Custom Node ID
+msgid "tokoh"
+msgstr ""
+
+#. Node: node13 / Pinned Web Element: Element08 / Code
+#. Node: node17 / Pinned Web Element: Element04 / Code
+#. Node: node18 / Pinned Web Element: Element05 / Code
+#. Node: node20 / Pinned Web Element: Element01 / Code
+#. Node: node23 / Pinned Web Element: Element14 / Code
+#. Node: node26 / Pinned Web Element: Element01 / Code
+msgid "<div id=\"Element01\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr ""
+
+#. Node: node13 / Pinned Web Element: Element10 / Code
+#. Node: node17 / Pinned Web Element: Element06 / Code
+msgid "<div id=\"Element03\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr ""
+
+#. Node: node13 / Pinned Web Element: Element12 / Code
+msgid "<div id=\"Element05\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr ""
+
+#. Node: node13 / Pinned Web Element: Element13 / Code
+msgid "<div id=\"Element04\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr ""
+
+#. Node: node13 / Point Hotspot: Point03 / Title
+#. Node: node14 / Point Hotspot: Point04 / Title
+#. Node: node17 / Point Hotspot: Point01 / Title
+#. Node: node24 / Point Hotspot: Point01 / Title
+msgid "Keluar"
+msgstr ""
+
+#. Node: node13 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Tokoh"
+msgstr ""
+
+#. Node: node13 / Point Hotspot: Point05 / Title
+msgid "Klik untuk informasi <br/>Genta"
+msgstr ""
+
+#. Node: node13 / Point Hotspot: Point06 / Title
+msgid "Klik untuk informasi <br/>Alat Pemintal Benang"
+msgstr ""
+
+#. Node: node13 / Point Hotspot: Point07 / Title
+msgid "Klik untuk informasi <br/>Setrika Arang"
+msgstr ""
+
+#. Node: node13 / Point Hotspot: Point08 / Title
+msgid "Klik untuk informasi <br/>Lunjak"
+msgstr ""
+
+#. Node: node13 / Poly Hotspot: Poly01 / URL
+#. Node: node17 / Poly Hotspot: Poly01 / URL
+#. Node: node18 / Poly Hotspot: Poly01 / URL
+#. Node: node20 / Poly Hotspot: Poly01 / URL
+#. Node: node23 / Poly Hotspot: Poly01 / URL
+#. Node: node26 / Poly Hotspot: Poly01 / URL
+msgid "javascript:TourEngine.bukaOtomatis(\'Element01\');"
+msgstr ""
+
+#. Node: node13 / Poly Hotspot: Poly03 / URL
+#. Node: node17 / Poly Hotspot: Poly03 / URL
+msgid "javascript:TourEngine.bukaOtomatis(\'Element03\');"
+msgstr ""
+
+#. Node: node13 / Poly Hotspot: Poly04 / URL
+msgid "javascript:TourEngine.bukaOtomatis(\'Element04\');"
+msgstr ""
+
+#. Node: node13 / Poly Hotspot: Poly05 / URL
+msgid "javascript:TourEngine.bukaOtomatis(\'Element05\');"
+msgstr ""
+
 #. Node: node14 / User Data Date && Time
 msgid "1/22/2021 4:40 PM"
 msgstr ""
 
-#. Node: node14 / Point Hotspot: Point02 / Title
-msgid "Halaman Belakang"
+#. Node: node14 / User Data Custom Node ID
+msgid "galeri"
 msgstr ""
 
-#. Node: node15 / User Data Date && Time
-#. Node: node19 / User Data Date && Time
-#. Node: node21 / User Data Date && Time
-#. Node: node25 / User Data Date && Time
-msgid "11/5/2025 5:32 PM"
+#. Node: node14 / Point Hotspot: Point02 / Title
+msgid "Area Belakang"
+msgstr ""
+
+#. Node: node17 / User Data Custom Node ID
+msgid "lelangu"
+msgstr ""
+
+#. Node: node17 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Payung Tiga Tingkat"
+msgstr ""
+
+#. Node: node17 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Lelangu"
+msgstr ""
+
+#. Node: node17 / Point Hotspot: Point05 / Title
+msgid "Klik untuk informasi <br/>Lalangir"
+msgstr ""
+
+#. Node: node18 / User Data Custom Node ID
+msgid "singgasana"
+msgstr ""
+
+#. Node: node18 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/>Singgasana"
 msgstr ""
 
 #. Node: node20 / User Data Custom Node ID
 msgid "BandarMargaLegun"
+msgstr ""
+
+#. Node: node20 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/>Simbol Kebangsawanan"
+msgstr ""
+
+#. Node: node21 / User Data Date && Time
+#. Node: node25 / User Data Date && Time
+#. Node: node26 / User Data Date && Time
+msgid "11/5/2025 5:32 PM"
+msgstr ""
+
+#. Node: node21 / User Data Custom Node ID
+msgid "ruasbambu"
+msgstr ""
+
+#. Node: node21 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Ruas Bambu"
+msgstr ""
+
+#. Node: node23 / User Data Custom Node ID
+msgid "dongkrak"
+msgstr ""
+
+#. Node: node23 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Dongkrak Mekanik"
+msgstr ""
+
+#. Node: node26 / User Data Custom Node ID
+msgid "gerobak"
+msgstr ""
+
+#. Node: node26 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/>Gerobak Kayu"
 msgstr ""
 
 #. Context Menu Default Entry
