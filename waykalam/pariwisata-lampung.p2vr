@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21036" version="7.1.12">
+<pano2vrconfig rev="21010" version="7.1.11">
   <tour>
     <start>node217</start>
     <panorama>
@@ -50,9 +50,9 @@
             <fov>4</fov>
           </position>
           <next>
-            <pan>-92</pan>
-            <tilt>1.1</tilt>
-            <fov>100</fov>
+            <pan>-88.3</pan>
+            <tilt>0.1</tilt>
+            <fov>108.2</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -61,7 +61,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node130}</url>
-          <target>-92.0/1.1/100.0</target>
+          <target>-88.3/0.1/108.2</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -159,7 +159,7 @@
           <next>
             <pan>-31.2</pan>
             <tilt>1</tilt>
-            <fov>100</fov>
+            <fov>108.2</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -168,7 +168,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node129}</url>
-          <target>-31.2/1.0/100.0</target>
+          <target>-31.2/1.0/108.2</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -217,9 +217,9 @@
             <fov>4</fov>
           </position>
           <next>
-            <pan>42.5</pan>
-            <tilt>-6.6</tilt>
-            <fov>100</fov>
+            <pan>45.9</pan>
+            <tilt>-7.6</tilt>
+            <fov>126.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -228,7 +228,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node133}</url>
-          <target>42.5/-6.6/100.0</target>
+          <target>45.9/-7.6/126.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -655,9 +655,9 @@
             <fov>4</fov>
           </position>
           <next>
-            <pan>109.8</pan>
-            <tilt>-6.3</tilt>
-            <fov>100</fov>
+            <pan>119.4</pan>
+            <tilt>-2.9</tilt>
+            <fov>126.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -666,7 +666,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node130}</url>
-          <target>109.8/-6.3/100.0</target>
+          <target>119.4/-2.9/126.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -787,14 +787,14 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-185.88</pan>
-            <tilt>-3.04</tilt>
+            <pan>-185.53</pan>
+            <tilt>-3.57</tilt>
             <fov>4</fov>
           </position>
           <next>
             <pan>-117.8</pan>
             <tilt>-3.5</tilt>
-            <fov>100</fov>
+            <fov>117</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -803,7 +803,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node133}</url>
-          <target>-117.8/-3.5/100.0</target>
+          <target>-117.8/-3.5/117.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -824,7 +824,7 @@
           <next>
             <pan>-0.5</pan>
             <tilt>-10.1</tilt>
-            <fov>100</fov>
+            <fov>108.2</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -833,7 +833,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node135}</url>
-          <target>-0.5/-10.1/100.0</target>
+          <target>-0.5/-10.1/108.2</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -961,7 +961,7 @@
           <next>
             <pan>3.4</pan>
             <tilt>-5.5</tilt>
-            <fov>100</fov>
+            <fov>108.2</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -970,7 +970,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node136}</url>
-          <target>3.4/-5.5/100.0</target>
+          <target>3.4/-5.5/108.2</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1096,9 +1096,9 @@
             <fov>4</fov>
           </position>
           <next>
-            <pan>-31.7</pan>
-            <tilt>-5.4</tilt>
-            <fov>100</fov>
+            <pan>-43.3</pan>
+            <tilt>-5.9</tilt>
+            <fov>117</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -1107,7 +1107,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node137}</url>
-          <target>-31.7/-5.4/100.0</target>
+          <target>-43.3/-5.9/117.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1234,9 +1234,9 @@
             <fov>4</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>12.6</tilt>
-            <fov>100</fov>
+            <pan>0.6</pan>
+            <tilt>5.7</tilt>
+            <fov>117</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -1245,7 +1245,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node138}</url>
-          <target>0.0/12.6/100.0</target>
+          <target>0.6/5.7/117.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1429,7 +1429,7 @@
           <next>
             <pan>153</pan>
             <tilt>-8.7</tilt>
-            <fov>100</fov>
+            <fov>117</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -1438,14 +1438,13 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node137}</url>
-          <target>153.0/-8.7/100.0</target>
+          <target>153.0/-8.7/117.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -1457,9 +1456,9 @@
             <fov>3</fov>
           </position>
           <next>
-            <pan>45.6</pan>
-            <tilt>-5.2</tilt>
-            <fov>100</fov>
+            <pan>88.6</pan>
+            <tilt>-1.6</tilt>
+            <fov>136.9</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -1468,7 +1467,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node139}</url>
-          <target>45.6/-5.2/100.0</target>
+          <target>88.6/-1.6/136.9</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1489,7 +1488,7 @@
           <next>
             <pan>-1.1</pan>
             <tilt>-14.3</tilt>
-            <fov>100</fov>
+            <fov>108.2</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -1498,7 +1497,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node140}</url>
-          <target>-1.1/-14.3/100.0</target>
+          <target>-1.1/-14.3/108.2</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1730,9 +1729,9 @@
             <fov>3</fov>
           </position>
           <next>
-            <pan>48.4</pan>
-            <tilt>1.8</tilt>
-            <fov>100</fov>
+            <pan>87.7</pan>
+            <tilt>-0.4</tilt>
+            <fov>136.9</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -1741,7 +1740,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node139}</url>
-          <target>48.4/1.8/100.0</target>
+          <target>87.7/-0.4/136.9</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1790,9 +1789,9 @@
             <fov>4</fov>
           </position>
           <next>
-            <pan>9.9</pan>
-            <tilt>-1.8</tilt>
-            <fov>100</fov>
+            <pan>-38.2</pan>
+            <tilt>3.5</tilt>
+            <fov>136.9</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -1801,14 +1800,14 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node141}</url>
-          <target>9.9/-1.8/100.0</target>
+          <target>-38.2/3.5/136.9</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU-2.png</urlsafecustomimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -1900,7 +1899,7 @@
           <next>
             <pan>-57.7</pan>
             <tilt>2.7</tilt>
-            <fov>100</fov>
+            <fov>126.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -1909,7 +1908,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node142}</url>
-          <target>-57.7/2.7/100.0</target>
+          <target>-57.7/2.7/126.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2150,14 +2149,14 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-56.57</pan>
-            <tilt>2.01</tilt>
+            <pan>-59.24</pan>
+            <tilt>1.42</tilt>
             <fov>6</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
+            <pan>47.7</pan>
+            <tilt>-7.9</tilt>
+            <fov>126.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2166,6 +2165,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node143}</url>
+          <target>47.7/-7.9/126.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2179,14 +2179,14 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-257.73</pan>
-            <tilt>-2.29</tilt>
+            <pan>-254.09</pan>
+            <tilt>-4.54</tilt>
             <fov>3</fov>
           </position>
           <next>
-            <pan>-175.3</pan>
-            <tilt>-5</tilt>
-            <fov>100</fov>
+            <pan>-37.2</pan>
+            <tilt>3.5</tilt>
+            <fov>136.9</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2195,7 +2195,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node141}</url>
-          <target>-175.3/-5.0/100.0</target>
+          <target>-37.2/3.5/136.9</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2380,9 +2380,9 @@
             <fov>6</fov>
           </position>
           <next>
-            <pan>2.2</pan>
-            <tilt>-3.2</tilt>
-            <fov>100</fov>
+            <pan>1.4</pan>
+            <tilt>-1.7</tilt>
+            <fov>126.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2391,7 +2391,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node144}</url>
-          <target>2.2/-3.2/100.0</target>
+          <target>1.4/-1.7/126.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2410,9 +2410,9 @@
             <fov>6</fov>
           </position>
           <next>
-            <pan>104.6</pan>
-            <tilt>-6.9</tilt>
-            <fov>100</fov>
+            <pan>107.5</pan>
+            <tilt>2</tilt>
+            <fov>136.9</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2421,7 +2421,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node142}</url>
-          <target>104.6/-6.9/100.0</target>
+          <target>107.5/2.0/136.9</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2520,9 +2520,9 @@
             <fov>6</fov>
           </position>
           <next>
-            <pan>-126.1</pan>
-            <tilt>-5.4</tilt>
-            <fov>100</fov>
+            <pan>-125.7</pan>
+            <tilt>-1.2</tilt>
+            <fov>126.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2531,7 +2531,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node145}</url>
-          <target>-126.1/-5.4/100.0</target>
+          <target>-125.7/-1.2/126.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2552,7 +2552,7 @@
           <next>
             <pan>-125.4</pan>
             <tilt>6.5</tilt>
-            <fov>100</fov>
+            <fov>126.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2561,7 +2561,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node143}</url>
-          <target>-125.4/6.5/100.0</target>
+          <target>-125.4/6.5/126.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2656,14 +2656,14 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-126.12</pan>
-            <tilt>-7.43</tilt>
+            <pan>-122.85</pan>
+            <tilt>-4.77</tilt>
             <fov>6</fov>
           </position>
           <next>
             <pan>0</pan>
             <tilt>0</tilt>
-            <fov>0</fov>
+            <fov>126.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2672,13 +2672,13 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node146}</url>
+          <target>0.0/0.0/126.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -2690,9 +2690,9 @@
             <fov>3</fov>
           </position>
           <next>
-            <pan>-174.7</pan>
-            <tilt>-12.3</tilt>
-            <fov>100</fov>
+            <pan>-149.5</pan>
+            <tilt>-2.7</tilt>
+            <fov>126.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2701,7 +2701,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node144}</url>
-          <target>-174.7/-12.3/100.0</target>
+          <target>-149.5/-2.7/126.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2886,9 +2886,9 @@
             <fov>3</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>100</fov>
+            <pan>20.1</pan>
+            <tilt>-4.2</tilt>
+            <fov>148.1</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2897,7 +2897,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node145}</url>
-          <target>0.0/0.0/100.0</target>
+          <target>20.1/-4.2/148.1</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2911,8 +2911,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-327.74</pan>
-            <tilt>-7.82</tilt>
+            <pan>-325.65</pan>
+            <tilt>-3.79</tilt>
             <fov>5</fov>
           </position>
           <next>
@@ -2948,7 +2948,7 @@
           <next>
             <pan>0</pan>
             <tilt>0</tilt>
-            <fov>0</fov>
+            <fov>108.2</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2957,6 +2957,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node216}</url>
+          <target>0.0/0.0/108.2</target>
           <skinid>hotspot-drone</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2975,9 +2976,9 @@
             <fov>8</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
+            <pan>-10.3</pan>
+            <tilt>-16.3</tilt>
+            <fov>117</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2986,6 +2987,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node215}</url>
+          <target>-10.3/-16.3/117.0</target>
           <skinid>hotspot-drone</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -3079,14 +3081,14 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-85.24</pan>
-            <tilt>-2.51</tilt>
-            <fov>6</fov>
+            <pan>-74.27</pan>
+            <tilt>-5.07</tilt>
+            <fov>4</fov>
           </position>
           <next>
-            <pan>-126</pan>
-            <tilt>7.9</tilt>
-            <fov>100</fov>
+            <pan>-144</pan>
+            <tilt>13.6</tilt>
+            <fov>126.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -3095,7 +3097,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node146}</url>
-          <target>-126.0/7.9/100.0</target>
+          <target>-144.0/13.6/126.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -3103,7 +3105,7 @@
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
           <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
-          <use3d>0</use3d>
+          <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
         </hotspot>
@@ -3193,8 +3195,8 @@
             <fov>6</fov>
           </position>
           <next>
-            <pan>-34</pan>
-            <tilt>-31.6</tilt>
+            <pan>-7.5</pan>
+            <tilt>-31</tilt>
             <fov>100</fov>
           </next>
           <customprops/>
@@ -3204,7 +3206,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node149}</url>
-          <target>-34.0/-31.6/100.0</target>
+          <target>-7.5/-31.0/100.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -3333,7 +3335,7 @@
           <next>
             <pan>144.7</pan>
             <tilt>-19.2</tilt>
-            <fov>100</fov>
+            <fov>117</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -3342,7 +3344,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node150}</url>
-          <target>144.7/-19.2/100.0</target>
+          <target>144.7/-19.2/117.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -3361,9 +3363,9 @@
             <fov>6</fov>
           </position>
           <next>
-            <pan>-32.8</pan>
-            <tilt>-34.4</tilt>
-            <fov>100</fov>
+            <pan>156.8</pan>
+            <tilt>5</tilt>
+            <fov>126.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -3372,7 +3374,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node148}</url>
-          <target>-32.8/-34.4/100.0</target>
+          <target>156.8/5.0/126.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -3471,7 +3473,7 @@
           <next>
             <pan>8.3</pan>
             <tilt>12.1</tilt>
-            <fov>100</fov>
+            <fov>117</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -3480,7 +3482,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node151}</url>
-          <target>8.3/12.1/100.0</target>
+          <target>8.3/12.1/117.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -3499,9 +3501,9 @@
             <fov>4</fov>
           </position>
           <next>
-            <pan>-40.5</pan>
-            <tilt>-38.5</tilt>
-            <fov>100</fov>
+            <pan>-169.1</pan>
+            <tilt>8.4</tilt>
+            <fov>150</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -3510,14 +3512,13 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node149}</url>
-          <target>-40.5/-38.5/100.0</target>
+          <target>-169.1/8.4/150.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU-2.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
@@ -3610,7 +3611,7 @@
           <next>
             <pan>-3.6</pan>
             <tilt>11.3</tilt>
-            <fov>116.8</fov>
+            <fov>126.3</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -3619,7 +3620,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node152}</url>
-          <target>-3.6/11.3/116.8</target>
+          <target>-3.6/11.3/126.3</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -3638,9 +3639,9 @@
             <fov>4</fov>
           </position>
           <next>
-            <pan>-103.3</pan>
-            <tilt>-0.6</tilt>
-            <fov>100</fov>
+            <pan>-100.2</pan>
+            <tilt>2.8</tilt>
+            <fov>137.4</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -3649,7 +3650,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node150}</url>
-          <target>-103.3/-0.6/100.0</target>
+          <target>-100.2/2.8/137.4</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -3916,9 +3917,9 @@
             <fov>4</fov>
           </position>
           <next>
-            <pan>11.1</pan>
-            <tilt>10.5</tilt>
-            <fov>100</fov>
+            <pan>150.9</pan>
+            <tilt>-3.3</tilt>
+            <fov>117</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -3927,7 +3928,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node151}</url>
-          <target>11.1/10.5/100.0</target>
+          <target>150.9/-3.3/117.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -4870,9 +4871,9 @@
             <fov>3</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
+            <pan>44.5</pan>
+            <tilt>-2.3</tilt>
+            <fov>148.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -4881,13 +4882,14 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node153}</url>
+          <target>44.5/-2.3/148.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/AIR UDARA APALAH ITU.png</customimage>
-          <urlsafecustomimage>AIR UDARA APALAH ITU-2.png</urlsafecustomimage>
+          <urlsafecustomimage>AIR UDARA APALAH ITU.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>26</width>
           <height>92</height>
