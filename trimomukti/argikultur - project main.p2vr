@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21010" version="7.1.11">
+<pano2vrconfig rev="21036" version="7.1.12">
   <tour>
     <start>node52</start>
     <panorama>
@@ -43,7 +43,7 @@
         <defaultviewtimestamp>2025-12-06T18:38:13</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
-        <capturedatetime>2025-10-19T17:15:18+07:00</capturedatetime>
+        <capturedatetime>2025-10-19T17:15:18</capturedatetime>
         <latitude>-5.555444</latitude>
         <longitude>105.635289</longitude>
         <altitude>160.285</altitude>
@@ -51,6 +51,7 @@
         <datetime>19/10/2025 17:15</datetime>
         <tags>pertaniantrimomukti</tags>
         <customprops/>
+        <customnodeid>zona</customnodeid>
       </userdata>
       <projectsettings>
         <userdata>
@@ -98,7 +99,7 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
+          <customimage>assets/drone.png</customimage>
           <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
@@ -128,7 +129,7 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
+          <customimage>assets/drone.png</customimage>
           <urlsafecustomimage>DRONE ICON_800X800PX-21-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
@@ -158,7 +159,7 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
+          <customimage>assets/drone.png</customimage>
           <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
@@ -184,12 +185,12 @@
           <url>https://lampung-selatan.govirtual.id/bakauheni</url>
           <safeurl>index.html#b</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/picture-20251210T162458Z-3-001/picture/Pelabuhan Bakauheni.png</customimage>
+          <customimage>assets/Pelabuhan Bakauheni.png</customimage>
           <urlsafecustomimage>Pelabuhan Bakauheni.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
@@ -215,12 +216,12 @@
           <url>https://lampung-selatan.govirtual.id/darahputih</url>
           <safeurl>index.html#keratuandarahputih</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/picture-20251210T162458Z-3-001/picture/Lamban Balak Bandar Marga Legun.png</customimage>
+          <customimage>assets/Lamban Balak Bandar Marga Legun.png</customimage>
           <urlsafecustomimage>Lamban Balak Bandar Marga Legun-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
@@ -246,12 +247,12 @@
           <url>https://lampung-selatan.govirtual.id/margalegun</url>
           <safeurl>index.html#b</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/picture-20251210T162458Z-3-001/picture/Lamban balak Rumah raden intan II.png</customimage>
+          <customimage>assets/Lamban balak Rumah raden intan II.png</customimage>
           <urlsafecustomimage>Lamban balak Rumah raden intan II.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
@@ -277,12 +278,12 @@
           <url>https://lampung-selatan.govirtual.id/menarasiger</url>
           <safeurl>index.html#b</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/picture-20251210T162458Z-3-001/picture/Menara Siger.png</customimage>
+          <customimage>assets/Menara Siger.png</customimage>
           <urlsafecustomimage>Menara Siger-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
@@ -290,9 +291,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-228.06</pan>
-            <tilt>-22.55</tilt>
-            <fov>10</fov>
+            <pan>-242.2</pan>
+            <tilt>-25.52</tilt>
+            <fov>16</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -302,6 +303,7 @@
           <customprops/>
           <polygon/>
           <id>Point08</id>
+          <title>Klik untuk informasi &lt;br/>Zona Refugia</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>hotspot_oi_polygon</skinid>
@@ -309,11 +311,33 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-212.08/-11.4|-195.47/-14.74|-263.77/-47.31|-265.6/-20.26</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -323,8 +347,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-261.77</pan>
-            <tilt>-28.3</tilt>
+            <pan>-274.61</pan>
+            <tilt>-26.02</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -332,8 +356,8 @@
             <rotz>0</rotz>
             <fov>30</fov>
             <stretch>100</stretch>
-            <dimx>1000</dimx>
-            <dimy>1000</dimy>
+            <dimx>400</dimx>
+            <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
           <id>Element01</id>
@@ -353,7 +377,8 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <permeable>0</permeable>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
+          <permeable>1</permeable>
         </sound>
       </sounds>
     </panorama>
@@ -423,7 +448,7 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
+          <customimage>assets/drone.png</customimage>
           <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
@@ -453,7 +478,7 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
+          <customimage>assets/drone.png</customimage>
           <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
@@ -479,12 +504,12 @@
           <url>https://lampung-selatan.govirtual.id/menarasiger</url>
           <safeurl>index.html#b</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/picture-20251210T162458Z-3-001/picture/Menara Siger.png</customimage>
+          <customimage>assets/Menara Siger.png</customimage>
           <urlsafecustomimage>Menara Siger-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
@@ -510,12 +535,12 @@
           <url>https://lampung-selatan.govirtual.id/darahputih</url>
           <safeurl>index.html#keratuandarahputih</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/picture-20251210T162458Z-3-001/picture/Lamban Balak Bandar Marga Legun.png</customimage>
+          <customimage>assets/Lamban Balak Bandar Marga Legun.png</customimage>
           <urlsafecustomimage>Lamban Balak Bandar Marga Legun-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
@@ -541,12 +566,12 @@
           <url>https://lampung-selatan.govirtual.id/infrastructure/index.html#Bakauheni</url>
           <safeurl>index.html#b</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/picture-20251210T162458Z-3-001/picture/Pelabuhan Bakauheni.png</customimage>
+          <customimage>assets/Pelabuhan Bakauheni.png</customimage>
           <urlsafecustomimage>Pelabuhan Bakauheni.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
@@ -572,12 +597,12 @@
           <url>https://lampung-selatan.govirtual.id/margalegun</url>
           <safeurl>index.html#b</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/picture-20251210T162458Z-3-001/picture/Lamban balak Rumah raden intan II.png</customimage>
+          <customimage>assets/Lamban balak Rumah raden intan II.png</customimage>
           <urlsafecustomimage>Lamban balak Rumah raden intan II.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
@@ -585,9 +610,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-200.16</pan>
-            <tilt>-36.11</tilt>
-            <fov>10</fov>
+            <pan>-209.69</pan>
+            <tilt>-35.83</tilt>
+            <fov>16</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -597,18 +622,41 @@
           <customprops/>
           <polygon/>
           <id>Point07</id>
+          <title>Klik untuk informasi &lt;br/>Sistem Irigasi Terintegrasi</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon2</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-199.18/-26.69|-184.13/-30.52|-182.67/-46.54|-231.85/-34.57|-220.12/-21.03</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -618,8 +666,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-199.1</pan>
-            <tilt>-12.82</tilt>
+            <pan>-240.43</pan>
+            <tilt>-35.04</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -627,8 +675,8 @@
             <rotz>0</rotz>
             <fov>30</fov>
             <stretch>100</stretch>
-            <dimx>1000</dimx>
-            <dimy>1000</dimy>
+            <dimx>400</dimx>
+            <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
           <id>Element02</id>
@@ -648,7 +696,8 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <permeable>0</permeable>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
+          <permeable>1</permeable>
         </sound>
       </sounds>
       <id>node53</id>
@@ -718,7 +767,7 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/DRONE ICON_800X800PX-21.png</customimage>
+          <customimage>assets/drone.png</customimage>
           <urlsafecustomimage>DRONE ICON_800X800PX-21.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
@@ -839,7 +888,7 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/picture-20251210T162458Z-3-001/picture/Menara Siger.png</customimage>
+          <customimage>assets/Menara Siger.png</customimage>
           <urlsafecustomimage>Menara Siger-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
@@ -1004,12 +1053,12 @@
           <url>https://lampung-selatan.govirtual.id/margalegun</url>
           <safeurl>index.html#b</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other</skinid>
+          <skinid>hotspot-link-other_link</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/picture-20251210T162458Z-3-001/picture/Lamban balak Rumah raden intan II.png</customimage>
+          <customimage>assets/Lamban balak Rumah raden intan II.png</customimage>
           <urlsafecustomimage>Lamban balak Rumah raden intan II.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
@@ -1035,12 +1084,12 @@
           <url>https://lampung-selatan.govirtual.id/menarasiger</url>
           <safeurl>index.html#b</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other</skinid>
+          <skinid>hotspot-link-other_link</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/picture-20251210T162458Z-3-001/picture/Menara Siger.png</customimage>
+          <customimage>assets/Menara Siger.png</customimage>
           <urlsafecustomimage>Menara Siger-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
@@ -1066,12 +1115,12 @@
           <url>https://lampung-selatan.govirtual.id/bakauheni</url>
           <safeurl>index.html#b</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other</skinid>
+          <skinid>hotspot-link-other_link</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/picture-20251210T162458Z-3-001/picture/Pelabuhan Bakauheni.png</customimage>
+          <customimage>assets/Pelabuhan Bakauheni.png</customimage>
           <urlsafecustomimage>Pelabuhan Bakauheni.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
@@ -1097,12 +1146,12 @@
           <url>https://lampung-selatan.govirtual.id/darahputih</url>
           <safeurl>index.html#b</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other</skinid>
+          <skinid>hotspot-link-other_link</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/picture-20251210T162458Z-3-001/picture/Lamban Balak Bandar Marga Legun.png</customimage>
+          <customimage>assets/Lamban Balak Bandar Marga Legun.png</customimage>
           <urlsafecustomimage>Lamban Balak Bandar Marga Legun-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
@@ -1303,7 +1352,7 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/picture-20251210T162458Z-3-001/picture/Menara Siger.png</customimage>
+          <customimage>assets/Menara Siger.png</customimage>
           <urlsafecustomimage>Menara Siger-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
@@ -1334,7 +1383,7 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/picture-20251210T162458Z-3-001/picture/Lamban balak Rumah raden intan II.png</customimage>
+          <customimage>assets/Lamban balak Rumah raden intan II.png</customimage>
           <urlsafecustomimage>Lamban balak Rumah raden intan II.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
@@ -1365,7 +1414,7 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/picture-20251210T162458Z-3-001/picture/Pelabuhan Bakauheni.png</customimage>
+          <customimage>assets/Pelabuhan Bakauheni.png</customimage>
           <urlsafecustomimage>Pelabuhan Bakauheni.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
@@ -1396,7 +1445,7 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/picture-20251210T162458Z-3-001/picture/Lamban balak Rumah raden intan II.png</customimage>
+          <customimage>assets/Lamban balak Rumah raden intan II.png</customimage>
           <urlsafecustomimage>Lamban balak Rumah raden intan II.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
@@ -1404,9 +1453,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-340.31</pan>
-            <tilt>-21.56</tilt>
-            <fov>10</fov>
+            <pan>-354.75</pan>
+            <tilt>-22.29</tilt>
+            <fov>13</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -1416,18 +1465,41 @@
           <customprops/>
           <polygon/>
           <id>Point06</id>
+          <title>Klik untuk informasi &lt;br/>Lahan Pertanian Trimomukti</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon4</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-351.81/-16.48|-322.97/-19.74|-325.37/-34.41|-13.65/-23.39</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -1437,17 +1509,17 @@
       <sounds>
         <sound>
           <position>
-            <pan>-340.95</pan>
-            <tilt>0.59</tilt>
+            <pan>-16.64</pan>
+            <tilt>-20.8</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>30</fov>
+            <fov>22.2732</fov>
             <stretch>100</stretch>
-            <dimx>1000</dimx>
-            <dimy>1000</dimy>
+            <dimx>400</dimx>
+            <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
           <id>Element04</id>
@@ -1467,7 +1539,8 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <permeable>0</permeable>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
+          <permeable>1</permeable>
         </sound>
       </sounds>
       <id>node56</id>
@@ -1503,13 +1576,14 @@
       </viewingparameter>
       <userdata>
         <customprops/>
-        <capturedatetime>2025-10-19T17:24:06+07:00</capturedatetime>
+        <capturedatetime>2025-10-19T17:24:06</capturedatetime>
         <latitude>-5.548891</latitude>
         <longitude>105.631560</longitude>
         <altitude>147.185</altitude>
         <title>default</title>
         <datetime>19/10/2025 17:24</datetime>
         <tags>pertaniantrimomukti</tags>
+        <customnodeid>solar</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1635,8 +1709,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-60.21</pan>
-            <tilt>-29.55</tilt>
+            <pan>-64.6</pan>
+            <tilt>-31.8</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1647,18 +1721,41 @@
           <customprops/>
           <polygon/>
           <id>Point05</id>
+          <title>Klik untuk informasi &lt;br/>Solar Panel</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon3</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-55.98/-29.66|-52.98/-30.93|-52.41/-32.53|-60.39/-35.04|-62.82/-31.08|-59.59/-29.82</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -1668,17 +1765,17 @@
       <sounds>
         <sound>
           <position>
-            <pan>-60.3</pan>
-            <tilt>-7.32</tilt>
+            <pan>-79.32</pan>
+            <tilt>-29.52</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>30</fov>
+            <fov>13</fov>
             <stretch>100</stretch>
-            <dimx>1000</dimx>
-            <dimy>1000</dimy>
+            <dimx>400</dimx>
+            <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
           <id>Element03</id>
@@ -1698,6 +1795,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>0</permeable>
         </sound>
       </sounds>
@@ -1772,7 +1870,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/output/lampung/trimomukti/index.html</filename>
+          <filename>D:/xampp/htdocs/lampung-output/trimomukti/index.html</filename>
           <values>
             <value id="cachebust">false</value>
             <value id="css"/>
@@ -1807,7 +1905,7 @@
           <toggleskinbutton>1</toggleskinbutton>
         </webvr>
         <tilesize>3000</tilesize>
-        <filename>C:/xampp/htdocs/output/lampung/trimomukti/pano.xml</filename>
+        <filename>D:/xampp/htdocs/lampung-output/trimomukti/pano.xml</filename>
         <leveltileformat>1</leveltileformat>
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
         <cubefilename>images/$n_o.webp</cubefilename>
