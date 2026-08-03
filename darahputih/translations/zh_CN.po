@@ -1,4 +1,3 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -13,6 +12,24 @@ msgstr ""
 "X-Source-Language: id-ID\n"
 "X-Generator: Poedit 3.8\n"
 
+#. Node: node2 / User Data Date && Time
+msgid "2025:12:03 11:26:14"
+msgstr ""
+
+#. Node: node2 / User Data Copyright
+#. Node: node8 / User Data Copyright
+#. Node: node4 / User Data Copyright
+#. Node: node5 / User Data Copyright
+#. Node: node6 / User Data Copyright
+#. Node: node7 / User Data Copyright
+msgid "govirtual"
+msgstr ""
+
+#. Node: node2 / Point Hotspot: Point01 / Title
+#. Node: node8 / Point Hotspot: Point01 / Title
+msgid "Pintu Masuk"
+msgstr "入口"
+
 #. Node: node8 / User Data Author
 msgid "Govirtual"
 msgstr ""
@@ -21,31 +38,37 @@ msgstr ""
 msgid "2025:12:03 11:26:23"
 msgstr ""
 
-#. Node: node8 / User Data Copyright
-#. Node: node2 / User Data Copyright
-#. Node: node4 / User Data Copyright
-#. Node: node5 / User Data Copyright
-#. Node: node6 / User Data Copyright
-#. Node: node7 / User Data Copyright
-msgid "govirtual"
-msgstr ""
-
 #. Node: node8 / User Data Custom Node ID
 msgid "KeratuanDarahPutih"
 msgstr "KeratuanDarahPutih"
 
-#. Node: node8 / Point Hotspot: Point01 / Title
-#. Node: node2 / Point Hotspot: Point01 / Title
-msgid "Pintu Masuk"
-msgstr "入口"
+#. Node: node8 / Pinned Web Element: Element01 / Code
+#. Node: node4 / Pinned Web Element: Element02 / Code
+#. Node: node5 / Pinned Web Element: Element01 / Code
+#. Node: node6 / Pinned Web Element: Element07 / Code
+#. Node: node7 / Pinned Web Element: Element06 / Code
+msgid "<div id=\"Element01\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr "<div id=\"Element01\" style=\"width: 100%; height: 100%;\"></div>"
 
 #. Node: node8 / Point Hotspot: Point02 / Title
 msgid "360 Video Experience Tarian Tradisional"
 msgstr "360°传统舞蹈体验"
 
-#. Node: node2 / User Data Date && Time
-msgid "2025:12:03 11:26:14"
-msgstr ""
+#. Node: node8 / Point Hotspot: Point04 / Title
+msgid "Keluar"
+msgstr "离开"
+
+#. Node: node8 / Point Hotspot: Point05 / Title
+msgid "Klik untuk informasi <br/>Arsitektur"
+msgstr "点击查看信息 <br/>建筑"
+
+#. Node: node8 / Poly Hotspot: Poly01 / URL
+#. Node: node4 / Poly Hotspot: Poly02 / URL
+#. Node: node5 / Poly Hotspot: Poly01 / URL
+#. Node: node6 / Poly Hotspot: Poly01 / URL
+#. Node: node7 / Poly Hotspot: Poly01 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element01');"
+msgstr "javascript:TourEngine.bukaOtomatis('Element01');"
 
 #. Node: node3 / Point Hotspot: Point01 / Title
 msgid "Lamban Balak Keratuan Darah Putih"
@@ -56,36 +79,38 @@ msgid "Masjid Agung Kalianda (Est. 15 Menit)"
 msgstr "卡利安达大清真寺（约15分钟）"
 
 #. Node: node3 / Point Hotspot: Point02 / URL
-msgid ""
-"https://lampung-selatan.govirtual.id/religion/"
-"index.html#MasjidAgungKalianda"
-msgstr ""
+msgid "https://lampung-selatan.govirtual.id/masjidagung/index.html#"
+msgstr "https://lampung-selatan.govirtual.id/masjidagung/index.html#"
 
 #. Node: node3 / Point Hotspot: Point03 / Title
 msgid "Menara Siger (Est. 30 Menit)"
 msgstr "西格尔塔（约30分钟）"
 
 #. Node: node3 / Point Hotspot: Point03 / URL
-#. Node: node9 / Point Hotspot: Point04 / URL
-msgid ""
-"https://lampung-selatan.govirtual.id/infrastructure/"
-"index.html#MenaraSiger"
-msgstr ""
+msgid "https://lampung-selatan.govirtual.id/menarasiger/index.html#"
+msgstr "https://lampung-selatan.govirtual.id/menarasiger/index.html#"
 
 #. Node: node3 / Point Hotspot: Point04 / Title
 msgid "PT Juang Jaya (Est. 1 Jam)"
 msgstr "PT Juang Jaya（约1小时）"
 
 #. Node: node3 / Point Hotspot: Point04 / URL
-#. Node: node9 / Point Hotspot: Point05 / URL
-msgid ""
-"https://lampung-selatan.govirtual.id/agriculture/"
-"index.html#PeternakanJuangJaya"
-msgstr ""
+msgid "https://lampung-selatan.govirtual.id/ptjuangjaya/index.html#"
+msgstr "https://lampung-selatan.govirtual.id/ptjuangjaya/index.html#"
 
 #. Node: node4 / User Data Date && Time
 msgid "2025:12:03 11:25:13"
 msgstr ""
+
+#. Node: node4 / User Data Custom Node ID
+msgid "keubung"
+msgstr ""
+
+#. Node: node4 / Pinned Web Element: Element03 / Code
+#. Node: node5 / Pinned Web Element: Element02 / Code
+#. Node: node7 / Pinned Web Element: Element04 / Code
+msgid "<div id=\"Element02\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr "<div id=\"Element02\" style=\"width: 100%; height: 100%;\"></div>"
 
 #. Node: node4 / Point Hotspot: Point01 / Title
 #. Node: node5 / Point Hotspot: Point01 / Title
@@ -93,16 +118,46 @@ msgstr ""
 msgid "Silsilah Keturunan"
 msgstr "家族谱系"
 
+#. Node: node4 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/>Keubung Tikhai"
+msgstr "点击查看信息 <br/>Keubung Tikhai"
+
+#. Node: node4 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Silsilah"
+msgstr "点击查看信息 <br/>谱系"
+
+#. Node: node4 / Poly Hotspot: Poly01 / URL
+#. Node: node5 / Poly Hotspot: Poly02 / URL
+#. Node: node7 / Poly Hotspot: Poly02 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element02');"
+msgstr "javascript:TourEngine.bukaOtomatis('Element02');"
+
 #. Node: node5 / User Data Date && Time
 msgid "2025:12:03 11:26:26"
+msgstr ""
+
+#. Node: node5 / User Data Custom Node ID
+msgid "penerimaantamu"
 msgstr ""
 
 #. Node: node5 / Point Hotspot: Point02 / Title
 msgid "Pakaian Adat"
 msgstr "传统服饰"
 
+#. Node: node5 / Point Hotspot: Point03 / Title
+msgid "Klik untuk informasi <br/>Kekanjat"
+msgstr "点击查看信息 <br/>Kekanjat"
+
+#. Node: node5 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Tupping"
+msgstr "点击查看信息 <br/>Tupping"
+
 #. Node: node6 / User Data Date && Time
 msgid "2025:12:03 11:24:41"
+msgstr ""
+
+#. Node: node6 / User Data Custom Node ID
+msgid "kikat"
 msgstr ""
 
 #. Node: node6 / Point Hotspot: Point01 / Title
@@ -115,124 +170,40 @@ msgid "Dekorasi Adat"
 msgstr "传统装饰"
 
 #. Node: node6 / Point Hotspot: Point03 / Title
-msgid "Area Belakang"
-msgstr "后方区域"
+msgid "Klik untuk informasi <br/>Kikat"
+msgstr "点击查看信息 <br/>Kikat"
 
 #. Node: node7 / User Data Date && Time
 msgid "2025:12:03 11:24:36"
 msgstr ""
 
+#. Node: node7 / User Data Custom Node ID
+msgid "raden"
+msgstr ""
+
+#. Node: node7 / Pinned Web Element: Element05 / Code
+msgid "<div id=\"Element03\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr "<div id=\"Element03\" style=\"width: 100%; height: 100%;\"></div>"
+
 #. Node: node7 / Point Hotspot: Point01 / Title
 msgid "Pintu Keluar"
 msgstr "出口"
 
-#. Node: node9 / User Data Date && Time
-msgid "2025:12:06 12:38:09"
-msgstr ""
+#. Node: node7 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Kain Putih"
+msgstr "点击查看信息 <br/>白布"
 
-#. Node: node9 / Point Hotspot: Point01 / Title
-#. Node: node10 / Point Hotspot: Point01 / Title
-#. Node: node10 / Point Hotspot: Point03 / Title
-#. Node: node11 / Point Hotspot: Point01 / Title
-#. Node: node12 / Point Hotspot: Point01 / Title
-#. Node: node14 / Point Hotspot: Point01 / Title
-#. Node: node15 / Point Hotspot: Point01 / Title
-#. Node: node20 / Point Hotspot: Point01 / Title
-#. Node: node25 / Point Hotspot: Point01 / Title
-msgid "Lamban Balak Marga Legun"
-msgstr "Lamban Balak Marga Legun"
+#. Node: node7 / Point Hotspot: Point05 / Title
+msgid "Klik untuk informasi <br/>Pakaian Adat"
+msgstr "点击查看信息 <br/>传统服饰"
 
-#. Node: node9 / Point Hotspot: Point02 / Title
-#. Node: node13 / Point Hotspot: Point01 / Title
-#. Node: node13 / Point Hotspot: Point02 / Title
-#. Node: node14 / Point Hotspot: Point03 / Title
-#. Node: node21 / Point Hotspot: Point01 / Title
-#. Node: node21 / Point Hotspot: Point02 / Title
-#. Node: node22 / Point Hotspot: Point01 / Title
-#. Node: node22 / Point Hotspot: Point02 / Title
-#. Node: node23 / Point Hotspot: Point01 / Title
-#. Node: node23 / Point Hotspot: Point02 / Title
-#. Node: node24 / Point Hotspot: Point02 / Title
-#. Node: node24 / Point Hotspot: Point03 / Title
-#. Node: node25 / Point Hotspot: Point02 / Title
-msgid "Galeri"
-msgstr "画廊"
+#. Node: node7 / Point Hotspot: Point06 / Title
+msgid "Klik untuk informasi <br/>Raden Intan II"
+msgstr "点击查看信息 <br/>拉丁·英丹二世"
 
-#. Node: node9 / Point Hotspot: Point03 / Title
-msgid "Pelabuhan Bakauheni (Est. 50 Menit)"
-msgstr "巴考赫尼港（约50分钟）"
-
-#. Node: node9 / Point Hotspot: Point03 / URL
-msgid ""
-"https://lampung-selatan.govirtual.id/infrastructure/"
-"index.html#Bakauheni"
-msgstr ""
-
-#. Node: node9 / Point Hotspot: Point04 / Title
-msgid "Menara Siger (Est. 50 Menit)"
-msgstr "西格尔塔（约50分钟）"
-
-#. Node: node9 / Point Hotspot: Point05 / Title
-msgid "Peternakan Juang Jaya (Est. 50 Menit)"
-msgstr "Juang Jaya 农场（约50分钟）"
-
-#. Node: node9 / Point Hotspot: Point06 / Title
-msgid "Bandara Internasional Radin Inten II (Est. 50 Menit)"
-msgstr "拉丁英丹二世国际机场（约50分钟）"
-
-#. Node: node9 / Point Hotspot: Point06 / URL
-msgid ""
-"https://lampung-selatan.govirtual.id/infrastructure/"
-"index.html#BandarUdara"
-msgstr ""
-
-#. Node: node10 / Point Hotspot: Point02 / Title
-msgid "Lapangan"
-msgstr "广场"
-
-#. Node: node10 / Point Hotspot: Point04 / Title
-#. Node: node17 / Point Hotspot: Point02 / Title
-#. Node: node18 / Point Hotspot: Point01 / Title
-msgid "Rumah Adat"
-msgstr "传统房屋"
-
-#. Node: node11 / User Data Date && Time
-msgid "1/22/2021 4:47 PM"
-msgstr ""
-
-#. Node: node12 / User Data Date && Time
-msgid "1/22/2021 4:06 PM"
-msgstr ""
-
-#. Node: node13 / User Data Date && Time
-msgid "1/22/2021 5:07 PM"
-msgstr ""
-
-#. Node: node13 / Point Hotspot: Point03 / Title
-#. Node: node14 / Point Hotspot: Point04 / Title
-#. Node: node17 / Point Hotspot: Point01 / Title
-#. Node: node24 / Point Hotspot: Point01 / Title
-msgid "Keluar"
-msgstr "离开"
-
-#. Node: node14 / User Data Date && Time
-msgid "1/22/2021 4:40 PM"
-msgstr ""
-
-#. Node: node14 / Point Hotspot: Point02 / Title
-msgid "Halaman Belakang"
-msgstr "后院"
-
-#. Node: node15 / User Data Date && Time
-#. Node: node19 / User Data Date && Time
-#. Node: node21 / User Data Date && Time
-#. Node: node25 / User Data Date && Time
-msgid "11/5/2025 5:32 PM"
-msgstr ""
-
-#. Node: node20 / User Data Custom Node ID
-msgid "BandarMargaLegun"
-msgstr "BandarMargaLegun"
+#. Node: node7 / Poly Hotspot: Poly03 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element03');"
+msgstr "javascript:TourEngine.bukaOtomatis('Element03');"
 
 #. Context Menu Default Entry
 msgid "Enter VR"
@@ -244,4 +215,4 @@ msgstr "进入全屏"
 
 #. Context Menu Default Entry
 msgid "Exit Fullscreen"
-msgstr "进入全屏"
+msgstr "退出全屏"

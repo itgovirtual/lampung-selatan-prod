@@ -169,7 +169,7 @@
         <author>Govirtual</author>
         <copyright>govirtual</copyright>
         <datetime>2025:12:03 11:26:23</datetime>
-        <tags>LambanBalakKeratuanDarahPutih</tags>
+        <tags>LambanBalakKeratuanDarahPutih|oi</tags>
         <altitude>-3048</altitude>
         <customnodeid>KeratuanDarahPutih</customnodeid>
         <latitude>-5.73500366</latitude>
@@ -267,9 +267,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-20.32</pan>
-            <tilt>1.14</tilt>
-            <fov>10</fov>
+            <pan>-25.24</pan>
+            <tilt>0.02</tilt>
+            <fov>14</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -279,6 +279,7 @@
           <customprops/>
           <polygon/>
           <id>Point05</id>
+          <title>Klik untuk informasi &lt;br/>Arsitektur</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>hotspot_oi_polygon</skinid>
@@ -286,11 +287,33 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-5.8/21.11|-5.77/-11.23|-32.28/-9.3|-31.38/10.64|-34.47/10.13|-35.16/12.31|-28.48/18.71</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -300,14 +323,14 @@
       <sounds>
         <sound>
           <position>
-            <pan>-47.97</pan>
-            <tilt>2.5</tilt>
+            <pan>-44.42</pan>
+            <tilt>1.63</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>30</fov>
+            <fov>20</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
@@ -330,15 +353,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-1" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=165&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -452,14 +467,14 @@
           <title>Masjid Agung Kalianda (Est. 15 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lampung-selatan.govirtual.id/religion/index.html#MasjidAgungKalianda</url>
+          <url>https://lampung-selatan.govirtual.id/masjidagung/index.html#</url>
           <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/Box UI Location-20251210T105004Z-3-001/Box UI Location/NEW LOKASI/L_Masjid Agung Kalianda_HLL.png</customimage>
-          <urlsafecustomimage>L_Masjid Agung Kalianda_HLL.png</urlsafecustomimage>
+          <urlsafecustomimage>L_Masjid Agung Kalianda_HLL-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>253</height>
@@ -481,14 +496,14 @@
           <title>Menara Siger (Est. 30 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lampung-selatan.govirtual.id/infrastructure/index.html#MenaraSiger</url>
+          <url>https://lampung-selatan.govirtual.id/menarasiger/index.html#</url>
           <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/Menara Siger.png</customimage>
-          <urlsafecustomimage>Menara Siger.png</urlsafecustomimage>
+          <urlsafecustomimage>Menara Siger-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>253</height>
@@ -510,14 +525,14 @@
           <title>PT Juang Jaya (Est. 1 Jam)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lampung-selatan.govirtual.id/agriculture/index.html#PeternakanJuangJaya</url>
+          <url>https://lampung-selatan.govirtual.id/ptjuangjaya/index.html#</url>
           <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/Box UI Location-20251210T105004Z-3-001/Box UI Location/PT juang jaya- peternakan sapi.png</customimage>
-          <urlsafecustomimage>PT juang jaya- peternakan sapi.png</urlsafecustomimage>
+          <urlsafecustomimage>PT juang jaya- peternakan sapi-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>252</height>
@@ -567,9 +582,11 @@
         <capturedatetime>2025-12-02T20:26:10</capturedatetime>
         <copyright>govirtual</copyright>
         <datetime>2025:12:03 11:25:13</datetime>
-        <tags>LambanBalakKeratuanDarahPutih</tags>
+        <tags>LambanBalakKeratuanDarahPutih|oi</tags>
         <latitude>-5.73500366</latitude>
         <longitude>105.66188378</longitude>
+        <altitude>-3048</altitude>
+        <customnodeid>keubung</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -598,15 +615,16 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-31.12</pan>
-            <tilt>3.7</tilt>
-            <fov>10</fov>
+            <pan>-39.59</pan>
+            <tilt>3.46</tilt>
+            <fov>15</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -616,24 +634,25 @@
           <customprops/>
           <polygon/>
           <id>Point02</id>
+          <title>Klik untuk informasi &lt;br/>Keubung Tikhai</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon2</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-9.47</pan>
-            <tilt>-10.94</tilt>
-            <fov>10</fov>
+            <pan>-1.5</pan>
+            <tilt>-11.03</tilt>
+            <fov>13</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -643,18 +662,63 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
+          <title>Klik untuk informasi &lt;br/>Silsilah</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon3</skinid>
+          <skinid>hotspot_oi_polygon2</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info - kiri.png</customimage>
+          <urlsafecustomimage>line info - kiri.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-5.19/-2.16|-4.73/-18.4|-15.85/-19.72|-15.78/-1.28</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element02');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element02');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-18.76/7.59|-17.59/-4.21|-48.21/-5.29|-44.18/6.61</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly02</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -664,8 +728,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-72.58</pan>
-            <tilt>-8.68</tilt>
+            <pan>-70.34</pan>
+            <tilt>2.42</tilt>
           </position>
           <videorect>
             <rotx>3</rotx>
@@ -694,25 +758,17 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-2" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=166&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
         <sound>
           <position>
-            <pan>-339.32</pan>
-            <tilt>-11.4</tilt>
+            <pan>-338.48</pan>
+            <tilt>-10.11</tilt>
           </position>
           <videorect>
-            <rotx>0</rotx>
-            <roty>0</roty>
+            <rotx>-8</rotx>
+            <roty>-2</roty>
             <rotz>0</rotz>
             <fov>30</fov>
             <stretch>100</stretch>
@@ -737,15 +793,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-3" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=167&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element02" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -808,7 +856,7 @@
         <capturedatetime>2025-12-02T20:26:32</capturedatetime>
         <copyright>govirtual</copyright>
         <datetime>2025:12:03 11:26:26</datetime>
-        <tags>LambanBalakKeratuanDarahPutih</tags>
+        <tags>LambanBalakKeratuanDarahPutih|oi</tags>
         <latitude>-5.73500366</latitude>
         <longitude>105.66188378</longitude>
         <altitude>-3048</altitude>
@@ -877,9 +925,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-19.99</pan>
-            <tilt>-2.01</tilt>
-            <fov>10</fov>
+            <pan>-28.75</pan>
+            <tilt>-1.54</tilt>
+            <fov>12</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -889,24 +937,25 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
+          <title>Klik untuk informasi &lt;br/>Kekanjat</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon8</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-358.37</pan>
-            <tilt>-29.75</tilt>
-            <fov>10</fov>
+            <pan>-337.85</pan>
+            <tilt>-27.77</tilt>
+            <fov>13</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -916,17 +965,63 @@
           <customprops/>
           <polygon/>
           <id>Point04</id>
+          <title>Klik untuk informasi &lt;br/>Tupping</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon9</skinid>
+          <skinid>hotspot_oi_polygon2</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
+          <customimage>assets/baru/line info - kiri.png</customimage>
+          <urlsafecustomimage>line info - kiri.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-21.92/3.32|-15.34/2.67|-13.64/-1.75|-18.14/-4.37|-22.35/-4.09|-24.75/1.62</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-342.02/-25.08|-337.95/-30.64|-347.42/-47.4|-15.63/-47.23|-18.55/-37.76|-10.35/-25.07|-343.8/-23.48</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly02</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element02');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element02');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -936,14 +1031,14 @@
       <sounds>
         <sound>
           <position>
-            <pan>-47.02</pan>
-            <tilt>-1.08</tilt>
+            <pan>-47.44</pan>
+            <tilt>-1.29</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>30</fov>
+            <fov>23</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
@@ -966,27 +1061,19 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-8" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=172&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
         <sound>
           <position>
-            <pan>-352.36</pan>
-            <tilt>2.73</tilt>
+            <pan>-314.76</pan>
+            <tilt>-22.2</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>30</fov>
+            <fov>26</fov>
             <stretch>100</stretch>
             <dimx>400</dimx>
             <dimy>600</dimy>
@@ -1009,15 +1096,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-9" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=173&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element02" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -1060,9 +1139,11 @@
         <capturedatetime>2025-12-02T20:26:10</capturedatetime>
         <copyright>govirtual</copyright>
         <datetime>2025:12:03 11:24:41</datetime>
-        <tags>LambanBalakKeratuanDarahPutih</tags>
+        <tags>LambanBalakKeratuanDarahPutih|oi</tags>
         <latitude>-5.73500366</latitude>
         <longitude>105.66188378</longitude>
+        <altitude>-3048</altitude>
+        <customnodeid>kikat</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1128,9 +1209,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-0.2</pan>
-            <tilt>-29.99</tilt>
-            <fov>10</fov>
+            <pan>346.34</pan>
+            <tilt>-29.03</tilt>
+            <fov>14</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -1140,18 +1221,41 @@
           <customprops/>
           <polygon/>
           <id>Point03</id>
+          <title>Klik untuk informasi &lt;br/>Kikat</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon7</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-342.22/-9.28|-335.94/-46.99|-31.56/-49.39|-20.51/-7.72</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -1161,8 +1265,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-43.4</pan>
-            <tilt>1.73</tilt>
+            <pan>-42.75</pan>
+            <tilt>-25.41</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -1191,15 +1295,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-7" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=171&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -1242,9 +1338,11 @@
         <capturedatetime>2025-12-02T20:26:10</capturedatetime>
         <copyright>govirtual</copyright>
         <datetime>2025:12:03 11:24:36</datetime>
-        <tags>LambanBalakKeratuanDarahPutih</tags>
+        <tags>LambanBalakKeratuanDarahPutih|oi</tags>
         <latitude>-5.73500366</latitude>
         <longitude>105.66188378</longitude>
+        <altitude>-3048</altitude>
+        <customnodeid>raden</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1252,7 +1350,7 @@
           <position>
             <pan>181.58</pan>
             <tilt>-16.58</tilt>
-            <fov>5</fov>
+            <fov>12</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -1272,10 +1370,10 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/door.png</customimage>
-          <urlsafecustomimage>door.png</urlsafecustomimage>
+          <urlsafecustomimage>door-1.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>40</width>
-          <height>40</height>
+          <width>100</width>
+          <height>100</height>
         </hotspot>
         <hotspot>
           <position>
@@ -1339,9 +1437,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-306.42</pan>
-            <tilt>6.62</tilt>
-            <fov>10</fov>
+            <pan>-295.62</pan>
+            <tilt>0.24</tilt>
+            <fov>13</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -1351,23 +1449,24 @@
           <customprops/>
           <polygon/>
           <id>Point04</id>
+          <title>Klik untuk informasi &lt;br/>Kain Putih</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon4</skinid>
+          <skinid>hotspot_oi_polygon2</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info - kiri.png</customimage>
+          <urlsafecustomimage>line info - kiri.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-320.87</pan>
-            <tilt>-3.17</tilt>
+            <pan>-329.78</pan>
+            <tilt>-3.27</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1378,23 +1477,24 @@
           <customprops/>
           <polygon/>
           <id>Point05</id>
+          <title>Klik untuk informasi &lt;br/>Pakaian Adat</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon5</skinid>
+          <skinid>hotspot_oi_polygon3</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-357.31</pan>
-            <tilt>3.83</tilt>
+            <pan>-1.82</pan>
+            <tilt>3.73</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1405,18 +1505,85 @@
           <customprops/>
           <polygon/>
           <id>Point06</id>
+          <title>Klik untuk informasi &lt;br/>Raden Intan II</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon6</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO-1.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-351.1/8.12|-350.78/0.24|-0.8/0.17|-1.39/9.7</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-300.13/26.32|-300.17/-8.8|-313.53/-11.88|-309.2/27.71</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly02</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element02');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element02');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-319.14/5.4|-316.36/0.04|-315.97/-16.45|-325.94/-17.86|-325.45/-0.17|-323.65/5.02</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly03</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element03');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element03');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -1426,8 +1593,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-289.04</pan>
-            <tilt>-1.48</tilt>
+            <pan>-276.79</pan>
+            <tilt>1.06</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -1456,21 +1623,13 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-4" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=168&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element02" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
         <sound>
           <position>
-            <pan>-335.2</pan>
-            <tilt>-2.32</tilt>
+            <pan>-344.32</pan>
+            <tilt>-2.11</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -1499,21 +1658,13 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-5" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=169&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element03" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
         <sound>
           <position>
-            <pan>-13.02</pan>
-            <tilt>0.84</tilt>
+            <pan>-17</pan>
+            <tilt>2.24</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
@@ -1542,15 +1693,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-6" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=170&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -1591,6 +1734,7 @@
       <translationsavailable>
         <value id="Project">id-ID</value>
         <value id="ar.po">ar</value>
+        <value id="artmptmph.po">ar</value>
         <value id="en.po">en</value>
         <value id="nl.po">nl</value>
         <value id="zh_CN.po">zh-CN</value>
@@ -1598,6 +1742,7 @@
       <translationsnames>
         <value id="Project">Indonesia</value>
         <value id="ar.po">العربية</value>
+        <value id="artmptmph.po">العربية</value>
         <value id="en.po">English</value>
         <value id="nl.po">Nederlands</value>
         <value id="zh_CN.po">简体中文</value>
@@ -1605,6 +1750,8 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
+        <value id="artmpp.po">true</value>
+        <value id="artmptmph.po">true</value>
         <value id="en.po">true</value>
         <value id="nl.po">true</value>
         <value id="zh_CN.po">true</value>
@@ -1624,7 +1771,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/pano/lampungoi/darahputih/index.html</filename>
+          <filename>D:/xampp/htdocs/lampung-output/darahputih/index.html</filename>
           <values>
             <value id="cachebust">false</value>
             <value id="css"/>
@@ -1651,7 +1798,7 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>4007</tilesize>
-        <filename>C:/xampp/htdocs/pano/lampungoi/darahputih/pano.xml</filename>
+        <filename>D:/xampp/htdocs/lampung-output/darahputih/pano.xml</filename>
         <skinfile>$d/lampung-skin.ggsk</skinfile>
         <leveltileformat>1</leveltileformat>
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>

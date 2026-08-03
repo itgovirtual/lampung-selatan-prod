@@ -11,27 +11,185 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.8\n"
 
+#. Skin Variable: VB / Initial Value
+msgid "start"
+msgstr ""
+
+#. Skin Variable: link / Initial Value
+msgid "darahputih"
+msgstr ""
+
+#. Skin Variable: lokasi / Initial Value
+msgid "Lamban Balak<br>Keratuan Darah Putih"
+msgstr "Lamban Balak<br>Keratuan Darah Putih"
+
+#. Skin Element Text: Assistant Text / Text
+msgid "More\n"
+msgstr "Meer\n"
+
+#. Skin Element Text: Back umum / Text
+msgid "Back"
+msgstr "Terug"
+
+#. Skin Element: Backdrop Opening / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Berhenti / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Berhenti Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: No / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: No Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Skip Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: close-button-welcome / Set Variable Value Action (Variable Name: VB) / Text
+msgid "skip"
+msgstr ""
+
+#. Skin Element External: Closing vd / URL
+msgid "assets/closing.png"
+msgstr ""
+
+#. Skin Element Text: Desc 2 / Text
+#. Skin Element Text: Desc 2 Mobile / Text
+msgid "Pilihan fitur untuk memilih lokasi lain yang ingin anda pandu oleh kami"
+msgstr "Functie-optie om andere locaties te kiezen waarlangs u door ons rondgeleid wilt worden"
+
+#. Skin Element Text: Desc 3 / Text
+#. Skin Element Text: Desc Mobile / Text
+msgid ""
+"Pilihan fitur untuk berhenti memakai pemandu tour dan kembali menjelajah "
+"dengan bebas"
+msgstr ""
+"Functie-optie om te stoppen met de tourgids en weer vrij te verkennen"
+
+#. Skin Element Text: Enable Audio? / Text
+msgid "Enable Audio?"
+msgstr "Audio inschakelen?"
+
+#. Skin Element Text: Informasi-text / Text
+msgid "Informasi\n"
+msgstr "Informatie\n"
+
+#. Skin Element Text: Jelajah-text / Text
+#. Skin Element Text: Text Discover / Text
+msgid "Jelajah"
+msgstr "Ontdekken"
+
+#. Skin Element Text: Menu Tezt / Text
+#. Skin Element Text: Text Menu / Text
+msgid "Menu"
+msgstr "Menu"
+
+#. Skin Element Text: NO / Text
+msgid "NO"
+msgstr "NEE"
+
+#. Skin Element Text: Next umum / Text
+msgid "Next"
+msgstr "Volgende"
+
+#. Skin Element Text: No / Text
+#. Skin Element Text: No Mobile / Text
+msgid "Explore Virtual Tour"
+msgstr "Verken Virtuele Tour"
+
+#. Skin Element Text: Shop-text / Text
+msgid "Shop"
+msgstr "Winkel"
+
+#. Skin Element Text: Skip Mobile / Text
+#. Skin Element Button: skip-button_1 / Alternate Text
+msgid "Skip"
+msgstr "Overslaan"
+
+#. Skin Element Text: Start / Text
+#. Skin Element Text: Start Mobile / Text
+msgid "Start Virtual Buddy"
+msgstr "Start Virtuele Buddy"
+
+#. Skin Element: Start / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Start Mobile / Set Variable Value Action (Variable Name: VB) / Text
+msgid "show"
+msgstr ""
+
+#. Skin Element Text: Text 1 / Text
+#. Skin Element Text: Text 1_1 / Text
+msgid ""
+"Selamat datang! Saya akan menjadi pemandu virtual Anda di sini. Kita akan "
+"melihat setiap sudut lokasi ini untuk menemukan berbagai informasi serta "
+"detail menarik di setiap area yang Anda kunjungi."
+msgstr ""
+"Welkom! Ik ben hier uw virtuele gids. We zullen elke hoek van deze locatie "
+"bekijken om verschillende informatie en interessante details te ontdekken in "
+"elk gebied dat u bezoekt."
+
 #. Skin Element Text: Text 2 / Text
 msgid "X"
+msgstr "X"
+
+#. Skin Element Text: Text Info / Text
+msgid "Informasi"
+msgstr "Informatie"
+
+#. Skin Element Text: Text Public / Text
+msgid "Layanan Publik"
+msgstr "Publieke Diensten"
+
+#. Skin Element Text: Title 2 / Text
+#. Skin Element Text: Title 2 Mobile / Text
+msgid "Tour Selanjutnya"
+msgstr "Volgende Tour"
+
+#. Skin Element Text: Title 3 / Text
+#. Skin Element Text: Title 3 Mobile / Text
+msgid "Tour Mandiri"
+msgstr "Zelfstandige Tour"
+
+#. Skin Element External: Vidy / URL
+#. Skin Element External: Vidy Mobile / URL
+msgid "assets/avatar-cepet.png"
 msgstr ""
 
-#. Skin Element: button-category / Set Value Action (Target Element: popup_url) / Text
+#. Skin Element Text: YES / Text
+msgid "YES"
+msgstr "JA"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-discover) / Text
 msgid ""
-"<iframe id=\"url_iframe\"\n"
-"    src=\"../webview/kategori-id.html\"\n"
-"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-"pointer-events:auto; opacity:1;\"\n"
-"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-"  </iframe>"
+"<iframe src=\"../webview/discover.html?disc=%1&lang=id\" width=\"100%\" ; "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
 msgstr ""
-"<iframe id=\"url_iframe\"\n"
-"    src=\"../webview/kategori-nl.html\"\n"
-"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-"pointer-events:auto; opacity:1;\"\n"
-"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-"  </iframe>"
+"<iframe src=\"../webview/discover-nl.html?disc=%1&lang=nl\" width=\"100%\" ; "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-informasi) / Text
+msgid ""
+"<iframe src=\"../webview/informasi.html?info=%1&amp;lang=id\" width=\"100%"
+"\" ;=\"\" style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/informasi.html?info=%1&amp;lang=nl\" width=\"100%"
+"\" ;=\"\" style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url) / Text
+msgid ""
+"<iframe src=\"../webview/kategori-id.html\" width=\"100%\" ;=\"\" "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/kategori-nl.html\" width=\"100%\" ;=\"\" "
+"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
+"frameborder=\"0\"></iframe>"
+
+#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-menu) / Text
+msgid ""
+"<iframe src=\"../webview/menu.html\" width=\"100%\" ;=\"\" style=\"height: "
+"100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
+msgstr ""
+"<iframe src=\"../webview/menu-nl.html\" width=\"100%\" ;=\"\" style=\"height: "
+"100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
 
 #. Skin Element External: ht_node_custom_image / URL
+#. Skin Element External: ht_url_custom_image / URL
 msgid "_custom"
 msgstr ""
 
@@ -44,53 +202,29 @@ msgid ""
 "    frameborder=\"0\"\n"
 "></iframe>"
 msgstr ""
+"  <iframe\n"
+"    src=\"https://www.chatbase.co/chatbot-iframe/ld0-XDhWz-2tI29Pd2JeU\"\n"
+"    width=\"100%\"\n"
+"    style=\"height: 100%; min-height: 100%;\"\n"
+"    frameborder=\"0\"\n"
+"></iframe>"
 
-#. Skin Element: public-service lamban balak / Set Value Action (Target Element: popup_url-informasi) / Text
-msgid ""
-"<iframe id=\"url_iframe\"\n"
-"    src=\"../webview/informasi.html?info=8&lang=id\"\n"
-"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-"pointer-events:auto; opacity:1;\"\n"
-"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-"  </iframe>"
-msgstr ""
-"<iframe id=\"url_iframe\"\n"
-"    src=\"../webview/informasi.html?info=8&lang=nl\"\n"
-"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-"pointer-events:auto; opacity:1;\"\n"
-"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-"  </iframe>"
+#. Skin Element Text: text 2 / Text
+#. Skin Element Text: text 2 Mobile / Text
+msgid "Next Journey"
+msgstr "Volgende Reis"
 
-#. Skin Element: public-service lamban legun / Set Value Action (Target Element: popup_url-informasi) / Text
-msgid ""
-"<iframe id=\"url_iframe\"\n"
-"    src=\"../webview/informasi.html?info=3&lang=id\"\n"
-"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-"pointer-events:auto; opacity:1;\"\n"
-"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-"  </iframe>"
-msgstr ""
-"<iframe id=\"url_iframe\"\n"
-"    src=\"../webview/informasi.html?info=3&lang=nl\"\n"
-"    style=\"position:absolute; inset:0; width:100%; height:100%; border:0; "
-"pointer-events:auto; opacity:1;\"\n"
-"    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-"  </iframe>"
+#. Skin Element Text: text 3 / Text
+#. Skin Element Text: text 3 Mobile / Text
+msgid "Berhenti"
+msgstr "Stoppen"
 
-#. Skin Element Button: skip - bandar_legun / Alternate Text
-#. Skin Element Button: skip - lamban_balak / Alternate Text
-msgid "Skip"
-msgstr ""
+#. Skin Element Text: txt-chatbot / Text
+#. Skin Element Text: txt-chatbot-mobile / Text
+msgid "Chatbot"
+msgstr "Chatbot"
 
-#. Skin Element Text: title-balak-txt / Text
-msgid "Lamban Balak<br>Keratuan Darah Putih"
-msgstr ""
-
-#. Skin Element Text: title-kalianda-txt / Text
-msgid "Lamban Balak<br>Bandar Marga Legun"
-msgstr ""
-
-#. Skin Element Text: txt- balak / Text
+#. Skin Element Text: txt-welcome / Text
 msgid ""
 "Selamat datang di Lamban Balak Keratuan Darah Putih, jantung budaya Saibatin "
 "di Lampung Selatan! Rasakan keagungan tradisi Lampung melalui rumah adat "
@@ -113,67 +247,3 @@ msgstr ""
 "liefhebbers van geschiedenis en cultuur. Geniet van vriendelijke service en "
 "complete faciliteiten voor een betekenisvolle reis. Beleef een onvergetelijk "
 "cultureel avontuur in Lampung!"
-
-#. Skin Element Text: txt- kalianda / Text
-msgid ""
-"Selamat datang di Rumah Adat Lamban Balak Bandar Marga Legun, simbol budaya "
-"Pepadun di Bandar Lampung! Rasakan pesona tradisi Lampung melalui arsitektur "
-"panggung megah, siger pusaka, dan ornamen khas. Destinasi ini menawarkan tur "
-"edukatif, workshop kain tapis, dan demo ritual begawi untuk pengalaman "
-"budaya yang mendalam. Terletak di Teluk Betung Barat, mudah diakses dari "
-"pusat kota, tempat ini cocok untuk pecinta sejarah dan budaya. Dengan "
-"pelayanan ramah dan fasilitas lengkap, nikmati perjalanan penuh makna yang "
-"menghidupkan warisan Lampung. \n"
-"Ayo, jelajahi kekayaan budaya di sini!"
-msgstr ""
-"Welkom bij Lamban Balak Bandar Marga Legun Traditional House, een symbool "
-"van de Pepadun-cultuur in Bandar Lampung! Ervaar de charme van de Lampungse "
-"tradities door middel van de prachtige podiumarchitectuur, de traditionele "
-"siger (traditionele houten doeken) en de kenmerkende ornamenten. Deze "
-"locatie biedt educatieve rondleidingen, workshops tapis-stof maken en "
-"demonstraties van Begawi-rituelen voor een meeslepende culturele ervaring. "
-"Gelegen in West Teluk Betung, gemakkelijk bereikbaar vanuit het "
-"stadscentrum, is deze bestemming perfect voor liefhebbers van geschiedenis "
-"en cultuur. Geniet van een betekenisvolle reis met vriendelijke service en "
-"complete faciliteiten, waarbij het erfgoed van Lampung tot leven komt.\n"
-"\n"
-"Kom en ontdek de rijke cultuur hier!"
-
-#. Skin Element Text: txt-category / Text
-msgid "KATEGORI"
-msgstr "CATEGORIE"
-
-#. Skin Element Text: txt-chatbot / Text
-msgid "Chatbot"
-msgstr ""
-
-#. Skin Element Text: txt-discover lamban balak / Text
-msgid "Kegiatan"
-msgstr "Activiteit"
-
-#. Skin Element Text: txt-discover lamban legun / Text
-msgid "Sejarah"
-msgstr "geschiedenis"
-
-#. Skin Element Text: txt-gallery lamban balak / Text
-#. Skin Element Text: txt-gallery legun / Text
-msgid "Informasi"
-msgstr "Informatie"
-
-#. Skin Element Text: txt-lamban balak / Text
-#. Skin Element Text: txt-lamban legun / Text
-msgid "Berita"
-msgstr "Nieuws"
-
-#. Skin Element Text: txt-menu lamban balak / Text
-#. Skin Element Text: txt-menu lamban legun / Text
-msgid "Tentang Kami"
-msgstr "Over ons"
-
-#, fuzzy
-#~| msgid "Event"
-#~ msgid "Event"
-#~ msgstr "Evenement"
-
-#~ msgid "News"
-#~ msgstr "Nieuws"
