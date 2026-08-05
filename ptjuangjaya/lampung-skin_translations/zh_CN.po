@@ -11,94 +11,99 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.8\n"
 
-#. Skin Element Text: Assistant Text / Text
-msgid "More\n"
+#. Skin Variable: VB / Initial Value
+msgid "start"
 msgstr ""
 
-#. Skin Element: Button Kategori / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Button Kategori Mobile / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/kategori-id.html\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
+#. Skin Variable: link / Initial Value
+msgid "ptjuangjaya"
 msgstr ""
+
+#. Skin Element Text: Assistant Text / Text
+msgid "More\n"
+msgstr "更多\n"
+
+#. Skin Element Text: Back umum / Text
+msgid "Back"
+msgstr "返回"
+
+#. Skin Element: Backdrop Opening / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Berhenti / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Berhenti Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: No / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: No Mobile / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Skip Mobile / Set Variable Value Action (Variable Name: VB) / Text
+msgid "skip"
+msgstr ""
+
+#. Skin Element External: Closing vd / URL
+msgid "assets/closing.png"
+msgstr ""
+
+#. Skin Element Text: Desc 2 / Text
+#. Skin Element Text: Desc 2 Mobile / Text
+msgid "Pilihan fitur untuk memilih lokasi lain yang ingin anda pandu oleh kami"
+msgstr "选择您希望我们引导的另一个位置的功能"
+
+#. Skin Element Text: Desc 3 / Text
+#. Skin Element Text: Desc Mobile / Text
+msgid ""
+"Pilihan fitur untuk berhenti memakai pemandu tour dan kembali menjelajah "
+"dengan bebas"
+msgstr "停止使用导游并恢复自由探索的功能"
 
 #. Skin Element Text: Enable Audio? / Text
 msgid "Enable Audio?"
-msgstr ""
-
-#. Skin Element: Icon + Discover / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Jelajah / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/discover.html?disc=3&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-
-#. Skin Element: Icon + Info / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Informasi / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/informasi.html?info=9&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-
-#. Skin Element: Icon + Menu / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/menu.php?menu=30&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-
-#. Skin Element: Icon + Public / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/publicservice.php?lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
-
-#. Skin Element Text: Informasi-text / Text
-#, fuzzy
-#| msgid "Informasi"
-msgid "Informasi\n"
-msgstr "信息"
-
-#. Skin Element Text: Jelajah-text / Text
-#. Skin Element Text: Text Discover / Text
-#, fuzzy
-#| msgid "Jelajahi"
-msgid "Jelajah"
-msgstr "探索"
-
-#. Skin Element: Menu / Set Value Action (Target Element: Iframe) / Text
-msgid ""
-"<iframe src=\"../webview/menu.php?menu=76&lang=id\"\n"
-"width=\"100%\";\n"
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-"frameborder=\"0\"></iframe>"
-msgstr ""
+msgstr "启用音频？"
 
 #. Skin Element Text: Menu Tezt / Text
 #. Skin Element Text: Text Menu / Text
 msgid "Menu"
-msgstr ""
+msgstr "菜单"
 
 #. Skin Element Text: NO / Text
 msgid "NO"
+msgstr "否"
+
+#. Skin Element Text: Next umum / Text
+msgid "Next"
+msgstr "下一步"
+
+#. Skin Element Text: No / Text
+#. Skin Element Text: No Mobile / Text
+msgid "Explore Virtual Tour"
+msgstr "探索虚拟游览"
+
+#. Skin Element Text: Skip Mobile / Text
+#. Skin Element Button: skip-button_1 / Alternate Text
+msgid "Skip"
+msgstr "跳过"
+
+#. Skin Element Text: Start / Text
+#. Skin Element Text: Start Mobile / Text
+msgid "Start Virtual Buddy"
+msgstr "启动虚拟助手"
+
+#. Skin Element: Start / Set Variable Value Action (Variable Name: VB) / Text
+#. Skin Element: Start Mobile / Set Variable Value Action (Variable Name: VB) / Text
+msgid "show"
 msgstr ""
 
-#. Skin Element Text: Shop-text / Text
-msgid "Shop"
+#. Skin Element Text: Text 1 / Text
+#. Skin Element Text: Text 1_1 / Text
+msgid ""
+"Selamat datang! Saya akan menjadi pemandu virtual Anda di sini. Kita akan "
+"melihat setiap sudut lokasi ini untuk menemukan berbagai informasi serta "
+"detail menarik di setiap area yang Anda kunjungi."
 msgstr ""
 
 #. Skin Element Text: Text 2 / Text
 msgid "X"
-msgstr ""
+msgstr "X"
+
+#. Skin Element Text: Text Discover / Text
+msgid "Jelajah"
+msgstr "探索"
 
 #. Skin Element Text: Text Info / Text
 msgid "Informasi"
@@ -106,13 +111,29 @@ msgstr "信息"
 
 #. Skin Element Text: Text Public / Text
 msgid "Layanan Publik"
+msgstr "公共服务"
+
+#. Skin Element Text: Title 2 / Text
+#. Skin Element Text: Title 2 Mobile / Text
+msgid "Tour Selanjutnya"
+msgstr "下一个游览"
+
+#. Skin Element Text: Title 3 / Text
+#. Skin Element Text: Title 3 Mobile / Text
+msgid "Tour Mandiri"
+msgstr "自助游"
+
+#. Skin Element External: Vidy / URL
+#. Skin Element External: Vidy Mobile / URL
+msgid "assets/avatar-cepet.png"
 msgstr ""
 
 #. Skin Element Text: YES / Text
 msgid "YES"
-msgstr ""
+msgstr "是"
 
 #. Skin Element External: ht_node_custom_image / URL
+#. Skin Element External: ht_url_custom_image / URL
 msgid "_custom"
 msgstr ""
 
@@ -125,249 +146,24 @@ msgid ""
 "    frameborder=\"0\"\n"
 "></iframe>"
 msgstr ""
+"  <iframe\n"
+"    src=\"https://www.chatbase.co/chatbot-iframe/ld0-XDhWz-2tI29Pd2JeU\"\n"
+"    width=\"100%\"\n"
+"    style=\"height: 100%; min-height: 100%;\"\n"
+"    frameborder=\"0\"\n"
+"></iframe>"
 
-#. Skin Element Button: skip-button_1 / Alternate Text
-msgid "Skip"
-msgstr ""
+#. Skin Element Text: text 2 / Text
+#. Skin Element Text: text 2 Mobile / Text
+msgid "Next Journey"
+msgstr "下一段旅程"
 
-#. Skin Element Text: title-txt / Text
-msgid "PT Juang Jaya Peternakan"
-msgstr "PT Juang Jaya 畜牧业"
+#. Skin Element Text: text 3 / Text
+#. Skin Element Text: text 3 Mobile / Text
+msgid "Berhenti"
+msgstr "停止"
 
 #. Skin Element Text: txt-chatbot / Text
+#. Skin Element Text: txt-chatbot-mobile / Text
 msgid "Chatbot"
 msgstr "聊天机器人"
-
-#. Skin Element Text: txt-welcome / Text
-msgid ""
-"Selamat datang di Perternakan Juang Jaya, pusat peternakan sapi modern di "
-"Lampung Selatan!proses penggemukan sapi yang inovatif dan pelajari "
-"kontribusi kami untuk ketahanan pangan nasional. Berlokasi di Sidomulyo, "
-"hanya 1 jam dari Bandar Lampung, destinasi ini menawarkan tur edukatif untuk "
-"keluarga dan pelajar. Dengan fasilitas modern dan pelayanan ramah, nikmati "
-"pengalaman belajar tentang peternakan berkelanjutan. Cocok untuk yang ingin "
-"tahu lebih dalam tentang industri peternakan, Perternakan Juang Jaya siap "
-"memberikan wawasan baru. Ayo, jelajahi dunia peternakan dan dukung produk "
-"lokal bersama kami!"
-msgstr ""
-"欢迎来到位于南楠榜的现代化养牛中心——Juang Jaya农场！亲眼见证我们创新的肉牛育"
-"肥流程，了解我们为国家粮食安全所做的贡献。农场位于距离楠榜市仅一小时车程的西"
-"多穆廖（Sidomulyo），为家庭和学生提供教育参观。凭借现代化的设施和热情周到的服"
-"务，您将体验到可持续农业的学习之旅。Juang Jaya农场是畜牧业爱好者的理想之选，"
-"我们将为您提供全新的视角。快来加入我们，探索畜牧业的世界，支持本地产品！"
-
-#, fuzzy
-#~| msgid ""
-#~| "<iframe id=\"url_iframe\"\n"
-#~| "    src=\"https://lampung-selatan.govirtual.id/webview/kategori-"
-#~| "id.html\"\n"
-#~| "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~| "border:0; pointer-events:auto; opacity:1;\"\n"
-#~| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~| "  </iframe>"
-#~ msgid ""
-#~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/kategori-id.html\"\n"
-#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~ "border:0; pointer-events:auto; opacity:1;\"\n"
-#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~ "  </iframe>"
-#~ msgstr ""
-#~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"https://lampung-selatan.govirtual.id/webview/kategori-"
-#~ "zh.html\"\n"
-#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~ "border:0; pointer-events:auto; opacity:1;\"\n"
-#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~ "  </iframe>"
-
-#, fuzzy
-#~| msgid ""
-#~| "<iframe id=\"url_iframe\"\n"
-#~| "    src=\"https://lampung-selatan.govirtual.id/webview/discover.html?"
-#~| "disc=14&lang=id\"\n"
-#~| "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~| "border:0; pointer-events:auto; opacity:1;\"\n"
-#~| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~| "  </iframe>"
-#~ msgid ""
-#~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/discover.html?disc=14&lang=id\"\n"
-#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~ "border:0; pointer-events:auto; opacity:1;\"\n"
-#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~ "  </iframe>"
-#~ msgstr ""
-#~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"https://lampung-selatan.govirtual.id/webview/discover.html?"
-#~ "disc=14&lang=zh\"\n"
-#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~ "border:0; pointer-events:auto; opacity:1;\"\n"
-#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~ "  </iframe>"
-
-#, fuzzy
-#~| msgid ""
-#~| "<iframe id=\"url_iframe\"\n"
-#~| "    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
-#~| "info=62&lang=id\"\n"
-#~| "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~| "border:0; pointer-events:auto; opacity:1;\"\n"
-#~| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~| "  </iframe>"
-#~ msgid ""
-#~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/informasi.html?info=62&lang=id\"\n"
-#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~ "border:0; pointer-events:auto; opacity:1;\"\n"
-#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~ "  </iframe>"
-#~ msgstr ""
-#~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
-#~ "info=62&lang=zh\"\n"
-#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~ "border:0; pointer-events:auto; opacity:1;\"\n"
-#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~ "  </iframe>"
-
-#, fuzzy
-#~| msgid ""
-#~| "<iframe id=\"url_iframe\"\n"
-#~| "    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
-#~| "info=9&lang=id\"\n"
-#~| "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~| "border:0; pointer-events:auto; opacity:1;\"\n"
-#~| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~| "  </iframe>"
-#~ msgid ""
-#~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/informasi.html?info=9&lang=id\"\n"
-#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~ "border:0; pointer-events:auto; opacity:1;\"\n"
-#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~ "  </iframe>"
-#~ msgstr ""
-#~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
-#~ "info=9&lang=zh\"\n"
-#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~ "border:0; pointer-events:auto; opacity:1;\"\n"
-#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~ "  </iframe>"
-
-#, fuzzy
-#~| msgid ""
-#~| "<iframe id=\"url_iframe\"\n"
-#~| "    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
-#~| "info=11&lang=id\"\n"
-#~| "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~| "border:0; pointer-events:auto; opacity:1;\"\n"
-#~| "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~| "  </iframe>"
-#~ msgid ""
-#~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"../webview/informasi.html?info=11&lang=id\"\n"
-#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~ "border:0; pointer-events:auto; opacity:1;\"\n"
-#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~ "  </iframe>"
-#~ msgstr ""
-#~ "<iframe id=\"url_iframe\"\n"
-#~ "    src=\"https://lampung-selatan.govirtual.id/webview/informasi.html?"
-#~ "info=11&lang=zh\"\n"
-#~ "    style=\"position:absolute; inset:0; width:100%; height:100%; "
-#~ "border:0; pointer-events:auto; opacity:1;\"\n"
-#~ "    scrolling=\"auto\" allow=\"autoplay; fullscreen; clipboard-write\">\n"
-#~ "  </iframe>"
-
-#~ msgid "Budidaya Perikanan <br> Air Tawar"
-#~ msgstr "淡水渔业养殖 <br> 淡水"
-
-#~ msgid "Budidaya <br> Perikanan <br> Air Tawar"
-#~ msgstr "养殖 <br> 渔业 <br> 淡水"
-
-#~ msgid "PT Maju Tambak Sumur"
-#~ msgstr "马朱坦巴克苏穆尔有限公司"
-
-#~ msgid "PT Maju <br> Tambak <br> Sumur"
-#~ msgstr "马朱 <br> 坦巴克 <br> 苏穆尔"
-
-#~ msgid "Trimomukti Pertanian"
-#~ msgstr "特里莫穆克蒂农业"
-
-#~ msgid "Trimomukti <br> Pertanian"
-#~ msgstr "特里莫穆克蒂 <br> 农业"
-
-#~ msgid "PT Juang <br> Jaya <br> Peternakan"
-#~ msgstr "PT Juang <br> Jaya <br> 畜牧业"
-
-#, fuzzy
-#~| msgid ""
-#~| "Selamat datang di Kampung Nelayan Ketapang, sebuah pusat kehidupan "
-#~| "maritim yang ramai dan otentik di Kabupaten Lampung Selatan. Desa ini "
-#~| "menjadi saksi aktivitas melaut sehari-hari, di mana perahu-perahu "
-#~| "tradisional berjejer rapi di tepian pantai menghadap perairan Selat "
-#~| "Sunda. Ketapang sangat terkenal sebagai tempat pelelangan ikan (TPI), "
-#~| "menyediakan hasil laut segar terbaik, mulai dari ikan hingga udang. "
-#~| "Pengunjung dapat merasakan langsung suasana pasar yang dinamis, "
-#~| "berinteraksi dengan nelayan lokal, dan membeli tangkapan segar untuk "
-#~| "dibawa pulang. Kami mengundang Anda untuk menikmati pesona budaya bahari "
-#~| "yang khas ini sambil mendukung keberlanjutan mata pencaharian masyarakat "
-#~| "pesisir."
-#~ msgid ""
-#~ "Selamat datang di Kampung Nelayan Ketapang, pusat kehidupan maritim yang "
-#~ "ramai dan otentik di Kabupaten Lampung Selatan. Desa ini menjadi saksi "
-#~ "aktivitas melaut sehari-hari, di mana perahu-perahu tradisional berjejer "
-#~ "rapi menghadap perairan Selat Sunda. Ketapang terkenal sebagai tempat "
-#~ "pelelangan ikan (TPI) yang menyediakan hasil laut segar terbaik. "
-#~ "Pengunjung dapat merasakan suasana pasar yang dinamis, berinteraksi "
-#~ "dengan nelayan lokal, dan membeli tangkapan segar untuk dibawa pulang. "
-#~ "Nikmati pesona budaya bahari sambil mendukung keberlanjutan mata "
-#~ "masyarakat pesisir."
-#~ msgstr ""
-#~ "欢迎来到吉打邦渔村，这里是南楠榜县热闹而原汁原味的海洋生活中心。在这个村"
-#~ "庄，渔民们每日都在进行捕鱼作业，传统的渔船整齐地排列在岸边，俯瞰着巽他海"
-#~ "峡。吉打邦以其海鲜拍卖市场而闻名，提供从鱼到虾等各种最新鲜的海鲜。游客可以"
-#~ "体验热闹的市场氛围，与当地渔民互动交流，并购买新鲜捕捞的海鲜带回家。我们诚"
-#~ "邀您前来体验这独特的海洋文化魅力，同时支持沿海社区的可持续生计。"
-
-#~ msgid ""
-#~ "Selamat datang di Kawasan Pertanian Trimomukti, pusat inovasi smart "
-#~ "farming di Lampung Selatan Kawasan seluas 1.019 hektare di Desa "
-#~ "Trimomukti, Kecamatan Candipuro, ini menjadi pilot project pertanian "
-#~ "modern berbasis teknologi dari Kementerian Pertanian. Saksikan "
-#~ "transformasi lahan menjadi zona produksi padi dan jagung berkelanjutan, "
-#~ "lengkap dengan irigasi canggik, jalan usaha tani, dan listrik pendukung. "
-#~ "Cocok untuk edukasi keluarga, pelajar, atau pecinta agribisnis. Nikmati "
-#~ "tur demonstrasi, workshop petani,  dan pemandangan hijau subur. Dukung "
-#~ "ketahanan pangan nasik dengan kunjungan Anda, rasakan sinergi alam dan "
-#~ "teknologi di jantung Lampung!"
-#~ msgstr ""
-#~ "欢迎来到特里莫穆克蒂农业区，南楠榜的智慧农业创新中心！这片位于坎迪普罗县特"
-#~ "里莫穆克蒂村的1019公顷区域，是农业部推行的科技型现代农业试点项目。见证这片"
-#~ "土地如何蜕变为可持续发展的水稻和玉米生产区，配备先进的灌溉系统、农场道路和"
-#~ "配套电力设施。这里是家庭、学生和农业爱好者的理想之选。您可以参加示范参观、"
-#~ "农民工作坊，欣赏郁郁葱葱的绿色美景。您的到访将为水稻粮食安全贡献一份力量，"
-#~ "在楠榜中心地带体验自然与科技的完美融合！"
-
-#~ msgid "KATEGORI"
-#~ msgstr "类别"
-
-#~ msgid "Berita"
-#~ msgstr "消息"
-
-#~ msgid "Sejarah"
-#~ msgstr "历史"
-
-#~ msgid "Tentang Kami"
-#~ msgstr "关于我们"
-
-#~ msgid "Fasilitas"
-#~ msgstr "设施"
-
-#~ msgid "Hubungi Kami"
-#~ msgstr "联系我们"
-
-#~ msgid "About Us"
-#~ msgstr "关于我们"

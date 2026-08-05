@@ -3,48 +3,20 @@ msgid ""
 msgstr ""
 "X-Source-Language: id-ID"
 
+#. Skin Variable: VB / Initial Value
+msgid "start"
+msgstr ""
+
+#. Skin Variable: link / Initial Value
+msgid "ptjuangjaya"
+msgstr ""
+
 #. Skin Element Text: Assistant Text / Text
 msgid "More\n"
 msgstr ""
 
-#. Skin Element: Button Kategori / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Button Kategori Mobile / Set Value Action (Target Element: Iframe) / Text
-msgid "<iframe src=\"../webview/kategori-id.html\"\nwidth=\"100%\";\nstyle=\"height: 100%; min-height: 100%; border-radius:10px;\"\nframeborder=\"0\"></iframe>"
-msgstr ""
-
 #. Skin Element Text: Enable Audio? / Text
 msgid "Enable Audio?"
-msgstr ""
-
-#. Skin Element: Icon + Discover / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Jelajah / Set Value Action (Target Element: Iframe) / Text
-msgid "<iframe src=\"../webview/discover.html?disc=3&lang=id\"\nwidth=\"100%\";\nstyle=\"height: 100%; min-height: 100%; border-radius:10px;\"\nframeborder=\"0\"></iframe>"
-msgstr ""
-
-#. Skin Element: Icon + Info / Set Value Action (Target Element: Iframe) / Text
-#. Skin Element: Informasi / Set Value Action (Target Element: Iframe) / Text
-msgid "<iframe src=\"../webview/informasi.html?info=9&lang=id\"\nwidth=\"100%\";\nstyle=\"height: 100%; min-height: 100%; border-radius:10px;\"\nframeborder=\"0\"></iframe>"
-msgstr ""
-
-#. Skin Element: Icon + Menu / Set Value Action (Target Element: Iframe) / Text
-msgid "<iframe src=\"../webview/menu.php?menu=30&lang=id\"\nwidth=\"100%\";\nstyle=\"height: 100%; min-height: 100%; border-radius:10px;\"\nframeborder=\"0\"></iframe>"
-msgstr ""
-
-#. Skin Element: Icon + Public / Set Value Action (Target Element: Iframe) / Text
-msgid "<iframe src=\"../webview/publicservice.php?lang=id\"\nwidth=\"100%\";\nstyle=\"height: 100%; min-height: 100%; border-radius:10px;\"\nframeborder=\"0\"></iframe>"
-msgstr ""
-
-#. Skin Element Text: Informasi-text / Text
-msgid "Informasi\n"
-msgstr ""
-
-#. Skin Element Text: Jelajah-text / Text
-#. Skin Element Text: Text Discover / Text
-msgid "Jelajah"
-msgstr ""
-
-#. Skin Element: Menu / Set Value Action (Target Element: Iframe) / Text
-msgid "<iframe src=\"../webview/menu.php?menu=76&lang=id\"\nwidth=\"100%\";\nstyle=\"height: 100%; min-height: 100%; border-radius:10px;\"\nframeborder=\"0\"></iframe>"
 msgstr ""
 
 #. Skin Element Text: Menu Tezt / Text
@@ -56,12 +28,12 @@ msgstr ""
 msgid "NO"
 msgstr ""
 
-#. Skin Element Text: Shop-text / Text
-msgid "Shop"
-msgstr ""
-
 #. Skin Element Text: Text 2 / Text
 msgid "X"
+msgstr ""
+
+#. Skin Element Text: Text Discover / Text
+msgid "Jelajah"
 msgstr ""
 
 #. Skin Element Text: Text Info / Text
@@ -77,6 +49,7 @@ msgid "YES"
 msgstr ""
 
 #. Skin Element External: ht_node_custom_image / URL
+#. Skin Element External: ht_url_custom_image / URL
 msgid "_custom"
 msgstr ""
 
@@ -88,15 +61,8 @@ msgstr ""
 msgid "Skip"
 msgstr ""
 
-#. Skin Element Text: title-txt / Text
-msgid "PT Juang Jaya Peternakan"
-msgstr ""
-
 #. Skin Element Text: txt-chatbot / Text
+#. Skin Element Text: txt-chatbot-mobile / Text
 msgid "Chatbot"
-msgstr ""
-
-#. Skin Element Text: txt-welcome / Text
-msgid "Selamat datang di Perternakan Juang Jaya, pusat peternakan sapi modern di Lampung Selatan!proses penggemukan sapi yang inovatif dan pelajari kontribusi kami untuk ketahanan pangan nasional. Berlokasi di Sidomulyo, hanya 1 jam dari Bandar Lampung, destinasi ini menawarkan tur edukatif untuk keluarga dan pelajar. Dengan fasilitas modern dan pelayanan ramah, nikmati pengalaman belajar tentang peternakan berkelanjutan. Cocok untuk yang ingin tahu lebih dalam tentang industri peternakan, Perternakan Juang Jaya siap memberikan wawasan baru. Ayo, jelajahi dunia peternakan dan dukung produk lokal bersama kami!"
 msgstr ""
 
