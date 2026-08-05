@@ -1,4 +1,3 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -13,42 +12,6 @@ msgstr ""
 "X-Source-Language: id-ID\n"
 "X-Generator: Poedit 3.8\n"
 
-#. Node: node31 / User Data Title
-msgid "default (first)"
-msgstr ""
-
-#. Node: node31 / User Data Date && Time
-msgid "12/4/2025 11:50 AM"
-msgstr ""
-
-#. Node: node31 / Point Hotspot: Point01 / Title
-#. Node: node29 / Point Hotspot: Point05 / Title
-msgid "Miniatur Ka`Bah"
-msgstr "Miniatuur van de Kaaba"
-
-#. Node: node31 / Point Hotspot: Point02 / Title
-#. Node: node29 / Point Hotspot: Point06 / Title
-#. Node: node8 / Point Hotspot: Point01 / Title
-#. Node: node11 / Point Hotspot: Point01 / Title
-#. Node: node11 / Point Hotspot: Point02 / Title
-#. Node: node13 / Point Hotspot: Point01 / Title
-#. Node: node19 / Point Hotspot: Point02 / Title
-#. Node: node25 / Point Hotspot: Point03 / Title
-#. Node: node28 / Point Hotspot: Point05 / Title
-msgid "Masjid Agung Kalianda"
-msgstr "Kalianda Grand Mosque"
-
-#. Node: node31 / Point Hotspot: Point03 / Title
-#. Node: node29 / Point Hotspot: Point01 / Title
-#. Node: node29 / Point Hotspot: Point02 / Title
-#. Node: node12 / Point Hotspot: Point05 / Title
-#. Node: node28 / Point Hotspot: Point01 / Title
-#. Node: node28 / Point Hotspot: Point02 / Title
-#. Node: node30 / Point Hotspot: Point01 / Title
-#. Node: node30 / Point Hotspot: Point02 / Title
-msgid "Drone"
-msgstr "Drone"
-
 #. Node: node29 / User Data Title
 msgid "default"
 msgstr ""
@@ -61,24 +24,143 @@ msgstr ""
 msgid "MasjidAgungKalianda"
 msgstr "Grote Moskee van Kalianda"
 
+#. Node: node29 / Point Hotspot: Point01 / Title
+#. Node: node31 / Point Hotspot: Point03 / Title
+msgid "Masjid Agung Kalianda Drone"
+msgstr "Kalianda Grand Mosque"
+
+#. Node: node29 / Point Hotspot: Point02 / Title
+#. Node: node31 / Point Hotspot: Point06 / Title
+msgid "Gunung Krakatau (Est. 3 Jam)"
+msgstr ""
+
+#. Node: node29 / Point Hotspot: Point02 / URL
+#. Node: node31 / Point Hotspot: Point06 / URL
+msgid "https://lampung-selatan.govirtual.id/gunungkrakatau"
+msgstr "https://lampung-selatan.govirtual.id/gunungkrakatau"
+
+#. Node: node29 / Point Hotspot: Point03 / Title
+#. Node: node31 / Point Hotspot: Point05 / Title
+msgid "Pulau Mengkudu (Est. 1 Jam)"
+msgstr "Mengkudu-strand (Geschat: 45 minuten)"
+
+#. Node: node29 / Point Hotspot: Point03 / URL
+#. Node: node31 / Point Hotspot: Point05 / URL
+msgid "https://lampung-selatan.govirtual.id/pulaumengkudu"
+msgstr "https://lampung-selatan.govirtual.id/pulaumengkudu"
+
 #. Node: node29 / Point Hotspot: Point04 / Title
-#. Node: node28 / Point Hotspot: Point04 / Title
-#. Node: node30 / Point Hotspot: Point04 / Title
+#. Node: node31 / Point Hotspot: Point07 / Title
 msgid "Lamban Balak Keratuan Darah Putih (Est.15 Menit)"
 msgstr "Lamban Balak Keratuan Darah Putih (Est. 15 Minuten)"
 
 #. Node: node29 / Point Hotspot: Point04 / URL
-msgid "https://lampung-selatan.govirtual.id/culture/index.html#"
+msgid "https://lampung-selatan.govirtual.id/margalegun"
+msgstr "https://lampung-selatan.govirtual.id/margalegun"
+
+#. Node: node29 / Point Hotspot: Point05 / Title
+#. Node: node31 / Point Hotspot: Point01 / Title
+msgid "Miniatur Ka`Bah"
+msgstr "Miniatuur van de Kaaba"
+
+#. Node: node29 / Point Hotspot: Point06 / Title
+#. Node: node31 / Point Hotspot: Point02 / Title
+#. Node: node8 / Point Hotspot: Point01 / Title
+#. Node: node11 / Point Hotspot: Point01 / Title
+#. Node: node11 / Point Hotspot: Point02 / Title
+#. Node: node13 / Point Hotspot: Point01 / Title
+#. Node: node19 / Point Hotspot: Point02 / Title
+#. Node: node25 / Point Hotspot: Point03 / Title
+msgid "Masjid Agung Kalianda"
+msgstr "Kalianda Grand Mosque"
+
+#. Node: node29 / Point Hotspot: Point07 / Title
+#. Node: node31 / Point Hotspot: Point04 / Title
+msgid "Menara Siger (Est. 40 Menit)"
+msgstr "Kedu Beach (Est. 8 Minuten)"
+
+#. Node: node29 / Point Hotspot: Point07 / URL
+#. Node: node31 / Point Hotspot: Point04 / URL
+msgid "https://lampung-selatan.govirtual.id/menarasiger"
+msgstr "https://lampung-selatan.govirtual.id/menarasiger"
+
+#. Node: node31 / User Data Title
+msgid "default (first)"
 msgstr ""
+
+#. Node: node31 / User Data Date && Time
+msgid "12/4/2025 11:50 AM"
+msgstr ""
+
+#. Node: node31 / User Data Custom Node ID
+msgid "arsitektur"
+msgstr ""
+
+#. Node: node31 / Pinned Web Element: Element07 / Code
+#. Node: node2 / Pinned Web Element: Element15 / Code
+#. Node: node3 / Pinned Web Element: Element05 / Code
+#. Node: node5 / Pinned Web Element: Element03 / Code
+#. Node: node9 / Pinned Web Element: Element06 / Code
+#. Node: node12 / Pinned Web Element: Element10 / Code
+#. Node: node17 / Pinned Web Element: Element13 / Code
+#. Node: node26 / Pinned Web Element: Element01 / Code
+msgid "<div id=\"Element01\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr "<div id=\"Element01\" style=\"width: 100%; height: 100%;\"></div>"
+
+#. Node: node31 / Pinned Web Element: Element08 / Code
+#. Node: node5 / Pinned Web Element: Element02 / Code
+#. Node: node6 / Pinned Web Element: Element04 / Code
+#. Node: node12 / Pinned Web Element: Element11 / Code
+msgid "<div id=\"Element02\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr "<div id=\"Element02\" style=\"width: 100%; height: 100%;\"></div>"
+
+#. Node: node31 / Point Hotspot: Point07 / URL
+msgid "https://lampung-selatan.govirtual.id/darahputih"
+msgstr "https://lampung-selatan.govirtual.id/darahputih"
+
+#. Node: node31 / Point Hotspot: Point08 / Title
+msgid "Klik untuk informasi <br/>Arsitektur"
+msgstr "Klik voor informatie <br/>Architectuur"
+
+#. Node: node31 / Point Hotspot: Point09 / Title
+msgid "Klik untuk informasi <br/>Menara"
+msgstr "Klik voor informatie <br/>Toren"
+
+#. Node: node31 / Poly Hotspot: Poly01 / URL
+#. Node: node2 / Poly Hotspot: Poly01 / URL
+#. Node: node3 / Poly Hotspot: Poly01 / URL
+#. Node: node5 / Poly Hotspot: Poly01 / URL
+#. Node: node9 / Poly Hotspot: Poly01 / URL
+#. Node: node12 / Poly Hotspot: Poly01 / URL
+#. Node: node17 / Poly Hotspot: Poly01 / URL
+#. Node: node22 / Poly Hotspot: Poly01 / URL
+#. Node: node26 / Poly Hotspot: Poly01 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element01');"
+msgstr "javascript:TourEngine.bukaOtomatis('Element01');"
+
+#. Node: node31 / Poly Hotspot: Poly02 / URL
+#. Node: node5 / Poly Hotspot: Poly02 / URL
+#. Node: node6 / Poly Hotspot: Poly01 / URL
+#. Node: node12 / Poly Hotspot: Poly02 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element02');"
+msgstr "javascript:TourEngine.bukaOtomatis('Element02');"
 
 #. Node: node2 / User Data Date && Time
 msgid "11/03/2021 17:36"
+msgstr ""
+
+#. Node: node2 / User Data Custom Node ID
+msgid "baznas"
 msgstr ""
 
 #. Node: node2 / Point Hotspot: Point01 / Title
 #. Node: node6 / Point Hotspot: Point01 / Title
 msgid "Pintu Keluar"
 msgstr "Uitgang"
+
+#. Node: node2 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/>Baznas"
+msgstr "Klik voor informatie <br/>Baznas"
 
 #. Node: node3 / User Data Date && Time
 msgid "11/03/2021 17:18"
@@ -96,6 +178,10 @@ msgstr ""
 #. Node: node11 / Point Hotspot: Point03 / Title
 msgid "Pintu Masuk Samping"
 msgstr "Zij-ingang"
+
+#. Node: node3 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/>Replika Ka'bah"
+msgstr "Klik voor informatie <br/>Replica van de Ka'bah"
 
 #. Node: node4 / User Data Date && Time
 msgid "11/03/2021 17:11"
@@ -118,14 +204,22 @@ msgstr "Miniatuur van de Ka'bah"
 #. Node: node17 / Point Hotspot: Point03 / Title
 #. Node: node19 / Point Hotspot: Point03 / Title
 #. Node: node19 / Point Hotspot: Point04 / Title
-#. Node: node22 / Point Hotspot: Point01 / Title
 #. Node: node25 / Point Hotspot: Point02 / Title
+#. Node: node22 / Point Hotspot: Point01 / Title
 msgid "Area Parkir"
 msgstr "Parkeergebied"
 
 #. Node: node5 / User Data Date && Time
 msgid "11/03/2021 17:01"
 msgstr ""
+
+#. Node: node5 / User Data Custom Node ID
+msgid "lemari"
+msgstr ""
+
+#. Node: node5 / Pinned Web Element: Element09 / Code
+msgid "<div id=\"Element03\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr "<div id=\"Element03\" style=\"width: 100%; height: 100%;\"></div>"
 
 #. Node: node5 / Point Hotspot: Point01 / Title
 msgid "Pintu Keluar Depan"
@@ -136,9 +230,33 @@ msgstr "Voorkant Uitgang"
 msgid "Pintu Keluar Samping"
 msgstr "Zij-uitgang"
 
+#. Node: node5 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Mimbar Masjid "
+msgstr "Klik voor informatie <br/>Preekstoel van de Moskee "
+
+#. Node: node5 / Point Hotspot: Point05 / Title
+msgid "Klik untuk informasi <br/>Lemari Mushaf "
+msgstr "Klik voor informatie <br/>Koran Kast "
+
+#. Node: node5 / Point Hotspot: Point06 / Title
+msgid "Klik untuk informasi <br/>Relief Interior "
+msgstr "Klik voor informatie <br/>Interieurreliëfs "
+
+#. Node: node5 / Poly Hotspot: Poly03 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element03');"
+msgstr "javascript:TourEngine.bukaOtomatis('Element03');"
+
 #. Node: node6 / User Data Date && Time
 msgid "11/03/2021 17:03"
 msgstr ""
+
+#. Node: node6 / User Data Custom Node ID
+msgid "peralatan"
+msgstr ""
+
+#. Node: node6 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/>Lemari Peralatan Ibadah"
+msgstr "Klik voor informatie <br/>Kast voor Gebedsuitrusting"
 
 #. Node: node7 / User Data Date && Time
 msgid "11/03/2021 16:49"
@@ -162,6 +280,14 @@ msgstr ""
 #. Node: node9 / User Data Date && Time
 msgid "11/03/2021 16:57"
 msgstr ""
+
+#. Node: node9 / User Data Custom Node ID
+msgid "pohon"
+msgstr ""
+
+#. Node: node9 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/>Pohon Penghijauan"
+msgstr "Klik voor informatie <br/>Vergroeningsboom"
 
 #. Node: node9 / Point Hotspot: Point03 / Title
 msgid "Miniatur Ka'Bah"
@@ -189,10 +315,10 @@ msgstr "Ingang voor het Vrouwengebied"
 #. Node: node19 / User Data Author
 #. Node: node20 / User Data Author
 #. Node: node21 / User Data Author
-#. Node: node22 / User Data Author
 #. Node: node23 / User Data Author
 #. Node: node24 / User Data Author
 #. Node: node25 / User Data Author
+#. Node: node22 / User Data Author
 #. Node: node26 / User Data Author
 #. Node: node27 / User Data Author
 msgid "Govirtual"
@@ -212,13 +338,17 @@ msgstr ""
 #. Node: node19 / User Data Copyright
 #. Node: node20 / User Data Copyright
 #. Node: node21 / User Data Copyright
-#. Node: node22 / User Data Copyright
 #. Node: node23 / User Data Copyright
 #. Node: node24 / User Data Copyright
 #. Node: node25 / User Data Copyright
+#. Node: node22 / User Data Copyright
 #. Node: node26 / User Data Copyright
 #. Node: node27 / User Data Copyright
 msgid "govirtual"
+msgstr ""
+
+#. Node: node12 / User Data Custom Node ID
+msgid "akses"
 msgstr ""
 
 #. Node: node12 / Point Hotspot: Point01 / Title
@@ -233,6 +363,14 @@ msgstr "Kalianda Grand Mosque Park"
 #. Node: node25 / Point Hotspot: Point01 / Title
 msgid "Gerbang Keluar"
 msgstr "Uitgangspoort"
+
+#. Node: node12 / Point Hotspot: Point05 / Title
+msgid "Klik untuk informasi <br/>Akses Disabilitas"
+msgstr "Klik voor informatie <br/>Toegankelijkheid voor Gehandicapten"
+
+#. Node: node12 / Point Hotspot: Point06 / Title
+msgid "Klik untuk informasi <br/>Titik Kumpul"
+msgstr "Klik voor informatie <br/>Verzamelpunt"
 
 #. Node: node13 / User Data Date && Time
 msgid "01/03/2021 19:46"
@@ -279,6 +417,10 @@ msgstr ""
 msgid "TamanAnakBatin"
 msgstr "Batin Kinderpark"
 
+#. Node: node17 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Fasilitas Bermain Anak"
+msgstr "Klik voor informatie <br/>Speelfaciliteiten voor Kinderen"
+
 #. Node: node18 / User Data Date && Time
 msgid "01/03/2021 19:30"
 msgstr ""
@@ -305,15 +447,11 @@ msgid "TkKalianda"
 msgstr ""
 
 #. Node: node21 / Point Hotspot: Point01 / Title
-#. Node: node22 / Point Hotspot: Point02 / Title
 #. Node: node23 / Point Hotspot: Point01 / Title
 #. Node: node24 / Point Hotspot: Point02 / Title
+#. Node: node22 / Point Hotspot: Point02 / Title
 msgid "Area UMKM"
 msgstr "MKB-gebied (KMO-gebied)"
-
-#. Node: node22 / User Data Date && Time
-msgid "01/03/2021 19:16"
-msgstr ""
 
 #. Node: node23 / User Data Date && Time
 msgid "01/03/2021 19:14"
@@ -336,41 +474,87 @@ msgstr "Ingangspoort"
 msgid "01/03/2021 19:05"
 msgstr ""
 
+#. Node: node22 / User Data Date && Time
+msgid "01/03/2021 19:16"
+msgstr ""
+
+#. Node: node22 / User Data Custom Node ID
+msgid "umkm"
+msgstr ""
+
+#. Node: node22 / Pinned Web Element: Element14 / Code
+msgid ""
+"<div class=\"object-info box-vb vr-popup-template\" \n"
+"  id=\"target-popup-13\" \n"
+"  style=\"display: none; width: 100%; height: 100%; position: relative; "
+"pointer-events: auto; border-radius:10px;\">\n"
+" \n"
+"  <img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///"
+"wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" onload=\"var w=this.closest('.vr-"
+"popup-template'), ifr=w.querySelector('.popup-iframe'), "
+"info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-"
+"extra')||'', l=(typeof pano!=='undefined'&&typeof "
+"pano.getLanguage==='function'&&pano.getLanguage())?pano.getLanguage():"
+"(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; "
+"if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else "
+"if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?"
+"obj=217&lang='+sfx; if(ifr.getAttribute('src')!"
+"==url)ifr.setAttribute('src',url);\" style=\"display:none;\" "
+"alt=\"loader\">\n"
+" \n"
+"  <iframe class=\"popup-iframe\" src=\"\" width=\"100%\" style=\"height: "
+"100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-"
+"y: auto; -webkit-overflow-scrolling: touch;\" frameborder=\"0\"></iframe>\n"
+" \n"
+" </div>"
+msgstr ""
+"<div class=\"object-info box-vb vr-popup-template\" \n"
+"  id=\"target-popup-13\" \n"
+"  style=\"display: none; width: 100%; height: 100%; position: relative; "
+"pointer-events: auto; border-radius:10px;\">\n"
+" \n"
+"  <img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///"
+"wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\" onload=\"var w=this.closest('.vr-"
+"popup-template'), ifr=w.querySelector('.popup-iframe'), "
+"info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-"
+"extra')||'', l=(typeof pano!=='undefined'&&typeof "
+"pano.getLanguage==='function'&&pano.getLanguage())?pano.getLanguage():"
+"(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; "
+"if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else "
+"if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?"
+"obj=217&lang='+sfx; if(ifr.getAttribute('src')!"
+"==url)ifr.setAttribute('src',url);\" style=\"display:none;\" "
+"alt=\"loader\">\n"
+" \n"
+"  <iframe class=\"popup-iframe\" src=\"\" width=\"100%\" style=\"height: "
+"100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-"
+"y: auto; -webkit-overflow-scrolling: touch;\" frameborder=\"0\"></iframe>\n"
+" \n"
+" </div>"
+
+#. Node: node22 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Area UMKM"
+msgstr "Klik voor informatie <br/>MKB-gebied"
+
 #. Node: node26 / User Data Date && Time
 msgid "01/03/2021 19:03"
 msgstr ""
+
+#. Node: node26 / User Data Custom Node ID
+msgid "gerbang"
+msgstr "Ingangspoort"
+
+#. Node: node26 / Point Hotspot: Point02 / Title
+msgid "Klik untuk informasi <br/>Gerbang Masuk"
+msgstr "Klik voor informatie <br/>Ingangspoort"
 
 #. Node: node27 / User Data Date && Time
 msgid "01/03/2021 18:49"
 msgstr ""
 
-#. Node: node27 / Point Hotspot: Point01 / Title
+#. Node: node27 / Point Hotspot: Point02 / Title
 msgid "Keluar"
 msgstr "Uitgang"
-
-#. Node: node28 / User Data Title
-msgid "default 2nd"
-msgstr ""
-
-#. Node: node28 / User Data Date && Time
-msgid "02/12/2025 9:27"
-msgstr ""
-
-#. Node: node28 / Point Hotspot: Point03 / Title
-msgid "Pantai Kedu (Est. 8 Menit)"
-msgstr "Kedu Beach (Est. 8 Minuten)"
-
-#. Node: node30 / User Data Title
-msgid "default 3rd"
-msgstr ""
-
-#. Node: node30 / User Data Date && Time
-msgid "02/12/2025 9:22"
-msgstr ""
-
-#. Node: node30 / Point Hotspot: Point03 / Title
-msgid "Pantai Mengkudu (Est. 45 Menit)"
-msgstr "Mengkudu-strand (Geschat: 45 minuten)"
 
 #. Context Menu Default Entry
 msgid "Enter VR"
