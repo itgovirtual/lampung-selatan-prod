@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.12" rev="21036">
+<pano2vrconfig rev="21036" version="7.1.12">
   <tour>
     <panorama>
       <projectsettings>
@@ -206,9 +206,9 @@
             <fov>4</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
+            <pan>-76.2</pan>
+            <tilt>-11.2</tilt>
+            <fov>135.1</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -217,6 +217,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>
+          <target>-76.2/-11.2/135.1</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -235,9 +236,9 @@
             <fov>4</fov>
           </position>
           <next>
-            <pan>5.7</pan>
-            <tilt>-8</tilt>
-            <fov>100</fov>
+            <pan>-61.8</pan>
+            <tilt>-10.8</tilt>
+            <fov>127</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -246,7 +247,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node5}</url>
-          <target>5.7/-8.0/100.0</target>
+          <target>-61.8/-10.8/127.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -309,9 +310,9 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-188.43</pan>
-            <tilt>-31.87</tilt>
-            <fov>4</fov>
+            <pan>-188.65</pan>
+            <tilt>-28.14</tilt>
+            <fov>7</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -763,18 +764,9 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
-        <value id="artmpp.po">true</value>
-        <value id="artmptmph.po">true</value>
         <value id="en.po">true</value>
-        <value id="entmpp.po">true</value>
-        <value id="entmptmph.po">true</value>
         <value id="nl.po">true</value>
-        <value id="nltmpp.po">true</value>
-        <value id="nltmptmph.po">true</value>
         <value id="zh_CN.po">true</value>
-        <value id="zh_CNtmpg.po">true</value>
-        <value id="zh_CNtmph.po">true</value>
-        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>
