@@ -42,14 +42,33 @@ msgid "UMKM Nabila"
 msgstr ""
 
 #. Node: node1 / Point Hotspot: Point03 / Title
-#. Node: node2 / Point Hotspot: Point01 / Title
 #. Node: node5 / Point Hotspot: Point02 / Title
 msgid "Area Toko"
 msgstr "Winkelruimte"
 
+#. Node: node2 / User Data Custom Node ID
+msgid "GaleriBoutique"
+msgstr ""
+
+#. Node: node3 / User Data Custom Node ID
+msgid "StudioJahit"
+msgstr ""
+
+#. Node: node3 / Pinned Web Element: Element05 / Code
+msgid "<div id=\"Element01\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr ""
+
 #. Node: node3 / Point Hotspot: Point02 / Title
 msgid "Souvenir"
 msgstr "Souvenir"
+
+#. Node: node3 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Tas Genggam"
+msgstr "Klik voor informatie <br/>Handtas"
+
+#. Node: node3 / Poly Hotspot: Poly01 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element01');"
+msgstr ""
 
 #. Context Menu Default Entry
 msgid "Enter VR"

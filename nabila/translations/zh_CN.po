@@ -21,6 +21,12 @@ msgstr ""
 msgid "govirtual"
 msgstr ""
 
+#. Node: node4 / User Data Custom Node ID
+#, fuzzy
+#| msgid "UMKM Nabila"
+msgid "UmkmNabila"
+msgstr "纳比拉的中小微企业"
+
 #. Node: node4 / Point Hotspot: Point01 / Title
 #. Node: node2 / Point Hotspot: Point02 / Title
 #. Node: node3 / Point Hotspot: Point03 / Title
@@ -38,14 +44,33 @@ msgid "UMKM Nabila"
 msgstr "纳比拉的中小微企业"
 
 #. Node: node1 / Point Hotspot: Point03 / Title
-#. Node: node2 / Point Hotspot: Point01 / Title
 #. Node: node5 / Point Hotspot: Point02 / Title
 msgid "Area Toko"
 msgstr "商店区域"
 
+#. Node: node2 / User Data Custom Node ID
+msgid "GaleriBoutique"
+msgstr ""
+
+#. Node: node3 / User Data Custom Node ID
+msgid "StudioJahit"
+msgstr ""
+
+#. Node: node3 / Pinned Web Element: Element05 / Code
+msgid "<div id=\"Element01\" style=\"width: 100%; height: 100%;\"></div>"
+msgstr ""
+
 #. Node: node3 / Point Hotspot: Point02 / Title
 msgid "Souvenir"
 msgstr "纪念品"
+
+#. Node: node3 / Point Hotspot: Point04 / Title
+msgid "Klik untuk informasi <br/>Tas Genggam"
+msgstr "点击查看信息 <br/>手提包"
+
+#. Node: node3 / Poly Hotspot: Poly01 / URL
+msgid "javascript:TourEngine.bukaOtomatis('Element01');"
+msgstr ""
 
 #. Context Menu Default Entry
 msgid "Enter VR"

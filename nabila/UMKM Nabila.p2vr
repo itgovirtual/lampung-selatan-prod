@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21036" version="7.1.12">
+<pano2vrconfig version="7.1.12" rev="21036">
   <tour>
     <panorama>
       <projectsettings>
@@ -495,9 +495,9 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-276.02</pan>
-            <tilt>-13.14</tilt>
-            <fov>10</fov>
+            <pan>-289.87</pan>
+            <tilt>-9.26</tilt>
+            <fov>16</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -507,18 +507,41 @@
           <customprops/>
           <polygon/>
           <id>Point04</id>
+          <title>Klik untuk informasi &lt;br/>Tas Genggam</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon5</skinid>
+          <skinid>hotspot_oi_polygon</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>assets/INFOOO.gif</customimage>
-          <urlsafecustomimage>INFOOO.gif</urlsafecustomimage>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>900</width>
-          <height>900</height>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-283.12/13.02|-264.88/18.62|-264.94/-36.47|-285.13/-30.46</polystring>
+            <usedefaultcolor>0</usedefaultcolor>
+            <backgroundcolor>#0000ff,0</backgroundcolor>
+            <bordercolor>#0000ff,0</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
         </hotspot>
       </hotspots>
       <output/>
@@ -528,17 +551,17 @@
       <sounds>
         <sound>
           <position>
-            <pan>-301.76</pan>
-            <tilt>-11.94</tilt>
+            <pan>-312.32</pan>
+            <tilt>-9.69</tilt>
           </position>
           <videorect>
             <rotx>0</rotx>
             <roty>0</roty>
             <rotz>0</rotz>
-            <fov>30</fov>
+            <fov>28</fov>
             <stretch>100</stretch>
-            <dimx>1000</dimx>
-            <dimy>1000</dimy>
+            <dimx>400</dimx>
+            <dimy>600</dimy>
           </videorect>
           <type>webelement</type>
           <id>Element05</id>
@@ -558,7 +581,8 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <permeable>0</permeable>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
+          <permeable>1</permeable>
         </sound>
       </sounds>
       <id>node3</id>
@@ -739,9 +763,18 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
+        <value id="artmpp.po">true</value>
+        <value id="artmptmph.po">true</value>
         <value id="en.po">true</value>
+        <value id="entmpp.po">true</value>
+        <value id="entmptmph.po">true</value>
         <value id="nl.po">true</value>
+        <value id="nltmpp.po">true</value>
+        <value id="nltmptmph.po">true</value>
         <value id="zh_CN.po">true</value>
+        <value id="zh_CNtmpg.po">true</value>
+        <value id="zh_CNtmph.po">true</value>
+        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>
@@ -757,7 +790,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>C:/xampp/htdocs/pano/lampungoi/nabila/index.html</filename>
+          <filename>D:/xampp/htdocs/lampung-output/nabila/index.html</filename>
           <values>
             <value id="cachebust">false</value>
             <value id="css"/>
@@ -786,8 +819,8 @@
         </hotspotstyle>
         <webvr/>
         <tilesize>4030</tilesize>
-        <filename>C:/xampp/htdocs/pano/lampungoi/nabila/pano.xml</filename>
-        <skinfile>$d/lampung-skina.ggsk</skinfile>
+        <filename>D:/xampp/htdocs/lampung-output/nabila/pano.xml</filename>
+        <skinfile>$d/lampung-skin.ggsk</skinfile>
         <leveltileformat>1</leveltileformat>
         <leveltilefilename>tiles/$y/cf_%c/l_%l/c_%x/tile_%y.webp</leveltilefilename>
         <cubefilename>images/$n_o.webp</cubefilename>
