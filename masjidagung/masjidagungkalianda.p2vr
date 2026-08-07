@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21036" version="7.1.12">
+<pano2vrconfig version="7.1.12" rev="21036">
   <tour>
     <panorama>
       <projectsettings>
@@ -807,7 +807,7 @@
           <linksubtype>unknown</linksubtype>
           <url>{node23}</url>
           <target>-93.3/-0.1/130.0</target>
-          <skinid>hotspot-default</skinid>
+          <skinid>hotspot-drone</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -815,8 +815,8 @@
           <customimage>assets/door.png</customimage>
           <urlsafecustomimage>door.png</urlsafecustomimage>
           <use3d>1</use3d>
-          <width>500</width>
-          <height>500</height>
+          <width>100</width>
+          <height>100</height>
         </hotspot>
         <hotspot>
           <position>
@@ -3929,8 +3929,8 @@
             <fov>8</fov>
           </position>
           <next>
-            <pan>-68.6</pan>
-            <tilt>-2.2</tilt>
+            <pan>-125.5</pan>
+            <tilt>-1.8</tilt>
             <fov>130</fov>
           </next>
           <customprops/>
@@ -3940,14 +3940,14 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node20}</url>
-          <target>-68.6/-2.2/130.0</target>
+          <target>-125.5/-1.8/130.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/HOSOT-03.png</customimage>
-          <urlsafecustomimage>HOSOT-03-1.png</urlsafecustomimage>
+          <urlsafecustomimage>HOSOT-03.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -4103,8 +4103,8 @@
             <fov>10</fov>
           </position>
           <next>
-            <pan>-0.5</pan>
-            <tilt>3</tilt>
+            <pan>-34.2</pan>
+            <tilt>2.2</tilt>
             <fov>130</fov>
           </next>
           <customprops/>
@@ -4114,7 +4114,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node21}</url>
-          <target>-0.5/3.0/130.0</target>
+          <target>-34.2/2.2/130.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -4264,9 +4264,9 @@
             <fov>11</fov>
           </position>
           <next>
-            <pan>-99.1</pan>
-            <tilt>0.6</tilt>
-            <fov>130</fov>
+            <pan>-125</pan>
+            <tilt>5.1</tilt>
+            <fov>120.2</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -4275,7 +4275,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node22}</url>
-          <target>-99.1/0.6/130.0</target>
+          <target>-125.0/5.1/120.2</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -4812,8 +4812,8 @@
             <fov>10</fov>
           </position>
           <next>
-            <pan>-0.7</pan>
-            <tilt>4.7</tilt>
+            <pan>-135.4</pan>
+            <tilt>0.5</tilt>
             <fov>130</fov>
           </next>
           <customprops/>
@@ -4823,7 +4823,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node23}</url>
-          <target>-0.7/4.7/130.0</target>
+          <target>-135.4/0.5/130.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -4842,8 +4842,8 @@
             <fov>10</fov>
           </position>
           <next>
-            <pan>-2.4</pan>
-            <tilt>-4</tilt>
+            <pan>49.7</pan>
+            <tilt>-2.8</tilt>
             <fov>114.1</fov>
           </next>
           <customprops/>
@@ -4853,7 +4853,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node21}</url>
-          <target>-2.4/-4.0/114.1</target>
+          <target>49.7/-2.8/114.1</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -4953,15 +4953,7 @@
           <popbackmode>stop</popbackmode>
           <hidepinned>0</hidepinned>
           <handcursor>0</handcursor>
-          <webcontent>&lt;div class="object-info box-vb vr-popup-template" 
-  id="target-popup-13" 
-  style="display: none; width: 100%; height: 100%; position: relative; pointer-events: auto; border-radius:10px;">
- 
-  &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" onload="var w=this.closest('.vr-popup-template'), ifr=w.querySelector('.popup-iframe'), info=w.getAttribute('data-info-id'), extra=w.getAttribute('data-iframe-extra')||'', l=(typeof pano!=='undefined'&amp;&amp;typeof pano.getLanguage==='function'&amp;&amp;pano.getLanguage())?pano.getLanguage():(pano.getVariableValue('lang')||'id'), lLow=l.toLowerCase(), sfx='id'; if(lLow.includes('en'))sfx='en'; else if(lLow.includes('ar'))sfx='sa'; else if(lLow.includes('zh'))sfx='zh'; var url='../webview/object-informasi.html?obj=217&amp;lang='+sfx; if(ifr.getAttribute('src')!==url)ifr.setAttribute('src',url);" style="display:none;" alt="loader">
- 
-  &lt;iframe class="popup-iframe" src="" width="100%" style="height: 100%; min-height: 100%; border-radius: 10px; pointer-events: auto; overflow-y: auto; -webkit-overflow-scrolling: touch;" frameborder="0">&lt;/iframe>
- 
- &lt;/div></webcontent>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
           <permeable>1</permeable>
         </sound>
       </sounds>
@@ -5272,19 +5264,9 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
-        <value id="artmpp.po">true</value>
-        <value id="artmptmph.po">true</value>
         <value id="en.po">true</value>
-        <value id="entmpp.po">true</value>
-        <value id="entmptmph.po">true</value>
         <value id="nl.po">true</value>
-        <value id="nltmpp.po">true</value>
-        <value id="nltmptmpf.po">true</value>
-        <value id="nltmptmph.po">true</value>
         <value id="zh_CN.po">true</value>
-        <value id="zh_CNtmph.po">true</value>
-        <value id="zh_CNtmpl.po">true</value>
-        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>
