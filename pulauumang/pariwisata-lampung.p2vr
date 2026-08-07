@@ -522,13 +522,13 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node120}</url>
-          <skinid>hotspot-default</skinid>
+          <skinid>hotspot-drone</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/drone-133.png</customimage>
-          <urlsafecustomimage>drone-133-1.png</urlsafecustomimage>
+          <urlsafecustomimage>drone-133.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
@@ -776,6 +776,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/HOSOT-03.png</customimage>
+          <urlsafecustomimage>HOSOT-03-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>100</width>
           <height>100</height>
