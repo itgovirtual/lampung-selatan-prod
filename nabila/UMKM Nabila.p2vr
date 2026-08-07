@@ -206,8 +206,8 @@
             <fov>4</fov>
           </position>
           <next>
-            <pan>-76.2</pan>
-            <tilt>-11.2</tilt>
+            <pan>159</pan>
+            <tilt>-22.7</tilt>
             <fov>135.1</fov>
           </next>
           <customprops/>
@@ -217,7 +217,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>
-          <target>-76.2/-11.2/135.1</target>
+          <target>159.0/-22.7/135.1</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -238,7 +238,7 @@
           <next>
             <pan>-61.8</pan>
             <tilt>-10.8</tilt>
-            <fov>127</fov>
+            <fov>158.1</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -247,7 +247,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node5}</url>
-          <target>-61.8/-10.8/127.0</target>
+          <target>-61.8/-10.8/158.1</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -415,7 +415,7 @@
           <next>
             <pan>167</pan>
             <tilt>-15.5</tilt>
-            <fov>100</fov>
+            <fov>148.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -424,7 +424,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>
-          <target>167.0/-15.5/100.0</target>
+          <target>167.0/-15.5/148.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -443,9 +443,9 @@
             <fov>4</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
+            <pan>144.8</pan>
+            <tilt>-7</tilt>
+            <fov>139.3</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -454,6 +454,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node1}</url>
+          <target>144.8/-7.0/139.3</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -686,9 +687,9 @@
             <fov>5</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
+            <pan>29.6</pan>
+            <tilt>-6.1</tilt>
+            <fov>139.3</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -697,6 +698,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node3}</url>
+          <target>29.6/-6.1/139.3</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
