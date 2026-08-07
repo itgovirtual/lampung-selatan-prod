@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21036" version="7.1.12">
+<pano2vrconfig version="7.1.12" rev="21036">
   <tour>
     <start>node26</start>
     <panorama>
@@ -144,7 +144,7 @@
         <capturedatetime>2025-11-20T19:17:24</capturedatetime>
         <tags>MenaraSiger</tags>
         <altitude>-3048</altitude>
-        <customnodeid></customnodeid>
+        <customnodeid/>
         <latitude>-5.86529791</latitude>
         <longitude>105.74976038</longitude>
       </userdata>
@@ -385,17 +385,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>109.734</start>
+          <start>-2.06</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>-10.4838</start>
+          <start>-12.32</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>100</start>
+          <start>101.61</start>
           <max>126</max>
           <minunit>pixels</minunit>
           <maxfovstereographic>330</maxfovstereographic>
@@ -410,7 +410,7 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2026-05-07T11:36:41</defaultviewtimestamp>
+        <defaultviewtimestamp>2026-08-05T15:20:57</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -418,7 +418,7 @@
         <datetime>10/23/2025 3:26 PM</datetime>
         <tags>MenaraSiger</tags>
         <altitude>-3048</altitude>
-        <customnodeid/>
+        <customnodeid>drone</customnodeid>
         <latitude>-5.86529791</latitude>
         <longitude>105.74976038</longitude>
       </userdata>
@@ -455,8 +455,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-1.37</pan>
-            <tilt>-24.22</tilt>
+            <pan>-1.2</pan>
+            <tilt>-30.3</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -569,12 +569,98 @@
           <width>162</width>
           <height>253</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-10.7</pan>
+            <tilt>-11.11</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon/>
+          <id>Point05</id>
+          <title>Klik untuk informasi &lt;br/>Filosofis</title>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <skinid>hotspot_oi_polygon</skinid>
+          <type>point</type>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>assets/baru/line info.png</customimage>
+          <urlsafecustomimage>line info-1.png</urlsafecustomimage>
+          <use3d>1</use3d>
+          <width>237</width>
+          <height>11</height>
+        </hotspot>
+        <hotspot>
+          <position/>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <customprops/>
+          <polygon>
+            <polystring>-0.23/-6.28|-351.85/-10.67|-351.3/-15.72|-9.83/-16.16|-9.09/-9.6</polystring>
+            <usedefaultcolor>1</usedefaultcolor>
+            <backgroundcolor>#0000ff,64</backgroundcolor>
+            <bordercolor>#0000ff</bordercolor>
+          </polygon>
+          <id>Poly01</id>
+          <linktype>url</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
+          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
+          <target>_self</target>
+          <type>poly</type>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-30.41</pan>
+            <tilt>-10.67</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>26</fov>
+            <stretch>101.3</stretch>
+            <dimx>600</dimx>
+            <dimy>400</dimy>
+          </videorect>
+          <type>webelement</type>
+          <id>Element01</id>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>none</clickmode>
+          <popoutscaling>100</popoutscaling>
+          <popbackmode>stop</popbackmode>
+          <hidepinned>0</hidepinned>
+          <handcursor>0</handcursor>
+          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
+          <permeable>1</permeable>
+        </sound>
+      </sounds>
       <id>node16</id>
     </panorama>
     <panorama>
@@ -1480,97 +1566,12 @@
           <width>100</width>
           <height>100</height>
         </hotspot>
-        <hotspot>
-          <position>
-            <pan>-38.05</pan>
-            <tilt>17.84</tilt>
-            <fov>15</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <customprops/>
-          <polygon/>
-          <id>Point03</id>
-          <title>Klik untuk informasi &lt;br/>Filosofis</title>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <skinid>hotspot_oi_polygon</skinid>
-          <type>point</type>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <customimage>assets/baru/line info.png</customimage>
-          <use3d>1</use3d>
-          <width>237</width>
-          <height>11</height>
-        </hotspot>
-        <hotspot>
-          <position/>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <customprops/>
-          <polygon>
-            <polystring>-351.63/48.97|-346.5/38.11|-331.29/25.72|-326.13/13.34|-329.57/5.99|-351.41/21.55|-7.54/22.13|-15.53/17.39|-31.97/6.54|-37.71/19.21|-28.85/28.76|-17.42/33.44|-13.23/40.76|-9.18/49.58</polystring>
-            <usedefaultcolor>1</usedefaultcolor>
-            <backgroundcolor>#0000ff,64</backgroundcolor>
-            <bordercolor>#0000ff</bordercolor>
-          </polygon>
-          <id>Poly01</id>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>javascript:TourEngine.bukaOtomatis('Element01');</url>
-          <safeurl>javascriptTourEngine.bukaotomatis('element01');</safeurl>
-          <target>_self</target>
-          <type>poly</type>
-        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
       <ggloudproject/>
-      <sounds>
-        <sound>
-          <position>
-            <pan>-59.14</pan>
-            <tilt>15.9</tilt>
-          </position>
-          <videorect>
-            <rotx>2.08</rotx>
-            <roty>-21.17</roty>
-            <rotz>9.2</rotz>
-            <fov>23.5</fov>
-            <stretch>101.3</stretch>
-            <dimx>400</dimx>
-            <dimy>600</dimy>
-          </videorect>
-          <type>webelement</type>
-          <id>Element01</id>
-          <mode>0</mode>
-          <nodechangekeep>0</nodechangekeep>
-          <locked>0</locked>
-          <pansize>10</pansize>
-          <tiltsize>10</tiltsize>
-          <fieldsize>90</fieldsize>
-          <ambientlevel>0</ambientlevel>
-          <startmutedmobile>0</startmutedmobile>
-          <level>1</level>
-          <loop>1</loop>
-          <copyfile>1</copyfile>
-          <clickmode>none</clickmode>
-          <popoutscaling>100</popoutscaling>
-          <popbackmode>stop</popbackmode>
-          <hidepinned>0</hidepinned>
-          <handcursor>0</handcursor>
-          <webcontent>&lt;div id="Element01" style="width: 100%; height: 100%;">&lt;/div></webcontent>
-          <permeable>1</permeable>
-        </sound>
-      </sounds>
+      <sounds/>
       <id>node26</id>
     </panorama>
     <panorama>
@@ -3487,18 +3488,9 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
-        <value id="artmpp.po">true</value>
-        <value id="artmptmph.po">true</value>
         <value id="en.po">true</value>
-        <value id="entmpp.po">true</value>
-        <value id="entmptmph.po">true</value>
         <value id="nl.po">true</value>
-        <value id="nltmpp.po">true</value>
-        <value id="nltmptmph.po">true</value>
-        <value id="nltmptmphq.po">true</value>
         <value id="zh_CN.po">true</value>
-        <value id="zh_CNtmph.po">true</value>
-        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>
