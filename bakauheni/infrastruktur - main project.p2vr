@@ -422,7 +422,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/NEW LOKASI-20251208T121002Z-3-001/Pertanian Trimomukti.png</customimage>
-          <urlsafecustomimage>Pertanian Trimomukti-1.png</urlsafecustomimage>
+          <urlsafecustomimage>Pertanian Trimomukti.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>253</height>
@@ -1030,7 +1030,7 @@
           <title>Maju Tambak Sumur (Est. 5 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lampung-selatan.govirtual.id/agriculture/index.html#KampungNelayan</url>
+          <url>https://lampung-selatan.govirtual.id/kampungnelayanketapang/index.html#</url>
           <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1059,7 +1059,7 @@
           <title>Peternakan Juang Jaya (Est. 45 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lampung-selatan.govirtual.id/agriculture/index.html#PeternakanJuangJaya</url>
+          <url>https://lampung-selatan.govirtual.id/ptjuangjaya/index.html#</url>
           <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -1088,8 +1088,8 @@
           <title>Trimomukti Agrikultur (Est. 1 Jam 10 Menit)</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>https://lampung-selatan.govirtual.id/agriculture/index.html#PertanianTrimomukti</url>
-          <skinid>hotspot-link-other_link</skinid>
+          <url>https://lampung-selatan.govirtual.id/trimomukti/index.html#</url>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -3964,7 +3964,6 @@
         <value id="ar.po">ar</value>
         <value id="en.po">en</value>
         <value id="nl.po">nl</value>
-        <value id="nltmptmph.po">nl</value>
         <value id="zh_CN.po">zh-CN</value>
       </translationsavailable>
       <translationsnames>
@@ -3972,7 +3971,6 @@
         <value id="ar.po">العربية</value>
         <value id="en.po">English</value>
         <value id="nl.po">Nederlands</value>
-        <value id="nltmptmph.po">Nederlands</value>
         <value id="zh_CN.po">简体中文</value>
       </translationsnames>
       <translationsenabled>
@@ -3980,7 +3978,6 @@
         <value id="ar.po">true</value>
         <value id="en.po">true</value>
         <value id="nl.po">true</value>
-        <value id="nltmptmph.po">true</value>
         <value id="zh_CN.po">true</value>
       </translationsenabled>
     </projectsettings>
