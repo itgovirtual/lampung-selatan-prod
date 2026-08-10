@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.12" rev="21036">
+<pano2vrconfig rev="21036" version="7.1.12">
   <tour>
     <start>node102</start>
     <panorama>
@@ -2000,9 +2000,9 @@
             <fov>3</fov>
           </position>
           <next>
-            <pan>26.3</pan>
-            <tilt>-1.4</tilt>
-            <fov>100</fov>
+            <pan>-13.9</pan>
+            <tilt>0</tilt>
+            <fov>108.2</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2011,7 +2011,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node86}</url>
-          <target>26.3/-1.4/100.0</target>
+          <target>-13.9/0.0/108.2</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2351,9 +2351,9 @@
             <fov>4</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
+            <pan>-14.8</pan>
+            <tilt>-3.4</tilt>
+            <fov>117.4</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2362,6 +2362,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node93}</url>
+          <target>-14.8/-3.4/117.4</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -2814,9 +2815,9 @@
             <fov>4</fov>
           </position>
           <next>
-            <pan>-19.9</pan>
-            <tilt>-6.6</tilt>
-            <fov>100</fov>
+            <pan>-134.8</pan>
+            <tilt>-4.1</tilt>
+            <fov>126.6</fov>
           </next>
           <customprops/>
           <polygon/>
@@ -2825,7 +2826,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node95}</url>
-          <target>-19.9/-6.6/100.0</target>
+          <target>-134.8/-4.1/126.6</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -3061,8 +3062,8 @@
             <fov>4</fov>
           </position>
           <next>
-            <pan>-8</pan>
-            <tilt>-4</tilt>
+            <pan>174.3</pan>
+            <tilt>-4.2</tilt>
             <fov>100</fov>
           </next>
           <customprops/>
@@ -3072,7 +3073,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node94}</url>
-          <target>-8.0/-4.0/100.0</target>
+          <target>174.3/-4.2/100.0</target>
           <skinid>hotspot-default</skinid>
           <type>point</type>
           <distance>0</distance>
