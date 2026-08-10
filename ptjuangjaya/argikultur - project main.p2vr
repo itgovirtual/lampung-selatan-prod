@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.12" rev="21036">
+<pano2vrconfig rev="21036" version="7.1.12">
   <tour>
     <start>node58</start>
     <panorama>
@@ -608,7 +608,6 @@
           <title>Klik untuk informasi &lt;br/>Truk Pengangkut</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>`</url>
           <skinid>hotspot_oi_polygon2</skinid>
           <type>point</type>
           <distance>0</distance>
@@ -4108,17 +4107,9 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
-        <value id="artmpp.po">true</value>
-        <value id="artmptmph.po">true</value>
         <value id="en.po">true</value>
-        <value id="entmpp.po">true</value>
-        <value id="entmptmph.po">true</value>
         <value id="nl.po">true</value>
-        <value id="nltmpp.po">true</value>
-        <value id="nltmptmph.po">true</value>
         <value id="zh_CN.po">true</value>
-        <value id="zh_CNtmph.po">true</value>
-        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>
