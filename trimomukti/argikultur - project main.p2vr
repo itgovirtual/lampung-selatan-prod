@@ -548,37 +548,6 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-227.86</pan>
-            <tilt>5.33</tilt>
-            <fov>8</fov>
-          </position>
-          <next>
-            <pan>-175.4</pan>
-            <tilt>-5.3</tilt>
-            <fov>100</fov>
-          </next>
-          <customprops/>
-          <polygon/>
-          <id>Point05</id>
-          <title>Pelabuhan Bakauheni (Est. 1 Jam)</title>
-          <linktype>url</linktype>
-          <linksubtype>videofile</linksubtype>
-          <url>https://lampung-selatan.govirtual.id/infrastructure/index.html#Bakauheni</url>
-          <safeurl>index.html#b</safeurl>
-          <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other_1</skinid>
-          <type>point</type>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <customimage>assets/Pelabuhan Bakauheni.png</customimage>
-          <urlsafecustomimage>Pelabuhan Bakauheni.png</urlsafecustomimage>
-          <use3d>1</use3d>
-          <width>162</width>
-          <height>253</height>
-        </hotspot>
-        <hotspot>
-          <position>
             <pan>-107.75</pan>
             <tilt>5.57</tilt>
             <fov>8</fov>
@@ -1440,7 +1409,7 @@
           <url>https://lampung-selatan.govirtual.id/margalegun</url>
           <safeurl>index.html#b</safeurl>
           <target>-175.4/-5.3/100.0</target>
-          <skinid>hotspot-link-other_link</skinid>
+          <skinid>hotspot-link-other_1</skinid>
           <type>point</type>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -1835,7 +1804,6 @@
       <translationsavailable>
         <value id="Project">id-ID</value>
         <value id="ar.po">ar</value>
-        <value id="artmptmph.po">ar</value>
         <value id="en.po">en</value>
         <value id="nl.po">nl</value>
         <value id="zh_CN.po">zh-CN</value>
@@ -1843,7 +1811,6 @@
       <translationsnames>
         <value id="Project">Indonesia</value>
         <value id="ar.po">العربية</value>
-        <value id="artmptmph.po">العربية</value>
         <value id="en.po">English</value>
         <value id="nl.po">Nederlands</value>
         <value id="zh_CN.po">简体中文</value>
@@ -1851,7 +1818,6 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
-        <value id="artmptmph.po">true</value>
         <value id="en.po">true</value>
         <value id="nl.po">true</value>
         <value id="zh_CN.po">true</value>
