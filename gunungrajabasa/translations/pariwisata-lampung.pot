@@ -384,8 +384,16 @@ msgstr ""
 msgid "Masjid Agung Kalianda (Est. 30 Menit)"
 msgstr ""
 
+#. Node: node219 / Point Hotspot: Point02 / URL
+msgid "https://lampung-selatan.govirtual.id/masjidagung/index.html#"
+msgstr ""
+
 #. Node: node219 / Point Hotspot: Point03 / Title
 msgid "Pulau Mengkudu (Est. 1 Jam)"
+msgstr ""
+
+#. Node: node219 / Point Hotspot: Point03 / URL
+msgid "https://lampung-selatan.govirtual.id/pulaumengkudu/index.html#"
 msgstr ""
 
 #. Node: node219 / Point Hotspot: Point05 / Title
@@ -398,6 +406,10 @@ msgstr ""
 
 #. Node: node219 / Point Hotspot: Point07 / Title
 msgid "Menara Siger (Est.1 Jam)"
+msgstr ""
+
+#. Node: node219 / Point Hotspot: Point07 / URL
+msgid "https://lampung-selatan.govirtual.id/menarasiger/index.html#"
 msgstr ""
 
 #. Context Menu Default Entry
