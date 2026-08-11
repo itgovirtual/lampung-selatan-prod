@@ -3881,6 +3881,7 @@
           <linksubtype>unknown</linksubtype>
           <url>javascript:TourEngine.bukaOtomatis('Element02');</url>
           <safeurl>javascriptTourEngine.bukaotomatis('element02');</safeurl>
+          <target>_self</target>
           <type>poly</type>
         </hotspot>
       </hotspots>
