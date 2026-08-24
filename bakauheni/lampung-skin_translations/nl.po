@@ -17,63 +17,19 @@ msgstr "start"
 
 #. Skin Variable: link / Initial Value
 msgid "bakauheni"
-msgstr "bakauheni-nl"
-
-#. Skin Variable: lokasi / Initial Value
-#, fuzzy
-#| msgid "Pelabuhan<br>Bakauheni"
-msgid "Pelabuhan Bakauheni"
-msgstr "Haven van<br>Bakauheni-nl"
+msgstr "bakauheni"
 
 #. Skin Element Text: Assistant Text / Text
-msgid "More\n"
-msgstr "Meer\n"
-
-#. Skin Element Text: Back umum / Text
-msgid "Back"
-msgstr "Terug"
-
-#. Skin Element: Backdrop Opening / Set Variable Value Action (Variable Name: VB) / Text
-#. Skin Element: Berhenti / Set Variable Value Action (Variable Name: VB) / Text
-#. Skin Element: Berhenti Mobile / Set Variable Value Action (Variable Name: VB) / Text
-#. Skin Element: No / Set Variable Value Action (Variable Name: VB) / Text
-#. Skin Element: No Mobile / Set Variable Value Action (Variable Name: VB) / Text
-#. Skin Element: Skip Mobile / Set Variable Value Action (Variable Name: VB) / Text
-#. Skin Element: close-button-welcome / Set Variable Value Action (Variable Name: VB) / Text
-msgid "skip"
-msgstr "skip"
-
-#. Skin Element External: Closing vd / URL
-msgid "assets/closing.png"
-msgstr "assets/closing.png"
-
-#. Skin Element Text: Desc 2 / Text
-#. Skin Element Text: Desc 2 Mobile / Text
-msgid "Pilihan fitur untuk memilih lokasi lain yang ingin anda pandu oleh kami"
-msgstr "Functieoptie om een andere locatie te kiezen waar u door ons rondgeleid wilt worden"
-
-#. Skin Element Text: Desc 3 / Text
-#. Skin Element Text: Desc Mobile / Text
 msgid ""
-"Pilihan fitur untuk berhenti memakai pemandu tour dan kembali menjelajah dengan bebas"
-msgstr "Functieoptie om te stoppen met de gids en weer vrij te gaan verkennen"
+"More\n"
+""
+msgstr ""
+"Meer\n"
+""
 
 #. Skin Element Text: Enable Audio? / Text
 msgid "Enable Audio?"
 msgstr "Audio inschakelen?"
-
-#. Skin Element Text: Informasi-text / Text
-#, fuzzy
-#| msgid "Informasi"
-msgid "Informasi\n"
-msgstr "Informatie\n"
-
-#. Skin Element Text: Jelajah-text / Text
-#. Skin Element Text: Text Discover / Text
-#, fuzzy
-#| msgid "Jelajahi"
-msgid "Jelajah"
-msgstr "Verkennen"
 
 #. Skin Element Text: Menu Tezt / Text
 #. Skin Element Text: Text Menu / Text
@@ -84,124 +40,29 @@ msgstr "Menu"
 msgid "NO"
 msgstr "NEE"
 
-#. Skin Element Text: Next umum / Text
-msgid "Next"
-msgstr "Volgende"
-
-#. Skin Element Text: No / Text
-#. Skin Element Text: No Mobile / Text
-msgid "Explore Virtual Tour"
-msgstr "Virtuele tour verkennen"
-
-#. Skin Element Text: Shop-text / Text
-msgid "Shop"
-msgstr "Winkel"
-
-#. Skin Element Text: Skip Mobile / Text
-#. Skin Element Button: skip-button_1 / Alternate Text
-msgid "Skip"
-msgstr "Overslaan"
-
-#. Skin Element Text: Start / Text
-#. Skin Element Text: Start Mobile / Text
-msgid "Start Virtual Buddy"
-msgstr "Start virtuele gids"
-
-#. Skin Element: Start / Set Variable Value Action (Variable Name: VB) / Text
-#. Skin Element: Start Mobile / Set Variable Value Action (Variable Name: VB) / Text
-msgid "show"
-msgstr "show"
-
-#. Skin Element Text: Text 1 / Text
-#. Skin Element Text: Text 1_1 / Text
-msgid ""
-"Selamat datang! Saya akan menjadi pemandu virtual Anda di sini. Kita akan melihat setiap "
-"sudut lokasi ini untuk menemukan berbagai informasi serta detail menarik di setiap area "
-"yang Anda kunjungi."
-msgstr ""
-"Welkom! Ik zal hier uw virtuele gids zijn. We bekijken elke hoek van deze locatie om "
-"diverse informatie en interessante details te ontdekken in elk gebied dat u bezoekt."
-
 #. Skin Element Text: Text 2 / Text
 msgid "X"
 msgstr "X"
+
+#. Skin Element Text: Text Discover / Text
+msgid "Jelajah"
+msgstr "Verkennen"
 
 #. Skin Element Text: Text Info / Text
 msgid "Informasi"
 msgstr "Informatie"
 
+#. Skin Element Text: Text Menu_1 / Text
+msgid "Tata Ruang"
+msgstr "Tata Ruang"
+
 #. Skin Element Text: Text Public / Text
 msgid "Layanan Publik"
 msgstr "Openbare dienst"
 
-#. Skin Element Text: Title 2 / Text
-#. Skin Element Text: Title 2 Mobile / Text
-msgid "Tour Selanjutnya"
-msgstr "Volgende tour"
-
-#. Skin Element Text: Title 3 / Text
-#. Skin Element Text: Title 3 Mobile / Text
-msgid "Tour Mandiri"
-msgstr "Zelfstandige tour"
-
-#. Skin Element External: Vidy / URL
-#. Skin Element External: Vidy Mobile / URL
-msgid "assets/avatar-cepet.png"
-msgstr "assets/avatar-cepet.png"
-
 #. Skin Element Text: YES / Text
 msgid "YES"
 msgstr "JA"
-
-#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-discover) / Text
-#, fuzzy
-#| msgid ""
-#| "<iframe src=\"../webview/discover.html?disc=7&lang=id\"\n"
-#| "width=\"100%\";\n"
-#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-#| "frameborder=\"0\"></iframe>"
-msgid ""
-"<iframe src=\"../webview/discover.html?disc=%1&lang=id\" width=\"100%\" ; style=\"height: "
-"100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/discover-nl.html?disc=%1\" width=\"100%\" ; style=\"height: "
-"100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
-
-#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-informasi) / Text
-msgid ""
-"<iframe src=\"../webview/informasi.html?info=%1&amp;lang=id\" width=\"100%\" ;=\"\" "
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/informasi.html?info=%1&amp;lang=nl\" width=\"100%\" ;=\"\" "
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
-
-#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url) / Text
-#, fuzzy
-#| msgid ""
-#| "<iframe src=\"../webview/kategori-id.html\"\n"
-#| "width=\"100%\";\n"
-#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-#| "frameborder=\"0\"></iframe>"
-msgid ""
-"<iframe src=\"../webview/kategori-id.html\" width=\"100%\" ;=\"\" style=\"height: 100%; "
-"min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/kategori-nl.html\" width=\"100%\" ;=\"\" style=\"height: 100%; "
-"min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
-
-#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-menu) / Text
-#, fuzzy
-#| msgid ""
-#| "<iframe src=\"../webview/kategori-id.html\"\n"
-#| "width=\"100%\";\n"
-#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-#| "frameborder=\"0\"></iframe>"
-msgid ""
-"<iframe src=\"../webview/menu.html\" width=\"100%\" ;=\"\" style=\"height: 100%; min-"
-"height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/menu-nl.html\" width=\"100%\" ;=\"\" style=\"height: 100%; min-"
-"height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
 
 #. Skin Element External: ht_node_custom_image / URL
 #. Skin Element External: ht_url_custom_image / URL
@@ -224,38 +85,12 @@ msgstr ""
 "    frameborder=\"0\"\n"
 "></iframe>"
 
-#. Skin Element Text: text 2 / Text
-#. Skin Element Text: text 2 Mobile / Text
-msgid "Next Journey"
-msgstr "Volgende reis"
-
-#. Skin Element Text: text 3 / Text
-#. Skin Element Text: text 3 Mobile / Text
-msgid "Berhenti"
-msgstr "Stoppen"
+#. Skin Element Button: skip-button_1 / Alternate Text
+msgid "Skip"
+msgstr "Overslaan"
 
 #. Skin Element Text: txt-chatbot / Text
 #. Skin Element Text: txt-chatbot-mobile / Text
 msgid "Chatbot"
 msgstr "Chatbot"
 
-#. Skin Element Text: txt-welcome / Text
-msgid ""
-"Selamat datang di Pelabuhan Bakauheni, gerbang utama Pulau Sumatra di ujung selatan "
-"Lampung! Sebagai pelabuhan penyeberangan terbesar di Indonesia, Bakauheni menghubungkan "
-"Pulau Sumatra dan Pulau Jawa melalui Selat Sunda. Dikelilingi panorama laut yang indah, "
-"pelabuhan ini menjadi titik penting bagi wisatawan, logistik, dan transportasi nasional. "
-"Dengan fasilitas modern, dermaga megah, serta area istirahat yang nyaman, Bakauheni kini "
-"juga berkembang sebagai destinasi wisata maritim.Nikmati pemandangan Menara Siger yang "
-"ikonik dari kejauhan dan suasana pelabuhan yang dinamis. Pelabuhan Bakauheni bukan hanya "
-"pintu perjalanan, tetapi juga simbol konektivitas dan kemajuan Lampung Selatan!"
-msgstr ""
-"Welkom bij de Bakauheni Port-nl, de belangrijkste toegangspoort tot het eiland Sumatra in "
-"het uiterste zuiden van Lampung! Als de grootste veerhaven van Indonesië verbindt "
-"Bakauheni het eiland Sumatra met het eiland Java via de Straat van Soenda. Omringd door "
-"een prachtig zeezicht is deze haven een belangrijk knooppunt voor toerisme, logistiek en "
-"nationaal transport. Met moderne faciliteiten, indrukwekkende pieren en comfortabele "
-"rustgebieden ontwikkelt Bakauheni zich ook als maritieme toeristische bestemming. Geniet "
-"van het iconische uitzicht op de Siger Tower in de verte en van de dynamische havensfeer. "
-"Bakauheni Port-nl is niet alleen een reispoort, maar ook een symbool van connectiviteit "
-"en vooruitgang in Zuid-Lampung!"
