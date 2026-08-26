@@ -15,200 +15,62 @@ msgstr ""
 msgid "start"
 msgstr "start"
 
+#. Skin Variable: drone / Initial Value
+msgid "drone"
+msgstr ""
+
 #. Skin Variable: link / Initial Value
-msgid "bandaraudara"
-msgstr "bandaraudara"
-
-#. Skin Variable: lokasi / Initial Value
-#, fuzzy
-#| msgid "Bandar Udara Internasional <br>Radin Inten II"
-msgid "Bandar Udara International<br>Raden Inten II"
-msgstr "مطار رادين إنتن الثاني<br>الدولي"
-
-#. Skin Element Text: Assistant Text / Text
-msgid "More\n"
-msgstr "المزيد\n"
-
-#. Skin Element Text: Back umum / Text
-msgid "Back"
-msgstr "رجوع"
-
-#. Skin Element: Backdrop Opening / Set Variable Value Action (Variable Name: VB) / Text
-#. Skin Element: Berhenti / Set Variable Value Action (Variable Name: VB) / Text
-#. Skin Element: Berhenti Mobile / Set Variable Value Action (Variable Name: VB) / Text
-#. Skin Element: No / Set Variable Value Action (Variable Name: VB) / Text
-#. Skin Element: No Mobile / Set Variable Value Action (Variable Name: VB) / Text
-#. Skin Element: Skip Mobile / Set Variable Value Action (Variable Name: VB) / Text
-#. Skin Element: close-button-welcome / Set Variable Value Action (Variable Name: VB) / Text
-msgid "skip"
-msgstr "skip"
-
-#. Skin Element External: Closing vd / URL
-msgid "assets/closing.png"
-msgstr "assets/closing.png"
-
-#. Skin Element Text: Desc 2 / Text
-#. Skin Element Text: Desc 2 Mobile / Text
-msgid "Pilihan fitur untuk memilih lokasi lain yang ingin anda pandu oleh kami"
-msgstr "خيار الميزة لاختيار موقع آخر ترغب في أن نقوم بإرشادك إليه"
-
-#. Skin Element Text: Desc 3 / Text
-#. Skin Element Text: Desc Mobile / Text
-msgid ""
-"Pilihan fitur untuk berhenti memakai pemandu tour dan kembali menjelajah "
-"dengan bebas"
-msgstr "خيار الميزة للتوقف عن استخدام مرشد الجولة والعودة إلى الاستكشاف بحرية"
+msgid "bandarudara"
+msgstr "bandarudara"
 
 #. Skin Element Text: Enable Audio? / Text
 msgid "Enable Audio?"
 msgstr "تفعيل الصوت؟"
 
-#. Skin Element Text: Informasi-text / Text
-#, fuzzy
-#| msgid "Informasi"
-msgid "Informasi\n"
-msgstr "معلومات\n"
-
-#. Skin Element Text: Jelajah-text / Text
-#. Skin Element Text: Text Discover / Text
-#, fuzzy
-#| msgid "Jelajahi"
-msgid "Jelajah"
-msgstr "استكشف"
-
-#. Skin Element Text: Menu Tezt / Text
-#. Skin Element Text: Text Menu / Text
-msgid "Menu"
-msgstr "القائمة"
+#. Skin Element Text: Lampung Selatan / Text
+#. Skin Element Text: Lampung Selatan_1 / Text
+msgid "LAMPUNG SELATAN"
+msgstr ""
 
 #. Skin Element Text: NO / Text
 msgid "NO"
 msgstr "لا"
 
-#. Skin Element Text: Next umum / Text
-msgid "Next"
-msgstr "التالي"
-
-#. Skin Element Text: No / Text
-#. Skin Element Text: No Mobile / Text
-msgid "Explore Virtual Tour"
-msgstr "استكشاف الجولة الافتراضية"
-
-#. Skin Element Text: Shop-text / Text
-msgid "Shop"
-msgstr "متجر"
-
-#. Skin Element Text: Skip Mobile / Text
-#. Skin Element Button: skip-button_1 / Alternate Text
-msgid "Skip"
-msgstr "تخطي"
-
-#. Skin Element Text: Start / Text
-#. Skin Element Text: Start Mobile / Text
-msgid "Start Virtual Buddy"
-msgstr "بدء الرفيق الافتراضي"
-
-#. Skin Element: Start / Set Variable Value Action (Variable Name: VB) / Text
-#. Skin Element: Start Mobile / Set Variable Value Action (Variable Name: VB) / Text
-msgid "show"
-msgstr "show"
-
 #. Skin Element Text: Text 1 / Text
-#. Skin Element Text: Text 1_1 / Text
-msgid ""
-"Selamat datang! Saya akan menjadi pemandu virtual Anda di sini. Kita akan "
-"melihat setiap sudut lokasi ini untuk menemukan berbagai informasi serta "
-"detail menarik di setiap area yang Anda kunjungi."
-msgstr ""
-"أهلاً بك! سأكون دليلك الافتراضي هنا. سنقوم باستعراض كل ركن من أركان هذا المكان "
-"للعثور على مختلف المعلومات والتفاصيل المثيرة للاهتمام في كل منطقة تزورها."
+msgid "Drone"
+msgstr "بدون طيار"
 
-#. Skin Element Text: Text 2 / Text
-msgid "X"
-msgstr "X"
+#. Skin Element Text: Text Discover / Text
+msgid "Jelajah"
+msgstr "استكشف"
 
 #. Skin Element Text: Text Info / Text
 msgid "Informasi"
 msgstr "معلومات"
 
+#. Skin Element Text: Text Menu / Text
+msgid "Menu"
+msgstr "القائمة"
+
+#. Skin Element Text: Text Menu_1 / Text
+msgid "Tata Ruang"
+msgstr "تاتا روانج"
+
+#. Skin Element Text: Text Menu_12 / Text
+msgid "Peta"
+msgstr "بيتا"
+
 #. Skin Element Text: Text Public / Text
 msgid "Layanan Publik"
 msgstr "الخدمة العامة"
 
-#. Skin Element Text: Title 2 / Text
-#. Skin Element Text: Title 2 Mobile / Text
-msgid "Tour Selanjutnya"
-msgstr "الجولة التالية"
-
-#. Skin Element Text: Title 3 / Text
-#. Skin Element Text: Title 3 Mobile / Text
-msgid "Tour Mandiri"
-msgstr "جولة ذاتية"
-
-#. Skin Element External: Vidy / URL
-#. Skin Element External: Vidy Mobile / URL
-msgid "assets/avatar-cepet.png"
-msgstr "assets/avatar-cepet.png"
+#. Skin Element Text: Text bottom / Text
+msgid "<iframe src=\"%1\" width=\"100%\" ; style=\"height: 100%; min-height: 100%;\" frameborder=\"0\"></iframe> "
+msgstr "<iframe src=\"%1\" width=\"100%\" ; style=\"height: 100%; min-height: 100%;\" frameborder=\"0\"></iframe> "
 
 #. Skin Element Text: YES / Text
 msgid "YES"
 msgstr "نعم"
-
-#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-discover) / Text
-#, fuzzy
-#| msgid ""
-#| "<iframe src=\"../webview/discover.html?disc=6&lang=id\"\n"
-#| "width=\"100%\";\n"
-#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-#| "frameborder=\"0\"></iframe>"
-msgid ""
-"<iframe src=\"../webview/discover.html?disc=%1&lang=id\" width=\"100%\" ; "
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/discover-sa.html?disc=%1\" width=\"100%\" ; "
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
-"frameborder=\"0\"></iframe>"
-
-#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-informasi) / Text
-msgid ""
-"<iframe src=\"../webview/informasi.html?info=%1&amp;lang=id\" width=\"100%"
-"\" ;=\"\" style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/informasi.html?info=%1&amp;lang=ar\" width=\"100%"
-"\" ;=\"\" style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
-"frameborder=\"0\"></iframe>"
-
-#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url) / Text
-#, fuzzy
-#| msgid ""
-#| "<iframe src=\"../webview/kategori-id.html\"\n"
-#| "width=\"100%\";\n"
-#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-#| "frameborder=\"0\"></iframe>"
-msgid ""
-"<iframe src=\"../webview/kategori-id.html\" width=\"100%\" ;=\"\" "
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
-"frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/kategori-sa.html\" width=\"100%\" ;=\"\" "
-"style=\"height: 100%; min-height: 100%; border-radius:10px;\" "
-"frameborder=\"0\"></iframe>"
-
-#. Skin Element: close-button-welcome / Set Value Action (Target Element: popup_url-menu) / Text
-#, fuzzy
-#| msgid ""
-#| "<iframe src=\"../webview/kategori-id.html\"\n"
-#| "width=\"100%\";\n"
-#| "style=\"height: 100%; min-height: 100%; border-radius:10px;\"\n"
-#| "frameborder=\"0\"></iframe>"
-msgid ""
-"<iframe src=\"../webview/menu.html\" width=\"100%\" ;=\"\" style=\"height: "
-"100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
-msgstr ""
-"<iframe src=\"../webview/menu-sa.html\" width=\"100%\" ;=\"\" style=\"height: "
-"100%; min-height: 100%; border-radius:10px;\" frameborder=\"0\"></iframe>"
 
 #. Skin Element External: ht_node_custom_image / URL
 #. Skin Element External: ht_url_custom_image / URL
@@ -218,53 +80,24 @@ msgstr "_custom"
 #. Skin Element Text: popup-chatbot / Text
 msgid ""
 "  <iframe\n"
-"    src=\"https://www.chatbase.co/chatbot-iframe/ld0-XDhWz-2tI29Pd2JeU\"\n"
+"    src=\"%1\"\n"
 "    width=\"100%\"\n"
 "    style=\"height: 100%; min-height: 100%;\"\n"
 "    frameborder=\"0\"\n"
 "></iframe>"
 msgstr ""
 "  <iframe\n"
-"    src=\"https://www.chatbase.co/chatbot-iframe/ld0-XDhWz-2tI29Pd2JeU\"\n"
+"    src=\"%1\"\n"
 "    width=\"100%\"\n"
 "    style=\"height: 100%; min-height: 100%;\"\n"
 "    frameborder=\"0\"\n"
 "></iframe>"
 
-#. Skin Element Text: text 2 / Text
-#. Skin Element Text: text 2 Mobile / Text
-msgid "Next Journey"
-msgstr "الرحلة التالية"
-
-#. Skin Element Text: text 3 / Text
-#. Skin Element Text: text 3 Mobile / Text
-msgid "Berhenti"
-msgstr "توقف"
+#. Skin Element Button: skip-button_1 / Alternate Text
+msgid "Skip"
+msgstr "تخطي"
 
 #. Skin Element Text: txt-chatbot / Text
-#. Skin Element Text: txt-chatbot-mobile / Text
 msgid "Chatbot"
 msgstr "روبوت المحادثة"
 
-#. Skin Element Text: txt-welcome / Text
-msgid ""
-"Selamat datang di Bandar Udara Internasional Radin Inten II, gerbang utama "
-"menuju Provinsi Lampung! Terletak di Branti, Natar, sekitar 28 km dari Kota "
-"Bandar Lampung, bandara ini menjadi pusat konektivitas udara bagi wisatawan "
-"domestik maupun internasional. Dengan desain modern berpadu sentuhan budaya "
-"Lampung seperti motif tapis dan siger, bandara ini menghadirkan suasana hangat "
-"khas daerah. Nikmati fasilitas lengkap seperti lounge nyaman, area kuliner, "
-"dan layanan transportasi menuju berbagai destinasi wisata di Lampung. Radin "
-"Inten II Airport bukan sekadar bandara, tetapi pintu awal perjalanan Anda "
-"menjelajahi keindahan dan kekayaan budaya Lampung!"
-msgstr ""
-"مرحبًا بكم في مطار رادين إنتين الدولي الثاني، البوابة الرئيسية إلى مقاطعة "
-"لامبونغ!\n"
-" يقع في برانتي، ناتار، على بُعد حوالي 28 كم من مدينة باندار لامبونغ، ويُعد مركزًا "
-"رئيسيًا للمسافرين المحليين والدوليين.\n"
-" يجمع المطار بين التصميم الحديث واللمسات الثقافية اللامبونغية مثل نقوش تابيس "
-"وتاج سيجر التقليدي، مما يمنح الزوار ترحيبًا دافئًا بروح المنطقة.\n"
-" يضم المطار مرافق متكاملة تشمل صالات مريحة، ومنطقة طعام، وخدمات نقل إلى وجهات "
-"السياحة الرئيسية في لامبونغ.\n"
-" إن مطار رادين إنتين الدولي الثاني ليس مجرد مطار، بل هو بداية رحلتكم لاكتشاف "
-"جمال وثقافة لامبونغ!"
