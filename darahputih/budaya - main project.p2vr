@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="21036" version="7.1.12">
+<pano2vrconfig version="7.1.12" rev="21036">
   <tour>
     <panorama>
       <id>node2</id>
@@ -417,6 +417,8 @@
         <tags>LambanBalakKeratuanDarahPutih</tags>
         <latitude>-5.73500366</latitude>
         <longitude>105.66188378</longitude>
+        <altitude>-3048</altitude>
+        <customnodeid>drone</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -1734,7 +1736,6 @@
       <translationsavailable>
         <value id="Project">id-ID</value>
         <value id="ar.po">ar</value>
-        <value id="artmptmph.po">ar</value>
         <value id="en.po">en</value>
         <value id="nl.po">nl</value>
         <value id="zh_CN.po">zh-CN</value>
@@ -1742,7 +1743,6 @@
       <translationsnames>
         <value id="Project">Indonesia</value>
         <value id="ar.po">العربية</value>
-        <value id="artmptmph.po">العربية</value>
         <value id="en.po">English</value>
         <value id="nl.po">Nederlands</value>
         <value id="zh_CN.po">简体中文</value>
@@ -1750,8 +1750,6 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
-        <value id="artmpp.po">true</value>
-        <value id="artmptmph.po">true</value>
         <value id="en.po">true</value>
         <value id="nl.po">true</value>
         <value id="zh_CN.po">true</value>
