@@ -484,14 +484,34 @@
         <startonload>0</startonload>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
+        <pan>
+          <start>8.93</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-23.39</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
         <fov>
           <minunit>pixels</minunit>
           <minpixels>2</minpixels>
+          <start>127.92</start>
+          <max>140</max>
+          <maxfovstereographic>330</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
         </fov>
-        <flyinstart/>
+        <flyinstart>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2026-08-27T10:35:03</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <customprops/>
@@ -537,7 +557,7 @@
           <position>
             <pan>-32.72</pan>
             <tilt>3.35</tilt>
-            <fov>5.32</fov>
+            <fov>9.32</fov>
           </position>
           <next>
             <pan>0</pan>
@@ -558,7 +578,7 @@
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
           <customimage>assets/Menara Siger.png</customimage>
-          <urlsafecustomimage>Menara Siger.png</urlsafecustomimage>
+          <urlsafecustomimage>Menara Siger-1.png</urlsafecustomimage>
           <use3d>1</use3d>
           <width>162</width>
           <height>253</height>
