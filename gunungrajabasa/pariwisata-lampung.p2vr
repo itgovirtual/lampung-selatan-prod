@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="7.1.12" rev="21036">
+<pano2vrconfig rev="21036" version="7.1.12">
   <tour>
     <start>node176</start>
     <panorama>
@@ -3840,7 +3840,7 @@
         <title>Rajabasa Drone Default</title>
         <datetime>12/3/2025 10:01 AM</datetime>
         <tags>rajabasa</tags>
-        <customnodeid/>
+        <customnodeid>drone</customnodeid>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -4103,17 +4103,9 @@
       <translationsenabled>
         <value id="Project">true</value>
         <value id="ar.po">true</value>
-        <value id="artmpp.po">true</value>
-        <value id="artmptmph.po">true</value>
         <value id="en.po">true</value>
-        <value id="entmpp.po">true</value>
-        <value id="entmptmph.po">true</value>
         <value id="nl.po">true</value>
-        <value id="nltmpp.po">true</value>
-        <value id="nltmptmph.po">true</value>
         <value id="zh_CN.po">true</value>
-        <value id="zh_CNtmph.po">true</value>
-        <value id="zh_CNtmpp.po">true</value>
       </translationsenabled>
     </projectsettings>
     <floorplans>
