@@ -16,10 +16,8 @@ msgid "start"
 msgstr ""
 
 #. Skin Variable: link / Initial Value
-#, fuzzy
-#| msgid "Menara <br> Siger"
 msgid "menarasiger"
-msgstr "Siger <br> Tower"
+msgstr ""
 
 #. Skin Variable: lokasi / Initial Value
 #, fuzzy
